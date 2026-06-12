@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Main Menu :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/main-menu/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/main-menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16. Création du menu principal, optimisation finale et export du jeu (Packaging)</title>
+      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-16/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-16/index.html</guid>
+      <description>Nous y sommes ! Après quinze épisodes passés à bâtir notre gameplay, façonner notre monstre, sculpter notre forêt et peaufiner l’ambiance sonore, il est temps de poser la dernière pierre à l’édifice. Dans cet épisode final de la série Kawaii Slender, nous créons l’écran de titre (Menu Principal) et passons à la compilation définitive (Packaging) de notre projet afin de générer un build autonome (exécutable .exe) prêt à être partagé et testé par vos proches.</description>
+    </item>
+  </channel>
+</rss>

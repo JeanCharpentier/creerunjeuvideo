@@ -1,15 +1,12 @@
 ---
-title: "Partie 3 : Gestion des Overlaps et Interdiction de Placement"
+title: "3. Gestion des Overlaps et Interdiction de Placement"
 date: 2026-06-12
 category: Archive
-tags:
-  - Unreal Engine
-  - Blueprints
-  - Game Design
-  - Tutoriel
+weight: 3
+tags: [Unreal Engine 5, Build, Blueprint, Input System, Audio, Game Design]
 
-prev_url: "/unreal-engine-5/systeme-construction/cours-2/"
-next_url: "/unreal-engine-5/systeme-construction/cours-4/"
+prev_url: "/unreal-engine-5/systeme-construction/2-raytracing-raycasting-blocs-poser"
+next_url: "/unreal-engine-5/systeme-construction/4-selection-objets-molette-destruction"
 ---
 
 Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.

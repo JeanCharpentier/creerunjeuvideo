@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/audio/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2. Personnage, Ambiance Creepy et Configuration Clavier</title>
+      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-02/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-02/index.html</guid>
+      <description>Résumé des notions clés Dans ce deuxième volet de la série Kawaii Slender, nous plongeons directement dans l’ajustement de l’ambiance et la personnalisation de notre prototype. Ce tutoriel se concentre sur l’exploitation des fonctionnalités natives du template et l’immersion sensorielle :</description>
+    </item>
+  </channel>
+</rss>

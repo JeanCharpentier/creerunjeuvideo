@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unreal Engine 5 :: Créer un jeu vidéo</title>
+    <title>Tutoriels Unreal Engine 5 :: Créer un jeu vidéo</title>
     <link>http://localhost:1313/unreal-engine-5/index.html</link>
-    <description>This is a new chapter.</description>
+    <description>Devenez développeur de jeux vidéo indépendant avec mes cours et tutoriels gratuits sur Unreal Engine 5. Apprenez le Blueprint, l&#39;IA, le Level Design et compilez votre premier jeu.</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/unreal-engine-5/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kawaii Slender - Créer un jeu d&#39;horreur mignon</title>
-      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/index.html</guid>
-      <description>This is a new chapter.</description>
-    </item>
     <item>
       <title>Mise à niveau Unreal Engine 5 : Adapter son Projet au Nouveau Système d&#39;Enhanced Input</title>
       <link>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</guid>
       <description>Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.&#xA;Dans cet épisode de transition indispensable pour la reprise de notre mini-série, nous découvrons comment moderniser la gestion des entrées utilisateur. L’ancien système d’Inputs d’Unreal Engine 4 (Action/Axis Mappings) étant obsolète, nous apprenons à configurer le puissant framework Enhanced Input d’Unreal Engine 5.</description>
+    </item>
+    <item>
+      <title>Série : Création d&#39;un Slender-like (Kawaii Slender) sur Unreal Engine 5</title>
+      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/index.html</guid>
+      <description>Retrouvez le guide complet et le résumé des 16 vidéos de la série consacrée à la création de A à Z d&#39;un jeu d&#39;horreur de type Slender-like sous Unreal Engine 5.</description>
     </item>
     <item>
       <title>Série : Créer un Système de Build complet dans Unreal Engine 5</title>

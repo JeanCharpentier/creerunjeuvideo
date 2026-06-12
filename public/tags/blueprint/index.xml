@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blueprint :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/blueprint/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blueprint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Introduction et Configuration d&#39;Unreal Engine 5</title>
+      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-01/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-01/index.html</guid>
+      <description>Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.&#xA;Résumé des notions clés Dans cette vidéo d’introduction, nous posons les bases méthodologiques et techniques pour concevoir un prototype de survival horror (style Slenderman) baptisé Kawaii Slender. L’accent est mis sur la compréhension théorique des choix de développement plutôt que sur le simple copier-coller.</description>
+    </item>
+    <item>
+      <title>2. Personnage, Ambiance Creepy et Configuration Clavier</title>
+      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-02/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-02/index.html</guid>
+      <description>Résumé des notions clés Dans ce deuxième volet de la série Kawaii Slender, nous plongeons directement dans l’ajustement de l’ambiance et la personnalisation de notre prototype. Ce tutoriel se concentre sur l’exploitation des fonctionnalités natives du template et l’immersion sensorielle :</description>
+    </item>
+    <item>
+      <title>3. Création d&#39;une lampe-torche et système d&#39;allumage</title>
+      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-03/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-03/index.html</guid>
+      <description>Résumé des notions clés Dans ce troisième volet de la série Kawaii Slender, nous passons à la vitesse supérieure en configurant l’accessoire indispensable de tout bon jeu d’horreur : la lampe-torche. Ce tutoriel détaille pas à pas l’intégration de la lumière et la logique d’allumage via les Blueprints :</description>
+    </item>
+  </channel>
+</rss>

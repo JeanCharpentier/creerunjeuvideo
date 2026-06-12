@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fab :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/fab/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Introduction et Configuration d&#39;Unreal Engine 5</title>
+      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-01/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-01/index.html</guid>
+      <description>Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.&#xA;Résumé des notions clés Dans cette vidéo d’introduction, nous posons les bases méthodologiques et techniques pour concevoir un prototype de survival horror (style Slenderman) baptisé Kawaii Slender. L’accent est mis sur la compréhension théorique des choix de développement plutôt que sur le simple copier-coller.</description>
+    </item>
+  </channel>
+</rss>

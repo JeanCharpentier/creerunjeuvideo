@@ -1,14 +1,11 @@
 ---
-title: "Partie 4 : Sélection des Blocs à la Molette et Système de Destruction"
+title: "4. Sélection des Blocs à la Molette et Système de Destruction"
 date: 2026-06-12
 category: Archive
-tags:
-  - Unreal Engine
-  - Blueprints
-  - Game Design
-  - Tutoriel
+weight: 4
+tags: [Unreal Engine 5, Build, Blueprint, Input System, Audio, Game Design]
 
-prev_url: "/unreal-engine-5/systeme-construction/cours-3/"
+prev_url: "/unreal-engine-5/systeme-construction/3-overlaps-erreurs-construction"
 next_url: ""
 ---
 

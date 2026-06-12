@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaders :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/shaders/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/shaders/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15. Habillage du décor (Props) et création d&#39;une lumière de lanterne vacillante</title>
+      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-15/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-15/index.html</guid>
+      <description>Notre forêt est désormais dense et bien plantée, mais pour renforcer l’ambiance de notre Slender-like nocturne, il est temps d’y ajouter des points d’intérêt narratifs. Dans cet avant-dernier épisode de la série, nous allons habiller notre niveau avec des structures en bois (cabanes, ponts, barrières) et concevoir de A à Z une lanterne atmosphérique dotée d’une flamme vacillante et entourée de petits insectes nocturnes.</description>
+    </item>
+  </channel>
+</rss>

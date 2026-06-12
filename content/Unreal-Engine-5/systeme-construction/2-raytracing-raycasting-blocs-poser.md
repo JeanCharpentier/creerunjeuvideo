@@ -1,15 +1,11 @@
 ---
-title: "Partie 2 : Rotation, Tracé de Ligne et Pose des Blocs"
+title: "2. Rotation, Tracé de Ligne et Pose des Blocs"
 date: 2026-06-12
 category: Archive
-tags:
-  - Unreal Engine
-  - Blueprints
-  - Game Design
-  - Tutoriel
-
-prev_url: "/unreal-engine-5/systeme-construction/cours-1/"
-next_url: "/unreal-engine-5/systeme-construction/cours-3/"
+weight: 2
+tags: [Unreal Engine 5, Build, Blueprint, Input System, Audio, Game Design]
+prev_url: "/unreal-engine-5/systeme-construction/1-introduction-ghost-object-blueprint"
+next_url: "/unreal-engine-5/systeme-construction/3-overlaps-erreurs-construction"
 ---
 
 Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.

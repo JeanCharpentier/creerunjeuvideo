@@ -1,16 +1,13 @@
 ---
-title: "Partie 1 : Les Fondations et le Ghost"
+title: "1. Les Fondations et le Ghost"
 date: 2026-06-12
 category: Archive
-tags:
-  - Unreal Engine
-  - Blueprints
-  - Game Design
-  - Tutoriel
+weight: 1
+tags: [Unreal Engine 5, Build, Blueprint, Input System, Audio, Game Design]
 
 # Navigation de la série (remplir avec les URLs relatives)
 prev_url: "/unreal-engine-5/enhanced-input-mapping/index.html"
-next_url: "/unreal-engine-5/systeme-construction/cours-2/"
+next_url: "/unreal-engine-5/systeme-construction/2-raytracing-raycasting-blocs-poser"
 ---
 
 Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.

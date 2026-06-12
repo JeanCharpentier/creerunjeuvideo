@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Light :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/light/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/light/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3. Création d&#39;une lampe-torche et système d&#39;allumage</title>
+      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-03/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-03/index.html</guid>
+      <description>Résumé des notions clés Dans ce troisième volet de la série Kawaii Slender, nous passons à la vitesse supérieure en configurant l’accessoire indispensable de tout bon jeu d’horreur : la lampe-torche. Ce tutoriel détaille pas à pas l’intégration de la lumière et la logique d’allumage via les Blueprints :</description>
+    </item>
+  </channel>
+</rss>
