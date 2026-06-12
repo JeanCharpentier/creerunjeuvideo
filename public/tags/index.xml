@@ -9,59 +9,10 @@
     <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tag :: AI Perception</title>
-      <link>http://localhost:1313/tags/ai-perception/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai-perception/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Animation</title>
-      <link>http://localhost:1313/tags/animation/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/animation/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Animation Blueprint</title>
-      <link>http://localhost:1313/tags/animation-blueprint/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/animation-blueprint/index.html</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tag :: Audio</title>
       <link>http://localhost:1313/tags/audio/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/audio/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Audio Spatiale</title>
-      <link>http://localhost:1313/tags/audio-spatiale/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/audio-spatiale/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Behavior Tree</title>
-      <link>http://localhost:1313/tags/behavior-tree/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/behavior-tree/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Blackboard</title>
-      <link>http://localhost:1313/tags/blackboard/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blackboard/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Blend Space 1D</title>
-      <link>http://localhost:1313/tags/blend-space-1d/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blend-space-1d/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -79,17 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tag :: Character Movement</title>
-      <link>http://localhost:1313/tags/character-movement/index.html</link>
+      <title>Tag :: Build</title>
+      <link>http://localhost:1313/tags/build/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/character-movement/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Collisions</title>
-      <link>http://localhost:1313/tags/collisions/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/collisions/index.html</guid>
+      <guid>http://localhost:1313/tags/build/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -97,13 +41,6 @@
       <link>http://localhost:1313/tags/enhanced-input/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/enhanced-input/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Enhanced Input System</title>
-      <link>http://localhost:1313/tags/enhanced-input-system/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/enhanced-input-system/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -128,24 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tag :: Game Flow</title>
-      <link>http://localhost:1313/tags/game-flow/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/game-flow/index.html</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tag :: Input System</title>
       <link>http://localhost:1313/tags/input-system/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/input-system/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Intelligence Artificielle</title>
-      <link>http://localhost:1313/tags/intelligence-artificielle/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/intelligence-artificielle/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -156,41 +79,6 @@
       <description></description>
     </item>
     <item>
-      <title>Tag :: Landscape</title>
-      <link>http://localhost:1313/tags/landscape/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/landscape/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Level Design</title>
-      <link>http://localhost:1313/tags/level-design/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/level-design/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Light</title>
-      <link>http://localhost:1313/tags/light/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/light/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Line Trace</title>
-      <link>http://localhost:1313/tags/line-trace/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/line-trace/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Materials</title>
-      <link>http://localhost:1313/tags/materials/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/materials/index.html</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tag :: Migration</title>
       <link>http://localhost:1313/tags/migration/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
@@ -198,52 +86,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tag :: Physique</title>
-      <link>http://localhost:1313/tags/physique/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/physique/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Ragdoll</title>
-      <link>http://localhost:1313/tags/ragdoll/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ragdoll/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Texturing</title>
-      <link>http://localhost:1313/tags/texturing/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/texturing/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Timers</title>
-      <link>http://localhost:1313/tags/timers/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/timers/index.html</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tag :: Tutoriel</title>
       <link>http://localhost:1313/tags/tutoriel/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/tutoriel/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: UI</title>
-      <link>http://localhost:1313/tags/ui/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ui/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: UMG Widgets</title>
-      <link>http://localhost:1313/tags/umg-widgets/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/umg-widgets/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -258,13 +104,6 @@
       <link>http://localhost:1313/tags/unreal-engine-5/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/unreal-engine-5/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Variables</title>
-      <link>http://localhost:1313/tags/variables/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/variables/index.html</guid>
       <description></description>
     </item>
   </channel>

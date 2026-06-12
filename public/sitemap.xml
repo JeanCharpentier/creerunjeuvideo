@@ -1,127 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/index.html</loc>
-    <lastmod>2026-06-12T12:38:31+02:00</lastmod>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/1-unreal-engine-5-installation-configuration-projet/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/unreal-engine-5/index.html</loc>
-    <lastmod>2026-06-12T12:38:31+02:00</lastmod>
+    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/1-introduction-ghost-object-blueprint/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/2-integration-camera-premiere-personne-fps/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/2-raytracing-raycasting-blocs-poser/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/3-creer-lampe-torche-blueprint-joueur/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/3-overlaps-erreurs-construction/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/4-gestion-variables-batterie-lampe/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/4-selection-objets-molette-destruction/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/5-variable-sprint-course-stamina/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/6-ui-umg-widget-affichage-hud-ue5/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/7-ramassage-objet-score-points-compteur/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/8-ia-behavior-tree-blackboard-ennemi/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/9-ai-perception-detection-vision-ecoute-suivre/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/10-slender-animations-3d-spacialisation-sonore-blendspace/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/11-attaque-ennemie-ragdoll-physique-unreal/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/12-win-loose-gameover-ecran-fin-menu-widget/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/13-terrain-editore-editeur-landscape-mode/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/14-foliage-editor-feuillage-arbres-nature-paysage/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/15-props-decor-lumiere-clignotte-lanterne-village/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/16-menu-principal-optimisations-export-packaging-build/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/index.html</loc>
-    <lastmod>2026-06-12T12:38:31+02:00</lastmod>
+    <lastmod>2026-06-12T15:18:15+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-16/index.html</loc>
-    <lastmod>2026-06-12T12:38:31+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-15/index.html</loc>
-    <lastmod>2026-06-12T12:04:13+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-14/index.html</loc>
-    <lastmod>2026-06-12T12:04:11+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-01/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/cours-1/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-10/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-11/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-12/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-13/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-02/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/cours-2/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-03/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/cours-3/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-04/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/cours-4/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-05/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-06/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-07/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-08/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-09/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/ai-perception/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/animation/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/animation-blueprint/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mentions-legales/index.html</loc>
+    <lastmod>2026-06-12T15:18:15+02:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/tags/audio/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/audio-spatiale/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/behavior-tree/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/blackboard/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/blend-space-1d/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -133,19 +101,11 @@
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/character-movement/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/collisions/index.html</loc>
+    <loc>http://localhost:1313/tags/build/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/tags/enhanced-input/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/enhanced-input-system/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -161,39 +121,11 @@
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/game-flow/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/input-system/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/intelligence-artificielle/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/kawaii-slender/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/landscape/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/level-design/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/light/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/line-trace/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/materials/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -205,11 +137,7 @@
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/physique/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/ragdoll/index.html</loc>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -221,23 +149,11 @@
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/texturing/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/timers/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/tutoriel/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/ui/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/umg-widgets/index.html</loc>
+    <loc>http://localhost:1313/unreal-engine-5/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -246,10 +162,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/unreal-engine-5/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/variables/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>

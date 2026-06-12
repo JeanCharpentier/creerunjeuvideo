@@ -9,13 +9,6 @@
     <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/enhanced-input/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>5. Gestion de la course et de l&#39;endurance (Stamina)</title>
-      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-05/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-05/index.html</guid>
-      <description>Après avoir vu comment gérer l’énergie d’une lampe-torche, nous nous attaquons à un autre pilier du jeu de survie : le système de course et d’endurance (stamina)[cite: 12]. En nous appuyant sur des mécaniques similaires, nous allons adapter et optimiser notre logique pour répondre aux exigences d’un gameplay fluide[cite: 12].</description>
-    </item>
-    <item>
       <title>Mise à niveau Unreal Engine 5 : Adapter son Projet au Nouveau Système d&#39;Enhanced Input</title>
       <link>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
