@@ -36,5 +36,12 @@
       <guid>http://localhost:1313/unreal-engine-5/systeme-construction/cours-4/index.html</guid>
       <description>Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.&#xA;Dans ce quatrième épisode, nous enrichissons l’expérience utilisateur en permettant au joueur de naviguer de manière fluide entre plusieurs types de structures (murs, sols, toits) à l’aide de la molette de la souris, tout en implémentant les bases d’un mode de destruction pour nettoyer ses chantiers.</description>
     </item>
+    <item>
+      <title>Série : Créer un Système de Build complet dans Unreal Engine 5</title>
+      <link>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</guid>
+      <description>Bienvenue sur la page d’accueil de notre série de tutoriels consacrée à la création d’un système de construction modulaire (style Fortnite ou Valheim) de A à Z.&#xA;Cette série, issue de mes archives et mise au goût du jour pour Unreal Engine 5, vous guidera à travers l’élaboration complète des mécaniques de placement, de sélection et de destruction de structures. Que vous soyez débutant ou développeur intermédiaire, vous y découvrirez des algorithmes robustes et une logique de programmation transposables à n’importe quel projet de jeu de survie ou de gestion.</description>
+    </item>
   </channel>
 </rss>

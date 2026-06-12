@@ -2,26 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/unreal-engine-5/index.html</loc>
-    <lastmod>2026-06-12T10:44:47+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/index.html</loc>
-    <lastmod>2026-06-12T10:44:47+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/input-mapping/index.html</loc>
-    <lastmod>2026-06-12T10:44:47+02:00</lastmod>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/tags/blueprints/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/enhanced-input/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/game-design/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/migration/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -41,6 +48,10 @@
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
@@ -50,6 +61,10 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/unreal-engine/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/unreal-engine-5/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>

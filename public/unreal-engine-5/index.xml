@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/unreal-engine-5/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Kawaii Slender - Créer un jeu d&#39;horreur mignon</title>
+      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
       <title>Mise à niveau Unreal Engine 5 : Adapter son Projet au Nouveau Système d&#39;Enhanced Input</title>
       <link>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
