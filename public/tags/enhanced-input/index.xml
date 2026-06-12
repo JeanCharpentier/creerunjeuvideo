@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enhanced Input :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/enhanced-input/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/enhanced-input/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mise à niveau Unreal Engine 5 : Adapter son Projet au Nouveau Système d&#39;Enhanced Input</title>
+      <link>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</guid>
+      <description>Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.&#xA;Dans cet épisode de transition indispensable pour la reprise de notre mini-série, nous découvrons comment moderniser la gestion des entrées utilisateur. L’ancien système d’Inputs d’Unreal Engine 4 (Action/Axis Mappings) étant obsolète, nous apprenons à configurer le puissant framework Enhanced Input d’Unreal Engine 5.&#xA;Concepts clés abordés dans ce tutoriel Dépréciation de l’ancien système (Legacy Inputs) : Constat des messages d’avertissement d’UE5 indiquant que les anciennes configurations d’inputs dans les paramètres du projet (Project Settings) sont désormais désuètes et destinées à disparaître. Création des Input Actions (IA) : Compréhension du concept d’objet d’entrée individuel : création d’un fichier dédié pour chaque action du joueur (ex: IA_BuildMode pour la touche B, IA_Validate pour le clic gauche). Configuration du type de valeur attendue (Value Type), notamment le type Digital (booléen) pour les boutons de type On/Off. Mise en place de l’Input Mapping Context (IMC) : Création du fichier de contexte (IMC_Default) qui sert de dictionnaire pour lier les Input Actions à des touches physiques du clavier ou de la souris. Flexibilité du système permettant d’activer ou de désactiver des contextes entiers à la volée selon les situations de jeu (ex: mode conduite, mode construction, mode exploration). Injection du Contexte dans le Character : Utilisation des nœuds d’initialisation dans le Blueprint du personnage principal (Begin Play). Récupération du contrôleur du joueur (Get Player Controller), conversion vers le sous-système local (Get Enhanced Input Local Player Subsystem), puis appel du nœud Add Mapping Context. Exploitation des événements d’entrée (Triggered vs Started) : Remplacement des anciens nœuds d’inputs rouges par les nouveaux nœuds Enhanced Action Events. Manipulation des broches d’exécution spécifiques : utilisation de l’état Started (appelé une seule fois à la pression de la touche) pour reproduire fidèlement le comportement de l’ancienne broche Pressed. Ce qui reste d’actualité aujourd’hui Ce tutoriel de transition est plus que jamais crucial, car l’architecture introduite est devenue le standard absolu de l’industrie :</description>
+    </item>
+  </channel>
+</rss>

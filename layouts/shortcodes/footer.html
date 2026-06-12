@@ -1,0 +1,60 @@
+{{ if or (.Page.Params.prev_url) (.Page.Params.next_url) }}
+<div class="footer-nav" style="display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
+    
+    {{ if .Page.Params.prev_url }}
+    <a href="{{ .Page.Params.prev_url }}" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1.2rem; border: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); border-radius: 6px; text-decoration: none; color: var(--MAIN-TITLES-color); font-weight: 500; font-size: 0.85rem; background: rgba(0,0,0,0.02); transition: background 0.2s;">
+        ⬅️ Vidéo Précédente
+    </a>
+    {{ else }}
+    <div style="flex: 1; min-width: 150px;"></div> {{ end }}
+
+    {{ if .Page.Params.next_url }}
+    <a href="{{ .Page.Params.next_url }}" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1.2rem; border: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); border-radius: 6px; text-decoration: none; color: var(--MAIN-TITLES-color); font-weight: 500; font-size: 0.85rem; background: rgba(0,0,0,0.02); transition: background 0.2s;">
+        Vidéo Suivante ➡️
+    </a>
+    {{ end }}
+    
+</div>
+{{ end }}
+
+<hr style="margin-top: 1.5rem; border: 0; border-top: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); opacity: 0.5;">
+
+<div class="custom-footer" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 2rem; padding-bottom: 2rem; font-size: 0.9rem; color: var(--MAIN-TITLES-color);">
+    
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">📺 Ma Chaîne YouTube</h4>
+        <p style="margin-bottom: 1rem; font-size: 0.85rem; opacity: 0.8;">Des tutoriels vidéo complémentaires pour aller plus loin.</p>
+        <a href="https://youtube.com/c/TON_CANAL" target="_blank" rel="noopener" style="display: inline-block; background: #ff0000; color: #fff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: bold; font-size: 0.85rem;">
+            S'abonner à la chaîne
+        </a>
+    </div>
+
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">📦 Ressources</h4>
+        <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
+            <li><a href="/tutos/" style="color: var(--MENU-SECTIONS-LINK-color);">📂 Index des tutoriels</a></li>
+            <li><a href="https://github.com/TON_PSEUDO" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">💻 Code source & Scripts</a></li>
+            <li><a href="#" style="color: var(--MENU-SECTIONS-LINK-color);">💾 Téléchargements</a></li>
+        </ul>
+    </div>
+
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">🌐 Communauté</h4>
+        <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
+            <li><a href="https://twitter.com/TON_PSEUDO" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">🐦 Twitter / X</a></li>
+            <li><a href="https://linkedin.com/in/TON_NOM" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">💼 LinkedIn</a></li>
+            <li><a href="https://discord.gg/INVIT" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">💬 Serveur Discord</a></li>
+        </ul>
+    </div>
+
+</div>
+
+<div style="border-top: 1px dashed var(--INTERNAL-MENU-BORDER-color, #e5e5e5); padding-top: 1rem; margin-top: 1rem; font-size: 0.8rem; opacity: 0.7; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+    <div>
+        &copy; {{ now.Format "2006" }} - Créé avec ❤️ sous Hugo & Relearn.
+    </div>
+    <div>
+        <a href="/mentions-legales/" style="color: inherit; margin-right: 1rem;">Mentions légales</a>
+        <a href="/confidentialite/" style="color: inherit;">Confidentialité (RGPD)</a>
+    </div>
+</div>

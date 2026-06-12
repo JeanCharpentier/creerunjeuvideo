@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unreal Engine 5 :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/unreal-engine-5/index.html</link>
+    <description>This is a new chapter.</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/unreal-engine-5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mise à niveau Unreal Engine 5 : Adapter son Projet au Nouveau Système d&#39;Enhanced Input</title>
+      <link>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</guid>
+      <description>Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.&#xA;Dans cet épisode de transition indispensable pour la reprise de notre mini-série, nous découvrons comment moderniser la gestion des entrées utilisateur. L’ancien système d’Inputs d’Unreal Engine 4 (Action/Axis Mappings) étant obsolète, nous apprenons à configurer le puissant framework Enhanced Input d’Unreal Engine 5.</description>
+    </item>
+    <item>
+      <title>Série : Créer un Système de Build complet dans Unreal Engine 5</title>
+      <link>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</guid>
+      <description>Bienvenue sur la page d’accueil de notre série de tutoriels consacrée à la création d’un système de construction modulaire (style Fortnite ou Valheim) de A à Z.&#xA;Cette série, issue de mes archives et mise au goût du jour pour Unreal Engine 5, vous guidera à travers l’élaboration complète des mécaniques de placement, de sélection et de destruction de structures. Que vous soyez débutant ou développeur intermédiaire, vous y découvrirez des algorithmes robustes et une logique de programmation transposables à n’importe quel projet de jeu de survie ou de gestion.</description>
+    </item>
+  </channel>
+</rss>
