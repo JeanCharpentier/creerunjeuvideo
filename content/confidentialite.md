@@ -1,7 +1,7 @@
 +++
 date = '2026-06-12T15:18:15+02:00'
 draft = false
-title = 'Mentions Legales'
+title = 'Politique de confidentialité'
 +++
 
 # Politique de Confidentialité
