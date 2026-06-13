@@ -6,8 +6,15 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 12 Jun 2026 15:18:15 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 09:58:58 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Construct 2</title>
+      <link>http://localhost:1313/construct-2/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 09:58:58 +0200</pubDate>
+      <guid>http://localhost:1313/construct-2/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
     <item>
       <title>Mentions Legales</title>
       <link>http://localhost:1313/mentions-legales/index.html</link>

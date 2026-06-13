@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/construct-2/index.html</loc>
+    <lastmod>2026-06-13T09:58:58+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/index.html</loc>
+    <lastmod>2026-06-13T09:58:58+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/1-creation-personnage-plateforme-c2/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/1-unreal-engine-5-installation-configuration-projet/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-5/systeme-construction/1-introduction-ghost-object-blueprint/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/2-evenements-navigation-game-over/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/2-integration-camera-premiere-personne-fps/index.html</loc>
@@ -17,12 +33,20 @@
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/3-animations-gestion-etats-personnage/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/3-creer-lampe-torche-blueprint-joueur/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-5/systeme-construction/3-overlaps-erreurs-construction/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/4-gestion-niveaux-variables-pieges/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/4-gestion-variables-batterie-lampe/index.html</loc>
@@ -33,32 +57,64 @@
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/debug-collisions-plateformes/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/5-variable-sprint-course-stamina/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/5-creation-ennemi-dynamique/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/6-ui-umg-widget-affichage-hud-ue5/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/6-gestion-collisions-hud/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/7-ramassage-objet-score-points-compteur/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/correctif-animation-atterrissage/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/8-ia-behavior-tree-blackboard-ennemi/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/7-gestion-vie-score/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/9-ai-perception-detection-vision-ecoute-suivre/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/8-systeme-score-web-storage/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/10-slender-animations-3d-spacialisation-sonore-blendspace/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/patch-mise-a-jour-webstorage/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/11-attaque-ennemie-ragdoll-physique-unreal/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/9-systeme-codes-niveaux/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/12-win-loose-gameover-ecran-fin-menu-widget/index.html</loc>
@@ -82,7 +138,139 @@
   </url>
   <url>
     <loc>http://localhost:1313/index.html</loc>
-    <lastmod>2026-06-12T15:18:15+02:00</lastmod>
+    <lastmod>2026-06-13T09:58:58+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/tuto15/index.html</loc>
+    <lastmod>2026-06-13T09:58:58+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/tuto12/index.html</loc>
+    <lastmod>2026-06-13T09:04:44+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/tuto11/index.html</loc>
+    <lastmod>2026-06-13T09:04:41+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/tuto10/index.html</loc>
+    <lastmod>2026-06-13T09:04:37+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/animation/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/archive/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/bug-fix/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/bug-fix/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/collision/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/collisions/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/construct-2/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/debug/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/d%C3%A9veloppement/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/dictionary/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/ennemi/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%C3%A9v%C3%A9nements/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/game-dev/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/hud/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/level-design/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/navigation/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/niveaux/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/patch/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/personnage/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/plateforme/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/retro/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/score/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/tutoriel/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/variables/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/variables-globales/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/web-storage/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/webstorage/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/mentions-legales/index.html</loc>
@@ -149,14 +337,6 @@
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/tutoriel/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/unreal-engine-5/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
@@ -167,8 +347,5 @@
   <url>
     <loc>http://localhost:1313/tags/unreal-engine-5/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/categories/index.html</loc>
   </url>
 </urlset>

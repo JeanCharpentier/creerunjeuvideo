@@ -6,14 +6,14 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/level-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>13. Création de paysages et peinture de textures (Landscape Mode)</title>
-      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-13/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-13/index.html</guid>
-      <description>Après avoir bouclé notre boucle de gameplay avec les conditions de victoire et de défaite, nous attaquons enfin la phase de mapping. Dans cet épisode, nous quittons la carte de test par défaut pour sculpter notre tout premier terrain 3D et apprendre à y peindre différentes textures (herbe, terre, roche) pour poser l’ambiance de notre Slender-like.</description>
+      <title>5. Création d&#39;un ennemi dynamique et aménagement de niveau</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/5-creation-ennemi-dynamique/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/5-creation-ennemi-dynamique/index.html</guid>
+      <description>Note : Cet article est une archive pédagogique du cinquième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Amélioration du Level Design : Conseils pour rendre vos niveaux plus visuels et attrayants en modifiant la disposition des éléments de décor. IA d’ennemi basique : * Mise en place d’un ennemi qui se déplace automatiquement de gauche à droite. Utilisation de la logique de retournement automatique pour simuler une patrouille. Organisation du code : * Introduction aux Groupes d’événements : création d’un groupe dédié (AnimJackEnemy) pour isoler la logique de l’ennemi. Activation/Désactivation des groupes au démarrage pour optimiser la lisibilité et la maintenance du projet. Gestion des bugs de collision : Identification et résolution de problèmes liés aux chutes non désirées à travers les plateformes (complémentaire au tutoriel de debug). Conseils d’organisation pour vos feuilles d’événements À mesure que votre projet gagne en complexité, la structure de votre feuille d’événements devient cruciale :</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niveaux :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/niveaux/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/niveaux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4. Gestion des niveaux, variables et pièges</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/4-gestion-niveaux-variables-pieges/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/4-gestion-niveaux-variables-pieges/index.html</guid>
+      <description>Note : Cet article est une archive du quatrième tutoriel de la série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Architecture des niveaux : Utilisation d’une feuille d’événement unique (ESJOUEUR) pour tous les niveaux afin d’éviter la duplication de code. Transition de niveau dynamique : Création d’une variable globale Niveau Actuel (valeur initiale : 1) pour suivre la progression. Utilisation de l’action système Go to layout by name combinée avec une concaténation (&#34;niveau&#34; &amp; Niveau Actuel) pour charger automatiquement le layout suivant. Gestion des interactions (Panneaux) : Affichage contextuel d’une infobulle via le changement d’opacité (Set Opacity) lorsque le joueur chevauche le panneau. Utilisation de la touche Espace pour valider le passage au niveau supérieur. Implémentation de pièges : Ajout d’objets Spikes provoquant le redémarrage du niveau ou le retour au menu via une collision. Organisation du projet Pour maintenir une feuille d’événements lisible malgré l’ajout de fonctionnalités, il est fortement conseillé de :</description>
+    </item>
+  </channel>
+</rss>

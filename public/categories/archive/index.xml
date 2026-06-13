@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive :: Category :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/categories/archive/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Création d&#39;un personnage de plateforme</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/1-creation-personnage-plateforme-c2/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/1-creation-personnage-plateforme-c2/index.html</guid>
+      <description>Note : Cet article constitue une archive pédagogique préservant des techniques fondamentales de développement de jeux 2D sous Construct 2.&#xA;Points clés abordés Comportement “Platform” : Configuration des paramètres de déplacement (vitesse, accélération, force de saut). Gestion des couches (Layers) : Organisation des éléments de décor et de gameplay. Animations du sprite : Création et basculement automatique entre les états (Idle, Run, Jump) via le système d’événements. Collisions de base : Mise en place des propriétés “Solid” pour les objets du décor afin d’interagir avec le moteur physique. Variables globales : Introduction simple au suivi du score ou des points de vie. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait été remplacé par Construct 3, la logique présentée dans ce tutoriel demeure transposable à 100%. Les concepts de gestion d’états d’animation, la séparation entre couches de rendu et moteurs physiques, ainsi que la hiérarchie des événements sont des bases immuables du développement de jeux vidéo 2D. Cette vidéo est un excellent point de départ pour comprendre la “logique Construct” avant de passer aux versions plus récentes du moteur.</description>
+    </item>
+    <item>
+      <title>2. Événements et navigation : Créer un Game Over</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/2-evenements-navigation-game-over/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/2-evenements-navigation-game-over/index.html</guid>
+      <description>Note : Cet article est une archive pédagogique du deuxième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Logique Événement/Action : Comprendre le principe fondamental de Construct 2 : lorsqu’une condition est remplie dans le jeu (événement), alors le moteur exécute une réaction spécifique (action). Liaison des feuilles d’événements : Apprendre à lier une feuille d’événements (Event Sheet) à un Layout spécifique via les propriétés du niveau. Gestion des sorties de zone : Utilisation de l’événement Is Outside Layout sur le personnage pour déclencher une réaction lorsqu’il tombe hors de l’écran. Navigation entre niveaux : Mise en place d’une interaction utilisateur (clic sur un bouton) pour changer de Layout via l’action Go To Layout. Gestion du Game Over : Modification dynamique d’une action existante pour créer une boucle de gameplay (retour au menu principal au lieu de simplement redémarrer le niveau). Ce qui reste d’actualité aujourd’hui La logique des événements de Construct 2 reste le cœur battant du développement sur Construct 3. Bien que l’interface ait évolué, le concept de “Condition -&gt; Action” et la gestion des feuilles d’événements sont des acquis universels pour tout développeur de jeux 2D. Comprendre comment lier un bouton à un changement de niveau ou gérer la sortie d’un personnage de l’aire de jeu sont des techniques que vous utiliserez dans chacun de vos projets.</description>
+    </item>
+    <item>
+      <title>3. Animations et gestion des états : Créer un personnage vivant</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/3-animations-gestion-etats-personnage/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/3-animations-gestion-etats-personnage/index.html</guid>
+      <description>Note : Cet article est une archive pédagogique du troisième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Gestion des animations : Création et renommage des états d’animation (Pause, Marche) via l’éditeur d’images. Importation de séquences : Intégration des frames d’animation image par image et configuration de la boucle (Loop: Yes) et de la vitesse (Speed). Polygones de collision : Ajustement manuel et précis des zones de collision sur chaque frame pour éviter les saccades visuelles lors du mouvement. Input clavier : Ajout de l’objet Keyboard pour détecter les touches directionnelles. Gestion des états : Utilisation des événements clavier pour basculer entre l’animation “Marche” (appui) et “Pause” (relâchement). Mode miroir : Utilisation de l’action Set Mirrored pour gérer le retournement du personnage sans doubler les assets. Sous-événements complexes : Utilisation de On Landed combiné à Is Moving (inversé ou non) pour gérer la transition fluide entre le saut et le mouvement au sol. Ce qui reste d’actualité aujourd’hui La méthodologie présentée ici est fondamentale : le découpage entre les états (Idle, Run, Jump) et l’utilisation de variables booléennes ou de conditions d’état est la base de n’importe quel moteur de jeu moderne. Bien que les outils de collision soient devenus plus intelligents, le travail manuel sur les “hitboxes” pour garantir un gameplay précis reste une étape clé pour tout développeur 2D. La logique de miroir reste également la méthode la plus efficace pour optimiser le poids de vos jeux.</description>
+    </item>
+    <item>
+      <title>4. Gestion des niveaux, variables et pièges</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/4-gestion-niveaux-variables-pieges/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/4-gestion-niveaux-variables-pieges/index.html</guid>
+      <description>Note : Cet article est une archive du quatrième tutoriel de la série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Architecture des niveaux : Utilisation d’une feuille d’événement unique (ESJOUEUR) pour tous les niveaux afin d’éviter la duplication de code. Transition de niveau dynamique : Création d’une variable globale Niveau Actuel (valeur initiale : 1) pour suivre la progression. Utilisation de l’action système Go to layout by name combinée avec une concaténation (&#34;niveau&#34; &amp; Niveau Actuel) pour charger automatiquement le layout suivant. Gestion des interactions (Panneaux) : Affichage contextuel d’une infobulle via le changement d’opacité (Set Opacity) lorsque le joueur chevauche le panneau. Utilisation de la touche Espace pour valider le passage au niveau supérieur. Implémentation de pièges : Ajout d’objets Spikes provoquant le redémarrage du niveau ou le retour au menu via une collision. Organisation du projet Pour maintenir une feuille d’événements lisible malgré l’ajout de fonctionnalités, il est fortement conseillé de :</description>
+    </item>
+    <item>
+      <title>Correctif: Résoudre les problèmes de collision de plateformes</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/debug-collisions-plateformes/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/debug-collisions-plateformes/index.html</guid>
+      <description>Note : Cet article est une archive technique traitant d’une solution spécifique aux problèmes de collision irrégulière dans Construct 2.&#xA;Le problème : Plateformes et formes complexes Dans Construct 2, la gestion des collisions sur des plateformes possédant des trous, des pentes ou des arrondis peut provoquer des erreurs de calcul. Le moteur a parfois du mal à gérer physiquement le personnage sur ces surfaces, entraînant des traversées accidentelles ou des bugs de positionnement.</description>
+    </item>
+    <item>
+      <title>5. Création d&#39;un ennemi dynamique et aménagement de niveau</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/5-creation-ennemi-dynamique/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/5-creation-ennemi-dynamique/index.html</guid>
+      <description>Note : Cet article est une archive pédagogique du cinquième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Amélioration du Level Design : Conseils pour rendre vos niveaux plus visuels et attrayants en modifiant la disposition des éléments de décor. IA d’ennemi basique : * Mise en place d’un ennemi qui se déplace automatiquement de gauche à droite. Utilisation de la logique de retournement automatique pour simuler une patrouille. Organisation du code : * Introduction aux Groupes d’événements : création d’un groupe dédié (AnimJackEnemy) pour isoler la logique de l’ennemi. Activation/Désactivation des groupes au démarrage pour optimiser la lisibilité et la maintenance du projet. Gestion des bugs de collision : Identification et résolution de problèmes liés aux chutes non désirées à travers les plateformes (complémentaire au tutoriel de debug). Conseils d’organisation pour vos feuilles d’événements À mesure que votre projet gagne en complexité, la structure de votre feuille d’événements devient cruciale :</description>
+    </item>
+    <item>
+      <title>6. Gestion des collisions, HUD et interface</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/6-gestion-collisions-hud/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/6-gestion-collisions-hud/index.html</guid>
+      <description>Note : Cet article est une archive pédagogique du sixième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Programme de l’épisode Gestion avancée des collisions : Distinguer l’interaction “saut sur l’ennemi” (destruction) de l’interaction “contact latéral” (perte de vie/redémarrage). Interface (HUD) : Création d’une interface fixe pour afficher la vie (cœurs) et le score. Optimisation UI : Utilisation du comportement Anchor pour maintenir l’interface à l’écran pendant le défilement. Ajout d’objets : Intégration de pièces à collecter. Logique des collisions (Feuille d’événement) Pour gérer la différence entre écraser un ennemi et se faire toucher, on utilise des sous-événements basés sur l’état vertical du joueur :</description>
+    </item>
+    <item>
+      <title>7. Système de vie et gestion des scores</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/7-gestion-vie-score/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/7-gestion-vie-score/index.html</guid>
+      <description>Note : Cet article est une archive pédagogique du septième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Variables globales : Utilisation de variables pour suivre l’état du joueur (Score et Vie). Gestion des pièces : * Détection de collision entre le joueur et l’objet Pièce. Destruction de la pièce après contact. Incrémentation de la variable globale Score et mise à jour de l’affichage textuel (HUD). IA d’ennemi et dégâts : Système de “double collision” : saut sur l’ennemi (destruction) vs contact latéral (perte de vie). Soustraction d’une valeur à la variable Vie lors d’un contact non létal. Condition de défaite (Game Over) : Vérification de la valeur de la variable Vie après chaque impact. Si Vie &lt;= 0, déclenchement de l’action Restart Layout. Logique des variables dans Construct 2 La gestion des données est au cœur de cet épisode. Voici la structure logique recommandée pour vos événements :</description>
+    </item>
+    <item>
+      <title>Patch : Mise à jour du système WebStorage</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/patch-mise-a-jour-webstorage/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/patch-mise-a-jour-webstorage/index.html</guid>
+      <description>Note : Cet article est une archive corrective visant à mettre à jour la méthode de persistance des données (WebStorage), suite à des changements dans les versions de Construct 2.&#xA;Pourquoi ce patch ? Dans les versions initiales de Construct 2 (il y a plusieurs années), l’utilisation de l’objet WebStorage était la méthode standard pour conserver des données comme le score ou le nom d’utilisateur entre deux layouts. Ce tutoriel patch explique comment adapter cette logique pour assurer la compatibilité avec les versions plus récentes du moteur.</description>
+    </item>
+    <item>
+      <title>9. Système de codes de niveau</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/9-systeme-codes-niveaux/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/9-systeme-codes-niveaux/index.html</guid>
+      <description>Note : Cet article est une archive pédagogique du neuvième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Saisie utilisateur : Insertion d’un objet TextBox sur le calque HUD du menu pour permettre au joueur de taper un code. Gestion des données avec le Dictionary : Utilisation de l’objet Dictionary pour associer une clé (le code saisi) à une valeur (le nom du Layout/niveau correspondant). Navigation dynamique : Mise en place d’une logique conditionnelle pour le bouton “Jouer” : Si le champ est vide : Chargement du niveau par défaut. Si un code est saisi : Chargement du niveau associé via l’action Go to layout by name. Récupération de valeur : Utilisation de l’expression Dictionary.Get(tbcode.Text) pour automatiser le basculement vers le bon niveau. Configuration technique du Dictionary Pour que le système fonctionne, la déclaration des codes doit se faire dès le lancement du menu :</description>
+    </item>
+  </channel>
+</rss>

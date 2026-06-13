@@ -1,5 +1,35 @@
 var relearn_searchindex = [
   {
+    "breadcrumb": "Créer un jeu vidéo",
+    "content": "This is a new chapter.",
+    "description": "This is a new chapter.",
+    "tags": [],
+    "title": "Construct 2",
+    "uri": "/construct-2/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2",
+    "content": "This is a new chapter.",
+    "description": "This is a new chapter.",
+    "tags": [],
+    "title": "Tuto Jeu Plateforme",
+    "uri": "/construct-2/tuto-jeu-plateforme/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article constitue une archive pédagogique préservant des techniques fondamentales de développement de jeux 2D sous Construct 2.\nPoints clés abordés Comportement “Platform” : Configuration des paramètres de déplacement (vitesse, accélération, force de saut). Gestion des couches (Layers) : Organisation des éléments de décor et de gameplay. Animations du sprite : Création et basculement automatique entre les états (Idle, Run, Jump) via le système d’événements. Collisions de base : Mise en place des propriétés “Solid” pour les objets du décor afin d’interagir avec le moteur physique. Variables globales : Introduction simple au suivi du score ou des points de vie. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait été remplacé par Construct 3, la logique présentée dans ce tutoriel demeure transposable à 100%. Les concepts de gestion d’états d’animation, la séparation entre couches de rendu et moteurs physiques, ainsi que la hiérarchie des événements sont des bases immuables du développement de jeux vidéo 2D. Cette vidéo est un excellent point de départ pour comprendre la “logique Construct” avant de passer aux versions plus récentes du moteur.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article constitue une archive pédagogique préservant des techniques fondamentales de développement de jeux 2D sous Construct 2.\nPoints clés abordés Comportement “Platform” : Configuration des paramètres de déplacement (vitesse, accélération, force de saut). Gestion des couches (Layers) : Organisation des éléments de décor et de gameplay. Animations du sprite : Création et basculement automatique entre les états (Idle, Run, Jump) via le système d’événements. Collisions de base : Mise en place des propriétés “Solid” pour les objets du décor afin d’interagir avec le moteur physique. Variables globales : Introduction simple au suivi du score ou des points de vie. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait été remplacé par Construct 3, la logique présentée dans ce tutoriel demeure transposable à 100%. Les concepts de gestion d’états d’animation, la séparation entre couches de rendu et moteurs physiques, ainsi que la hiérarchie des événements sont des bases immuables du développement de jeux vidéo 2D. Cette vidéo est un excellent point de départ pour comprendre la “logique Construct” avant de passer aux versions plus récentes du moteur.",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "Plateforme",
+      "Retro"
+    ],
+    "title": "1. Création d'un personnage de plateforme",
+    "uri": "/construct-2/tuto-jeu-plateforme/1-creation-personnage-plateforme-c2/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
     "content": "Résumé des notions clés Dans cette vidéo d’introduction, nous posons les bases méthodologiques et techniques pour concevoir un prototype de survival horror (style Slenderman) baptisé Kawaii Slender. L’accent est mis sur la compréhension théorique des choix de développement plutôt que sur le simple copier-coller.\nPhilosophie de développement : Privilégier l’apprentissage conceptuel et l’autonomie pour être capable de concevoir ses propres prototypes de jeux, plutôt que de suivre une exécution mécanique. Mise en place de l’environnement : Création et utilisation d’un compte neuf sur l’Epic Games Launcher. Installation d’une version stable d’Unreal Engine 5 ($5.6.1$). Gestion de l’organisation des projets (personnalisation de l’icône de projet via le répertoire local). Création du projet et Template : Sélection du First Person Template (déplacements de base, caméra, sauts et collisions pré-intégrés). Choix exclusif du système Blueprint (programmation visuelle sans C++). Sélection d’une variante vierge pour programmer soi-même les mécaniques fondamentales (comme le sprint et la gestion d’interface). Découverte de l’interface d’UE5 : Éditeur de niveau (Viewport) : Manipulation des objets dans l’espace à l’aide des Gizmos (axes $X, Y, Z$ pour le déplacement, la rotation et l’échelle). raccourci de boucle de transformation avec la touche Espace. Organiseur (Outliner) : Gestion exclusive des objets présents dans la scène active (Static Meshes, lumières, dossiers d’organisation). Paramètres du monde : Introduction aux règles globales du niveau (gravité, Kill Z pour gérer la chute du joueur hors de la carte). Panneau Détails : Ajustement précis des variables et des coordonnées des composants sélectionnés. Tiroir à contenu (Content Browser) : Gestion globale de l’ensemble des fichiers du projet (sons, textures, blueprints), accessible via le raccourci Ctrl + Espace. Sourcing d’Assets gratuits sur Unreal Fab : Recherche et importation de ressources $100%$ gratuites (Packs d’environnement Stylized Nature, modèles d’animaux Low-Poly, musiques d’ambiance d’horreur et sons FX). Gestion de la compatibilité des versions d’assets antérieures ($5.5, 5.4$ ou $4.27$) lors de l’intégration dans un projet UE $5.6.1$. Sensibilisation aux licences (Licence Personnelle vs Licence Professionnelle Epic Games). Ce qui reste d’actualité aujourd’hui Même si les versions du moteur graphique évoluent, les piliers fondamentaux présentés dans ce tutoriel restent indispensables pour tout développeur de jeux vidéo :\nLes bases de la navigation 3D : L’usage des trois axes de transformation ($X$, $Y$, $Z$), les raccourcis de manipulation et la distinction cruciale entre l’Outliner (les objets chargés en scène) et le Content Browser (la base de données du projet) n’ont pas changé. Le prototypage par Template : Commencer à partir d’une base saine comme le First Person Template pour économiser du temps sur le code des déplacements de base reste la norme absolue dans l’industrie pour créer un Greyboxing ou une preuve de concept (PoC). L’écosystème Fab : La boutique unifiée d’Epic Games demeure la plaque tournante essentielle pour récupérer des assets et enrichir rapidement l’ambiance visuelle et sonore d’un prototype à moindres frais, notamment grâce aux contenus gratuits mis à la une chaque mois. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Résumé des notions clés Dans cette vidéo d’introduction, nous posons les bases méthodologiques et techniques pour concevoir un prototype de survival horror (style Slenderman) baptisé Kawaii Slender. L’accent est mis sur la compréhension théorique des choix de développement plutôt que sur le simple copier-coller.",
@@ -29,6 +59,20 @@ var relearn_searchindex = [
     ],
     "title": "1. Les Fondations et le Ghost",
     "uri": "/unreal-engine-5/systeme-construction/1-introduction-ghost-object-blueprint/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article est une archive pédagogique du deuxième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Logique Événement/Action : Comprendre le principe fondamental de Construct 2 : lorsqu’une condition est remplie dans le jeu (événement), alors le moteur exécute une réaction spécifique (action). Liaison des feuilles d’événements : Apprendre à lier une feuille d’événements (Event Sheet) à un Layout spécifique via les propriétés du niveau. Gestion des sorties de zone : Utilisation de l’événement Is Outside Layout sur le personnage pour déclencher une réaction lorsqu’il tombe hors de l’écran. Navigation entre niveaux : Mise en place d’une interaction utilisateur (clic sur un bouton) pour changer de Layout via l’action Go To Layout. Gestion du Game Over : Modification dynamique d’une action existante pour créer une boucle de gameplay (retour au menu principal au lieu de simplement redémarrer le niveau). Ce qui reste d’actualité aujourd’hui La logique des événements de Construct 2 reste le cœur battant du développement sur Construct 3. Bien que l’interface ait évolué, le concept de “Condition -\u003e Action” et la gestion des feuilles d’événements sont des acquis universels pour tout développeur de jeux 2D. Comprendre comment lier un bouton à un changement de niveau ou gérer la sortie d’un personnage de l’aire de jeu sont des techniques que vous utiliserez dans chacun de vos projets.\nExercice pratique (Devoirs) Pour préparer le prochain épisode, l’objectif est de créer votre propre écran de “Game Over” :\nIntégrer un bouton pour retourner au menu principal. Intégrer un bouton pour redémarrer le niveau 1. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article est une archive pédagogique du deuxième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Logique Événement/Action : Comprendre le principe fondamental de Construct 2 : lorsqu’une condition est remplie dans le jeu (événement), alors le moteur exécute une réaction spécifique (action). Liaison des feuilles d’événements : Apprendre à lier une feuille d’événements (Event Sheet) à un Layout spécifique via les propriétés du niveau. Gestion des sorties de zone : Utilisation de l’événement Is Outside Layout sur le personnage pour déclencher une réaction lorsqu’il tombe hors de l’écran. Navigation entre niveaux : Mise en place d’une interaction utilisateur (clic sur un bouton) pour changer de Layout via l’action Go To Layout. Gestion du Game Over : Modification dynamique d’une action existante pour créer une boucle de gameplay (retour au menu principal au lieu de simplement redémarrer le niveau). Ce qui reste d’actualité aujourd’hui La logique des événements de Construct 2 reste le cœur battant du développement sur Construct 3. Bien que l’interface ait évolué, le concept de “Condition -\u003e Action” et la gestion des feuilles d’événements sont des acquis universels pour tout développeur de jeux 2D. Comprendre comment lier un bouton à un changement de niveau ou gérer la sortie d’un personnage de l’aire de jeu sont des techniques que vous utiliserez dans chacun de vos projets.",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "Événements",
+      "Navigation"
+    ],
+    "title": "2. Événements et navigation : Créer un Game Over",
+    "uri": "/construct-2/tuto-jeu-plateforme/2-evenements-navigation-game-over/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
@@ -61,6 +105,20 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/systeme-construction/2-raytracing-raycasting-blocs-poser/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article est une archive pédagogique du troisième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Gestion des animations : Création et renommage des états d’animation (Pause, Marche) via l’éditeur d’images. Importation de séquences : Intégration des frames d’animation image par image et configuration de la boucle (Loop: Yes) et de la vitesse (Speed). Polygones de collision : Ajustement manuel et précis des zones de collision sur chaque frame pour éviter les saccades visuelles lors du mouvement. Input clavier : Ajout de l’objet Keyboard pour détecter les touches directionnelles. Gestion des états : Utilisation des événements clavier pour basculer entre l’animation “Marche” (appui) et “Pause” (relâchement). Mode miroir : Utilisation de l’action Set Mirrored pour gérer le retournement du personnage sans doubler les assets. Sous-événements complexes : Utilisation de On Landed combiné à Is Moving (inversé ou non) pour gérer la transition fluide entre le saut et le mouvement au sol. Ce qui reste d’actualité aujourd’hui La méthodologie présentée ici est fondamentale : le découpage entre les états (Idle, Run, Jump) et l’utilisation de variables booléennes ou de conditions d’état est la base de n’importe quel moteur de jeu moderne. Bien que les outils de collision soient devenus plus intelligents, le travail manuel sur les “hitboxes” pour garantir un gameplay précis reste une étape clé pour tout développeur 2D. La logique de miroir reste également la méthode la plus efficace pour optimiser le poids de vos jeux.\nExercice pratique (Devoirs) Pour continuer votre apprentissage, je vous invite à :\nCréer des groupes et commenter vos feuilles d’événements pour maintenir une structure propre. Tester l’ajustement des collisions sur l’animation de saut. Expérimenter avec les vitesses d’animation pour trouver le rendu le plus naturel possible. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article est une archive pédagogique du troisième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Gestion des animations : Création et renommage des états d’animation (Pause, Marche) via l’éditeur d’images. Importation de séquences : Intégration des frames d’animation image par image et configuration de la boucle (Loop: Yes) et de la vitesse (Speed). Polygones de collision : Ajustement manuel et précis des zones de collision sur chaque frame pour éviter les saccades visuelles lors du mouvement. Input clavier : Ajout de l’objet Keyboard pour détecter les touches directionnelles. Gestion des états : Utilisation des événements clavier pour basculer entre l’animation “Marche” (appui) et “Pause” (relâchement). Mode miroir : Utilisation de l’action Set Mirrored pour gérer le retournement du personnage sans doubler les assets. Sous-événements complexes : Utilisation de On Landed combiné à Is Moving (inversé ou non) pour gérer la transition fluide entre le saut et le mouvement au sol. Ce qui reste d’actualité aujourd’hui La méthodologie présentée ici est fondamentale : le découpage entre les états (Idle, Run, Jump) et l’utilisation de variables booléennes ou de conditions d’état est la base de n’importe quel moteur de jeu moderne. Bien que les outils de collision soient devenus plus intelligents, le travail manuel sur les “hitboxes” pour garantir un gameplay précis reste une étape clé pour tout développeur 2D. La logique de miroir reste également la méthode la plus efficace pour optimiser le poids de vos jeux.",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "Animation",
+      "Personnage"
+    ],
+    "title": "3. Animations et gestion des états : Créer un personnage vivant",
+    "uri": "/construct-2/tuto-jeu-plateforme/3-animations-gestion-etats-personnage/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
     "content": "Résumé des notions clés Dans ce troisième volet de la série Kawaii Slender, nous passons à la vitesse supérieure en configurant l’accessoire indispensable de tout bon jeu d’horreur : la lampe-torche. Ce tutoriel détaille pas à pas l’intégration de la lumière et la logique d’allumage via les Blueprints :\nIntégration d’un composant de lumière : Ouverture du Blueprint BP_FirstPersonCharacter dans l’onglet Hublot (Viewport). Ajout d’un composant de type Spotlight (nommé lampe), attaché et aligné directement sur la First Person Camera pour s’assurer que le faisceau lumineux suive précisément le regard du joueur. Configuration du système d’Input (UE5 Enhanced Input System) : Création d’une nouvelle Input Action (IA_Lampe) configurée avec un type de valeur booléen (Digital/Boolean), idéale pour un comportement de type bouton pressé/relâché. Ajout d’un déclencheur (Trigger) de type Pressed pour capter l’instant précis où la touche est enfoncée. Enregistrement de la liaison dans le fichier de contexte de mapping (IMC_Default) en associant l’action IA_Lampe à la touche F du clavier. Logique de programmation visuelle (Event Graph) : Utilisation du node de débogage Print String pour tester et valider l’appel de l’action en cours de jeu. Implémentation du node FlipFlop qui permet d’alterner cycliquement l’exécution du code entre deux sorties (A et B) à chaque pression de touche. Manipulation de l’intensité via la fonction Set Intensity sur le composant de la lampe, faisant basculer la valeur entre sa puissance maximale et $0$ (éteinte). Optimisation avec les Variables : Introduction du concept de Promote to Variable pour extraire la valeur brute d’intensité (ex: $5000$) et la stocker dans une variable dédiée nommée Intensité. Cette méthode permet de centraliser le réglage de la puissance de la lampe sans modifier les nodes du script, ouvrant la voie à de futures configurations dans les options du jeu. Expérimentations secondaires présentées pour modifier d’autres paramètres à la volée, comme la couleur du faisceau (Set Light Color). Ce qui reste d’actualité aujourd’hui Les mécaniques et les bonnes pratiques introduites dans cette archive restent de parfaits standards sur les versions modernes d’Unreal Engine 5 :\nL’attachement de composants à la caméra : Lier des sources lumineuses ou des caméras secondaires au composant de vision principal reste la méthode la plus rapide et propre pour simuler une vue à la première personne réaliste. La modularité de l’Enhanced Input System : La séparation stricte entre l’action logique (Input Action) et l’attribution matérielle (Mapping Context) est le fondement de la gestion moderne des contrôles multiplateformes. L’usage des variables de configuration : Exposer des variables (comme Intensité) plutôt que d’écrire des valeurs brutes (“hardcodées”) dans l’Event Graph est une règle d’or en gamedev. Cela fluidifie le game design et s’avère indispensable pour lier vos mécaniques à une interface utilisateur (UI). ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Résumé des notions clés Dans ce troisième volet de la série Kawaii Slender, nous passons à la vitesse supérieure en configurant l’accessoire indispensable de tout bon jeu d’horreur : la lampe-torche. Ce tutoriel détaille pas à pas l’intégration de la lumière et la logique d’allumage via les Blueprints :",
@@ -89,6 +147,20 @@ var relearn_searchindex = [
     ],
     "title": "3. Gestion des Overlaps et Interdiction de Placement",
     "uri": "/unreal-engine-5/systeme-construction/3-overlaps-erreurs-construction/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article est une archive du quatrième tutoriel de la série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Architecture des niveaux : Utilisation d’une feuille d’événement unique (ESJOUEUR) pour tous les niveaux afin d’éviter la duplication de code. Transition de niveau dynamique : Création d’une variable globale Niveau Actuel (valeur initiale : 1) pour suivre la progression. Utilisation de l’action système Go to layout by name combinée avec une concaténation (\"niveau\" \u0026 Niveau Actuel) pour charger automatiquement le layout suivant. Gestion des interactions (Panneaux) : Affichage contextuel d’une infobulle via le changement d’opacité (Set Opacity) lorsque le joueur chevauche le panneau. Utilisation de la touche Espace pour valider le passage au niveau supérieur. Implémentation de pièges : Ajout d’objets Spikes provoquant le redémarrage du niveau ou le retour au menu via une collision. Organisation du projet Pour maintenir une feuille d’événements lisible malgré l’ajout de fonctionnalités, il est fortement conseillé de :\nUtiliser les commentaires : Organisez votre feuille par sections (Fin de niveau, Pièges, etc.) pour une maintenance facilitée. Regrouper les événements : Utilisez la fonction Add Group pour condenser des ensembles d’actions (ex: groupe “Animations”) et gagner de l’espace visuel. Résumé technique pour Hugo Variable Globale : Nive Actuel (Nombre, Initial 1). Logique de chargement : System: Go to layout by name -\u003e \"niveau\" \u0026 Nive Actuel. Optimisation visuelle : Utilisation de Set Opacity (0 à 100) pour des effets de fondu plus élégants que la simple visibilité binaire. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article est une archive du quatrième tutoriel de la série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Architecture des niveaux : Utilisation d’une feuille d’événement unique (ESJOUEUR) pour tous les niveaux afin d’éviter la duplication de code. Transition de niveau dynamique : Création d’une variable globale Niveau Actuel (valeur initiale : 1) pour suivre la progression. Utilisation de l’action système Go to layout by name combinée avec une concaténation (\"niveau\" \u0026 Niveau Actuel) pour charger automatiquement le layout suivant. Gestion des interactions (Panneaux) : Affichage contextuel d’une infobulle via le changement d’opacité (Set Opacity) lorsque le joueur chevauche le panneau. Utilisation de la touche Espace pour valider le passage au niveau supérieur. Implémentation de pièges : Ajout d’objets Spikes provoquant le redémarrage du niveau ou le retour au menu via une collision. Organisation du projet Pour maintenir une feuille d’événements lisible malgré l’ajout de fonctionnalités, il est fortement conseillé de :",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "Niveaux",
+      "Variables Globales"
+    ],
+    "title": "4. Gestion des niveaux, variables et pièges",
+    "uri": "/construct-2/tuto-jeu-plateforme/4-gestion-niveaux-variables-pieges/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
@@ -121,6 +193,20 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/systeme-construction/4-selection-objets-molette-destruction/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article est une archive technique traitant d’une solution spécifique aux problèmes de collision irrégulière dans Construct 2.\nLe problème : Plateformes et formes complexes Dans Construct 2, la gestion des collisions sur des plateformes possédant des trous, des pentes ou des arrondis peut provoquer des erreurs de calcul. Le moteur a parfois du mal à gérer physiquement le personnage sur ces surfaces, entraînant des traversées accidentelles ou des bugs de positionnement.\nLa solution : Utiliser un contrôleur de collision transparent Au lieu de compter sur la forme visuelle complexe de vos plateformes, la technique consiste à créer une couche invisible dédiée à la physique.\nÉtape 1 : Visualisation Allez dans l’onglet View en haut à gauche et cochez Show collision polygons. Cela vous permet de voir les zones réelles où le moteur calcule la collision.\nÉtape 2 : Nettoyage des objets Supprimez le comportement Jump-through de vos objets de décor visuel (plateformes, coins, etc.). Ces objets ne doivent plus gérer la collision eux-mêmes.\nÉtape 3 : Création du contrôleur\nCréez un nouveau Sprite transparent nommé call platform. Définissez son point d’origine à 0,0. Appliquez le comportement Jump-through à cet objet. Étape 4 : Implémentation Placez cet objet call platform par-dessus vos plateformes visuelles. Dupliquez-le pour couvrir toute la surface de jeu où le personnage doit pouvoir marcher.\nConclusion sur les concessions techniques Cette méthode supprime radicalement les bugs de traversée. Il est important de noter qu’il s’agit d’une concession : le personnage peut sembler flotter de quelques pixels sur les bords arrondis. C’est toutefois une solution très robuste pour garantir un gameplay fluide, indépendamment de la puissance de calcul du navigateur du joueur.\nN’oubliez pas de décocher Show collision polygons une fois le travail terminé pour retrouver un affichage propre.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article est une archive technique traitant d’une solution spécifique aux problèmes de collision irrégulière dans Construct 2.\nLe problème : Plateformes et formes complexes Dans Construct 2, la gestion des collisions sur des plateformes possédant des trous, des pentes ou des arrondis peut provoquer des erreurs de calcul. Le moteur a parfois du mal à gérer physiquement le personnage sur ces surfaces, entraînant des traversées accidentelles ou des bugs de positionnement.",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "Debug",
+      "Collision"
+    ],
+    "title": "Correctif: Résoudre les problèmes de collision de plateformes",
+    "uri": "/construct-2/tuto-jeu-plateforme/debug-collisions-plateformes/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
     "content": "Après avoir vu comment gérer l’énergie d’une lampe-torche, nous nous attaquons à un autre pilier du jeu de survie : le système de course et d’endurance (stamina)[cite: 12]. En nous appuyant sur des mécaniques similaires, nous allons adapter et optimiser notre logique pour répondre aux exigences d’un gameplay fluide[cite: 12].\nConcepts clés abordés dans ce tutoriel Configuration fine de l’Enhanced Input System : Création d’une action d’entrée IACourse en mode booléen[cite: 12]. Utilisation du trigger Hold (maintenir la touche) au lieu de Pressed pour un comportement naturel de sprint (le joueur court uniquement quand il maintient la touche Shift gauche)[cite: 12]. Ajustement du Hold Time Threshold à 0.05 seconde pour garantir un déclenchement quasi instantané de la course[cite: 12]. Manipulation des composants de déplacement : Exploitation du composant Character Movement pour modifier dynamiquement les propriétés physiques du personnage[cite: 12]. Altération en temps réel de la variable Max Walk Speed pour faire passer la vitesse de marche (ex: 600) à une vitesse de sprint élevée (ex: 3000)[cite: 12]. Logique de consommation et de régénération : Création des variables de contrôle court (booléen) et endurance (float initialisé à 1.0 pour représenter $100%$)[cite: 12]. Mise en place d’un système de vérification sécurisé (supérieur ou égal à 0.0) pour vider l’endurance uniquement lorsque le joueur est en mouvement[cite: 12]. Création d’un Custom Event augmenter_endurance lié à une boucle temporelle (Set Timer by Event) pour recharger automatiquement la jauge dès que l’action s’arrête[cite: 12]. Contrôle avancé des Timers et validation de flux : Promotion de la valeur de retour du timer en variable de type Timer Handle (Th_Endurance) afin de pouvoir l’identifier dans la mémoire du moteur[cite: 12]. Utilisation des nodes Does Timer Exist by Handle et Clear and Invalidate Timer by Handle pour couper manuellement la régénération et éviter que deux timers contradictoires ne tournent en tâche de fond[cite: 12]. Optimisation par la Vélocité (Condition de mouvement) : Extraction du vecteur 3D via GetVelocity pour vérifier que le joueur se déplace réellement sur les axes $X$, $Y$ ou $Z$[cite: 12]. Utilisation d’un comparateur de vecteur avec une marge d’erreur (Tolerance) pour empêcher l’endurance de se vider si le joueur maintient la touche Shift en restant immobile[cite: 12]. Ce qui reste d’actualité aujourd’hui Les mécaniques implémentées dans cette archive respectent les bonnes pratiques indispensables sur les versions récentes d’Unreal Engine 5 :\nLa maîtrise des Timer Handles : Nettoyer et invalider ses timers (Clear and Invalidate) est une règle d’or en programmation Blueprint. Oublier de tuer un timer de régénération avant de relancer une action crée des conflits logiques et des fuites de performance invisibles mais dévastatrices. Le découplage Input / Vélocité : Se baser uniquement sur la pression d’une touche pour consommer une ressource est une erreur classique de gamedev. Interroger le vecteur de vélocité (GetVelocity) du Character Movement reste la méthode standard et la plus fiable pour corréler une perte d’énergie à un mouvement réel du joueur. L’Enhanced Input System par défaut : L’architecture des Input Actions (IA_) et Input Mapping Contexts (IMC_) introduite ici est désormais le système natif et obligatoire d’UE5, rendant la gestion des comportements comme le Hold extrêmement propre et modulaire. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Après avoir vu comment gérer l’énergie d’une lampe-torche, nous nous attaquons à un autre pilier du jeu de survie : le système de course et d’endurance (stamina)[cite: 12]. En nous appuyant sur des mécaniques similaires, nous allons adapter et optimiser notre logique pour répondre aux exigences d’un gameplay fluide[cite: 12].",
@@ -134,6 +220,20 @@ var relearn_searchindex = [
     ],
     "title": "5. Gestion de la course et de l'endurance (Stamina)",
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/5-variable-sprint-course-stamina/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article est une archive pédagogique du cinquième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Amélioration du Level Design : Conseils pour rendre vos niveaux plus visuels et attrayants en modifiant la disposition des éléments de décor. IA d’ennemi basique : * Mise en place d’un ennemi qui se déplace automatiquement de gauche à droite. Utilisation de la logique de retournement automatique pour simuler une patrouille. Organisation du code : * Introduction aux Groupes d’événements : création d’un groupe dédié (AnimJackEnemy) pour isoler la logique de l’ennemi. Activation/Désactivation des groupes au démarrage pour optimiser la lisibilité et la maintenance du projet. Gestion des bugs de collision : Identification et résolution de problèmes liés aux chutes non désirées à travers les plateformes (complémentaire au tutoriel de debug). Conseils d’organisation pour vos feuilles d’événements À mesure que votre projet gagne en complexité, la structure de votre feuille d’événements devient cruciale :\nRegroupement logique : Ne laissez pas vos événements “flotter” sur la page. Créez des groupes par fonctionnalité (ex: Mouvement Joueur, IA Ennemis, Animations). Gestion d’état : L’activation de groupes au démarrage permet de garder une interface de travail propre et de structurer le comportement de chaque entité de manière indépendante. Exercice pratique Pour cet épisode, l’objectif est de rendre votre niveau moins statique. Essayez d’intégrer au moins deux ennemis ayant des zones de patrouille distinctes et assurez-vous que leurs animations de retournement sont fluides en utilisant les groupes pour organiser vos événements.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article est une archive pédagogique du cinquième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Amélioration du Level Design : Conseils pour rendre vos niveaux plus visuels et attrayants en modifiant la disposition des éléments de décor. IA d’ennemi basique : * Mise en place d’un ennemi qui se déplace automatiquement de gauche à droite. Utilisation de la logique de retournement automatique pour simuler une patrouille. Organisation du code : * Introduction aux Groupes d’événements : création d’un groupe dédié (AnimJackEnemy) pour isoler la logique de l’ennemi. Activation/Désactivation des groupes au démarrage pour optimiser la lisibilité et la maintenance du projet. Gestion des bugs de collision : Identification et résolution de problèmes liés aux chutes non désirées à travers les plateformes (complémentaire au tutoriel de debug). Conseils d’organisation pour vos feuilles d’événements À mesure que votre projet gagne en complexité, la structure de votre feuille d’événements devient cruciale :",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "Ennemi",
+      "Level Design"
+    ],
+    "title": "5. Création d'un ennemi dynamique et aménagement de niveau",
+    "uri": "/construct-2/tuto-jeu-plateforme/5-creation-ennemi-dynamique/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
@@ -151,6 +251,20 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/6-ui-umg-widget-affichage-hud-ue5/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article est une archive pédagogique du sixième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nProgramme de l’épisode Gestion avancée des collisions : Distinguer l’interaction “saut sur l’ennemi” (destruction) de l’interaction “contact latéral” (perte de vie/redémarrage). Interface (HUD) : Création d’une interface fixe pour afficher la vie (cœurs) et le score. Optimisation UI : Utilisation du comportement Anchor pour maintenir l’interface à l’écran pendant le défilement. Ajout d’objets : Intégration de pièces à collecter. Logique des collisions (Feuille d’événement) Pour gérer la différence entre écraser un ennemi et se faire toucher, on utilise des sous-événements basés sur l’état vertical du joueur :\nÉvénement principal : Player -\u003e On collision with another object -\u003e Ennemi. Sous-événement 1 (Destruction) : Player -\u003e Platform Is Falling. Action : Ennemi -\u003e Destroy. Sous-événement 2 (Mort/Reset) : Player -\u003e Platform Is Falling (Inversé). Action : System -\u003e Restart layout. Configuration de l’interface (HUD) Calque dédié : Création d’un calque nommé HUD pour séparer l’interface des éléments de jeu. Comportement Anchor : Pour éviter que les éléments de l’interface ne disparaissent lors du déplacement de la caméra, ajoutez le comportement Anchor à chaque objet (barre de vie, texte de score). Cela verrouille les éléments par rapport aux bords de la fenêtre de jeu. Taille : Ajustement manuel des Tiled Backgrounds et des objets texte pour assurer une présentation cohérente et alignée. Exercice pour la suite Préparez vos éléments de score et vos icônes de pièces. Assurez-vous que votre calque HUD est bien isolé et que les ancrages sont correctement configurés sur les quatre coins ou bords de l’écran. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article est une archive pédagogique du sixième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nProgramme de l’épisode Gestion avancée des collisions : Distinguer l’interaction “saut sur l’ennemi” (destruction) de l’interaction “contact latéral” (perte de vie/redémarrage). Interface (HUD) : Création d’une interface fixe pour afficher la vie (cœurs) et le score. Optimisation UI : Utilisation du comportement Anchor pour maintenir l’interface à l’écran pendant le défilement. Ajout d’objets : Intégration de pièces à collecter. Logique des collisions (Feuille d’événement) Pour gérer la différence entre écraser un ennemi et se faire toucher, on utilise des sous-événements basés sur l’état vertical du joueur :",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "HUD",
+      "Collisions"
+    ],
+    "title": "6. Gestion des collisions, HUD et interface",
+    "uri": "/construct-2/tuto-jeu-plateforme/6-gestion-collisions-hud/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
     "content": "Dans ce septième volet de la série Kawaii Slender, nous passons à une étape essentielle du gameplay : l’interaction avec l’environnement. Nous allons voir comment permettre au joueur de cibler et de ramasser des objets au sol (des burgers Low-Poly) pour incrémenter un système de score, tout en ajustant la lisibilité de notre scène nocturne.\nConcepts clés abordés dans ce tutoriel Amélioration de la lisibilité et de la jouabilité (Quality of Life) : Ajout d’une source lumineuse subtile de type Point Light attachée de manière permanente au joueur. Cette technique permet de conserver une ambiance générale très sombre et oppressante (torche éteinte) tout en offrant un rayon de visibilité minimal pour que le joueur puisse se déplacer et repérer les éléments interactifs sans frustration. Détection par tir de rayon invisible (Line Trace / Raycast) : Utilisation du node Line Trace By Channel pour projeter un rayon invisible depuis le centre de la caméra (notre viseur). Calcul des coordonnées vectorielles : définition du point de départ (Start) via la position de la caméra, et du point d’arrivée (End) en multipliant le vecteur de direction (Get Forward Vector) par une variable de distance maximale d’interaction (ex: 200 à 300 unités). Configuration du mode de débogage (Draw Debug Type) sur For One Frame ou For Duration pour matérialiser le rayon rouge/vert à l’écran et valider visuellement les collisions. Identification et interaction avec les objets (Hit Result) : Exploitation de la structure de retour Out Hit pour extraire l’identité précise de l’entité survolée. Utilisation du node Break Hit Result pour isoler le composant touché (Hit Actor). Implémentation d’un filtre d’identité via un moulage (Cast to BP_Burger) pour s’assurer que le rayon n’interagit qu’avec les objets collectables et ignore les murs ou le décor. Logique de collecte et destruction d’acteurs : Appel de la fonction Destroy Actor sur l’objet ciblé dès que le joueur presse la touche d’interaction et que le Cast est validé. Déclenchement de micro-mécaniques associées (effets sonores Play Sound 2D ou déclenchement de particules au point d’impact). Mise à jour du Score et liaison UMG : Création d’une variable entière Score (ou BurgersRamassés) au sein du Blueprint du personnage. Utilisation de l’opérateur d’incrémentation ++ ou d’une addition basique pour ajouter une unité à chaque ramassage réussi. Intégration d’un nouveau bloc de texte (Text Block) dans notre interface existante (WBP_MainUI), positionné en bas à droite de l’écran grâce aux ancres, et lié dynamiquement à la variable de score du joueur avec un node de conversion automatique Integer to Text. Ce qui reste d’actualité aujourd’hui Les mécaniques de détection et de ciblage implémentées dans cette archive restent de parfaits standards de développement sur Unreal Engine 5 :\nLe Line Trace comme pilier de l’interaction : Qu’il s’agisse d’ouvrir une porte, de ramasser un objet, de lire une note ou de tirer avec une arme à feu, le node Line Trace By Channel (Raycast) reste la méthode la plus précise, légère et universelle pour gérer l’interaction à la première personne. Le filtrage par Cast ou par Interface : Utiliser un node de Cast en sortie d’un Hit Result est parfait pour prototyper rapidement l’identification d’un objet. Pour des projets à plus grande échelle, cette logique évolue naturellement vers les Blueprint Interfaces (BPI), mais la structure mathématique du tir de rayon reste identique. L’affichage dynamique des données textuelles : Lier un champ de texte UMG à une variable mise en cache dans le profil du personnage demeure la méthode la plus rapide pour afficher des compteurs (score, munitions, clés) de manière fluide et synchronisée. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce septième volet de la série Kawaii Slender, nous passons à une étape essentielle du gameplay : l’interaction avec l’environnement. Nous allons voir comment permettre au joueur de cibler et de ramasser des objets au sol (des burgers Low-Poly) pour incrémenter un système de score, tout en ajustant la lisibilité de notre scène nocturne.",
@@ -164,6 +278,20 @@ var relearn_searchindex = [
     ],
     "title": "7. Ramassage d'objets (Raycast), système de score et éclairage d'ambiance",
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/7-ramassage-objet-score-points-compteur/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article traite d’un correctif rapide (hors-série) concernant un bug d’animation où le personnage conservait l’animation “marche” après l’atterrissage si la touche de direction était relâchée juste avant le contact avec le sol.\nLe Problème Lorsqu’un joueur saute et relâche la touche directionnelle (gauche ou droite) avant d’atterrir, l’animation de marche restait bloquée en boucle jusqu’à ce qu’une nouvelle action soit entreprise.\nSolution : Utilisation des entrées clavier Au lieu de baser l’animation de marche uniquement sur l’état de mouvement du personnage, nous allons conditionner l’animation à l’état réel des touches du clavier.\nÉtapes de modification dans la feuille d’événements (ES Joueur) : Suppression de l’ancienne logique : Identifiez et supprimez l’événement qui déclenchait l’animation de marche basé sur le mouvement générique du personnage. Création des sous-événements : Sous votre condition d’atterrissage, créez deux sous-événements utilisant l’objet Keyboard : Sous-événement A : Keyboard -\u003e Key is down -\u003e Right Arrow. Action : Régler l’animation sur Marche. Sous-événement B : Copiez le sous-événement précédent, puis modifiez la touche pour Left Arrow (Keyboard -\u003e Key is down -\u003e Left Arrow). Action : Conservez l’animation Marche (le miroir sera géré automatiquement par vos autres événements). Pourquoi cette méthode ? En vérifiant directement l’état des touches (Key is down) plutôt que l’état de mouvement du moteur physique, on s’assure que l’animation “Marche” ne s’exécute que si le joueur maintient volontairement une direction. Si les touches sont relâchées avant l’atterrissage, la condition n’est plus remplie et le bug d’animation en boucle disparaît.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article traite d’un correctif rapide (hors-série) concernant un bug d’animation où le personnage conservait l’animation “marche” après l’atterrissage si la touche de direction était relâchée juste avant le contact avec le sol.\nLe Problème Lorsqu’un joueur saute et relâche la touche directionnelle (gauche ou droite) avant d’atterrir, l’animation de marche restait bloquée en boucle jusqu’à ce qu’une nouvelle action soit entreprise.",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "Animation",
+      "Bug Fix"
+    ],
+    "title": "Correctif: Animation de marche persistante à l'atterrissage",
+    "uri": "/construct-2/tuto-jeu-plateforme/correctif-animation-atterrissage/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
@@ -181,6 +309,20 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/8-ia-behavior-tree-blackboard-ennemi/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article est une archive pédagogique du septième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Variables globales : Utilisation de variables pour suivre l’état du joueur (Score et Vie). Gestion des pièces : * Détection de collision entre le joueur et l’objet Pièce. Destruction de la pièce après contact. Incrémentation de la variable globale Score et mise à jour de l’affichage textuel (HUD). IA d’ennemi et dégâts : Système de “double collision” : saut sur l’ennemi (destruction) vs contact latéral (perte de vie). Soustraction d’une valeur à la variable Vie lors d’un contact non létal. Condition de défaite (Game Over) : Vérification de la valeur de la variable Vie après chaque impact. Si Vie \u003c= 0, déclenchement de l’action Restart Layout. Logique des variables dans Construct 2 La gestion des données est au cœur de cet épisode. Voici la structure logique recommandée pour vos événements :\nIncrémentation (Score) :\nÉvénement : Joueur \u003e On collision with Pièce Action : Système \u003e Add to Score (ex: +10) Action : HUD_TexteScore \u003e Set text à \"Score : \" \u0026 Score Décrémentation (Vie) :\nÉvénement : Joueur \u003e On collision with Ennemi (seulement si contact latéral) Action : Système \u003e Subtract from Vie (1) Action : Vérification : Si Vie \u003c= 0 alors Restart Layout Conseils d’optimisation Modularité : En utilisant des variables globales, vous permettez au score de persister entre différents layouts si vous le souhaitez. HUD dynamique : Assurez-vous que vos objets texte sont rafraîchis à chaque modification de variable pour que l’interface soit toujours synchronisée avec l’état réel du jeu. Feedback visuel : N’hésitez pas à ajouter une petite animation ou un son lors de la collecte des pièces pour renforcer le ressenti (game feel) du joueur. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article est une archive pédagogique du septième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Variables globales : Utilisation de variables pour suivre l’état du joueur (Score et Vie). Gestion des pièces : * Détection de collision entre le joueur et l’objet Pièce. Destruction de la pièce après contact. Incrémentation de la variable globale Score et mise à jour de l’affichage textuel (HUD). IA d’ennemi et dégâts : Système de “double collision” : saut sur l’ennemi (destruction) vs contact latéral (perte de vie). Soustraction d’une valeur à la variable Vie lors d’un contact non létal. Condition de défaite (Game Over) : Vérification de la valeur de la variable Vie après chaque impact. Si Vie \u003c= 0, déclenchement de l’action Restart Layout. Logique des variables dans Construct 2 La gestion des données est au cœur de cet épisode. Voici la structure logique recommandée pour vos événements :",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "Score",
+      "Variables"
+    ],
+    "title": "7. Système de vie et gestion des scores",
+    "uri": "/construct-2/tuto-jeu-plateforme/7-gestion-vie-score/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
     "content": "Dans ce neuvième volet de la série Kawaii Slender, nous concrétisons le travail architectural débuté dans l’épisode précédent. Nous allons connecter la structure logique de notre arbre de comportement (Behavior Tree) à la vue 3D de notre ennemi (la créature gallinacée maléfique). Pour cela, nous configurons le système de perception natif d’Unreal Engine afin que l’IA puisse repérer visuellement le joueur et basculer en mode chasse.\nConcepts clés abordés dans ce tutoriel Mise en place d’un AI Controller dédié : Création d’une classe de Blueprint héritant d’AI Controller (AIC_Slender). Ce script fait office de pilote invisible pour notre créature. Liaison de l’IA au personnage : configuration du paramètre AI Controller Class dans le Blueprint du monstre (BP_Slender) pour s’assurer qu’il s’exécute automatiquement dès l’apparition du personnage sur la carte. Intégration du composant AI Perception : Ajout du composant AIPerception au sein de l’AI Controller pour lui donner des capacités sensorielles. Configuration du sens de la vue (AI Sight Config) : définition de l’angle de vision périphérique (Lose Sight Radius et Sight Radius à 3000 unités) et filtrage des cibles par affiliation (détection des entités neutres, amies ou ennemies). Création de la logique de détection (Perception Updates) : Exploitation de l’événement On Target Perception Updated qui se déclenche dès qu’un élément entre ou sort du champ de vision de l’IA. Utilisation du node Break AIStimulus pour interroger la structure des données sensorielles et récupérer la valeur booléenne Successfully Sensed (vrai si l’IA voit la cible, faux si elle la perd de vue). Alimentation dynamique du Blackboard : Initialisation et lancement de l’arbre de comportement via le node Run Behavior Tree lors du Begin Play de l’AI Controller. Utilisation du node Set Value as Boolean pour injecter l’état de détection de la cible directement dans la clé VoitJoueur de notre Blackboard. Ce changement de valeur force instantanément l’aiguillage du Behavior Tree entre la patrouille aléatoire et la poursuite. Résolution des collisions et navigation (NavMesh) : Rappel de l’importance du volume NavMeshBoundsVolume pour générer les zones de déplacement de l’IA. Ajustement des paramètres du composant Capsule Component du monstre et de ses composants physiques pour éviter que l’IA ne se bloque ou ne repousse brutalement les burgers interactifs présents au sol. Ce qui reste d’actualité aujourd’hui Les paradigmes de détection et de contrôle des IA présentés dans cette archive s’appliquent fidèlement sur les versions modernes d’Unreal Engine 5 :\nLa supériorité de l’AI Perception face aux Traces : Utiliser le composant AIPerception reste la méthode standard et optimisée de l’industrie pour gérer la détection sensorielle (vue, ouïe, toucher). C’est un système asynchrone natif bien plus léger pour le CPU que d’exécuter des boucles de tir de rayons (Line Traces) à chaque frame dans le script du monstre. Le découplage par AI Controller : Séparer l’enveloppe corporelle (le Character Mesh et ses animations) de sa logique décisionnelle (l’AI Controller) est une règle architecturale d’or sur Unreal Engine. Cela permet de modifier le comportement ou de réutiliser le même esprit d’IA sur des monstres visuellement différents sans réécrire le code. Le pilotage par événement du Blackboard : Modifier les clés du Blackboard uniquement lorsqu’un événement sensoriel se produit (On Target Perception Updated) plutôt que d’interroger la distance du joueur en continu garantit un code propre, performant et parfaitement adapté au débogage visuel via l’outil de diagnostic de l’IA d’Unreal. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce neuvième volet de la série Kawaii Slender, nous concrétisons le travail architectural débuté dans l’épisode précédent. Nous allons connecter la structure logique de notre arbre de comportement (Behavior Tree) à la vue 3D de notre ennemi (la créature gallinacée maléfique). Pour cela, nous configurons le système de perception natif d’Unreal Engine afin que l’IA puisse repérer visuellement le joueur et basculer en mode chasse.",
@@ -194,6 +336,20 @@ var relearn_searchindex = [
     ],
     "title": "9. Perception sensorielle de l'IA (AI Perception) et activation du Slender",
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/9-ai-perception-detection-vision-ecoute-suivre/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article détaille la création d’un système de score global et par niveau, ainsi que la sauvegarde de session via l’objet Web Storage de Construct 2.\n1. Configuration des variables globales Dans votre feuille d’événements ES Menu, créez deux variables globales (clic droit \u003e Add global variable) :\nscore_actuel (nombre, initialisé à 0) : Pour le score global de la session. score_niveau (nombre, initialisé à 0) : Pour le suivi du score accumulé dans le niveau en cours. 2. Intégration du Web Storage Pour conserver les données entre les différents layouts :\nAjoutez l’objet Web Storage dans votre projet (disponible pour tous les layouts). Dans ES Menu sur l’événement System \u003e On start of layout : Action : Web Storage \u003e Set local value. Key : \"WS_score_actuel\" Value : score_actuel Toujours dans On start of layout, mettez à jour votre objet texte T_score_actuel pour afficher la valeur stockée : Action : T_score_actuel \u003e Set text à WebStorage.LocalValue(\"WS_score_actuel\"). 3. Gestion du score dans le jeu (ES Joueur) Le score doit évoluer en fonction des actions du joueur et des changements de niveau :\nInitialisation : Au lancement du niveau (On start of layout), synchronisez la variable d’instance du joueur avec le score du niveau : Action : S_Perso \u003e Set value (Jscore) à score_niveau. Changement de niveau : Avant de changer de layout, mettez à jour la variable globale : Action : System \u003e Set value (score_niveau) à S_Perso.Jscore. Gestion de la mort : Lors de chaque condition de mort (chute, ennemi, pics), enregistrez le score actuel : Action : System \u003e Set value (score_actuel) à S_Perso.Jscore. 4. Réinitialisation Pour garantir que le score repart à zéro lors d’un retour au menu principal après une mort :\nDans ES Menu, ajoutez une action dans On start of layout : Action : System \u003e Set value (score_niveau) à 0. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article détaille la création d’un système de score global et par niveau, ainsi que la sauvegarde de session via l’objet Web Storage de Construct 2.\n1. Configuration des variables globales Dans votre feuille d’événements ES Menu, créez deux variables globales (clic droit \u003e Add global variable) :",
+    "tags": [
+      "Construct 2",
+      "Tutoriel",
+      "Game Dev",
+      "Score",
+      "Web Storage"
+    ],
+    "title": "8. Système de score et persistance des données",
+    "uri": "/construct-2/tuto-jeu-plateforme/8-systeme-score-web-storage/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
@@ -211,6 +367,20 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/10-slender-animations-3d-spacialisation-sonore-blendspace/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article est une archive corrective visant à mettre à jour la méthode de persistance des données (WebStorage), suite à des changements dans les versions de Construct 2.\nPourquoi ce patch ? Dans les versions initiales de Construct 2 (il y a plusieurs années), l’utilisation de l’objet WebStorage était la méthode standard pour conserver des données comme le score ou le nom d’utilisateur entre deux layouts. Ce tutoriel patch explique comment adapter cette logique pour assurer la compatibilité avec les versions plus récentes du moteur.\nPoints clés du patch Rappel du WebStorage : L’objet permet de stocker des données côté navigateur de façon persistante. Il est idéal pour sauvegarder le score de session ou le niveau atteint. Mise à jour de la logique : Si votre version de Construct 2 présente des incompatibilités avec l’ancienne manipulation de l’objet WebStorage, ce correctif détaille comment réinitialiser les clés de stockage lors du démarrage du layout (On start of layout) pour éviter les conflits de données. Test de persistance : Le tutoriel démontre comment vérifier que le score est correctement transmis entre le niveau de jeu et l’écran de Game Over ou le menu principal. Rappel technique Pour une persistance efficace :\nDéclaration : Assurez-vous que l’objet WebStorage est bien présent dans votre projet. Stockage : Utilisez l’action Set local value pour enregistrer vos variables globales. Récupération : Utilisez l’expression WebStorage.LocalValue(\"NOM_DE_VOTRE_CLE\") pour afficher les données sauvegardées. Nettoyage : Si vous changez de session de jeu (ex: retour au menu principal), prévoyez une action pour remettre à zéro vos variables globales et les clés du WebStorage pour éviter que le score du joueur précédent ne soit conservé. Ce qui reste d’actualité La logique de sauvegarde locale via le navigateur reste une compétence clé pour tout projet Web. Même si les outils ont évolué, le principe de stocker une valeur dans une “clé” et de la récupérer plus tard est une notion fondamentale du développement web et applicatif.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article est une archive corrective visant à mettre à jour la méthode de persistance des données (WebStorage), suite à des changements dans les versions de Construct 2.\nPourquoi ce patch ? Dans les versions initiales de Construct 2 (il y a plusieurs années), l’utilisation de l’objet WebStorage était la méthode standard pour conserver des données comme le score ou le nom d’utilisateur entre deux layouts. Ce tutoriel patch explique comment adapter cette logique pour assurer la compatibilité avec les versions plus récentes du moteur.",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "WebStorage",
+      "Patch"
+    ],
+    "title": "Patch : Mise à jour du système WebStorage",
+    "uri": "/construct-2/tuto-jeu-plateforme/patch-mise-a-jour-webstorage/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
     "content": "Maintenant que notre poulet géant est pleinement animé et capable de nous traquer à l’oreille et à la vue, il est temps de gérer la confrontation. Dans ce onzième épisode, nous mettons en place la mécanique de défaite : la détection du contact entre l’ennemi et le joueur, suivie du déclenchement d’un effet physique de mort en Ragdoll pour désarticuler notre personnage.\nConcepts clés abordés dans ce tutoriel Gestion des masques et canaux de collision : Configuration des profils de collision (Collision Presets) pour s’assurer que le monstre et le joueur s’impactent correctement. Ajustement des boîtes de collision pour éviter que l’IA ne passe à travers le joueur ou ne pousse involontairement les objets collectables (burgers) éparpillés sur la carte. Détection de l’impact (Capsule Overlap) : Utilisation de l’événement On Component Begin Overlap à partir de la capsule de collision de l’IA (BP_Slender). Filtrage de la collision : utilisation d’un node de moulage (Cast to BP_FirstPersonCharacter) sur le paramètre Other Actor pour valider que c’est bien le joueur qui a été touché, et non un pan de décor. Déclenchement et bascule en mode Ragdoll : Utilisation du node Set Simulate Physics appliqué au composant Mesh (le corps) du personnage principal pour couper les animations programmées et laisser la physique d’Unreal prendre le relais. Modification du profil de collision du Mesh via le node Set Collision Profile Name pour le passer en mode Ragdoll. Cette étape est cruciale pour que les membres du corps réagissent correctement avec le sol et les obstacles lors de la chute. Désactivation des contrôles et détachement de la caméra : Appel de la fonction Disable Movement sur le composant Character Movement pour figer instantanément les déplacements du joueur. Utilisation du node Detach From Component sur la caméra à la première personne. En rompant le lien de parenté hiérarchique entre la caméra et la capsule de collision, on permet à la caméra de suivre naturellement la chute inerte du corps au sol au lieu de rester figée en l’air. Ce qui reste d’actualité aujourd’hui Les mécaniques de gestion physique et de fin de partie présentées dans cette archive respectent les standards techniques d’Unreal Engine 5 :\nLa robustesse du flux Overlap -\u003e Cast : Utiliser les événements d’Overlap de capsule combinés à un filtre d’identité (Casting) reste la méthode la plus légère et la plus fiable en gamedev pour déclencher des scripts de proximité ou d’attaque (pièges, zones de mort, coups au corps à corps). Le flux de travail Ragdoll standard : Passer un Skeletal Mesh en simulation physique (Set Simulate Physics) tout en adaptant son profil de collision à la volée demeure la méthode universelle sous UE5 pour gérer les morts réalistes, les KO ou les projections physiques de personnages. Le découplage de la caméra à la mort : Détacher la caméra de la capsule du joueur lors du décès est une technique de mise en scène incontournable. Elle permet d’éviter l’effet “caméra flottante” et offre une transition visuelle dramatique indispensable avant l’apparition d’un écran de type Game Over. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Maintenant que notre poulet géant est pleinement animé et capable de nous traquer à l’oreille et à la vue, il est temps de gérer la confrontation. Dans ce onzième épisode, nous mettons en place la mécanique de défaite : la détection du contact entre l’ennemi et le joueur, suivie du déclenchement d’un effet physique de mort en Ragdoll pour désarticuler notre personnage.",
@@ -224,6 +394,20 @@ var relearn_searchindex = [
     ],
     "title": "11. Gestion des collisions et effet de mort en Ragdoll",
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/11-attaque-ennemie-ragdoll-physique-unreal/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Note : Cet article est une archive pédagogique du neuvième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Saisie utilisateur : Insertion d’un objet TextBox sur le calque HUD du menu pour permettre au joueur de taper un code. Gestion des données avec le Dictionary : Utilisation de l’objet Dictionary pour associer une clé (le code saisi) à une valeur (le nom du Layout/niveau correspondant). Navigation dynamique : Mise en place d’une logique conditionnelle pour le bouton “Jouer” : Si le champ est vide : Chargement du niveau par défaut. Si un code est saisi : Chargement du niveau associé via l’action Go to layout by name. Récupération de valeur : Utilisation de l’expression Dictionary.Get(tbcode.Text) pour automatiser le basculement vers le bon niveau. Configuration technique du Dictionary Pour que le système fonctionne, la déclaration des codes doit se faire dès le lancement du menu :\nÉvénement : System \u003e On start of layout. Action : Dictionary \u003e AddKey (ou SetKey). Key : “CODE_NIVEAU_2” (par exemple). Value : “Niveau 2” (le nom exact de votre layout dans l’arborescence du projet). Conseils d’implémentation Expérience utilisateur : Pensez à activer l’option Case insensitive sur vos comparaisons de texte pour que le joueur ne soit pas bloqué par une erreur de casse. Erreur de saisie : Le système de Go to layout by name est sécurisé : si le dictionnaire ne trouve pas de correspondance pour le code tapé, le changement de niveau ne se déclenche pas, évitant ainsi les plantages. Communication : N’oubliez pas d’afficher les codes de niveau dans vos décors (panneaux, messages) pour que les joueurs puissent les mémoriser. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Note : Cet article est une archive pédagogique du neuvième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Saisie utilisateur : Insertion d’un objet TextBox sur le calque HUD du menu pour permettre au joueur de taper un code. Gestion des données avec le Dictionary : Utilisation de l’objet Dictionary pour associer une clé (le code saisi) à une valeur (le nom du Layout/niveau correspondant). Navigation dynamique : Mise en place d’une logique conditionnelle pour le bouton “Jouer” : Si le champ est vide : Chargement du niveau par défaut. Si un code est saisi : Chargement du niveau associé via l’action Go to layout by name. Récupération de valeur : Utilisation de l’expression Dictionary.Get(tbcode.Text) pour automatiser le basculement vers le bon niveau. Configuration technique du Dictionary Pour que le système fonctionne, la déclaration des codes doit se faire dès le lancement du menu :",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "Navigation",
+      "Dictionary"
+    ],
+    "title": "9. Système de codes de niveau",
+    "uri": "/construct-2/tuto-jeu-plateforme/9-systeme-codes-niveaux/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
@@ -307,6 +491,270 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Créer un jeu vidéo",
     "uri": "/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Introduction de la vidéo / de l’article Écris ton contenu ici en utilisant le format Markdown…\n1. Première étape 2. Deuxième étape 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Introduction de la vidéo / de l’article Écris ton contenu ici en utilisant le format Markdown…\n1. Première étape 2. Deuxième étape 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "tags": [],
+    "title": "Tuto15",
+    "uri": "/construct-2/tuto-jeu-plateforme/tuto15/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Introduction de la vidéo / de l’article Écris ton contenu ici en utilisant le format Markdown…\n1. Première étape 2. Deuxième étape 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Introduction de la vidéo / de l’article Écris ton contenu ici en utilisant le format Markdown…\n1. Première étape 2. Deuxième étape 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "tags": [],
+    "title": "Tuto12",
+    "uri": "/construct-2/tuto-jeu-plateforme/tuto12/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Introduction de la vidéo / de l’article Écris ton contenu ici en utilisant le format Markdown…\n1. Première étape 2. Deuxième étape 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Introduction de la vidéo / de l’article Écris ton contenu ici en utilisant le format Markdown…\n1. Première étape 2. Deuxième étape 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "tags": [],
+    "title": "Tuto11",
+    "uri": "/construct-2/tuto-jeu-plateforme/tuto11/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Jeu Plateforme",
+    "content": "Introduction de la vidéo / de l’article Écris ton contenu ici en utilisant le format Markdown…\n1. Première étape 2. Deuxième étape 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Introduction de la vidéo / de l’article Écris ton contenu ici en utilisant le format Markdown…\n1. Première étape 2. Deuxième étape 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "tags": [],
+    "title": "Tuto10",
+    "uri": "/construct-2/tuto-jeu-plateforme/tuto10/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Animation",
+    "uri": "/tags/animation/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Archive",
+    "uri": "/categories/archive/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Bug Fix",
+    "uri": "/categories/bug-fix/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Bug Fix",
+    "uri": "/tags/bug-fix/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Categories",
+    "uri": "/categories/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Collision",
+    "uri": "/tags/collision/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Collisions",
+    "uri": "/tags/collisions/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Construct 2",
+    "uri": "/tags/construct-2/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Debug",
+    "uri": "/tags/debug/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Développement",
+    "uri": "/categories/d%C3%A9veloppement/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Dictionary",
+    "uri": "/tags/dictionary/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Ennemi",
+    "uri": "/tags/ennemi/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Événements",
+    "uri": "/tags/%C3%A9v%C3%A9nements/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Game Dev",
+    "uri": "/tags/game-dev/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: HUD",
+    "uri": "/tags/hud/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Level Design",
+    "uri": "/tags/level-design/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Navigation",
+    "uri": "/tags/navigation/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Niveaux",
+    "uri": "/tags/niveaux/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Patch",
+    "uri": "/tags/patch/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Personnage",
+    "uri": "/tags/personnage/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Plateforme",
+    "uri": "/tags/plateforme/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Retro",
+    "uri": "/tags/retro/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Score",
+    "uri": "/tags/score/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tags",
+    "uri": "/tags/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Tutoriel",
+    "uri": "/tags/tutoriel/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Variables",
+    "uri": "/tags/variables/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Variables Globales",
+    "uri": "/tags/variables-globales/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Web Storage",
+    "uri": "/tags/web-storage/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: WebStorage",
+    "uri": "/tags/webstorage/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo",
@@ -449,22 +897,6 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Créer un jeu vidéo",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tags",
-    "uri": "/tags/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Tutoriel",
-    "uri": "/tags/tutoriel/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo",
     "content": "Devenir Développeur de Jeux Vidéo avec Unreal Engine 5 : Le Guide Complet Bienvenue sur le hub ultime dédié à l’apprentissage d’Unreal Engine 5 (UE5). Que vous soyez un créateur indépendant débutant, un étudiant en programmation ou un passionné de modélisation 3D, notre série de tutoriels pratiques vous donne toutes les clés pour concevoir, programmer et éditer vos propres prototypes de jeux vidéo de manière totalement autonome.\nPour vous éviter la théorie abstraite, notre méthode pédagogique repose entièrement sur la pratique à travers un projet concret et immersif : la création intégrale d’un jeu de survie et d’horreur de type Slender-like (baptisé Kawaii Slender). De l’ouverture d’un projet vierge jusqu’au bouton d’exportation final, vous allez bâtir chaque brique de votre jeu.\n🧭 Pourquoi choisir Unreal Engine 5 pour vos projets indépendants ? Unreal Engine 5 s’est imposé comme la référence absolue de l’industrie du jeu vidéo grâce à sa puissance visuelle et l’accessibilité de ses outils. Même pour un développeur solo ou une petite équipe, UE5 permet d’atteindre des résultats professionnels sans aligner des milliers de lignes de code complexe. Grâce au système de Blueprints (la programmation visuelle d’Epic Games), vous apprenez la logique algorithmique, la gestion des variables et la physique des moteurs 3D à l’aide de nodes simples et intuitifs.\nToutefois, la maîtrise d’une telle machine demande de la méthode. C’est pourquoi notre cursus complet est découpé en trois grands axes techniques indispensables à tout bon Game Designer.\n🛠️ Le Programme de Formation : Maîtriser les Systèmes d’UE5 1. Programmation de Gameplay \u0026 Systèmes de Jeu (Blueprints) La base de tout jeu vidéo réside dans ses mécaniques de gameplay. Dans cette première partie, vous apprendrez à configurer les bases techniques essentielles :\nContrôles du joueur : Intégration et paramétrage d’une caméra à la première personne (FPS). Système d’interaction : Création de triggers de collision dynamiques pour concevoir un système de ramassage d’objets (clés, pages, collectibles). Logique de données : Gestion des variables, des compteurs et des structures de conditions pour déclencher automatiquement la victoire ou la défaite du joueur. Interfaces Utilisateurs (UI) : Conception de menus interactifs (Menu Principal, écran de pause, Game Over) et de HUD dynamiques avec l’outil UMG (Unreal Motion Graphics). 2. Level Design, Éclairage et Narration Environnementale Créer un jeu vidéo, c’est aussi savoir raconter une histoire à travers des décors soignés et optimisés :\nSculpture de terrain (Landscape) : Modelage de cartes en relief 3D et application de matériaux de sol réalistes mélangés (herbe, roche, boue). Outil Foliage \u0026 Optimisation : Création d’une forêt dense et organique (arbres, buissons, fougères) et gestion rigoureuse des performances grâce aux systèmes de niveaux de détails (LODs). Ambiance Nocturne \u0026 Shaders : Configuration d’un éclairage dynamique réaliste, gestion du brouillard de distance (Exponential Height Fog), création de la lampe torche du joueur et développement d’un shader de lanterne doté d’une lumière vacillante (Flickering Light). 3. Intelligence Artificielle (IA) et Effets Spéciaux Donnez de la vie (ou de la terreur) à votre univers de jeu :\nNavigation des IA (NavMesh) : Définition des zones de déplacement de vos monstres ou personnages non-joueurs (PNJ). Comportement de traque : Programmation d’une Intelligence Artificielle prédatrice capable de chasser le joueur de manière autonome à travers la topographie de la carte. Systèmes de Particules (Niagara) : Ajout d’effets visuels d’ambiance et micro-particules (moucherons, lucioles autonomes) pour enrichir l’atmosphère visuelle. Spatialisation Audio : Intégration de pistes sonores et d’effets de bruitages 3D pour renforcer l’immersion psychologique. 🚀 De l’Éditeur à l’Exécutable : Distribuer votre Jeu Vidéo Le but ultime de tout développeur est de voir son jeu tourner en dehors de l’éditeur d’Epic Games. La fin de notre parcours est entièrement dédiée à la technique du Packaging.\nVous apprendrez à configurer l’environnement de développement requis, notamment l’intégration obligatoire du compilateur Visual Studio Community. Vous découvrirez comment nettoyer vos fichiers de projet, configurer vos cartes de démarrage par défaut et basculer votre build du mode Development vers le mode Shipping. Ce mode indispensable permet de compiler un jeu propre, optimisé pour les performances du joueur final, débarrassé des scripts de débug et sécurisé contre la triche. À vous le build autonome (fichier .exe) prêt à être partagé à vos proches ou publié sur des plateformes comme Itch.io !\n📚 Explorez nos Cours et Tutoriels Unreal Engine 5 Prêt à sauter le pas et à lancer votre premier projet ? Plongez dans nos guides détaillés étape par étape. Chaque tutoriel inclut la vidéo explicative et le résumé textuel des notions clés pour vous accompagner au pixel près dans vos créations.\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Devenez développeur de jeux vidéo indépendant avec mes cours et tutoriels gratuits sur Unreal Engine 5. Apprenez le Blueprint, l'IA, le Level Design et compilez votre premier jeu.",
     "tags": [],
@@ -486,13 +918,5 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Unreal Engine 5",
     "uri": "/tags/unreal-engine-5/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Categories",
-    "uri": "/categories/index.html"
   }
 ]

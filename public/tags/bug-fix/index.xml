@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bug Fix :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/bug-fix/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bug-fix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Correctif: Animation de marche persistante à l&#39;atterrissage</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/correctif-animation-atterrissage/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/correctif-animation-atterrissage/index.html</guid>
+      <description>Note : Cet article traite d’un correctif rapide (hors-série) concernant un bug d’animation où le personnage conservait l’animation “marche” après l’atterrissage si la touche de direction était relâchée juste avant le contact avec le sol.&#xA;Le Problème Lorsqu’un joueur saute et relâche la touche directionnelle (gauche ou droite) avant d’atterrir, l’animation de marche restait bloquée en boucle jusqu’à ce qu’une nouvelle action soit entreprise.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html id="R-html" lang="fr-fr" dir="ltr" itemscope itemtype="http://schema.org/Article" data-r-output-format="html">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.152.2">
+    <meta name="generator" content="Relearn 9.0.3+36307e4ed23582638ab689240ac7b427217803ee">
+    <meta name="description" content="Note : Cet article détaille la création d’un système de score global et par niveau, ainsi que la sauvegarde de session via l’objet Web Storage de Construct 2.
+1. Configuration des variables globales Dans votre feuille d’événements ES Menu, créez deux variables globales (clic droit &gt; Add global variable) :">
+    <meta name="author" content="">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="8. Système de score et persistance des données :: Créer un jeu vidéo">
+    <meta name="twitter:description" content="Note : Cet article détaille la création d’un système de score global et par niveau, ainsi que la sauvegarde de session via l’objet Web Storage de Construct 2.
+1. Configuration des variables globales Dans votre feuille d’événements ES Menu, créez deux variables globales (clic droit &gt; Add global variable) :">
+    <meta property="og:url" content="http://localhost:1313/construct-2/tuto-jeu-plateforme/8-systeme-score-web-storage/index.html">
+    <meta property="og:site_name" content="Créer un jeu vidéo">
+    <meta property="og:title" content="8. Système de score et persistance des données :: Créer un jeu vidéo">
+    <meta property="og:description" content="Note : Cet article détaille la création d’un système de score global et par niveau, ainsi que la sauvegarde de session via l’objet Web Storage de Construct 2.
+1. Configuration des variables globales Dans votre feuille d’événements ES Menu, créez deux variables globales (clic droit &gt; Add global variable) :">
+    <meta property="og:locale" content="fr_fr">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="Construct 2">
+    <meta property="article:published_time" content="2026-06-13T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-06-13T00:00:00+00:00">
+    <meta property="article:tag" content="Construct 2">
+    <meta property="article:tag" content="Tutoriel">
+    <meta property="article:tag" content="Game Dev">
+    <meta property="article:tag" content="Score">
+    <meta property="article:tag" content="Web Storage">
+    <meta itemprop="name" content="8. Système de score et persistance des données :: Créer un jeu vidéo">
+    <meta itemprop="description" content="Note : Cet article détaille la création d’un système de score global et par niveau, ainsi que la sauvegarde de session via l’objet Web Storage de Construct 2.
+1. Configuration des variables globales Dans votre feuille d’événements ES Menu, créez deux variables globales (clic droit &gt; Add global variable) :">
+    <meta itemprop="datePublished" content="2026-06-13T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2026-06-13T00:00:00+00:00">
+    <meta itemprop="wordCount" content="351">
+    <meta itemprop="keywords" content="Construct 2,Tutoriel,Game Dev,Score,Web Storage">
+    <title>8. Système de score et persistance des données :: Créer un jeu vidéo</title>
+    <link href="/css/auto-complete/auto-complete.min.css?1781338909" rel="stylesheet">
+    <script src="/js/auto-complete/auto-complete.min.js?1781338909" defer></script>
+    <script src="/js/search-lunr.js?1781338909" defer></script>
+    <script src="/js/search.js?1781338909" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.index_js_url="/searchindex.en.js?1781338909";
+    </script>
+    <script src="/js/lunr/lunr.min.js?1781338909" defer></script>
+    <script src="/js/lunr/lunr.stemmer.support.min.js?1781338909" defer></script>
+    <script src="/js/lunr/lunr.multi.min.js?1781338909" defer></script>
+    <script src="/js/lunr/lunr.fr.min.js?1781338909" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.contentLangs=['fr'];
+    </script>
+    <link href="/fonts/fontawesome/css/all.min.css?1781338909" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/all.min.css?1781338909" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1781338909" rel="stylesheet">
+    <link href="/css/theme.css?1781338909" rel="stylesheet">
+    <link href="/css/format-html.css?1781338909" rel="stylesheet" id="R-format-style">
+    <script>
+      window.relearn = window.relearn || {};
+      // configuration
+      window.relearn.min = ``;
+      window.relearn.path='\/construct-2\/tuto-jeu-plateforme\/8-systeme-score-web-storage\/index.html';
+      window.relearn.relBasePath='..\/..\/..';
+      window.relearn.relBaseUri='..\/..\/..';
+      window.relearn.absBaseUri='http:\/\/localhost:1313';
+      window.relearn.disableInlineCopyToClipboard=false;
+      window.relearn.enableBlockCodeWrap=true;
+      // translations
+      window.T_Copy_to_clipboard = `Copy text to clipboard`;
+      window.T_Copied_to_clipboard = `Text copied to clipboard!`;
+      window.T_Link_copied_to_clipboard = `Link copied to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+      window.T_Browser_unsupported_feature = `This browser doesn't support this feature`;
+      // variant stuff
+      window.relearn.themevariants = [ 'relearn-dark', 'relearn-light' ];
+      window.relearn.customvariantprefix = "my-custom-";
+      window.relearn.changeVariant = function(variant) {
+        var oldVariant = document.documentElement.dataset.rThemeVariant;
+        window.localStorage.setItem(window.relearn.absBaseUri + "/variant", variant);
+        document.documentElement.dataset.rThemeVariant = variant;
+        if (oldVariant != variant) {
+          document.dispatchEvent( new CustomEvent('themeVariantLoaded', { detail: { variant, oldVariant } }) );
+          window.relearn.markVariant();
+        }
+      }
+      window.relearn.markVariant = function() {
+        var variant = window.localStorage.getItem(window.relearn.absBaseUri + "/variant");
+        document.querySelectorAll(".R-variantswitcher select").forEach((select) => {select.value = variant;});
+      }
+      window.relearn.initVariant = function() {
+        var variant = window.localStorage.getItem(window.relearn.absBaseUri + "/variant") ?? "";
+        if( !variant ||
+            (!variant.startsWith(window.relearn.customvariantprefix) && !window.relearn.themevariants.includes(variant)) ||
+            (variant.startsWith(window.relearn.customvariantprefix) && !window.localStorage.getItem(window.relearn.absBaseUri + "/variantstylesheet-" + variant)) ){
+          variant = window.relearn.themevariants[0];
+          window.localStorage.setItem(window.relearn.absBaseUri + "/variant", variant);
+        }
+        document.documentElement.dataset.rThemeVariant = variant;
+      }
+      window.relearn.initVariant();
+      window.relearn.markVariant();
+    </script>
+  </head>
+  <body class="mobile-support html" data-origin="/construct-2/tuto-jeu-plateforme/8-systeme-score-web-storage/index.html">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar" class="default-animation">
+        <div class="topbar-wrapper default-animation">
+          <div class="topbar-sidebar-divider default-animation"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar default-animation" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button></span>
+            </div>
+            <div class="topbar-button topbar-button-toc default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="Table of Contents (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-table-list"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+<nav class="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#1-configuration-des-variables-globales">1. Configuration des variables globales</a></li>
+        <li><a href="#2-intégration-du-web-storage">2. Intégration du Web Storage</a></li>
+        <li><a href="#3-gestion-du-score-dans-le-jeu-es-joueur">3. Gestion du score dans le jeu (ES Joueur)</a></li>
+        <li><a href="#4-réinitialisation">4. Réinitialisation</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+                </div>
+              </div>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/index.html"><span itemprop="name">Créer un jeu vidéo</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/construct-2/index.html"><span itemprop="name">Construct 2</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/construct-2/tuto-jeu-plateforme/index.html"><span itemprop="name">Apprendre la création de jeux vidéo avec Construct 2</span></a><meta itemprop="position" content="3">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">8. Système de score et persistance des données</span><meta itemprop="position" content="4"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/construct-2/tuto-jeu-plateforme/7-gestion-vie-score/index.html" title="7. Système de vie et gestion des scores (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-next default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/construct-2/tuto-jeu-plateforme/patch-mise-a-jour-webstorage/index.html" title="Patch : Mise à jour du système WebStorage (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-more default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+                  <div class="topbar-area topbar-area-more" data-area="more">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable construct-2" tabindex="-1">
+        <div class="flex-block-wrapper">
+<article class="default">
+  <header class="headline">
+<div class="R-taxonomy taxonomy-tags cstyle tags" title="Tags" style="--VARIABLE-TAGS-BG-color: var(--INTERNAL-TAG-BG-color);">
+  <i class="fa-fw fas fa-layer-group"></i>
+  <ul>
+    <li><a class="term-link" href="/tags/construct-2/index.html">Construct 2</a></li>
+    <li><a class="term-link" href="/tags/game-dev/index.html">Game Dev</a></li>
+    <li><a class="term-link" href="/tags/score/index.html">Score</a></li>
+    <li><a class="term-link" href="/tags/tutoriel/index.html">Tutoriel</a></li>
+    <li><a class="term-link" href="/tags/web-storage/index.html">Web Storage</a></li>
+  </ul>
+</div>
+  </header>
+
+<h1 id="8-système-de-score-et-persistance-des-données">8. Système de score et persistance des données</h1>
+
+<blockquote>
+<p><strong>Note :</strong> Cet article détaille la création d&rsquo;un système de score global et par niveau, ainsi que la sauvegarde de session via l&rsquo;objet <em>Web Storage</em> de Construct 2.</p>
+</blockquote>
+
+<div class="youtube-privacy-wrapper" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <iframe 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/BGQoPxLLeF0" 
+        title="YouTube video player" 
+        loading="lazy"
+        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/BGQoPxLLeF0?autoplay=1><img src=https://img.youtube.com/vi/BGQoPxLLeF0/hqdefault.jpg alt='Vidéo YouTube'><span>▶</span></a>"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+<h3 id="1-configuration-des-variables-globales">1. Configuration des variables globales<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Dans votre feuille d&rsquo;événements <code>ES Menu</code>, créez deux variables globales (clic droit &gt; Add global variable) :</p>
+<ul>
+<li><strong>score_actuel</strong> (nombre, initialisé à 0) : Pour le score global de la session.</li>
+<li><strong>score_niveau</strong> (nombre, initialisé à 0) : Pour le suivi du score accumulé dans le niveau en cours.</li>
+</ul>
+<h3 id="2-intégration-du-web-storage">2. Intégration du Web Storage<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Pour conserver les données entre les différents layouts :</p>
+<ol>
+<li>Ajoutez l&rsquo;objet <strong>Web Storage</strong> dans votre projet (disponible pour tous les layouts).</li>
+<li>Dans <code>ES Menu</code> sur l&rsquo;événement <code>System &gt; On start of layout</code> :
+<ul>
+<li>Action : <code>Web Storage &gt; Set local value</code>.</li>
+<li><strong>Key :</strong> <code>&quot;WS_score_actuel&quot;</code></li>
+<li><strong>Value :</strong> <code>score_actuel</code></li>
+</ul>
+</li>
+<li>Toujours dans <code>On start of layout</code>, mettez à jour votre objet texte <code>T_score_actuel</code> pour afficher la valeur stockée :
+<ul>
+<li>Action : <code>T_score_actuel &gt; Set text</code> à <code>WebStorage.LocalValue(&quot;WS_score_actuel&quot;)</code>.</li>
+</ul>
+</li>
+</ol>
+<h3 id="3-gestion-du-score-dans-le-jeu-es-joueur">3. Gestion du score dans le jeu (ES Joueur)<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Le score doit évoluer en fonction des actions du joueur et des changements de niveau :</p>
+<ul>
+<li><strong>Initialisation :</strong> Au lancement du niveau (<code>On start of layout</code>), synchronisez la variable d&rsquo;instance du joueur avec le score du niveau :
+<ul>
+<li>Action : <code>S_Perso &gt; Set value (Jscore)</code> à <code>score_niveau</code>.</li>
+</ul>
+</li>
+<li><strong>Changement de niveau :</strong> Avant de changer de layout, mettez à jour la variable globale :
+<ul>
+<li>Action : <code>System &gt; Set value (score_niveau)</code> à <code>S_Perso.Jscore</code>.</li>
+</ul>
+</li>
+<li><strong>Gestion de la mort :</strong> Lors de chaque condition de mort (chute, ennemi, pics), enregistrez le score actuel :
+<ul>
+<li>Action : <code>System &gt; Set value (score_actuel)</code> à <code>S_Perso.Jscore</code>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-réinitialisation">4. Réinitialisation<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Pour garantir que le score repart à zéro lors d&rsquo;un retour au menu principal après une mort :</p>
+<ul>
+<li>Dans <code>ES Menu</code>, ajoutez une action dans <code>On start of layout</code> :
+<ul>
+<li>Action : <code>System &gt; Set value (score_niveau)</code> à <code>0</code>.</li>
+</ul>
+</li>
+</ul>
+
+<div class="footer-nav" style="display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
+    
+    
+    <a href="/construct-2/tuto-jeu-plateforme/7-gestion-vie-score" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1.2rem; border: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); border-radius: 6px; text-decoration: none; color: var(--MAIN-TITLES-color); font-weight: 500; font-size: 0.85rem; background: rgba(0,0,0,0.02); transition: background 0.2s;">
+        ⬅️ Vidéo Précédente
+    </a>
+    
+
+    
+    <a href="/construct-2/tuto-jeu-plateforme/patch-mise-a-jour-webstorage" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1.2rem; border: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); border-radius: 6px; text-decoration: none; color: var(--MAIN-TITLES-color); font-weight: 500; font-size: 0.85rem; background: rgba(0,0,0,0.02); transition: background 0.2s;">
+        Vidéo Suivante ➡️
+    </a>
+    
+    
+</div>
+
+
+<hr style="margin-top: 1.5rem; border: 0; border-top: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); opacity: 0.5;">
+
+<div class="custom-footer" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 2rem; padding-bottom: 2rem; font-size: 0.9rem; color: var(--MAIN-TITLES-color);">
+    
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">📺 Ma Chaîne YouTube</h4>
+        <a href="https://www.youtube.com/@creerunjeuvideo" target="_blank" rel="noopener" style="display: inline-block; background: #ff0000; color: #fff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: bold; font-size: 0.85rem;">
+            S'abonner à la chaîne
+        </a>
+    </div>
+
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">📦 Ressources</h4>
+        <a href="https://jeancharpentier.itch.io/ressources-tutoriels" target="_blank" rel="noopener" style="display: inline-block; background: #4400ff; color: #fff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: bold; font-size: 0.85rem;">
+            Téléchargements
+        </a>
+    </div>
+
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">🌐 Communauté</h4>
+        <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
+            <li><a href="https://github.com/JeanCharpentier/" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">💻 GitHub</a></li>
+            <li><a href="https://bsky.app/profile/ankhm.bsky.social" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">🦋 Bluesky</a></li>
+            <li><a href="https://fr.linkedin.com/in/jeancharpentier" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">💼 LinkedIn</a></li>
+            <li><a href="https://www.twitch.tv/levieuxankh" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">👾 Chaîne Twitch</a></li>
+        </ul>
+    </div>
+
+</div>
+
+<div style="border-top: 1px dashed var(--INTERNAL-MENU-BORDER-color, #e5e5e5); padding-top: 1rem; margin-top: 1rem; font-size: 0.8rem; opacity: 0.7; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+    <div>
+        &copy; 2026 - Créé avec ❤️ sous Hugo & Relearn.
+    </div>
+    <div>
+        <a href="/mentions-legales/" style="color: inherit; margin-right: 1rem;">Mentions légales</a>
+        <a href="/confidentialite/" style="color: inherit;">Confidentialité (RGPD)</a>
+    </div>
+</div>
+
+  <footer class="footline">
+              <i class='fa-fw fas fa-calendar'></i> Jun 13, 2026
+<div class="R-taxonomy taxonomy-categories cstyle" title="Categories" style="--VARIABLE-TAGS-BG-color: var(--INTERNAL-TAG-BG-color);">
+  <i class="fa-fw fas fa-layer-group"></i>
+  <ul>
+    <li><a class="term-link" href="/categories/archive/index.html">Archive</a></li>
+  </ul>
+</div>
+  </footer>
+</article>
+        </div>
+      </main>
+    </div>
+    <aside id="R-sidebar" class="default-animation">
+      <div id="R-header-topbar" class="default-animation"></div>
+      <div id="R-header-wrapper" class="default-animation">
+        <a id="R-logo" class="R-default direction-row" href="/index.html">
+          <span class="logo-title default-animation">Créer un jeu vidéo</span>
+        </a>
+        <search><form action="/search/index.html" method="get">
+          <div class="searchbox default-animation">
+            <button class="search-detail" type="submit" title="Search (CTRL+ALT+f)"><i class="fas fa-fw fa-search"></i></button>
+            <label class="a11y-only" for="R-search-by">Search</label>
+            <input data-search-input id="R-search-by" name="search-by" class="search-by" type="search" placeholder="Search...">
+            <button class="search-clear" type="button" data-search-clear="" title="Clear search"><i class="fas fa-fw fa-times" title="Clear search"></i></button>
+          </div>
+        </form></search>
+      </div>
+      <div id="R-homelinks" class="default-animation homelinks">
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-homelinks default-animation">
+          <ul class="space collapsible-menu">
+            <li class="" data-nav-id="/index.html"><a class="padding" href="/index.html"><i class="fa-fw fas fa-home"></i> Home</a></li>
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-headercontrols default-animation">
+          <ul class="">
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+      </div>
+      <div id="R-content-wrapper" class="highlightable">
+        <div class="R-sidebarmenu R-shortcutmenu-main default-animation">
+          <ul class="enlarge morespace collapsible-menu">
+            <li class="parent " data-nav-id="/construct-2/index.html"><a class="padding default-animation" href="/construct-2/index.html">Construct 2</a><ul id="R-subsections-cce4b606b0538b1d55c0d58eee48e27a" class="collapsible-menu">
+            <li class="parent alwaysopen " data-nav-id="/construct-2/tuto-jeu-plateforme/index.html"><a class="padding default-animation" href="/construct-2/tuto-jeu-plateforme/index.html">Apprendre la création de jeux vidéo avec Construct 2</a><ul id="R-subsections-04245fa432d33ae3fbfe91743dc8faa4" class="collapsible-menu">
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/1-creation-personnage-plateforme-c2/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/1-creation-personnage-plateforme-c2/index.html">1. Création d&#39;un personnage de plateforme</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/2-evenements-navigation-game-over/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/2-evenements-navigation-game-over/index.html">2. Événements et navigation : Créer un Game Over</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/3-animations-gestion-etats-personnage/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/3-animations-gestion-etats-personnage/index.html">3. Animations et gestion des états : Créer un personnage vivant</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/4-gestion-niveaux-variables-pieges/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/4-gestion-niveaux-variables-pieges/index.html">4. Gestion des niveaux, variables et pièges</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/debug-collisions-plateformes/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/debug-collisions-plateformes/index.html">Correctif: Résoudre les problèmes de collision de plateformes</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/5-creation-ennemi-dynamique/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/5-creation-ennemi-dynamique/index.html">5. Création d&#39;un ennemi dynamique et aménagement de niveau</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/6-gestion-collisions-hud/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/6-gestion-collisions-hud/index.html">6. Gestion des collisions, HUD et interface</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/correctif-animation-atterrissage/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/correctif-animation-atterrissage/index.html">Correctif: Animation de marche persistante à l&#39;atterrissage</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/7-gestion-vie-score/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/7-gestion-vie-score/index.html">7. Système de vie et gestion des scores</a></li>
+            <li class="active " data-nav-id="/construct-2/tuto-jeu-plateforme/8-systeme-score-web-storage/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/8-systeme-score-web-storage/index.html">8. Système de score et persistance des données</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/patch-mise-a-jour-webstorage/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/patch-mise-a-jour-webstorage/index.html">Patch : Mise à jour du système WebStorage</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/9-systeme-codes-niveaux/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/9-systeme-codes-niveaux/index.html">9. Système de codes de niveau</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/10-integration-son-effets-audio/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/10-integration-son-effets-audio/index.html">10. Intégration du son et effets audio</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/11-finalisation-deploiement-web/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/11-finalisation-deploiement-web/index.html">11. Finalisation et déploiement Web</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/11bis-hebergement-web-jeu-construct-2/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/11bis-hebergement-web-jeu-construct-2/index.html">11Bis. Hébergement Web de vos jeux</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-jeu-plateforme/12-systeme-pieges-ligne-vue/index.html"><a class="padding" href="/construct-2/tuto-jeu-plateforme/12-systeme-pieges-ligne-vue/index.html">12. Système de pièges et détection de ligne de vue</a></li></ul></li></ul></li>
+            <li class="" data-nav-id="/unreal-engine-5/index.html"><a class="padding default-animation" href="/unreal-engine-5/index.html">Tutoriels Unreal Engine 5</a><ul id="R-subsections-7ba934a6d645a707dda7263d6f637014" class="collapsible-menu"></ul></li>
+          </ul>
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-shortcuts default-animation">
+          <ul class="space collapsible-menu">
+          </ul>
+        </div>
+        <div id="R-footer-margin" class="default-animation"></div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-footercontrols default-animation">
+          <ul class="">
+            <li class="R-variantswitcher">
+              <div class="padding menu-control">
+                <i class="fa-fw fas fa-paint-brush"></i>
+                <span>&nbsp;</span>
+                <div class="control-style">
+                  <label class="a11y-only" for="R-select-variant">Theme</label>
+                  <select id="R-select-variant">
+                    <option id="R-select-variant-relearn-dark" value="relearn-dark" selected>Relearn Dark</option>
+                    <option id="R-select-variant-relearn-light" value="relearn-light">Relearn Light</option>
+                  </select>
+                </div>
+                <div class="clear"></div>
+              </div>
+              <script>window.relearn.markVariant();</script>
+            </li>
+          </ul>
+        </div>
+<div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
+      </div>
+    </aside>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1781338909" defer></script>
+    <script src="/js/theme.js?1781338909" defer></script>
+    <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
+  </body>
+</html>

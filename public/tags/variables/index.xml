@@ -6,21 +6,14 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/variables/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3. Création d&#39;une lampe-torche et système d&#39;allumage</title>
-      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-03/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-03/index.html</guid>
-      <description>Résumé des notions clés Dans ce troisième volet de la série Kawaii Slender, nous passons à la vitesse supérieure en configurant l’accessoire indispensable de tout bon jeu d’horreur : la lampe-torche. Ce tutoriel détaille pas à pas l’intégration de la lumière et la logique d’allumage via les Blueprints :</description>
-    </item>
-    <item>
-      <title>4. Gestion d&#39;une batterie et cycle de rechargement automatique</title>
-      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-04/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-04/index.html</guid>
-      <description>Dans ce quatrième volet de la série Kawaii Slender, nous faisons évoluer notre mécanique de lampe-torche rudimentaire en y ajoutant une gestion dynamique et systémique : une jauge de batterie “magique” qui se décharge à l’utilisation et se régénère automatiquement au fil du temps lorsque la lampe est éteinte.</description>
+      <title>7. Système de vie et gestion des scores</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/7-gestion-vie-score/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/7-gestion-vie-score/index.html</guid>
+      <description>Note : Cet article est une archive pédagogique du septième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Variables globales : Utilisation de variables pour suivre l’état du joueur (Score et Vie). Gestion des pièces : * Détection de collision entre le joueur et l’objet Pièce. Destruction de la pièce après contact. Incrémentation de la variable globale Score et mise à jour de l’affichage textuel (HUD). IA d’ennemi et dégâts : Système de “double collision” : saut sur l’ennemi (destruction) vs contact latéral (perte de vie). Soustraction d’une valeur à la variable Vie lors d’un contact non létal. Condition de défaite (Game Over) : Vérification de la valeur de la variable Vie après chaque impact. Si Vie &lt;= 0, déclenchement de l’action Restart Layout. Logique des variables dans Construct 2 La gestion des données est au cœur de cet épisode. Voici la structure logique recommandée pour vos événements :</description>
     </item>
   </channel>
 </rss>

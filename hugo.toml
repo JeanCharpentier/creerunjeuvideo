@@ -4,5 +4,8 @@ title = 'Créer un jeu vidéo'
 
 theme = 'hugo-theme-relearn'
 
+[params]
+  themeVariant = ['relearn-dark', 'relearn-light']
+
 [outputs]
   home = ["HTML", "RSS", "SEARCH"] # Active la barre de recherche intégrée de Relearn

@@ -1,0 +1,36 @@
+---
+title: "3. Animations et gestion des états : Créer un personnage vivant"
+date: 2026-06-13
+weight: 3
+categories: ["Archive"]
+tags: ["Construct 2", "Game Dev", "Tutoriel", "Animation", "Personnage"]
+prev_url: "/construct-2/tuto-jeu-plateforme/2-evenements-navigation-game-over"
+next_url: "/construct-2/tuto-jeu-plateforme/4-gestion-niveaux-variables-pieges"
+---
+
+> **Note :** Cet article est une archive pédagogique du troisième épisode de ma série sur la création d'un jeu de plateforme avec Construct 2.
+
+{{< youtube-rgpd "LheAhT-EUvg" >}}
+
+### Points clés abordés
+
+* **Gestion des animations :** Création et renommage des états d'animation (Pause, Marche) via l'éditeur d'images.
+* **Importation de séquences :** Intégration des frames d'animation image par image et configuration de la boucle (*Loop: Yes*) et de la vitesse (*Speed*).
+* **Polygones de collision :** Ajustement manuel et précis des zones de collision sur chaque frame pour éviter les saccades visuelles lors du mouvement.
+* **Input clavier :** Ajout de l'objet *Keyboard* pour détecter les touches directionnelles.
+* **Gestion des états :** Utilisation des événements clavier pour basculer entre l'animation "Marche" (appui) et "Pause" (relâchement).
+* **Mode miroir :** Utilisation de l'action *Set Mirrored* pour gérer le retournement du personnage sans doubler les assets.
+* **Sous-événements complexes :** Utilisation de *On Landed* combiné à *Is Moving* (inversé ou non) pour gérer la transition fluide entre le saut et le mouvement au sol.
+
+### Ce qui reste d'actualité aujourd'hui
+
+La méthodologie présentée ici est fondamentale : le découpage entre les états (Idle, Run, Jump) et l'utilisation de variables booléennes ou de conditions d'état est la base de n'importe quel moteur de jeu moderne. Bien que les outils de collision soient devenus plus intelligents, le travail manuel sur les "hitboxes" pour garantir un gameplay précis reste une étape clé pour tout développeur 2D. La logique de miroir reste également la méthode la plus efficace pour optimiser le poids de vos jeux.
+
+### Exercice pratique (Devoirs)
+
+Pour continuer votre apprentissage, je vous invite à :
+* Créer des groupes et commenter vos feuilles d'événements pour maintenir une structure propre.
+* Tester l'ajustement des collisions sur l'animation de saut.
+* Expérimenter avec les vitesses d'animation pour trouver le rendu le plus naturel possible.
+
+{{< footer >}}

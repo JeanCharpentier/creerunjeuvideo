@@ -6,14 +6,21 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/animation/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>10. Animations et spatialisation sonore de l&#39;IA (Blend Space 1D &amp; Animation Blueprint)</title>
-      <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-10/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/slender-10/index.html</guid>
-      <description>Dans ce dixième volet de la série Kawaii Slender, nous passons à la phase de polissage visuel et sonore de notre antagoniste. Maintenant que notre poulet géant est capable de nous traquer logiquement grâce à son arbre de comportement, nous allons lui donner corps en synchronisant ses postures physiques (marche, course, repos) à sa vitesse réelle et en intégrant des bruitages spatialisés pour accentuer la tension dramatique.</description>
+      <title>3. Animations et gestion des états : Créer un personnage vivant</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/3-animations-gestion-etats-personnage/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/3-animations-gestion-etats-personnage/index.html</guid>
+      <description>Note : Cet article est une archive pédagogique du troisième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Gestion des animations : Création et renommage des états d’animation (Pause, Marche) via l’éditeur d’images. Importation de séquences : Intégration des frames d’animation image par image et configuration de la boucle (Loop: Yes) et de la vitesse (Speed). Polygones de collision : Ajustement manuel et précis des zones de collision sur chaque frame pour éviter les saccades visuelles lors du mouvement. Input clavier : Ajout de l’objet Keyboard pour détecter les touches directionnelles. Gestion des états : Utilisation des événements clavier pour basculer entre l’animation “Marche” (appui) et “Pause” (relâchement). Mode miroir : Utilisation de l’action Set Mirrored pour gérer le retournement du personnage sans doubler les assets. Sous-événements complexes : Utilisation de On Landed combiné à Is Moving (inversé ou non) pour gérer la transition fluide entre le saut et le mouvement au sol. Ce qui reste d’actualité aujourd’hui La méthodologie présentée ici est fondamentale : le découpage entre les états (Idle, Run, Jump) et l’utilisation de variables booléennes ou de conditions d’état est la base de n’importe quel moteur de jeu moderne. Bien que les outils de collision soient devenus plus intelligents, le travail manuel sur les “hitboxes” pour garantir un gameplay précis reste une étape clé pour tout développeur 2D. La logique de miroir reste également la méthode la plus efficace pour optimiser le poids de vos jeux.</description>
+    </item>
+    <item>
+      <title>Correctif: Animation de marche persistante à l&#39;atterrissage</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/correctif-animation-atterrissage/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/correctif-animation-atterrissage/index.html</guid>
+      <description>Note : Cet article traite d’un correctif rapide (hors-série) concernant un bug d’animation où le personnage conservait l’animation “marche” après l’atterrissage si la touche de direction était relâchée juste avant le contact avec le sol.&#xA;Le Problème Lorsqu’un joueur saute et relâche la touche directionnelle (gauche ou droite) avant d’atterrir, l’animation de marche restait bloquée en boucle jusqu’à ce qu’une nouvelle action soit entreprise.</description>
     </item>
   </channel>
 </rss>
