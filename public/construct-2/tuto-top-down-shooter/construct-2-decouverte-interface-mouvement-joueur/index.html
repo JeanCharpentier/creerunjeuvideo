@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html id="R-html" lang="fr-fr" dir="ltr" itemscope itemtype="http://schema.org/Article" data-r-output-format="html">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.152.2">
+    <meta name="generator" content="Relearn 9.0.3+36307e4ed23582638ab689240ac7b427217803ee">
+    <meta name="description" content="Bienvenue dans cette série de tutoriels dédiée à la création de jeux en HTML5 avec Construct 2 ! Cet épisode inaugural vous guide à travers les premières étapes cruciales : la découverte de l’interface, la configuration de votre projet, et l’implémentation du tout premier mouvement de votre personnage.">
+    <meta name="author" content="">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Construct 2 : Découverte de l&#39;Interface et Premier Mouvement du Joueur :: Créer un jeu vidéo">
+    <meta name="twitter:description" content="Bienvenue dans cette série de tutoriels dédiée à la création de jeux en HTML5 avec Construct 2 ! Cet épisode inaugural vous guide à travers les premières étapes cruciales : la découverte de l’interface, la configuration de votre projet, et l’implémentation du tout premier mouvement de votre personnage.">
+    <meta property="og:url" content="http://localhost:1313/construct-2/tuto-top-down-shooter/construct-2-decouverte-interface-mouvement-joueur/index.html">
+    <meta property="og:site_name" content="Créer un jeu vidéo">
+    <meta property="og:title" content="Construct 2 : Découverte de l&#39;Interface et Premier Mouvement du Joueur :: Créer un jeu vidéo">
+    <meta property="og:description" content="Bienvenue dans cette série de tutoriels dédiée à la création de jeux en HTML5 avec Construct 2 ! Cet épisode inaugural vous guide à travers les premières étapes cruciales : la découverte de l’interface, la configuration de votre projet, et l’implémentation du tout premier mouvement de votre personnage.">
+    <meta property="og:locale" content="fr_fr">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="Construct 2">
+    <meta property="article:published_time" content="2023-10-27T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-10-27T00:00:00+00:00">
+    <meta property="article:tag" content="Construct 2">
+    <meta property="article:tag" content="HTML5">
+    <meta property="article:tag" content="Game Development">
+    <meta property="article:tag" content="Tutoriel">
+    <meta property="article:tag" content="Débutant">
+    <meta property="article:tag" content="Interface">
+    <meta itemprop="name" content="Construct 2 : Découverte de l&#39;Interface et Premier Mouvement du Joueur :: Créer un jeu vidéo">
+    <meta itemprop="description" content="Bienvenue dans cette série de tutoriels dédiée à la création de jeux en HTML5 avec Construct 2 ! Cet épisode inaugural vous guide à travers les premières étapes cruciales : la découverte de l’interface, la configuration de votre projet, et l’implémentation du tout premier mouvement de votre personnage.">
+    <meta itemprop="datePublished" content="2023-10-27T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2023-10-27T00:00:00+00:00">
+    <meta itemprop="wordCount" content="713">
+    <meta itemprop="keywords" content="Construct 2,HTML5,Game Development,Tutoriel,Débutant,Interface,Comportements,Sprite,Layers,Mouvement,Top Down Shooter">
+    <title>Construct 2 : Découverte de l&#39;Interface et Premier Mouvement du Joueur :: Créer un jeu vidéo</title>
+    <link href="/css/auto-complete/auto-complete.min.css?1781341490" rel="stylesheet">
+    <script src="/js/auto-complete/auto-complete.min.js?1781341490" defer></script>
+    <script src="/js/search-lunr.js?1781341490" defer></script>
+    <script src="/js/search.js?1781341490" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.index_js_url="/searchindex.en.js?1781341490";
+    </script>
+    <script src="/js/lunr/lunr.min.js?1781341490" defer></script>
+    <script src="/js/lunr/lunr.stemmer.support.min.js?1781341490" defer></script>
+    <script src="/js/lunr/lunr.multi.min.js?1781341490" defer></script>
+    <script src="/js/lunr/lunr.fr.min.js?1781341490" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.contentLangs=['fr'];
+    </script>
+    <link href="/fonts/fontawesome/css/all.min.css?1781341490" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/all.min.css?1781341490" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1781341490" rel="stylesheet">
+    <link href="/css/theme.css?1781341490" rel="stylesheet">
+    <link href="/css/format-html.css?1781341490" rel="stylesheet" id="R-format-style">
+    <script>
+      window.relearn = window.relearn || {};
+      // configuration
+      window.relearn.min = ``;
+      window.relearn.path='\/construct-2\/tuto-top-down-shooter\/construct-2-decouverte-interface-mouvement-joueur\/index.html';
+      window.relearn.relBasePath='..\/..\/..';
+      window.relearn.relBaseUri='..\/..\/..';
+      window.relearn.absBaseUri='http:\/\/localhost:1313';
+      window.relearn.disableInlineCopyToClipboard=false;
+      window.relearn.enableBlockCodeWrap=true;
+      // translations
+      window.T_Copy_to_clipboard = `Copy text to clipboard`;
+      window.T_Copied_to_clipboard = `Text copied to clipboard!`;
+      window.T_Link_copied_to_clipboard = `Link copied to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+      window.T_Browser_unsupported_feature = `This browser doesn't support this feature`;
+      // variant stuff
+      window.relearn.themevariants = [ 'relearn-dark', 'relearn-light' ];
+      window.relearn.customvariantprefix = "my-custom-";
+      window.relearn.changeVariant = function(variant) {
+        var oldVariant = document.documentElement.dataset.rThemeVariant;
+        window.localStorage.setItem(window.relearn.absBaseUri + "/variant", variant);
+        document.documentElement.dataset.rThemeVariant = variant;
+        if (oldVariant != variant) {
+          document.dispatchEvent( new CustomEvent('themeVariantLoaded', { detail: { variant, oldVariant } }) );
+          window.relearn.markVariant();
+        }
+      }
+      window.relearn.markVariant = function() {
+        var variant = window.localStorage.getItem(window.relearn.absBaseUri + "/variant");
+        document.querySelectorAll(".R-variantswitcher select").forEach((select) => {select.value = variant;});
+      }
+      window.relearn.initVariant = function() {
+        var variant = window.localStorage.getItem(window.relearn.absBaseUri + "/variant") ?? "";
+        if( !variant ||
+            (!variant.startsWith(window.relearn.customvariantprefix) && !window.relearn.themevariants.includes(variant)) ||
+            (variant.startsWith(window.relearn.customvariantprefix) && !window.localStorage.getItem(window.relearn.absBaseUri + "/variantstylesheet-" + variant)) ){
+          variant = window.relearn.themevariants[0];
+          window.localStorage.setItem(window.relearn.absBaseUri + "/variant", variant);
+        }
+        document.documentElement.dataset.rThemeVariant = variant;
+      }
+      window.relearn.initVariant();
+      window.relearn.markVariant();
+    </script>
+  </head>
+  <body class="mobile-support html" data-origin="/construct-2/tuto-top-down-shooter/construct-2-decouverte-interface-mouvement-joueur/index.html">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar" class="default-animation">
+        <div class="topbar-wrapper default-animation">
+          <div class="topbar-sidebar-divider default-animation"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar default-animation" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button></span>
+            </div>
+            <div class="topbar-button topbar-button-toc default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="Table of Contents (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-table-list"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+<nav class="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#résumé-des-notions-clés-abordées-">Résumé des notions clés abordées :</a></li>
+        <li><a href="#ce-qui-reste-dactualité-aujourdhui">Ce qui reste d&rsquo;actualité aujourd&rsquo;hui</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+                </div>
+              </div>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/index.html"><span itemprop="name">Créer un jeu vidéo</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/construct-2/index.html"><span itemprop="name">Construct 2</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">Construct 2 : Découverte de l&#39;Interface et Premier Mouvement du Joueur</span><meta itemprop="position" content="3"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/construct-2/tuto-jeu-plateforme/12-systeme-pieges-ligne-vue/index.html" title="12. Système de pièges et détection de ligne de vue (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-next default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/unreal-engine-5/index.html" title="Tutoriels Unreal Engine 5 (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-more default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+                  <div class="topbar-area topbar-area-more" data-area="more">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable construct-2" tabindex="-1">
+        <div class="flex-block-wrapper">
+<article class="default">
+  <header class="headline">
+<div class="R-taxonomy taxonomy-tags cstyle tags" title="Tags" style="--VARIABLE-TAGS-BG-color: var(--INTERNAL-TAG-BG-color);">
+  <i class="fa-fw fas fa-layer-group"></i>
+  <ul>
+    <li><a class="term-link" href="/tags/comportements/index.html">Comportements</a></li>
+    <li><a class="term-link" href="/tags/construct-2/index.html">Construct 2</a></li>
+    <li><a class="term-link" href="/tags/d%C3%A9butant/index.html">Débutant</a></li>
+    <li><a class="term-link" href="/tags/game-development/index.html">Game Development</a></li>
+    <li><a class="term-link" href="/tags/html5/index.html">HTML5</a></li>
+    <li><a class="term-link" href="/tags/interface/index.html">Interface</a></li>
+    <li><a class="term-link" href="/tags/layers/index.html">Layers</a></li>
+    <li><a class="term-link" href="/tags/mouvement/index.html">Mouvement</a></li>
+    <li><a class="term-link" href="/tags/sprite/index.html">Sprite</a></li>
+    <li><a class="term-link" href="/tags/top-down-shooter/index.html">Top Down Shooter</a></li>
+    <li><a class="term-link" href="/tags/tutoriel/index.html">Tutoriel</a></li>
+  </ul>
+</div>
+  </header>
+
+<h1 id="construct-2--découverte-de-linterface-et-premier-mouvement-du-joueur">Construct 2 : Découverte de l&#39;Interface et Premier Mouvement du Joueur</h1>
+
+
+<div class="youtube-privacy-wrapper" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <iframe 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/" 
+        title="YouTube video player" 
+        loading="lazy"
+        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/?autoplay=1><img src=https://img.youtube.com/vi//hqdefault.jpg alt='Vidéo YouTube'><span>▶</span></a>"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+<p>Bienvenue dans cette série de tutoriels dédiée à la création de jeux en HTML5 avec Construct 2 ! Cet épisode inaugural vous guide à travers les premières étapes cruciales : la découverte de l&rsquo;interface, la configuration de votre projet, et l&rsquo;implémentation du tout premier mouvement de votre personnage.</p>
+<h3 id="résumé-des-notions-clés-abordées-">Résumé des notions clés abordées :<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<ul>
+<li><strong>Introduction à Construct 2 et au HTML5 :</strong>
+<ul>
+<li>Présentation de Construct 2 comme un outil intuitif pour débuter en développement de jeux.</li>
+<li>Avantages du HTML5 : Compatibilité multiplateforme (PC, Mac, Linux, iOS, Android), permettant de créer un jeu jouable partout.</li>
+</ul>
+</li>
+<li><strong>Versions de Construct 2 :</strong>
+<ul>
+<li><strong>Gratuite :</strong> Idéale pour l&rsquo;apprentissage, mais avec des limitations (notamment sur le nombre de calques).</li>
+<li><strong>Personnelle (60€) :</strong> Lève la plupart des limitations.</li>
+<li><strong>Commerciale (200€+) :</strong> Permet la revente de vos jeux.</li>
+</ul>
+</li>
+<li><strong>Prise en main de l&rsquo;interface :</strong>
+<ul>
+<li><strong>Panneau Propriétés (gauche) :</strong> Pour configurer les attributs des objets et du projet.</li>
+<li><strong>Zone de travail (milieu) :</strong> Divisée en &ldquo;Layout&rdquo; (partie graphique) et &ldquo;Event Sheet&rdquo; (logique du jeu).</li>
+<li><strong>Explorateur de projet et Calques (droite) :</strong> Gère les scènes, les feuilles d&rsquo;événements et les niveaux de superposition des éléments.</li>
+</ul>
+</li>
+<li><strong>Création et configuration du projet :</strong>
+<ul>
+<li>Nouveau projet : &ldquo;Store project in a single file&rdquo; (format .capx).</li>
+<li>Nom du projet : Ex. &ldquo;TDS&rdquo; (Top Down Shooter).</li>
+<li><strong>Window Size (640x480) :</strong> Taille de la fenêtre visible du jeu.</li>
+<li><strong>Layout Size (1280x1224) :</strong> Taille totale du niveau (peut être plus grande que la fenêtre visible).</li>
+<li><strong>Preview Browser :</strong> Choix du navigateur pour tester le jeu.</li>
+</ul>
+</li>
+<li><strong>Gestion des calques (Layers) :</strong>
+<ul>
+<li>Importance des calques pour organiser les éléments du jeu (fond, joueur, ennemis, HUD).</li>
+<li>Création de calques : &ldquo;Fond&rdquo;, &ldquo;Joueur&rdquo;, &ldquo;Mobs&rdquo;, &ldquo;HUD&rdquo;.</li>
+<li>Verrouillage du calque &ldquo;Fond&rdquo; pour éviter les modifications accidentelles.</li>
+<li>Mention des limitations de calques de la version gratuite.</li>
+</ul>
+</li>
+<li><strong>Insertion d&rsquo;objets :</strong>
+<ul>
+<li><strong>Tileable Background :</strong> Pour créer un fond répétable.
+<ul>
+<li>Chargement d&rsquo;une image (<code>BG.png</code>).</li>
+<li>Positionnement (0,0) et dimensionnement à la taille du Layout.</li>
+</ul>
+</li>
+<li><strong>Sprite :</strong> Pour le joueur.
+<ul>
+<li>Chargement d&rsquo;une image (<code>Player.png</code>).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Introduction aux Comportements (Behaviors) :</strong>
+<ul>
+<li>Les &ldquo;Behaviors&rdquo; sont des fonctionnalités prédéfinies qui évitent de coder manuellement des actions courantes.</li>
+<li>Ajout du comportement &ldquo;8 Directions&rdquo; au sprite du joueur.</li>
+<li>Configuration des propriétés du comportement : Vitesse maximale, accélération, décélération, type de direction (8 directions), contrôles par défaut (clavier).</li>
+</ul>
+</li>
+<li><strong>Test du jeu :</strong>
+<ul>
+<li>Lancement de la prévisualisation pour tester le déplacement du joueur avec les flèches du clavier.</li>
+</ul>
+</li>
+</ul>
+<h3 id="ce-qui-reste-dactualité-aujourdhui">Ce qui reste d&rsquo;actualité aujourd&rsquo;hui<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Bien que Construct 2 soit une version plus ancienne du moteur, les concepts introduits dans ce tutoriel sont fondamentaux et restent entièrement pertinents pour le développement de jeux modernes, y compris avec Construct 3 ou d&rsquo;autres moteurs :</p>
+<ul>
+<li><strong>Le développement HTML5 :</strong> Le HTML5 est plus que jamais une plateforme de choix pour les jeux web, les jeux instantanés et les applications multiplateformes. La capacité de déployer un jeu sur n&rsquo;importe quel navigateur sans installation reste un atout majeur.</li>
+<li><strong>La logique événementielle et visuelle :</strong> Le cœur de Construct (et de Construct 3) repose sur une logique événementielle et une programmation visuelle. Ce paradigme est très présent dans l&rsquo;industrie, notamment avec les Blueprints d&rsquo;Unreal Engine ou le Visual Scripting de Unity, offrant une approche intuitive pour concevoir des mécaniques de jeu.</li>
+<li><strong>L&rsquo;architecture par composants/comportements :</strong> L&rsquo;idée d&rsquo;attacher des &ldquo;Behaviors&rdquo; (comportements) à des objets est une pierre angulaire de l&rsquo;architecture par composants, adoptée par la plupart des moteurs de jeu modernes. Cela favorise la réutilisabilité et la modularité du code.</li>
+<li><strong>La gestion des calques (Layers) :</strong> Essentielle pour l&rsquo;organisation visuelle et la profondeur de champ dans tout jeu 2D. La compréhension des calques est cruciale pour le rendu, le parallax scrolling et l&rsquo;interaction des éléments.</li>
+<li><strong>La distinction entre taille de fenêtre et taille de niveau :</strong> Un concept fondamental pour la conception de niveaux plus grands que l&rsquo;écran visible, nécessitant une caméra qui suit le joueur.</li>
+<li><strong>Le prototypage rapide :</strong> Construct 2 excelle dans le prototypage rapide, une compétence précieuse pour tester des idées de gameplay avant d&rsquo;investir massivement dans le développement.</li>
+</ul>
+<p>Ces bases solides vous serviront quel que soit le chemin que vous choisirez dans le développement de jeux !</p>
+
+
+<hr style="margin-top: 1.5rem; border: 0; border-top: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); opacity: 0.5;">
+
+<div class="custom-footer" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 2rem; padding-bottom: 2rem; font-size: 0.9rem; color: var(--MAIN-TITLES-color);">
+    
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">📺 Ma Chaîne YouTube</h4>
+        <a href="https://www.youtube.com/@creerunjeuvideo" target="_blank" rel="noopener" style="display: inline-block; background: #ff0000; color: #fff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: bold; font-size: 0.85rem;">
+            S'abonner à la chaîne
+        </a>
+    </div>
+
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">📦 Ressources</h4>
+        <a href="https://jeancharpentier.itch.io/ressources-tutoriels" target="_blank" rel="noopener" style="display: inline-block; background: #4400ff; color: #fff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: bold; font-size: 0.85rem;">
+            Téléchargements
+        </a>
+    </div>
+
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">🌐 Communauté</h4>
+        <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
+            <li><a href="https://github.com/JeanCharpentier/" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">💻 GitHub</a></li>
+            <li><a href="https://bsky.app/profile/ankhm.bsky.social" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">🦋 Bluesky</a></li>
+            <li><a href="https://fr.linkedin.com/in/jeancharpentier" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">💼 LinkedIn</a></li>
+            <li><a href="https://www.twitch.tv/levieuxankh" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">👾 Chaîne Twitch</a></li>
+        </ul>
+    </div>
+
+</div>
+
+<div style="border-top: 1px dashed var(--INTERNAL-MENU-BORDER-color, #e5e5e5); padding-top: 1rem; margin-top: 1rem; font-size: 0.8rem; opacity: 0.7; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+    <div>
+        &copy; 2026 - Créé avec ❤️ sous Hugo & Relearn.
+    </div>
+    <div>
+        <a href="/mentions-legales/" style="color: inherit; margin-right: 1rem;">Mentions légales</a>
+        <a href="/confidentialite/" style="color: inherit;">Confidentialité (RGPD)</a>
+    </div>
+</div>
+
+  <footer class="footline">
+              <i class='fa-fw fas fa-calendar'></i> Oct 27, 2023
+<div class="R-taxonomy taxonomy-categories cstyle" title="Categories" style="--VARIABLE-TAGS-BG-color: var(--INTERNAL-TAG-BG-color);">
+  <i class="fa-fw fas fa-layer-group"></i>
+  <ul>
+    <li><a class="term-link" href="/categories/archive/index.html">Archive</a></li>
+  </ul>
+</div>
+  </footer>
+</article>
+        </div>
+      </main>
+    </div>
+    <aside id="R-sidebar" class="default-animation">
+      <div id="R-header-topbar" class="default-animation"></div>
+      <div id="R-header-wrapper" class="default-animation">
+        <a id="R-logo" class="R-default direction-row" href="/index.html">
+          <span class="logo-title default-animation">Créer un jeu vidéo</span>
+        </a>
+        <search><form action="/search/index.html" method="get">
+          <div class="searchbox default-animation">
+            <button class="search-detail" type="submit" title="Search (CTRL+ALT+f)"><i class="fas fa-fw fa-search"></i></button>
+            <label class="a11y-only" for="R-search-by">Search</label>
+            <input data-search-input id="R-search-by" name="search-by" class="search-by" type="search" placeholder="Search...">
+            <button class="search-clear" type="button" data-search-clear="" title="Clear search"><i class="fas fa-fw fa-times" title="Clear search"></i></button>
+          </div>
+        </form></search>
+      </div>
+      <div id="R-homelinks" class="default-animation homelinks">
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-homelinks default-animation">
+          <ul class="space collapsible-menu">
+            <li class="" data-nav-id="/index.html"><a class="padding" href="/index.html"><i class="fa-fw fas fa-home"></i> Home</a></li>
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-headercontrols default-animation">
+          <ul class="">
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+      </div>
+      <div id="R-content-wrapper" class="highlightable">
+        <div class="R-sidebarmenu R-shortcutmenu-main default-animation">
+          <ul class="enlarge morespace collapsible-menu">
+            <li class="parent " data-nav-id="/construct-2/index.html"><a class="padding default-animation" href="/construct-2/index.html">Construct 2</a><ul id="R-subsections-cce4b606b0538b1d55c0d58eee48e27a" class="collapsible-menu">
+            <li class="alwaysopen " data-nav-id="/construct-2/tuto-jeu-plateforme/index.html"><a class="padding default-animation" href="/construct-2/tuto-jeu-plateforme/index.html">Apprendre la création de jeux vidéo avec Construct 2</a><ul id="R-subsections-04245fa432d33ae3fbfe91743dc8faa4" class="collapsible-menu"></ul></li>
+            <li class="active " data-nav-id="/construct-2/tuto-top-down-shooter/construct-2-decouverte-interface-mouvement-joueur/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/construct-2-decouverte-interface-mouvement-joueur/index.html">Construct 2 : Découverte de l&#39;Interface et Premier Mouvement du Joueur</a></li></ul></li>
+            <li class="" data-nav-id="/unreal-engine-5/index.html"><a class="padding default-animation" href="/unreal-engine-5/index.html">Tutoriels Unreal Engine 5</a><ul id="R-subsections-7ba934a6d645a707dda7263d6f637014" class="collapsible-menu"></ul></li>
+          </ul>
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-shortcuts default-animation">
+          <ul class="space collapsible-menu">
+          </ul>
+        </div>
+        <div id="R-footer-margin" class="default-animation"></div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-footercontrols default-animation">
+          <ul class="">
+            <li class="R-variantswitcher">
+              <div class="padding menu-control">
+                <i class="fa-fw fas fa-paint-brush"></i>
+                <span>&nbsp;</span>
+                <div class="control-style">
+                  <label class="a11y-only" for="R-select-variant">Theme</label>
+                  <select id="R-select-variant">
+                    <option id="R-select-variant-relearn-dark" value="relearn-dark" selected>Relearn Dark</option>
+                    <option id="R-select-variant-relearn-light" value="relearn-light">Relearn Light</option>
+                  </select>
+                </div>
+                <div class="clear"></div>
+              </div>
+              <script>window.relearn.markVariant();</script>
+            </li>
+          </ul>
+        </div>
+<div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
+      </div>
+    </aside>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1781341490" defer></script>
+    <script src="/js/theme.js?1781341490" defer></script>
+    <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
+  </body>
+</html>

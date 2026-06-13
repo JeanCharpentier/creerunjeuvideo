@@ -6,7 +6,7 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/audio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1. Les Fondations et le Ghost</title>
@@ -112,6 +112,13 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/12-win-loose-gameover-ecran-fin-menu-widget/index.html</guid>
       <description>Dans ce douzième et dernier grand épisode de la série Kawaii Slender, nous bouclons la boucle de notre boucle de gameplay (game loop). Après avoir configuré la traque et la mort physique du personnage, nous programmons les deux états finaux indispensables à tout jeu vidéo : la condition de défaite (Game Over) et la condition de victoire (Victory), avec la création d’écrans dédiés et la gestion de la capture de la souris.</description>
+    </item>
+    <item>
+      <title>10. Intégration du son et effets audio</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/10-integration-son-effets-audio/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/10-integration-son-effets-audio/index.html</guid>
+      <description>Cette page est une archive pédagogique du dixième épisode de ma série consacrée à la création d’un jeu de plateforme avec Construct 2.&#xA;Notions clés abordées Gestion de l’objet Audio : Ajout de l’objet système Audio pour gérer la lecture des sons dans l’ensemble du projet. Importation de ressources : Importation de fichiers au format OGG (format natif recommandé) depuis des plateformes comme OpenGameArt. Organisation des sons : Renommage et catégorisation des fichiers dans l’arborescence du projet (Sounds vs Musiques). Déclenchement événementiel : Utilisation de l’action Audio &gt; Play dans la feuille d’événements pour déclencher des sons lors d’actions précises (saut, mort, collecte). Optimisation du chargement : Utilisation de l’action Preload pour éviter les latences de lecture sur les connexions internet lentes. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur désormais ancien, les principes de gestion audio présentés ici restent des fondamentaux du développement de jeux web :</description>
     </item>
     <item>
       <title>13. Création de paysages et peinture de textures (Landscape Mode)</title>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bullet :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/bullet/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bullet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Créer un Top-Down Shooter avec Construct 2 : Viser et Tirer</title>
+      <link>http://localhost:1313/construct-2/tuto-top-down-shooter/creer-top-down-shooter-construct-2-viser-tirer/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-top-down-shooter/creer-top-down-shooter-construct-2-viser-tirer/index.html</guid>
+      <description>Bienvenue dans cette archive pédagogique ! Cet article retranscrit un tutoriel vidéo sur Construct 2, un moteur de jeu orienté événementiel. Découvrez les bases de la création d’un jeu de tir en vue de dessus, en apprenant à gérer les entrées joueur et la création de projectiles.&#xA;Résumé du Tutoriel : Viser et Tirer Ce tutoriel, suite du précédent, se concentre sur l’implémentation des mécaniques de visée et de tir pour notre personnage dans Construct 2.</description>
+    </item>
+  </channel>
+</rss>

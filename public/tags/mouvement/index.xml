@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mouvement :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/mouvement/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mouvement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Construct 2 : Découverte de l&#39;Interface et Premier Mouvement du Joueur</title>
+      <link>http://localhost:1313/construct-2/tuto-top-down-shooter/construct-2-decouverte-interface-mouvement-joueur/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-top-down-shooter/construct-2-decouverte-interface-mouvement-joueur/index.html</guid>
+      <description>Bienvenue dans cette série de tutoriels dédiée à la création de jeux en HTML5 avec Construct 2 ! Cet épisode inaugural vous guide à travers les premières étapes cruciales : la découverte de l’interface, la configuration de votre projet, et l’implémentation du tout premier mouvement de votre personnage.</description>
+    </item>
+  </channel>
+</rss>

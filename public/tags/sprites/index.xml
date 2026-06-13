@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sprites :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/sprites/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sprites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Construct 2 : Démarrer un Projet et Découvrir l&#39;Interface pour un Jeu HTML5</title>
+      <link>http://localhost:1313/construct-2/tuto-top-down-shooter/construct-2-demarrer-projet-interface-jeu-html5/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-top-down-shooter/construct-2-demarrer-projet-interface-jeu-html5/index.html</guid>
+      <description>Bienvenue dans cette archive de contenu pédagogique ! Vous trouverez ici des tutoriels vidéo et des articles associés pour apprendre le développement de jeux vidéo.&#xA;Résumé des notions clés Cet article, basé sur le premier épisode d’une série de tutoriels, vous guide à travers les fondamentaux de Construct 2 pour la création de jeux HTML5.</description>
+    </item>
+  </channel>
+</rss>

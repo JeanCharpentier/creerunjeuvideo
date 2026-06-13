@@ -22,12 +22,5 @@
       <guid>http://localhost:1313/categories/bug-fix/index.html</guid>
       <description></description>
     </item>
-    <item>
-      <title>Category :: Développement</title>
-      <link>http://localhost:1313/categories/d%C3%A9veloppement/index.html</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/d%C3%A9veloppement/index.html</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

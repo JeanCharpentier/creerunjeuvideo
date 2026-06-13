@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visée Souris :: Tag :: Créer un jeu vidéo</title>
+    <link>http://localhost:1313/tags/vis%C3%A9e-souris/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vis%C3%A9e-souris/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2. Visée et Tir</title>
+      <link>http://localhost:1313/construct-2/tuto-top-down-shooter/creer-top-down-shooter-construct-2-visee-tir/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-top-down-shooter/creer-top-down-shooter-construct-2-visee-tir/index.html</guid>
+      <description>Dans ce deuxième volet de notre série de tutoriels sur Construct 2, nous allons franchir une étape cruciale dans la création de notre Top-Down Shooter : permettre à notre personnage de viser avec la souris et de tirer des projectiles. Préparez-vous à plonger au cœur du système d’événements de Construct 2, une notion fondamentale pour tout développement de jeu !&#xA;Résumé du tutoriel : Visée et Tir dans Construct 2 Ce tutoriel vous guide pas à pas pour implémenter les mécaniques de visée à la souris et de tir pour votre personnage dans Construct 2.</description>
+    </item>
+  </channel>
+</rss>

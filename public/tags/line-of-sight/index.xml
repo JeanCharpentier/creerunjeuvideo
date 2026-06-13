@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/line-of-sight/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>12. Système de pièges et détection de ligne de vue</title>
-      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/tuto15/index.html</link>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/12-systeme-pieges-ligne-vue/index.html</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/tuto15/index.html</guid>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/12-systeme-pieges-ligne-vue/index.html</guid>
       <description>Cette page est une archive pédagogique du douzième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2, traitant de la mise en place d’éléments dynamiques.&#xA;Notions clés abordées Conception de pièges dynamiques : Création d’obstacles interactifs qui apparaissent et disparaissent, ajoutant du défi au level design. Comportement “Line of Sight” (Ligne de vue) : Utilisation du comportement de détection visuelle pour déclencher des actions. Configuration des paramètres de portée (range) et de cône de vision (cone of view). Interaction IA : Utilisation de la ligne de vue pour faire réagir les ennemis (ex: un monstre qui se déplace vers le joueur uniquement lorsqu’il est repéré). Personnalisation des comportements : Ajustement des réglages pour adapter la détection selon le placement du joueur (au-dessus, sur les côtés, etc.). Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur historique, les concepts abordés ici sont les piliers de l’intelligence artificielle en 2D :</description>
     </item>
   </channel>

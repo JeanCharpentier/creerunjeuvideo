@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html id="R-html" lang="fr-fr" dir="ltr" itemscope itemtype="http://schema.org/Article" data-r-output-format="html">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.152.2">
+    <meta name="generator" content="Relearn 9.0.3+36307e4ed23582638ab689240ac7b427217803ee">
+    <meta name="description" content="Dans ce deuxième volet de notre série de tutoriels sur Construct 2, nous allons franchir une étape cruciale dans la création de notre Top-Down Shooter : permettre à notre personnage de viser avec la souris et de tirer des projectiles. Préparez-vous à plonger au cœur du système d’événements de Construct 2, une notion fondamentale pour tout développement de jeu !
+Résumé du tutoriel : Visée et Tir dans Construct 2 Ce tutoriel vous guide pas à pas pour implémenter les mécaniques de visée à la souris et de tir pour votre personnage dans Construct 2.">
+    <meta name="author" content="">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="2. Visée et Tir :: Créer un jeu vidéo">
+    <meta name="twitter:description" content="Dans ce deuxième volet de notre série de tutoriels sur Construct 2, nous allons franchir une étape cruciale dans la création de notre Top-Down Shooter : permettre à notre personnage de viser avec la souris et de tirer des projectiles. Préparez-vous à plonger au cœur du système d’événements de Construct 2, une notion fondamentale pour tout développement de jeu !
+Résumé du tutoriel : Visée et Tir dans Construct 2 Ce tutoriel vous guide pas à pas pour implémenter les mécaniques de visée à la souris et de tir pour votre personnage dans Construct 2.">
+    <meta property="og:url" content="http://localhost:1313/construct-2/tuto-top-down-shooter/creer-top-down-shooter-construct-2-visee-tir/index.html">
+    <meta property="og:site_name" content="Créer un jeu vidéo">
+    <meta property="og:title" content="2. Visée et Tir :: Créer un jeu vidéo">
+    <meta property="og:description" content="Dans ce deuxième volet de notre série de tutoriels sur Construct 2, nous allons franchir une étape cruciale dans la création de notre Top-Down Shooter : permettre à notre personnage de viser avec la souris et de tirer des projectiles. Préparez-vous à plonger au cœur du système d’événements de Construct 2, une notion fondamentale pour tout développement de jeu !
+Résumé du tutoriel : Visée et Tir dans Construct 2 Ce tutoriel vous guide pas à pas pour implémenter les mécaniques de visée à la souris et de tir pour votre personnage dans Construct 2.">
+    <meta property="og:locale" content="fr_fr">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="Construct 2">
+    <meta property="article:published_time" content="2023-10-27T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-10-27T00:00:00+00:00">
+    <meta property="article:tag" content="Construct 2">
+    <meta property="article:tag" content="Game Development">
+    <meta property="article:tag" content="Tutoriel">
+    <meta property="article:tag" content="Top-Down Shooter">
+    <meta property="article:tag" content="Événements">
+    <meta property="article:tag" content="Visée Souris">
+    <meta itemprop="name" content="2. Visée et Tir :: Créer un jeu vidéo">
+    <meta itemprop="description" content="Dans ce deuxième volet de notre série de tutoriels sur Construct 2, nous allons franchir une étape cruciale dans la création de notre Top-Down Shooter : permettre à notre personnage de viser avec la souris et de tirer des projectiles. Préparez-vous à plonger au cœur du système d’événements de Construct 2, une notion fondamentale pour tout développement de jeu !
+Résumé du tutoriel : Visée et Tir dans Construct 2 Ce tutoriel vous guide pas à pas pour implémenter les mécaniques de visée à la souris et de tir pour votre personnage dans Construct 2.">
+    <meta itemprop="datePublished" content="2023-10-27T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2023-10-27T00:00:00+00:00">
+    <meta itemprop="wordCount" content="777">
+    <meta itemprop="keywords" content="Construct 2,Game Development,Tutoriel,Top-Down Shooter,Événements,Visée Souris,Tir,Sprite,Comportement Bullet">
+    <title>2. Visée et Tir :: Créer un jeu vidéo</title>
+    <link href="/css/auto-complete/auto-complete.min.css?1781343565" rel="stylesheet">
+    <script src="/js/auto-complete/auto-complete.min.js?1781343565" defer></script>
+    <script src="/js/search-lunr.js?1781343565" defer></script>
+    <script src="/js/search.js?1781343565" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.index_js_url="/searchindex.en.js?1781343565";
+    </script>
+    <script src="/js/lunr/lunr.min.js?1781343565" defer></script>
+    <script src="/js/lunr/lunr.stemmer.support.min.js?1781343565" defer></script>
+    <script src="/js/lunr/lunr.multi.min.js?1781343565" defer></script>
+    <script src="/js/lunr/lunr.fr.min.js?1781343565" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.contentLangs=['fr'];
+    </script>
+    <link href="/fonts/fontawesome/css/all.min.css?1781343565" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/all.min.css?1781343565" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1781343565" rel="stylesheet">
+    <link href="/css/theme.css?1781343565" rel="stylesheet">
+    <link href="/css/format-html.css?1781343565" rel="stylesheet" id="R-format-style">
+    <script>
+      window.relearn = window.relearn || {};
+      // configuration
+      window.relearn.min = ``;
+      window.relearn.path='\/construct-2\/tuto-top-down-shooter\/creer-top-down-shooter-construct-2-visee-tir\/index.html';
+      window.relearn.relBasePath='..\/..\/..';
+      window.relearn.relBaseUri='..\/..\/..';
+      window.relearn.absBaseUri='http:\/\/localhost:1313';
+      window.relearn.disableInlineCopyToClipboard=false;
+      window.relearn.enableBlockCodeWrap=true;
+      // translations
+      window.T_Copy_to_clipboard = `Copy text to clipboard`;
+      window.T_Copied_to_clipboard = `Text copied to clipboard!`;
+      window.T_Link_copied_to_clipboard = `Link copied to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+      window.T_Browser_unsupported_feature = `This browser doesn't support this feature`;
+      // variant stuff
+      window.relearn.themevariants = [ 'relearn-dark', 'relearn-light' ];
+      window.relearn.customvariantprefix = "my-custom-";
+      window.relearn.changeVariant = function(variant) {
+        var oldVariant = document.documentElement.dataset.rThemeVariant;
+        window.localStorage.setItem(window.relearn.absBaseUri + "/variant", variant);
+        document.documentElement.dataset.rThemeVariant = variant;
+        if (oldVariant != variant) {
+          document.dispatchEvent( new CustomEvent('themeVariantLoaded', { detail: { variant, oldVariant } }) );
+          window.relearn.markVariant();
+        }
+      }
+      window.relearn.markVariant = function() {
+        var variant = window.localStorage.getItem(window.relearn.absBaseUri + "/variant");
+        document.querySelectorAll(".R-variantswitcher select").forEach((select) => {select.value = variant;});
+      }
+      window.relearn.initVariant = function() {
+        var variant = window.localStorage.getItem(window.relearn.absBaseUri + "/variant") ?? "";
+        if( !variant ||
+            (!variant.startsWith(window.relearn.customvariantprefix) && !window.relearn.themevariants.includes(variant)) ||
+            (variant.startsWith(window.relearn.customvariantprefix) && !window.localStorage.getItem(window.relearn.absBaseUri + "/variantstylesheet-" + variant)) ){
+          variant = window.relearn.themevariants[0];
+          window.localStorage.setItem(window.relearn.absBaseUri + "/variant", variant);
+        }
+        document.documentElement.dataset.rThemeVariant = variant;
+      }
+      window.relearn.initVariant();
+      window.relearn.markVariant();
+    </script>
+  </head>
+  <body class="mobile-support html" data-origin="/construct-2/tuto-top-down-shooter/creer-top-down-shooter-construct-2-visee-tir/index.html">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar" class="default-animation">
+        <div class="topbar-wrapper default-animation">
+          <div class="topbar-sidebar-divider default-animation"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar default-animation" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button></span>
+            </div>
+            <div class="topbar-button topbar-button-toc default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="Table of Contents (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-table-list"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+<nav class="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#résumé-du-tutoriel--visée-et-tir-dans-construct-2">Résumé du tutoriel : Visée et Tir dans Construct 2</a></li>
+        <li><a href="#ce-qui-reste-dactualité-aujourdhui">Ce qui reste d&rsquo;actualité aujourd&rsquo;hui</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+                </div>
+              </div>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/index.html"><span itemprop="name">Créer un jeu vidéo</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/construct-2/index.html"><span itemprop="name">Construct 2</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/construct-2/tuto-top-down-shooter/index.html"><span itemprop="name">Tuto Top Down Shooter (Construct 2)</span></a><meta itemprop="position" content="3">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">2. Visée et Tir</span><meta itemprop="position" content="4"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/construct-2/tuto-top-down-shooter/construct-2-premiers-pas-creation-jeux-html5/index.html" title="1. 1. Premiers Pas dans la Création de Jeux HTML5 (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-next default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/unreal-engine-5/index.html" title="Tutoriels Unreal Engine 5 (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-more default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+                  <div class="topbar-area topbar-area-more" data-area="more">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable construct-2" tabindex="-1">
+        <div class="flex-block-wrapper">
+<article class="default">
+  <header class="headline">
+<div class="R-taxonomy taxonomy-tags cstyle tags" title="Tags" style="--VARIABLE-TAGS-BG-color: var(--INTERNAL-TAG-BG-color);">
+  <i class="fa-fw fas fa-layer-group"></i>
+  <ul>
+    <li><a class="term-link" href="/tags/comportement-bullet/index.html">Comportement Bullet</a></li>
+    <li><a class="term-link" href="/tags/construct-2/index.html">Construct 2</a></li>
+    <li><a class="term-link" href="/tags/%C3%A9v%C3%A9nements/index.html">Événements</a></li>
+    <li><a class="term-link" href="/tags/game-development/index.html">Game Development</a></li>
+    <li><a class="term-link" href="/tags/sprite/index.html">Sprite</a></li>
+    <li><a class="term-link" href="/tags/tir/index.html">Tir</a></li>
+    <li><a class="term-link" href="/tags/top-down-shooter/index.html">Top-Down Shooter</a></li>
+    <li><a class="term-link" href="/tags/tutoriel/index.html">Tutoriel</a></li>
+    <li><a class="term-link" href="/tags/vis%C3%A9e-souris/index.html">Visée Souris</a></li>
+  </ul>
+</div>
+  </header>
+
+<h1 id="2-visée-et-tir">2. Visée et Tir</h1>
+
+<p>Dans ce deuxième volet de notre série de tutoriels sur Construct 2, nous allons franchir une étape cruciale dans la création de notre Top-Down Shooter : permettre à notre personnage de viser avec la souris et de tirer des projectiles. Préparez-vous à plonger au cœur du système d&rsquo;événements de Construct 2, une notion fondamentale pour tout développement de jeu !</p>
+
+<div class="youtube-privacy-wrapper" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <iframe 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/" 
+        title="YouTube video player" 
+        loading="lazy"
+        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/?autoplay=1><img src=https://img.youtube.com/vi//hqdefault.jpg alt='Vidéo YouTube'><span>▶</span></a>"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+<h3 id="résumé-du-tutoriel--visée-et-tir-dans-construct-2">Résumé du tutoriel : Visée et Tir dans Construct 2<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Ce tutoriel vous guide pas à pas pour implémenter les mécaniques de visée à la souris et de tir pour votre personnage dans Construct 2.</p>
+<ul>
+<li>
+<p><strong>Reprise du projet existant</strong></p>
+<ul>
+<li>Ouverture du projet TDS (Top-Down Shooter) commencé précédemment.</li>
+<li>Vérification du déplacement du personnage avec les flèches directionnelles.</li>
+</ul>
+</li>
+<li>
+<p><strong>Mise en place de la visée à la souris</strong></p>
+<ul>
+<li><strong>Introduction aux événements</strong> : Comprendre la logique &ldquo;Si [condition], Alors [action]&rdquo;.</li>
+<li><strong>Ajout de l&rsquo;objet <code>Mouse</code></strong> : Indispensable pour interagir avec la souris. Cet objet est global au projet.</li>
+<li><strong>Création de l&rsquo;événement <code>System -&gt; Every Tick</code></strong> : Cet événement se déclenche à chaque rafraîchissement du jeu, permettant une mise à jour constante.</li>
+<li><strong>Ajout de l&rsquo;action <code>Marine -&gt; Set Angle Toward Position</code></strong> : Cette action, associée à l&rsquo;événement <code>Every Tick</code>, permet au sprite <code>Marine</code> (notre personnage) de s&rsquo;orienter en permanence vers une position spécifique.</li>
+<li><strong>Définition des coordonnées de visée</strong> : Utilisation de <code>Mouse.X</code> et <code>Mouse.Y</code> pour que le personnage vise la position actuelle du curseur de la souris.</li>
+<li><strong>Test de la visée</strong> : Vérification que le personnage suit désormais la souris, indépendamment de son déplacement.</li>
+</ul>
+</li>
+<li>
+<p><strong>Création de l&rsquo;objet balle</strong></p>
+<ul>
+<li><strong>Ajout d&rsquo;un nouveau <code>Sprite</code></strong> : Importation de l&rsquo;image <code>bullet.png</code> pour représenter le projectile.</li>
+<li><strong>Ajout du comportement <code>Bullet</code></strong> : Ce comportement pré-défini confère à l&rsquo;objet les propriétés d&rsquo;un projectile (vitesse, accélération, gravité, rebond).</li>
+<li><strong>Configuration des propriétés de la balle</strong> : Ajustement de la vitesse du projectile pour une meilleure visibilité lors des tests.</li>
+</ul>
+</li>
+<li>
+<p><strong>Implémentation du tir</strong></p>
+<ul>
+<li><strong>Création de l&rsquo;événement <code>Mouse -&gt; On Click</code></strong> : Déclenche une action lorsque le bouton gauche de la souris est cliqué.</li>
+<li><strong>Ajout de l&rsquo;action <code>Marine -&gt; Spawn another object</code></strong> : Permet au sprite <code>Marine</code> de créer une instance de l&rsquo;objet <code>Balle</code>.</li>
+<li><strong>Définition du calque de spawn</strong> : La balle est créée sur le calque &ldquo;Joueur&rdquo; pour assurer sa visibilité.</li>
+<li><strong>Test du tir</strong> : Vérification que le personnage tire des balles dans la direction de la souris.</li>
+<li><strong>Gestion de l&rsquo;ordre Z (Z-order)</strong> : Discussion sur le positionnement des sprites en profondeur (balle apparaissant derrière le personnage, problème reporté pour un futur épisode).</li>
+<li><strong>Gestion de la balle initiale</strong> : La balle ajoutée à la scène pour la création du sprite est rendue invisible ou supprimée au démarrage du jeu pour éviter qu&rsquo;elle ne soit présente avant le tir.</li>
+</ul>
+</li>
+</ul>
+<h3 id="ce-qui-reste-dactualité-aujourdhui">Ce qui reste d&rsquo;actualité aujourd&rsquo;hui<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Bien que ce tutoriel utilise Construct 2, un moteur de jeu qui a depuis évolué vers Construct 3, les concepts fondamentaux abordés restent d&rsquo;une pertinence capitale pour tout développeur de jeux, quel que soit le moteur utilisé :</p>
+<ul>
+<li><strong>Le système d&rsquo;événements/actions</strong> : La logique &ldquo;si [condition], alors [action]&rdquo; est la pierre angulaire de la programmation visuelle et se retrouve sous diverses formes (Blueprints dans Unreal Engine, State Machines, etc.) dans la plupart des moteurs de jeu modernes.</li>
+<li><strong>La boucle de jeu (<code>Every Tick</code> / <code>Update</code>)</strong> : L&rsquo;événement <code>Every Tick</code> est l&rsquo;équivalent des fonctions <code>Update()</code> ou <code>_process()</code> que l&rsquo;on retrouve dans Unity, Godot ou d&rsquo;autres frameworks. Il est essentiel pour mettre à jour la logique du jeu à chaque frame.</li>
+<li><strong>La gestion des entrées utilisateur (Input)</strong> : L&rsquo;intégration de la souris ou du clavier pour la visée et le tir est une compétence de base, universelle à la création de jeux interactifs.</li>
+<li><strong>Les comportements pré-faits (<code>Behaviors</code>)</strong> : Des fonctionnalités comme le comportement &ldquo;Bullet&rdquo; de Construct 2 sont des exemples d&rsquo;outils qui accélèrent le développement en fournissant des logiques complexes prêtes à l&rsquo;emploi. On retrouve des concepts similaires dans les &ldquo;Components&rdquo; d&rsquo;Unity ou les &ldquo;Nodes&rdquo; de Godot.</li>
+<li><strong>La gestion des calques et de l&rsquo;ordre Z</strong> : Comprendre comment les objets sont empilés les uns sur les autres (Z-order) est crucial pour la profondeur visuelle et l&rsquo;interaction des éléments dans un jeu 2D.</li>
+<li><strong>La création dynamique d&rsquo;objets (<code>Spawn another object</code>)</strong> : La capacité à instancier des objets (comme des projectiles) à la volée est une mécanique de base pour les jeux d&rsquo;action, les RPG, et bien d&rsquo;autres genres.</li>
+</ul>
+<p>Ces principes sont intemporels et constituent une excellente base pour quiconque souhaite se lancer dans le développement de jeux vidéo, même avec des outils plus récents.</p>
+
+<div class="footer-nav" style="display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
+    
+    
+    <a href="/construct-2/tuto-top-down-shooter/construct-2-premiers-pas-creation-jeux-html5/" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1.2rem; border: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); border-radius: 6px; text-decoration: none; color: var(--MAIN-TITLES-color); font-weight: 500; font-size: 0.85rem; background: rgba(0,0,0,0.02); transition: background 0.2s;">
+        ⬅️ Vidéo Précédente
+    </a>
+    
+
+    
+    
+</div>
+
+
+<hr style="margin-top: 1.5rem; border: 0; border-top: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); opacity: 0.5;">
+
+<div class="custom-footer" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 2rem; padding-bottom: 2rem; font-size: 0.9rem; color: var(--MAIN-TITLES-color);">
+    
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">📺 Ma Chaîne YouTube</h4>
+        <a href="https://www.youtube.com/@creerunjeuvideo" target="_blank" rel="noopener" style="display: inline-block; background: #ff0000; color: #fff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: bold; font-size: 0.85rem;">
+            S'abonner à la chaîne
+        </a>
+    </div>
+
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">📦 Ressources</h4>
+        <a href="https://jeancharpentier.itch.io/ressources-tutoriels" target="_blank" rel="noopener" style="display: inline-block; background: #4400ff; color: #fff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: bold; font-size: 0.85rem;">
+            Téléchargements
+        </a>
+    </div>
+
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">🌐 Communauté</h4>
+        <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
+            <li><a href="https://github.com/JeanCharpentier/" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">💻 GitHub</a></li>
+            <li><a href="https://bsky.app/profile/ankhm.bsky.social" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">🦋 Bluesky</a></li>
+            <li><a href="https://fr.linkedin.com/in/jeancharpentier" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">💼 LinkedIn</a></li>
+            <li><a href="https://www.twitch.tv/levieuxankh" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">👾 Chaîne Twitch</a></li>
+        </ul>
+    </div>
+
+</div>
+
+<div style="border-top: 1px dashed var(--INTERNAL-MENU-BORDER-color, #e5e5e5); padding-top: 1rem; margin-top: 1rem; font-size: 0.8rem; opacity: 0.7; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+    <div>
+        &copy; 2026 - Créé avec ❤️ sous Hugo & Relearn.
+    </div>
+    <div>
+        <a href="/mentions-legales/" style="color: inherit; margin-right: 1rem;">Mentions légales</a>
+        <a href="/confidentialite/" style="color: inherit;">Confidentialité (RGPD)</a>
+    </div>
+</div>
+
+  <footer class="footline">
+              <i class='fa-fw fas fa-calendar'></i> Oct 27, 2023
+<div class="R-taxonomy taxonomy-categories cstyle" title="Categories" style="--VARIABLE-TAGS-BG-color: var(--INTERNAL-TAG-BG-color);">
+  <i class="fa-fw fas fa-layer-group"></i>
+  <ul>
+    <li><a class="term-link" href="/categories/archive/index.html">Archive</a></li>
+  </ul>
+</div>
+  </footer>
+</article>
+        </div>
+      </main>
+    </div>
+    <aside id="R-sidebar" class="default-animation">
+      <div id="R-header-topbar" class="default-animation"></div>
+      <div id="R-header-wrapper" class="default-animation">
+        <a id="R-logo" class="R-default direction-row" href="/index.html">
+          <span class="logo-title default-animation">Créer un jeu vidéo</span>
+        </a>
+        <search><form action="/search/index.html" method="get">
+          <div class="searchbox default-animation">
+            <button class="search-detail" type="submit" title="Search (CTRL+ALT+f)"><i class="fas fa-fw fa-search"></i></button>
+            <label class="a11y-only" for="R-search-by">Search</label>
+            <input data-search-input id="R-search-by" name="search-by" class="search-by" type="search" placeholder="Search...">
+            <button class="search-clear" type="button" data-search-clear="" title="Clear search"><i class="fas fa-fw fa-times" title="Clear search"></i></button>
+          </div>
+        </form></search>
+      </div>
+      <div id="R-homelinks" class="default-animation homelinks">
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-homelinks default-animation">
+          <ul class="space collapsible-menu">
+            <li class="" data-nav-id="/index.html"><a class="padding" href="/index.html"><i class="fa-fw fas fa-home"></i> Home</a></li>
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-headercontrols default-animation">
+          <ul class="">
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+      </div>
+      <div id="R-content-wrapper" class="highlightable">
+        <div class="R-sidebarmenu R-shortcutmenu-main default-animation">
+          <ul class="enlarge morespace collapsible-menu">
+            <li class="parent " data-nav-id="/construct-2/index.html"><a class="padding default-animation" href="/construct-2/index.html">Construct 2</a><ul id="R-subsections-cce4b606b0538b1d55c0d58eee48e27a" class="collapsible-menu">
+            <li class="alwaysopen " data-nav-id="/construct-2/tuto-jeu-plateforme/index.html"><a class="padding default-animation" href="/construct-2/tuto-jeu-plateforme/index.html">Apprendre la création de jeux vidéo avec Construct 2</a><ul id="R-subsections-04245fa432d33ae3fbfe91743dc8faa4" class="collapsible-menu"></ul></li>
+            <li class="parent alwaysopen " data-nav-id="/construct-2/tuto-top-down-shooter/index.html"><a class="padding default-animation" href="/construct-2/tuto-top-down-shooter/index.html">Tuto Top Down Shooter (Construct 2)</a><ul id="R-subsections-37e043fea5b63060a6790b06fcb190c5" class="collapsible-menu">
+            <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/construct-2-premiers-pas-creation-jeux-html5/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/construct-2-premiers-pas-creation-jeux-html5/index.html">1. 1. Premiers Pas dans la Création de Jeux HTML5</a></li>
+            <li class="active " data-nav-id="/construct-2/tuto-top-down-shooter/creer-top-down-shooter-construct-2-visee-tir/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/creer-top-down-shooter-construct-2-visee-tir/index.html">2. Visée et Tir</a></li></ul></li></ul></li>
+            <li class="" data-nav-id="/unreal-engine-5/index.html"><a class="padding default-animation" href="/unreal-engine-5/index.html">Tutoriels Unreal Engine 5</a><ul id="R-subsections-7ba934a6d645a707dda7263d6f637014" class="collapsible-menu"></ul></li>
+          </ul>
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-shortcuts default-animation">
+          <ul class="space collapsible-menu">
+          </ul>
+        </div>
+        <div id="R-footer-margin" class="default-animation"></div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-footercontrols default-animation">
+          <ul class="">
+            <li class="R-variantswitcher">
+              <div class="padding menu-control">
+                <i class="fa-fw fas fa-paint-brush"></i>
+                <span>&nbsp;</span>
+                <div class="control-style">
+                  <label class="a11y-only" for="R-select-variant">Theme</label>
+                  <select id="R-select-variant">
+                    <option id="R-select-variant-relearn-dark" value="relearn-dark" selected>Relearn Dark</option>
+                    <option id="R-select-variant-relearn-light" value="relearn-light">Relearn Light</option>
+                  </select>
+                </div>
+                <div class="clear"></div>
+              </div>
+              <script>window.relearn.markVariant();</script>
+            </li>
+          </ul>
+        </div>
+<div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
+      </div>
+    </aside>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1781343565" defer></script>
+    <script src="/js/theme.js?1781343565" defer></script>
+    <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
+  </body>
+</html>

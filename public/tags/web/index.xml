@@ -10,10 +10,17 @@
     <atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>11. Finalisation et déploiement Web</title>
-      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/tuto11/index.html</link>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/11-finalisation-deploiement-web/index.html</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/tuto11/index.html</guid>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/11-finalisation-deploiement-web/index.html</guid>
       <description>Cette page constitue une archive pédagogique du onzième et dernier épisode de ma série consacrée à la création d’un jeu de plateforme avec Construct 2.&#xA;Notions clés abordées Finalisation du projet : Nettoyage des derniers détails pour rendre le jeu “prêt à jouer”. Préparation au Web : Configuration des paramètres d’exportation pour le format HTML5. Hébergement gratuit : Présentation des plateformes permettant d’héberger vos jeux en ligne simplement et gratuitement. Ouverture sur le futur : Discussion sur les évolutions possibles, comme l’ajout futur de la prise en charge des manettes. Partage et communauté : Encouragement à partager ses créations pour obtenir des retours et enrichir son portfolio. Ce qui reste d’actualité aujourd’hui Même si le moteur a évolué, les problématiques de distribution demeurent constantes pour tout développeur indépendant :</description>
+    </item>
+    <item>
+      <title>11Bis. Hébergement Web de vos jeux</title>
+      <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/11bis-hebergement-web-jeu-construct-2/index.html</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/11bis-hebergement-web-jeu-construct-2/index.html</guid>
+      <description>Cette page constitue une archive pédagogique du douzième épisode de ma série consacrée à la création d’un jeu de plateforme. Dans ce tutoriel, j’aborde les méthodes pour publier votre jeu sur le web lorsque les options de partage simples ne sont plus disponibles.&#xA;Notions clés abordées Exportation HTML5 : Paramétrage de Construct 2 pour générer un projet web compatible avec les navigateurs. Hébergement gratuit : Utilisation d’un hébergeur web (ex: 000webhost) pour disposer d’un espace serveur accessible en ligne. Transfert FTP : Configuration et utilisation du client FileZilla pour transférer les fichiers de votre jeu vers l’espace distant. Gestion des répertoires : Organisation des fichiers sur le serveur via le dossier public_html pour isoler vos différents projets. Sécurité basique : Utilisation d’un fichier index.html vide à la racine pour masquer la structure de vos dossiers publics. Ce qui reste d’actualité aujourd’hui Si les outils spécifiques cités dans cette vidéo (comme 000webhost ou les méthodes d’accès FTP traditionnelles) ont évolué, les principes fondamentaux restent cruciaux pour tout développeur indépendant :</description>
     </item>
   </channel>
 </rss>
