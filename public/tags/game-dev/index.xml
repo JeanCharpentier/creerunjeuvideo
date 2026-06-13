@@ -65,7 +65,7 @@
       <description>Note : Cet article est une archive pédagogique du cinquième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Amélioration du Level Design : Conseils pour rendre vos niveaux plus visuels et attrayants en modifiant la disposition des éléments de décor. IA d’ennemi basique : * Mise en place d’un ennemi qui se déplace automatiquement de gauche à droite. Utilisation de la logique de retournement automatique pour simuler une patrouille. Organisation du code : * Introduction aux Groupes d’événements : création d’un groupe dédié (AnimJackEnemy) pour isoler la logique de l’ennemi. Activation/Désactivation des groupes au démarrage pour optimiser la lisibilité et la maintenance du projet. Gestion des bugs de collision : Identification et résolution de problèmes liés aux chutes non désirées à travers les plateformes (complémentaire au tutoriel de debug). Conseils d’organisation pour vos feuilles d’événements À mesure que votre projet gagne en complexité, la structure de votre feuille d’événements devient cruciale :</description>
     </item>
     <item>
-      <title>6. Gérer la Vie, Créer un Menu et Optimiser son Jeu sur Construct 2</title>
+      <title>6. Gérer la Vie, Créer un Menu et Optimiser son Jeu</title>
       <link>http://localhost:1313/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/index.html</guid>
@@ -107,6 +107,13 @@
       <description>Note : Cet article est une archive corrective visant à mettre à jour la méthode de persistance des données (WebStorage), suite à des changements dans les versions de Construct 2.&#xA;Pourquoi ce patch ? Dans les versions initiales de Construct 2 (il y a plusieurs années), l’utilisation de l’objet WebStorage était la méthode standard pour conserver des données comme le score ou le nom d’utilisateur entre deux layouts. Ce tutoriel patch explique comment adapter cette logique pour assurer la compatibilité avec les versions plus récentes du moteur.</description>
     </item>
     <item>
+      <title>11. Créer et équiper les objets de départ dans Intersect Engine</title>
+      <link>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-equiper-objets-depart-intersect-engine/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-equiper-objets-depart-intersect-engine/index.html</guid>
+      <description>Dans ce guide, nous allons configurer l’équipement de départ pour vos classes de personnages dans Intersect Engine, afin de donner à vos joueurs un coup de pouce bien mérité dès leur arrivée en jeu.&#xA;Notions clés abordées Item Editor : Création des objets (hache, bâton, dagues) avec définition des statistiques (attaque, défense, bonus). Gestion des restrictions : Limitation du port d’armes par classe et par sexe. Slots d’équipement : Configuration des emplacements (Weapon, Shield, Two-Handed) pour structurer l’inventaire. Class Editor : Attribution des objets de départ et de la monnaie initiale via les index d’inventaire. Test en jeu : Importance de créer un compte joueur standard (non-admin) pour vérifier l’attribution correcte des items au démarrage. Ce qui reste d’actualité aujourd’hui Bien que l’interface d’Intersect Engine puisse évoluer au fil des mises à jour, la logique fondamentale présentée ici demeure le standard pour tout développeur de MMORPG sur ce moteur :</description>
+    </item>
+    <item>
       <title>9. Système de codes de niveau</title>
       <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/9-systeme-codes-niveaux/index.html</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
@@ -135,11 +142,25 @@
       <description>Cette page constitue une archive pédagogique du douzième épisode de ma série consacrée à la création d’un jeu de plateforme. Dans ce tutoriel, j’aborde les méthodes pour publier votre jeu sur le web lorsque les options de partage simples ne sont plus disponibles.&#xA;Notions clés abordées Exportation HTML5 : Paramétrage de Construct 2 pour générer un projet web compatible avec les navigateurs. Hébergement gratuit : Utilisation d’un hébergeur web (ex: 000webhost) pour disposer d’un espace serveur accessible en ligne. Transfert FTP : Configuration et utilisation du client FileZilla pour transférer les fichiers de votre jeu vers l’espace distant. Gestion des répertoires : Organisation des fichiers sur le serveur via le dossier public_html pour isoler vos différents projets. Sécurité basique : Utilisation d’un fichier index.html vide à la racine pour masquer la structure de vos dossiers publics. Ce qui reste d’actualité aujourd’hui Si les outils spécifiques cités dans cette vidéo (comme 000webhost ou les méthodes d’accès FTP traditionnelles) ont évolué, les principes fondamentaux restent cruciaux pour tout développeur indépendant :</description>
     </item>
     <item>
+      <title>15. Créer un système de récolte de ressources dans Intersect Engine</title>
+      <link>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-systeme-recolte-ressources-intersect-engine/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-systeme-recolte-ressources-intersect-engine/index.html</guid>
+      <description>Apprendre à intégrer des ressources récoltables est une étape fondamentale pour donner vie à l’économie de votre MMORPG. Dans ce guide, nous explorons comment transformer des éléments visuels en objets interactifs que vos joueurs pourront farmer.&#xA;Résumé des notions clés La mise en place d’un système de récolte dans Intersect Engine repose sur une chaîne de production logique :</description>
+    </item>
+    <item>
       <title>12. Système de pièges et détection de ligne de vue</title>
       <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/12-systeme-pieges-ligne-vue/index.html</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/12-systeme-pieges-ligne-vue/index.html</guid>
       <description>Cette page est une archive pédagogique du douzième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2, traitant de la mise en place d’éléments dynamiques.&#xA;Notions clés abordées Conception de pièges dynamiques : Création d’obstacles interactifs qui apparaissent et disparaissent, ajoutant du défi au level design. Comportement “Line of Sight” (Ligne de vue) : Utilisation du comportement de détection visuelle pour déclencher des actions. Configuration des paramètres de portée (range) et de cône de vision (cone of view). Interaction IA : Utilisation de la ligne de vue pour faire réagir les ennemis (ex: un monstre qui se déplace vers le joueur uniquement lorsqu’il est repéré). Personnalisation des comportements : Ajustement des réglages pour adapter la détection selon le placement du joueur (au-dessus, sur les côtés, etc.). Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur historique, les concepts abordés ici sont les piliers de l’intelligence artificielle en 2D :</description>
+    </item>
+    <item>
+      <title>24. Maîtriser le système de quêtes dans Intersect Engine</title>
+      <link>http://localhost:1313/intersect-engine/creer-un-mmorpg/maitriser-systeme-quetes-intersect-engine/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intersect-engine/creer-un-mmorpg/maitriser-systeme-quetes-intersect-engine/index.html</guid>
+      <description>Créer un MMORPG demande de la structure, et le système de quêtes est le cœur battant de l’engagement de vos joueurs. Dans ce guide, nous explorons comment configurer vos premières missions avec l’éditeur intégré d’Intersect Engine pour donner vie à votre univers.&#xA;Résumé des notions clés L’éditeur de quêtes d’Intersect Engine est un outil puissant qui permet de gérer la progression narrative et mécanique de votre jeu. Voici les points essentiels à retenir :</description>
     </item>
     <item>
       <title>Apprendre la création de jeux vidéo avec Construct 2</title>

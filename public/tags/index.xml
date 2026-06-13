@@ -317,6 +317,83 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Administration</title>
+      <link>http://localhost:1313/tags/administration/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/administration/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Game Development</title>
+      <link>http://localhost:1313/tags/game-development/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/game-development/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Gamedev</title>
+      <link>http://localhost:1313/tags/gamedev/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gamedev/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Gamedev-Debutant</title>
+      <link>http://localhost:1313/tags/gamedev-debutant/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gamedev-debutant/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: GameMaker</title>
+      <link>http://localhost:1313/tags/gamemaker/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gamemaker/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Intersect Engine</title>
+      <link>http://localhost:1313/tags/intersect-engine/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/intersect-engine/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: MMORPG</title>
+      <link>http://localhost:1313/tags/mmorpg/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mmorpg/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Scripting</title>
+      <link>http://localhost:1313/tags/scripting/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scripting/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: SQLite</title>
+      <link>http://localhost:1313/tags/sqlite/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sqlite/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: UI</title>
+      <link>http://localhost:1313/tags/ui/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ui/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Asset Management</title>
+      <link>http://localhost:1313/tags/asset-management/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/asset-management/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Comportements</title>
       <link>http://localhost:1313/tags/comportements/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -345,6 +422,13 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Developpement De Jeux</title>
+      <link>http://localhost:1313/tags/developpement-de-jeux/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/developpement-de-jeux/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Evenements</title>
       <link>http://localhost:1313/tags/evenements/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -359,10 +443,31 @@
       <description></description>
     </item>
     <item>
-      <title>Tag :: Game Development</title>
-      <link>http://localhost:1313/tags/game-development/index.html</link>
+      <title>Tag :: Exportation</title>
+      <link>http://localhost:1313/tags/exportation/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/game-development/index.html</guid>
+      <guid>http://localhost:1313/tags/exportation/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Game Maker</title>
+      <link>http://localhost:1313/tags/game-maker/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/game-maker/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Game Maker Studio</title>
+      <link>http://localhost:1313/tags/game-maker-studio/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/game-maker-studio/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: GML</title>
+      <link>http://localhost:1313/tags/gml/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gml/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -401,10 +506,38 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: LevelDesign</title>
+      <link>http://localhost:1313/tags/leveldesign/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/leveldesign/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Linux</title>
+      <link>http://localhost:1313/tags/linux/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/linux/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Mapping</title>
+      <link>http://localhost:1313/tags/mapping/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mapping/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Menu</title>
       <link>http://localhost:1313/tags/menu/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/menu/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: MMO</title>
+      <link>http://localhost:1313/tags/mmo/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mmo/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -450,6 +583,20 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Pixel Art</title>
+      <link>http://localhost:1313/tags/pixel-art/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pixel-art/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Programmation</title>
+      <link>http://localhost:1313/tags/programmation/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/programmation/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Projet</title>
       <link>http://localhost:1313/tags/projet/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -461,6 +608,34 @@
       <link>http://localhost:1313/tags/rechargement/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/rechargement/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: RPG</title>
+      <link>http://localhost:1313/tags/rpg/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rpg/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Serveur</title>
+      <link>http://localhost:1313/tags/serveur/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/serveur/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Shoot-Em-Up</title>
+      <link>http://localhost:1313/tags/shoot-em-up/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/shoot-em-up/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Spells</title>
+      <link>http://localhost:1313/tags/spells/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spells/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -485,10 +660,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tag :: UI</title>
-      <link>http://localhost:1313/tags/ui/index.html</link>
+      <title>Tag :: Ubuntu</title>
+      <link>http://localhost:1313/tags/ubuntu/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ui/index.html</guid>
+      <guid>http://localhost:1313/tags/ubuntu/index.html</guid>
       <description></description>
     </item>
     <item>

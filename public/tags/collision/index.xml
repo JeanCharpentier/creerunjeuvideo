@@ -9,7 +9,7 @@
     <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/collision/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3. Créer des Monstres et une IA Simple dans Construct 2 (Partie 3)</title>
+      <title>3. Créer des Monstres et une IA Simple dans Construct 2</title>
       <link>http://localhost:1313/construct-2/tuto-top-down-shooter/creer-monstres-ia-simple-construct-2/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/construct-2/tuto-top-down-shooter/creer-monstres-ia-simple-construct-2/index.html</guid>
@@ -21,6 +21,20 @@
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/debug-collisions-plateformes/index.html</guid>
       <description>Note : Cet article est une archive technique traitant d’une solution spécifique aux problèmes de collision irrégulière dans Construct 2.&#xA;Le problème : Plateformes et formes complexes Dans Construct 2, la gestion des collisions sur des plateformes possédant des trous, des pentes ou des arrondis peut provoquer des erreurs de calcul. Le moteur a parfois du mal à gérer physiquement le personnage sur ces surfaces, entraînant des traversées accidentelles ou des bugs de positionnement.</description>
+    </item>
+    <item>
+      <title>12. Gérer les collisions et la destruction des ennemis dans GameMaker</title>
+      <link>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-collisions-destruction-ennemis-gamemaker/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-collisions-destruction-ennemis-gamemaker/index.html</guid>
+      <description>Apprenez à implémenter un système de collision efficace pour détruire vos ennemis lors de l’impact de vos projectiles dans GameMaker Studio.&#xA;Résumé des notions clés Événement de collision : Utilisation de l’événement Collision dans l’objet laser pour détecter le contact avec les différents types d’ennemis. Ciblage précis : Utilisation de la fonction with (instance_place(x, y, objet)) pour identifier et cibler spécifiquement l’instance de l’ennemi touchée. Destruction d’objets : Emploi de la fonction instance_destroy() pour supprimer à la fois l’ennemi touché et le projectile (le laser) après l’impact. Méthodologie : Répétition du processus pour chaque type d’ennemi afin de garantir une cohérence dans le gameplay. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de GameMaker aient évolué, les principes fondamentaux abordés ici restent le socle du développement 2D :</description>
+    </item>
+    <item>
+      <title>13. Gérer les collisions et la défaite du joueur dans GameMaker</title>
+      <link>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-collisions-defaite-joueur-gamemaker/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-collisions-defaite-joueur-gamemaker/index.html</guid>
+      <description>Apprenez à implémenter un système de défaite efficace en gérant les collisions entre votre vaisseau et les ennemis ou leurs projectiles dans GameMaker.&#xA;Résumé des notions clés Gestion des collisions : Utilisation de l’événement Collision pour détecter les interactions entre le vaisseau du joueur et les objets ennemis (vaisseaux ou lasers). Destruction d’instances : Utilisation de la fonction instance_destroy() pour supprimer les objets impliqués dans la collision. Ciblage dynamique : Utilisation de other dans le code de collision pour identifier précisément l’objet qui entre en contact avec le joueur. Duplication d’événements : Optimisation du workflow en dupliquant les événements de collision pour les différents types d’ennemis et de projectiles afin de gagner du temps. Tests de gameplay : Importance de tester les différentes conditions de défaite (collision frontale vs projectile) pour valider la logique du jeu. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de GameMaker (GMS2/GMS2023+) aient évolué, les fondamentaux présentés ici restent le socle de tout jeu d’action :</description>
     </item>
   </channel>
 </rss>

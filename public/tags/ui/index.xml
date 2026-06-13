@@ -6,7 +6,7 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5. Munitions, Rechargement et HUD Statique</title>
@@ -14,6 +14,13 @@
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html</guid>
       <description>Dans ce cinquième épisode de notre série sur Construct 2, nous allons approfondir la gestion de l’interface utilisateur et des mécaniques de jeu essentielles, en nous concentrant sur les munitions et le rechargement.&#xA;Résumé des notions clés abordées : Gestion du HUD Statique avec Parallax (0,0) Apprentissage de la propriété Parallax pour les calques (Layers) dans Construct 2. Configuration du calque HUD (Heads-Up Display) avec une valeur de parallax de 0,0 pour s’assurer que les éléments d’interface (vie, munitions) restent fixes à l’écran, indépendamment du défilement de la caméra. Affichage des Munitions Création d’un objet Text sur le calque HUD pour afficher le nombre de munitions restantes. Personnalisation du texte (police, taille, couleur, position). Variables d’Instance pour les Munitions Pour le Joueur (Marine) : MaxMun : Variable d’instance pour définir la capacité maximale de munitions que le joueur peut porter (ex: 6 pour un revolver). Munition : Variable d’instance pour suivre le nombre actuel de munitions du joueur. Pour les Chargeurs (Charger) : Charge : Variable d’instance pour définir la quantité de munitions qu’un chargeur (pickup) fournit. Initialisation des Munitions au Démarrage du Niveau Utilisation de l’événement système On Start Of Layout pour initialiser la variable Munition du joueur à la valeur de MaxMun. Cela assure que le joueur commence chaque niveau avec un chargeur plein. Mise à Jour de l’Affichage des Munitions Dans l’événement système Every Tick (à chaque image du jeu), mise à jour de l’objet Text des munitions pour qu’il affiche la valeur actuelle de la variable Munition du joueur. Mécanique de Tir et Consommation de Munitions Modification de l’événement Mouse - On Left Button Clicked (lorsque le joueur tire). Condition : Ajout d’une condition Marine.Munition &gt; 0 pour s’assurer que le joueur ne peut tirer que s’il a des munitions. Action : Soustraire 1 à la variable Munition du joueur après chaque tir. Ramassage des Chargeurs (Pickups) Création d’un objet Sprite pour représenter un chargeur de munitions sur le sol. Événement : Marine - Is Overlapping another object (Charger) (lorsque le joueur entre en collision avec un chargeur). Condition Cruciale : Ajout d’une condition pour éviter de recharger au-delà de la capacité maximale : Marine.MaxMun &gt;= Marine.Munition + Charger.Charge. Cela vérifie si l’ajout des munitions du chargeur ne dépasse pas la capacité maximale du joueur. Actions : Ajouter la valeur de Charger.Charge à la variable Munition du joueur. Détruire l’objet Charger pour le faire disparaître du niveau. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les concepts abordés sont des piliers fondamentaux du développement de jeux vidéo et restent entièrement pertinents, quel que soit le moteur ou le langage utilisé :</description>
+    </item>
+    <item>
+      <title>14. Créer des menus interactifs dans GameMaker Studio</title>
+      <link>http://localhost:1313/game-maker-studio/shoot-them-up/creer-menus-interactifs-gamemaker-studio/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/game-maker-studio/shoot-them-up/creer-menus-interactifs-gamemaker-studio/index.html</guid>
+      <description>Apprendre à concevoir des menus fonctionnels est une étape cruciale pour transformer votre prototype en un véritable jeu vidéo. Dans ce guide, nous explorons comment créer des boutons personnalisés et gérer la navigation entre les différentes salles (rooms) de votre projet.&#xA;Résumé des notions clés La création d’une interface utilisateur (UI) dans GameMaker Studio repose sur une méthodologie simple mais efficace :</description>
     </item>
   </channel>
 </rss>

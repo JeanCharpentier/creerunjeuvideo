@@ -1,5 +1,5 @@
 +++
-title = "Construct 2"
+title = "Tutoriels Construct 2"
 type = "chapter"
 weight = 1
 +++

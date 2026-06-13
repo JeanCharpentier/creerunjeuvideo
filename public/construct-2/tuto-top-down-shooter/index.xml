@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tuto Top Down Shooter (Construct 2) :: Créer un jeu vidéo</title>
+    <title>Créer un jeu de tir en vue de dessus avec Construct 2 :: Créer un jeu vidéo</title>
     <link>http://localhost:1313/construct-2/tuto-top-down-shooter/index.html</link>
     <description>Bienvenue dans la série de tutoriels consacrée à Tuto Top Down Shooter développée sur Construct 2.</description>
     <generator>Hugo</generator>

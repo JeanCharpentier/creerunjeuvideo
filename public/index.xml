@@ -36,5 +36,19 @@
       <guid>http://localhost:1313/unreal-engine-5/index.html</guid>
       <description>Devenez développeur de jeux vidéo indépendant avec mes cours et tutoriels gratuits sur Unreal Engine 5. Apprenez le Blueprint, l&#39;IA, le Level Design et compilez votre premier jeu.</description>
     </item>
+    <item>
+      <title>Game-Maker-Studios</title>
+      <link>http://localhost:1313/game-maker-studio/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/game-maker-studio/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intersect-Engines</title>
+      <link>http://localhost:1313/intersect-engine/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intersect-engine/index.html</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

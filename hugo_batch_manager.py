@@ -13,7 +13,7 @@ from google.genai.errors import ClientError  # Import pour intercepter la 429
 # =====================================================================
 # CONFIGURATION GÉNÉRALE
 # =====================================================================
-GEMINI_MODEL = "gemini-2.5-flash" 
+GEMINI_MODEL = "gemini-3.1-flash-lite" 
 BASE_CONTENT_DIR = "./content"  # Racine de ton dossier de contenu Hugo
 INDEX_FILE_NAME = ".series_index.json"
 SUPPORTED_EXTENSIONS = {".mp4", ".mkv", ".avi", ".mov", ".mp3", ".m4a"}

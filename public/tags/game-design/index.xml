@@ -135,6 +135,13 @@
       <description>Notre terrain 3D est désormais sculpté et peint, mais il manque cruellement de vie. Dans ce quatorzième épisode, nous transformons notre carte en une véritable forêt dense en utilisant les outils de peuplement de masse d’Unreal Engine 5. Nous verrons comment peindre de la végétation (arbres, buissons, cailloux) en quelques clics tout en appliquant des règles d’optimisation strictes pour préserver les performances du jeu.</description>
     </item>
     <item>
+      <title>14. Créer des menus interactifs dans GameMaker Studio</title>
+      <link>http://localhost:1313/game-maker-studio/shoot-them-up/creer-menus-interactifs-gamemaker-studio/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/game-maker-studio/shoot-them-up/creer-menus-interactifs-gamemaker-studio/index.html</guid>
+      <description>Apprendre à concevoir des menus fonctionnels est une étape cruciale pour transformer votre prototype en un véritable jeu vidéo. Dans ce guide, nous explorons comment créer des boutons personnalisés et gérer la navigation entre les différentes salles (rooms) de votre projet.&#xA;Résumé des notions clés La création d’une interface utilisateur (UI) dans GameMaker Studio repose sur une méthodologie simple mais efficace :</description>
+    </item>
+    <item>
       <title>15. Habillage du décor (Props) et création d&#39;une lumière de lanterne vacillante</title>
       <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/15-props-decor-lumiere-clignotte-lanterne-village/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
@@ -147,6 +154,13 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/16-menu-principal-optimisations-export-packaging-build/index.html</guid>
       <description>Nous y sommes ! Après quinze épisodes passés à bâtir notre gameplay, façonner notre monstre, sculpter notre forêt et peaufiner l’ambiance sonore, il est temps de poser la dernière pierre à l’édifice. Dans cet épisode final de la série Kawaii Slender, nous créons l’écran de titre (Menu Principal) et passons à la compilation définitive (Packaging) de notre projet afin de générer un build autonome (exécutable .exe) prêt à être partagé et testé par vos proches.</description>
+    </item>
+    <item>
+      <title>17. Créer des explosions dynamiques</title>
+      <link>http://localhost:1313/game-maker-studio/shoot-them-up/animer-effets-visuels-game-maker-explosions/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/game-maker-studio/shoot-them-up/animer-effets-visuels-game-maker-explosions/index.html</guid>
+      <description>Apprenez à donner vie à vos combats en ajoutant des effets d’explosion animés et en gérant leur cycle de vie pour un rendu professionnel.&#xA;Résumé des notions clés Pour transformer un simple sprite statique en un effet visuel dynamique, voici les étapes essentielles abordées dans ce tutoriel :</description>
     </item>
     <item>
       <title>Série : Créer un Système de Build complet dans Unreal Engine 5</title>
