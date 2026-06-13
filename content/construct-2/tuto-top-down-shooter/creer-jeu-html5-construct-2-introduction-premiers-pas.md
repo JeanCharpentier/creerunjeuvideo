@@ -9,7 +9,7 @@ tags: ['Construct 2', 'HTML5', 'Game Development', 'Tutoriel', 'Debutant', 'Inte
 ---
 Plongez dans le monde de la création de jeux HTML5 avec Construct 2 ! Ce premier tutoriel vous guide à travers l'installation, la découverte de l'interface et la mise en place des bases de votre premier jeu, un Top-Down Shooter.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "z2rZLCJolRE" >}}
 
 ### Résumé des notions clés
 

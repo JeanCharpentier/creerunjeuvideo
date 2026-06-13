@@ -10,7 +10,7 @@ tags: ['Construct 2', 'Game Development', 'Variables', 'Instance Variables', 'Da
 ---
 Dans ce quatrième épisode de notre série sur Construct 2, nous plongeons au cœur de la gestion des dégâts et de l'introduction des variables d'instance pour rendre nos interactions de jeu plus dynamiques et réalistes.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "TV3utJo2og0" >}}
 
 ### Résumé de l'épisode : Gérer les Dégâts et les Variables d'Instance
 

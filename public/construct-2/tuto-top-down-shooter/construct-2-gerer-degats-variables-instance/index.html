@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html id="R-html" lang="fr-fr" dir="ltr" itemscope itemtype="http://schema.org/Article" data-r-output-format="html">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.152.2">
+    <meta name="generator" content="Relearn 9.0.3+36307e4ed23582638ab689240ac7b427217803ee">
+    <meta name="description" content="Dans ce quatrième épisode de notre série sur Construct 2, nous plongeons au cœur de la gestion des dégâts et de l’introduction des variables d’instance pour rendre nos interactions de jeu plus dynamiques et réalistes.
+Résumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet épisode clé nous guide à travers l’implémentation d’un système de dégâts et l’utilisation des variables, des concepts fondamentaux en développement de jeux.">
+    <meta name="author" content="">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="4. Gérer les Dégâts et Introduire les Variables d&#39;Instance :: Créer un jeu vidéo">
+    <meta name="twitter:description" content="Dans ce quatrième épisode de notre série sur Construct 2, nous plongeons au cœur de la gestion des dégâts et de l’introduction des variables d’instance pour rendre nos interactions de jeu plus dynamiques et réalistes.
+Résumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet épisode clé nous guide à travers l’implémentation d’un système de dégâts et l’utilisation des variables, des concepts fondamentaux en développement de jeux.">
+    <meta property="og:url" content="http://localhost:1313/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables-instance/index.html">
+    <meta property="og:site_name" content="Créer un jeu vidéo">
+    <meta property="og:title" content="4. Gérer les Dégâts et Introduire les Variables d&#39;Instance :: Créer un jeu vidéo">
+    <meta property="og:description" content="Dans ce quatrième épisode de notre série sur Construct 2, nous plongeons au cœur de la gestion des dégâts et de l’introduction des variables d’instance pour rendre nos interactions de jeu plus dynamiques et réalistes.
+Résumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet épisode clé nous guide à travers l’implémentation d’un système de dégâts et l’utilisation des variables, des concepts fondamentaux en développement de jeux.">
+    <meta property="og:locale" content="fr_fr">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="Construct 2">
+    <meta property="article:published_time" content="2023-10-27T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-10-27T00:00:00+00:00">
+    <meta property="article:tag" content="Construct 2">
+    <meta property="article:tag" content="Game Development">
+    <meta property="article:tag" content="Variables">
+    <meta property="article:tag" content="Instance Variables">
+    <meta property="article:tag" content="Damage System">
+    <meta property="article:tag" content="Tutoriel">
+    <meta itemprop="name" content="4. Gérer les Dégâts et Introduire les Variables d&#39;Instance :: Créer un jeu vidéo">
+    <meta itemprop="description" content="Dans ce quatrième épisode de notre série sur Construct 2, nous plongeons au cœur de la gestion des dégâts et de l’introduction des variables d’instance pour rendre nos interactions de jeu plus dynamiques et réalistes.
+Résumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet épisode clé nous guide à travers l’implémentation d’un système de dégâts et l’utilisation des variables, des concepts fondamentaux en développement de jeux.">
+    <meta itemprop="datePublished" content="2023-10-27T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2023-10-27T00:00:00+00:00">
+    <meta itemprop="wordCount" content="816">
+    <meta itemprop="keywords" content="Construct 2,Game Development,Variables,Instance Variables,Damage System,Tutoriel,HTML5 Game">
+    <title>4. Gérer les Dégâts et Introduire les Variables d&#39;Instance :: Créer un jeu vidéo</title>
+    <link href="/css/auto-complete/auto-complete.min.css?1781348053" rel="stylesheet">
+    <script src="/js/auto-complete/auto-complete.min.js?1781348053" defer></script>
+    <script src="/js/search-lunr.js?1781348053" defer></script>
+    <script src="/js/search.js?1781348053" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.index_js_url="/searchindex.en.js?1781348053";
+    </script>
+    <script src="/js/lunr/lunr.min.js?1781348053" defer></script>
+    <script src="/js/lunr/lunr.stemmer.support.min.js?1781348053" defer></script>
+    <script src="/js/lunr/lunr.multi.min.js?1781348053" defer></script>
+    <script src="/js/lunr/lunr.fr.min.js?1781348053" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.contentLangs=['fr'];
+    </script>
+    <link href="/fonts/fontawesome/css/all.min.css?1781348053" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/all.min.css?1781348053" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1781348053" rel="stylesheet">
+    <link href="/css/theme.css?1781348053" rel="stylesheet">
+    <link href="/css/format-html.css?1781348053" rel="stylesheet" id="R-format-style">
+    <script>
+      window.relearn = window.relearn || {};
+      // configuration
+      window.relearn.min = ``;
+      window.relearn.path='\/construct-2\/tuto-top-down-shooter\/construct-2-gerer-degats-variables-instance\/index.html';
+      window.relearn.relBasePath='..\/..\/..';
+      window.relearn.relBaseUri='..\/..\/..';
+      window.relearn.absBaseUri='http:\/\/localhost:1313';
+      window.relearn.disableInlineCopyToClipboard=false;
+      window.relearn.enableBlockCodeWrap=true;
+      // translations
+      window.T_Copy_to_clipboard = `Copy text to clipboard`;
+      window.T_Copied_to_clipboard = `Text copied to clipboard!`;
+      window.T_Link_copied_to_clipboard = `Link copied to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+      window.T_Browser_unsupported_feature = `This browser doesn't support this feature`;
+      // variant stuff
+      window.relearn.themevariants = [ 'relearn-dark', 'relearn-light' ];
+      window.relearn.customvariantprefix = "my-custom-";
+      window.relearn.changeVariant = function(variant) {
+        var oldVariant = document.documentElement.dataset.rThemeVariant;
+        window.localStorage.setItem(window.relearn.absBaseUri + "/variant", variant);
+        document.documentElement.dataset.rThemeVariant = variant;
+        if (oldVariant != variant) {
+          document.dispatchEvent( new CustomEvent('themeVariantLoaded', { detail: { variant, oldVariant } }) );
+          window.relearn.markVariant();
+        }
+      }
+      window.relearn.markVariant = function() {
+        var variant = window.localStorage.getItem(window.relearn.absBaseUri + "/variant");
+        document.querySelectorAll(".R-variantswitcher select").forEach((select) => {select.value = variant;});
+      }
+      window.relearn.initVariant = function() {
+        var variant = window.localStorage.getItem(window.relearn.absBaseUri + "/variant") ?? "";
+        if( !variant ||
+            (!variant.startsWith(window.relearn.customvariantprefix) && !window.relearn.themevariants.includes(variant)) ||
+            (variant.startsWith(window.relearn.customvariantprefix) && !window.localStorage.getItem(window.relearn.absBaseUri + "/variantstylesheet-" + variant)) ){
+          variant = window.relearn.themevariants[0];
+          window.localStorage.setItem(window.relearn.absBaseUri + "/variant", variant);
+        }
+        document.documentElement.dataset.rThemeVariant = variant;
+      }
+      window.relearn.initVariant();
+      window.relearn.markVariant();
+    </script>
+  </head>
+  <body class="mobile-support html" data-origin="/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables-instance/index.html">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar" class="default-animation">
+        <div class="topbar-wrapper default-animation">
+          <div class="topbar-sidebar-divider default-animation"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar default-animation" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button></span>
+            </div>
+            <div class="topbar-button topbar-button-toc default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="Table of Contents (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-table-list"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+<nav class="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#résumé-de-lépisode--gérer-les-dégâts-et-les-variables-dinstance">Résumé de l&rsquo;épisode : Gérer les Dégâts et les Variables d&rsquo;Instance</a></li>
+        <li><a href="#ce-qui-reste-dactualité-aujourdhui">Ce qui reste d&rsquo;actualité aujourd&rsquo;hui</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+                </div>
+              </div>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/index.html"><span itemprop="name">Créer un jeu vidéo</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/construct-2/index.html"><span itemprop="name">Construct 2</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/construct-2/tuto-top-down-shooter/index.html"><span itemprop="name">Tuto Top Down Shooter (Construct 2)</span></a><meta itemprop="position" content="3">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">4. Gérer les Dégâts et Introduire les Variables d&#39;Instance</span><meta itemprop="position" content="4"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/construct-2/tuto-top-down-shooter/creer-monstres-ia-simple-construct-2/index.html" title="3. Créer des Monstres et une IA Simple dans Construct 2 (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-next default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html" title="5. Munitions, Rechargement et HUD Statique (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-more default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+                  <div class="topbar-area topbar-area-more" data-area="more">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable construct-2" tabindex="-1">
+        <div class="flex-block-wrapper">
+<article class="default">
+  <header class="headline">
+<div class="R-taxonomy taxonomy-tags cstyle tags" title="Tags" style="--VARIABLE-TAGS-BG-color: var(--INTERNAL-TAG-BG-color);">
+  <i class="fa-fw fas fa-layer-group"></i>
+  <ul>
+    <li><a class="term-link" href="/tags/construct-2/index.html">Construct 2</a></li>
+    <li><a class="term-link" href="/tags/damage-system/index.html">Damage System</a></li>
+    <li><a class="term-link" href="/tags/game-development/index.html">Game Development</a></li>
+    <li><a class="term-link" href="/tags/html5-game/index.html">HTML5 Game</a></li>
+    <li><a class="term-link" href="/tags/instance-variables/index.html">Instance Variables</a></li>
+    <li><a class="term-link" href="/tags/tutoriel/index.html">Tutoriel</a></li>
+    <li><a class="term-link" href="/tags/variables/index.html">Variables</a></li>
+  </ul>
+</div>
+  </header>
+
+<h1 id="4-gérer-les-dégâts-et-introduire-les-variables-dinstance">4. Gérer les Dégâts et Introduire les Variables d&#39;Instance</h1>
+
+<hr>
+<p>Dans ce quatrième épisode de notre série sur Construct 2, nous plongeons au cœur de la gestion des dégâts et de l&rsquo;introduction des variables d&rsquo;instance pour rendre nos interactions de jeu plus dynamiques et réalistes.</p>
+
+<div class="youtube-privacy-wrapper" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <iframe 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/TV3utJo2og0" 
+        title="YouTube video player" 
+        loading="lazy"
+        srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/TV3utJo2og0?autoplay=1><img src=https://img.youtube.com/vi/TV3utJo2og0/hqdefault.jpg alt='Vidéo YouTube'><span>▶</span></a>"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
+
+<h3 id="résumé-de-lépisode--gérer-les-dégâts-et-les-variables-dinstance">Résumé de l&rsquo;épisode : Gérer les Dégâts et les Variables d&rsquo;Instance<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Cet épisode clé nous guide à travers l&rsquo;implémentation d&rsquo;un système de dégâts et l&rsquo;utilisation des variables, des concepts fondamentaux en développement de jeux.</p>
+<ul>
+<li><strong>Introduction aux Variables d&rsquo;Instance</strong>
+<ul>
+<li><strong>Définition</strong> : Les variables sont des valeurs qui peuvent être modifiées par le jeu et pendant le jeu, par opposition aux constantes qui restent fixes.</li>
+<li><strong>Utilité</strong> : Elles sont essentielles pour gérer les états dynamiques des objets (points de vie, dégâts, scores, etc.).</li>
+</ul>
+</li>
+<li><strong>Configuration des Variables pour les Objets du Jeu</strong>
+<ul>
+<li><strong>Joueur (Marine)</strong> : Ajout d&rsquo;une variable d&rsquo;instance <code>Vie_Joueur</code> (type: Nombre, valeur initiale: 100).</li>
+<li><strong>Ennemi (Mob)</strong> : Ajout de deux variables d&rsquo;instance :
+<ul>
+<li><code>Degats_Mob</code> (type: Nombre, valeur initiale: 5) pour les dégâts infligés au joueur.</li>
+<li><code>Vie_Mob</code> (type: Nombre, valeur initiale: 10) pour les points de vie du mob.</li>
+</ul>
+</li>
+<li><strong>Balle (Bullet)</strong> : Ajout d&rsquo;une variable d&rsquo;instance <code>Degats_Balle</code> (type: Nombre, valeur initiale: 5) pour les dégâts infligés aux mobs.</li>
+<li><strong>Types de Variables</strong> : Construct 2 propose des types &ldquo;Nombre&rdquo;, &ldquo;Booléen&rdquo; (vrai/faux) et &ldquo;Texte&rdquo;.</li>
+<li><strong>Modification</strong> : Les variables d&rsquo;instance sont ajoutées et modifiées via le panneau des propriétés de chaque objet.</li>
+</ul>
+</li>
+<li><strong>Logique des Événements pour les Dégâts et la Mort</strong>
+<ul>
+<li><strong>Joueur touché par un Mob</strong> :
+<ul>
+<li><strong>Mort du joueur</strong> : Si <code>Marine</code> entre en collision avec <code>Mob</code> ET <code>Vie_Joueur</code> est inférieure ou égale à <code>Mob.Degats_Mob</code>, alors <code>Destroy Marine</code>.</li>
+<li><strong>Perte de vie</strong> : Si <code>Marine</code> entre en collision avec <code>Mob</code>, alors <code>Marine: Soustraire de Vie_Joueur</code> la valeur de <code>Mob.Degats_Mob</code>.</li>
+</ul>
+</li>
+<li><strong>Mob touché par une Balle</strong> :
+<ul>
+<li><strong>Mort du mob</strong> : Si <code>Bullet</code> entre en collision avec <code>Mob</code> ET <code>Vie_Mob</code> est inférieure ou égale à <code>Bullet.Degats_Balle</code>, alors <code>Destroy Mob</code> et <code>Destroy Bullet</code>.</li>
+<li><strong>Perte de vie du mob</strong> : Si <code>Bullet</code> entre en collision avec <code>Mob</code>, alors <code>Mob: Soustraire de Vie_Mob</code> la valeur de <code>Bullet.Degats_Balle</code>, puis <code>Destroy Bullet</code>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Affichage de la Vie du Joueur (HUD)</strong>
+<ul>
+<li><strong>Création</strong> : Ajout d&rsquo;un objet <code>Text</code> sur le layout (calque HUD).</li>
+<li><strong>Mise à jour</strong> : Dans l&rsquo;événement <code>System: Every Tick</code>, ajouter l&rsquo;action <code>Text: Set text</code> à la valeur de <code>Marine.Vie_Joueur</code> pour un affichage en temps réel.</li>
+</ul>
+</li>
+<li><strong>Suivi de Caméra sur le Joueur</strong>
+<ul>
+<li><strong>Implémentation</strong> : Dans l&rsquo;événement <code>System: Every Tick</code>, ajouter l&rsquo;action <code>System: Scroll to object (Marine)</code> pour que la caméra suive le joueur.</li>
+</ul>
+</li>
+<li><strong>Organisation des Événements</strong>
+<ul>
+<li><strong>Regroupement</strong> : Brève introduction à l&rsquo;organisation des événements en groupes pour une meilleure lisibilité et gestion du projet.</li>
+</ul>
+</li>
+</ul>
+<h3 id="ce-qui-reste-dactualité-aujourdhui">Ce qui reste d&rsquo;actualité aujourd&rsquo;hui<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Bien que ce tutoriel utilise Construct 2, les concepts abordés sont des piliers du développement de jeux et restent pleinement pertinents, quel que soit le moteur ou le langage utilisé :</p>
+<ul>
+<li><strong>Variables d&rsquo;Instance (ou Propriétés d&rsquo;Objet)</strong> : C&rsquo;est un concept fondamental. Dans Unity, Godot, Unreal Engine ou même en programmation pure (C++, Python), chaque instance d&rsquo;un objet peut avoir ses propres propriétés (variables) qui définissent son état unique (sa vie, sa position, sa couleur, etc.). Comprendre leur rôle est essentiel pour créer des jeux dynamiques.</li>
+<li><strong>Systèmes de Dégâts et de Santé</strong> : La logique de soustraction de points de vie, la vérification d&rsquo;un seuil de mort (vie &lt;= 0 ou vie &lt;= dégâts entrants), et la destruction de l&rsquo;objet sont des mécanismes universels. La manière de les implémenter peut varier (scripts, blueprints, événements visuels), mais le principe reste le même.</li>
+<li><strong>Affichage Dynamique de l&rsquo;Interface Utilisateur (HUD)</strong> : Mettre à jour des éléments visuels (barres de vie, scores, compteurs) en temps réel en fonction des variables du jeu est une pratique courante pour informer le joueur. Cela se fait via des Canvas UI dans Unity, des Control Nodes dans Godot, ou des widgets dans Unreal.</li>
+<li><strong>Logique Conditionnelle</strong> : L&rsquo;utilisation de conditions (<code>If</code>, <code>Else If</code>, <code>Else</code>, opérateurs de comparaison comme <code>&lt;=</code>, <code>==</code>, <code>&gt;</code>) est la base de toute programmation. Les événements de Construct 2 illustrent parfaitement comment ces conditions structurent le comportement du jeu.</li>
+<li><strong>Gestion de Caméra</strong> : Le suivi de caméra (<code>Scroll to object</code>) est un mécanisme essentiel pour de nombreux types de jeux. Des systèmes plus avancés incluent des zones mortes, des interpolations douces ou des caméras cinématiques, mais le principe de base est de maintenir le joueur à l&rsquo;écran.</li>
+<li><strong>Organisation du Code/des Événements</strong> : Regrouper les événements ou le code par fonctionnalité (joueur, ennemis, UI) est une bonne pratique pour maintenir un projet propre, lisible et facile à déboguer, quel que soit l&rsquo;outil.</li>
+</ul>
+<p>Ces notions sont des fondations solides pour quiconque souhaite se lancer dans le développement de jeux, et les apprendre avec Construct 2 offre une excellente porte d&rsquo;entrée visuelle et intuitive.</p>
+
+<div class="footer-nav" style="display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
+    
+    
+    <a href="/construct-2/tuto-top-down-shooter/creer-monstres-ia-simple-construct-2/" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1.2rem; border: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); border-radius: 6px; text-decoration: none; color: var(--MAIN-TITLES-color); font-weight: 500; font-size: 0.85rem; background: rgba(0,0,0,0.02); transition: background 0.2s;">
+        ⬅️ Vidéo Précédente
+    </a>
+    
+
+    
+    <a href="/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1.2rem; border: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); border-radius: 6px; text-decoration: none; color: var(--MAIN-TITLES-color); font-weight: 500; font-size: 0.85rem; background: rgba(0,0,0,0.02); transition: background 0.2s;">
+        Vidéo Suivante ➡️
+    </a>
+    
+    
+</div>
+
+
+<hr style="margin-top: 1.5rem; border: 0; border-top: 1px solid var(--INTERNAL-MENU-BORDER-color, #e5e5e5); opacity: 0.5;">
+
+<div class="custom-footer" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 2rem; padding-bottom: 2rem; font-size: 0.9rem; color: var(--MAIN-TITLES-color);">
+    
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">📺 Ma Chaîne YouTube</h4>
+        <a href="https://www.youtube.com/@creerunjeuvideo" target="_blank" rel="noopener" style="display: inline-block; background: #ff0000; color: #fff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: bold; font-size: 0.85rem;">
+            S'abonner à la chaîne
+        </a>
+    </div>
+
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">📦 Ressources</h4>
+        <a href="https://jeancharpentier.itch.io/ressources-tutoriels" target="_blank" rel="noopener" style="display: inline-block; background: #4400ff; color: #fff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: bold; font-size: 0.85rem;">
+            Téléchargements
+        </a>
+    </div>
+
+    <div class="footer-col">
+        <h4 style="margin-bottom: 0.8rem; color: var(--MAIN-TITLES-color);">🌐 Communauté</h4>
+        <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
+            <li><a href="https://github.com/JeanCharpentier/" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">💻 GitHub</a></li>
+            <li><a href="https://bsky.app/profile/ankhm.bsky.social" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">🦋 Bluesky</a></li>
+            <li><a href="https://fr.linkedin.com/in/jeancharpentier" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">💼 LinkedIn</a></li>
+            <li><a href="https://www.twitch.tv/levieuxankh" target="_blank" rel="noopener" style="color: var(--MENU-SECTIONS-LINK-color);">👾 Chaîne Twitch</a></li>
+        </ul>
+    </div>
+
+</div>
+
+<div style="border-top: 1px dashed var(--INTERNAL-MENU-BORDER-color, #e5e5e5); padding-top: 1rem; margin-top: 1rem; font-size: 0.8rem; opacity: 0.7; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+    <div>
+        &copy; 2026 - Créé avec ❤️ sous Hugo & Relearn.
+    </div>
+    <div>
+        <a href="/mentions-legales/" style="color: inherit; margin-right: 1rem;">Mentions légales</a>
+        <a href="/confidentialite/" style="color: inherit;">Confidentialité (RGPD)</a>
+    </div>
+</div>
+
+  <footer class="footline">
+              <i class='fa-fw fas fa-calendar'></i> Oct 27, 2023
+<div class="R-taxonomy taxonomy-categories cstyle" title="Categories" style="--VARIABLE-TAGS-BG-color: var(--INTERNAL-TAG-BG-color);">
+  <i class="fa-fw fas fa-layer-group"></i>
+  <ul>
+    <li><a class="term-link" href="/categories/archive/index.html">Archive</a></li>
+  </ul>
+</div>
+  </footer>
+</article>
+        </div>
+      </main>
+    </div>
+    <aside id="R-sidebar" class="default-animation">
+      <div id="R-header-topbar" class="default-animation"></div>
+      <div id="R-header-wrapper" class="default-animation">
+        <a id="R-logo" class="R-default direction-row" href="/index.html">
+          <span class="logo-title default-animation">Créer un jeu vidéo</span>
+        </a>
+        <search><form action="/search/index.html" method="get">
+          <div class="searchbox default-animation">
+            <button class="search-detail" type="submit" title="Search (CTRL+ALT+f)"><i class="fas fa-fw fa-search"></i></button>
+            <label class="a11y-only" for="R-search-by">Search</label>
+            <input data-search-input id="R-search-by" name="search-by" class="search-by" type="search" placeholder="Search...">
+            <button class="search-clear" type="button" data-search-clear="" title="Clear search"><i class="fas fa-fw fa-times" title="Clear search"></i></button>
+          </div>
+        </form></search>
+      </div>
+      <div id="R-homelinks" class="default-animation homelinks">
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-homelinks default-animation">
+          <ul class="space collapsible-menu">
+            <li class="" data-nav-id="/index.html"><a class="padding" href="/index.html"><i class="fa-fw fas fa-home"></i> Home</a></li>
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-headercontrols default-animation">
+          <ul class="">
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+      </div>
+      <div id="R-content-wrapper" class="highlightable">
+        <div class="R-sidebarmenu R-shortcutmenu-main default-animation">
+          <ul class="enlarge morespace collapsible-menu">
+            <li class="parent " data-nav-id="/construct-2/index.html"><a class="padding default-animation" href="/construct-2/index.html">Construct 2</a><ul id="R-subsections-cce4b606b0538b1d55c0d58eee48e27a" class="collapsible-menu">
+            <li class="alwaysopen " data-nav-id="/construct-2/tuto-jeu-plateforme/index.html"><a class="padding default-animation" href="/construct-2/tuto-jeu-plateforme/index.html">Apprendre la création de jeux vidéo avec Construct 2</a><ul id="R-subsections-04245fa432d33ae3fbfe91743dc8faa4" class="collapsible-menu"></ul></li>
+            <li class="parent alwaysopen " data-nav-id="/construct-2/tuto-top-down-shooter/index.html"><a class="padding default-animation" href="/construct-2/tuto-top-down-shooter/index.html">Tuto Top Down Shooter (Construct 2)</a><ul id="R-subsections-37e043fea5b63060a6790b06fcb190c5" class="collapsible-menu">
+            <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/creer-jeu-html5-construct-2-introduction-premiers-pas/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/creer-jeu-html5-construct-2-introduction-premiers-pas/index.html">1. Introduction et premiers pas</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/tutoriel-construct-2-visee-tirs-balles/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/tutoriel-construct-2-visee-tirs-balles/index.html">2. Visée à la Souris et Tirs de Balles</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/creer-monstres-ia-simple-construct-2/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/creer-monstres-ia-simple-construct-2/index.html">3. Créer des Monstres et une IA Simple dans Construct 2</a></li>
+            <li class="active " data-nav-id="/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables-instance/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables-instance/index.html">4. Gérer les Dégâts et Introduire les Variables d&#39;Instance</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html">5. Munitions, Rechargement et HUD Statique</a></li>
+            <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/index.html">6. Gérer la Vie, Créer un Menu et Optimiser son Jeu</a></li></ul></li></ul></li>
+            <li class="" data-nav-id="/unreal-engine-5/index.html"><a class="padding default-animation" href="/unreal-engine-5/index.html">Tutoriels Unreal Engine 5</a><ul id="R-subsections-7ba934a6d645a707dda7263d6f637014" class="collapsible-menu"></ul></li>
+          </ul>
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-shortcuts default-animation">
+          <ul class="space collapsible-menu">
+          </ul>
+        </div>
+        <div id="R-footer-margin" class="default-animation"></div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-footercontrols default-animation">
+          <ul class="">
+            <li class="R-variantswitcher">
+              <div class="padding menu-control">
+                <i class="fa-fw fas fa-paint-brush"></i>
+                <span>&nbsp;</span>
+                <div class="control-style">
+                  <label class="a11y-only" for="R-select-variant">Theme</label>
+                  <select id="R-select-variant">
+                    <option id="R-select-variant-relearn-dark" value="relearn-dark" selected>Relearn Dark</option>
+                    <option id="R-select-variant-relearn-light" value="relearn-light">Relearn Light</option>
+                  </select>
+                </div>
+                <div class="clear"></div>
+              </div>
+              <script>window.relearn.markVariant();</script>
+            </li>
+          </ul>
+        </div>
+<div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
+      </div>
+    </aside>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1781348053" defer></script>
+    <script src="/js/theme.js?1781348053" defer></script>
+    <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
+  </body>
+</html>

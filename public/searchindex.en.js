@@ -54,28 +54,22 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Top Down Shooter (Construct 2)",
-    "content": "Plongez dans l’univers de la création de jeux HTML5 avec Construct 2 ! Dans ce premier épisode d’une série dédiée, nous allons poser les bases de votre premier jeu, en explorant l’interface du logiciel et en mettant en place les éléments fondamentaux.\nRésumé des notions clés abordées : Introduction à Construct 2 et HTML5 :\nPourquoi le HTML5 ? Compatibilité multi-plateforme (PC, Mac, Linux, iOS, Android), simplicité d’approche pour les débutants. Présentation de Construct 2 : Un logiciel intuitif pour créer des jeux sans coder, développé par Scirra. Les versions de Construct 2 : Gratuite (avec limitations), Personnelle (environ 60€), Commerciale (environ 200€+ pour la revente de jeux). Prise en Main de l’Interface :\nCréation d’un nouveau projet : Choix de “Store project in a single file” pour un fichier .capx unique. Vue d’ensemble des panneaux : Gauche : Panneau des propriétés (pour l’objet ou le projet sélectionné). Centre : Zone de travail (partie graphique et partie événementielle). Droite : Explorateur de projet (layouts, event sheets) et gestionnaire de calques (layers). Configuration du Projet et du Layout :\nPropriétés du Projet : Nom : Renommé en “TDS” (Top Down Shooter). Version : Laissé à 1.0. Window Size : Taille de la fenêtre de jeu visible (ex: 640x480 pixels). Preview Browser : Choix du navigateur pour les prévisualisations. Propriétés du Layout (LevelOne) : Nom : Renommé en “LevelOne”. Layout Size : Taille totale du niveau (ex: 1280x1224 pixels), pouvant être plus grande que la fenêtre de jeu. Margins : Marges minimales autour du jeu dans le navigateur. Gestion des Calques (Layers) :\nRenommage de l’Event Sheet : “Event Sheet One” renommé en “S_LevelOne” pour une meilleure organisation. Création et renommage des calques : “Layer 0” renommé en “Fond”. Ajout de trois nouveaux calques : “Joueur”, “Ennemis”, “HUD”. Limitation de la version gratuite : Seulement 4 calques disponibles, un point noir mais suffisant pour de nombreux projets. Ajout d’un Fond (Tile Background) :\nSélection du calque “Fond”. Insertion d’un objet “Tile Background” : Permet de répéter une texture. Chargement de l’image : Utilisation de “BG.png” (fourni avec le pack de tutoriels). Positionnement et dimensionnement : Positionné à (0,0) et redimensionné à la taille du layout (1280x1224) pour couvrir tout le niveau. Verrouillage du calque “Fond” : Pour éviter les modifications accidentelles. Ajout du Joueur (Sprite) et Comportements (Behaviors) :\nSélection du calque “Joueur”. Insertion d’un objet “Sprite” : Pour le personnage du joueur. Chargement de l’image : Utilisation de “Player.png”. Renommage du Sprite : Nommé “Marine”. Introduction aux “Behaviors” (Comportements) : Fonctionnalités prédéfinies pour éviter de coder manuellement. Ajout du comportement “8 Direction” : Permet au joueur de se déplacer dans 8 directions avec les touches du clavier. Test du jeu : Vérification du déplacement du personnage. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait été remplacé par Construct 3, les fondamentaux abordés dans ce tutoriel restent étonnamment pertinents pour quiconque s’intéresse au développement de jeux, quel que soit l’outil :\nLe HTML5 et le Web Gaming : La promesse de la compatibilité multi-plateforme du HTML5 est plus vraie que jamais. Les jeux web sont une catégorie à part entière, et les concepts de performance et d’optimisation pour le navigateur sont cruciaux. L’Approche “No-Code” / “Low-Code” : Construct 2 a été un pionnier de cette approche, permettant de créer des jeux sans écrire une ligne de code. Cette philosophie est très présente dans de nombreux outils modernes (GameMaker, GDevelop, Unity avec Bolt/Visual Scripting) et démocratise la création de jeux. Structure de Projet et Organisation : L’importance de bien nommer ses éléments (layouts, event sheets, sprites) et d’utiliser des calques (layers) pour organiser la scène est une pratique essentielle dans tout moteur de jeu. Une bonne organisation est la clé d’un projet maintenable. Les Comportements (Behaviors/Components) : L’idée d’attacher des fonctionnalités prédéfinies (comme le mouvement 8 directions) à des objets est un concept central dans la plupart des moteurs de jeu modernes (Unity utilise des “Components”, Godot des “Nodes” avec scripts attachés, etc.). Cela accélère grandement le développement. La Préparation est Clé : Le tutoriel insiste sur l’importance de la préparation avant de se lancer dans le vif du sujet. Définir les tailles, les calques, et la structure est une étape souvent sous-estimée mais cruciale pour la réussite d’un projet. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
-    "description": "Plongez dans l’univers de la création de jeux HTML5 avec Construct 2 ! Dans ce premier épisode d’une série dédiée, nous allons poser les bases de votre premier jeu, en explorant l’interface du logiciel et en mettant en place les éléments fondamentaux.\nRésumé des notions clés abordées : Introduction à Construct 2 et HTML5 :",
+    "content": "Plongez dans le monde de la création de jeux HTML5 avec Construct 2 ! Ce premier tutoriel vous guide à travers l’installation, la découverte de l’interface et la mise en place des bases de votre premier jeu, un Top-Down Shooter.\nRésumé des notions clés Introduction à Construct 2 et HTML5 Avantages du HTML5 : Compatibilité multiplateforme (PC, Mac, Linux, iOS, Android), permettant de créer un jeu jouable partout. Construct 2 : Logiciel intuitif et accessible, idéal pour une première approche du développement de jeux. Versions de Construct 2 : Gratuite (avec limitations), personnelle (environ 60€), et commerciale (plus de 200€ pour la revente de jeux). Objectif de la série : Apprendre à créer un jeu de tir vu de dessus (Top-Down Shooter - TDS). Prise en main de l’interface de Construct 2 Panneau de propriétés (à gauche) : Affiche les attributs de l’élément sélectionné. Zone de travail centrale : Layout : La partie graphique où vous placez vos éléments de jeu. Event Sheet : La partie logique où vous définissez les interactions et comportements. Panneau de droite : Project Explorer : Gère l’ensemble de votre projet (layouts, event sheets, etc.). Layers : Permet de superposer les éléments du jeu sur différents niveaux (calques). Objects : Liste tous les objets présents dans la scène actuelle. Configuration du projet Création d’un nouveau projet (.capx pour un fichier unique). Nom du projet : TDS. Taille de la fenêtre de jeu (Window Size) : Définie à 640x480 pixels. Navigateur de prévisualisation (Preview Browser) : Permet de choisir le navigateur pour tester le jeu. Configuration du niveau (Layout) Renommage du layout par défaut en Level One. Taille du layout (Layout Size) : Définie à 1280x1224 (deux fois la taille de la fenêtre) pour un niveau plus grand que l’écran. Gestion des Event Sheets Renommage de l’Event Sheet par défaut en ES_Level One pour une meilleure organisation et la possibilité de réutiliser la même feuille d’événements pour plusieurs niveaux. Organisation des calques (Layers) Renommage du calque par défaut en Fond. Ajout de nouveaux calques : Joueur, Ennemis, HUD. Limitation de la version gratuite : Seulement 4 calques disponibles. Verrouillage du calque Fond : Empêche toute modification accidentelle une fois le fond configuré. Ajout des premiers éléments graphiques Arrière-plan (Tiled Background) : Ajout d’un objet Tiled Background sur le calque Fond. Chargement de l’image BG.png. Positionnement à 0,0 et redimensionnement à la taille du layout (1280x1224) pour couvrir tout le niveau. Personnage joueur (Sprite) : Ajout d’un objet Sprite sur le calque Joueur. Chargement de l’image player.png. Renommage du sprite en Marine. Introduction aux comportements (Behaviors) Sélection du sprite Marine. Ajout du comportement 8 Direction via le panneau des propriétés. Ce comportement permet un déplacement facile du personnage avec les touches directionnelles du clavier, sans écrire de code. Test du jeu pour visualiser le personnage se déplaçant. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait été remplacé par Construct 3, les concepts fondamentaux introduits dans ce tutoriel restent d’une pertinence capitale pour tout développeur de jeux, quel que soit le moteur utilisé :\nLa philosophie “No-Code/Low-Code” : Construct 2 a été un pionnier dans la démocratisation de la création de jeux sans code ou avec très peu de code. Cette approche est plus que jamais d’actualité, avec des outils comme Construct 3, Unity Bolt, Unreal Engine Blueprints ou Godot Visual Script, qui permettent de se concentrer sur le design et la logique du jeu plutôt que sur la syntaxe du code. Le développement HTML5 et multiplateforme : La capacité de créer un jeu une seule fois et de le déployer sur une multitude de plateformes (web, mobile, desktop) est un avantage majeur. Le HTML5 reste une cible de choix pour les jeux casual, les prototypes et les applications interactives web. L’interface visuelle intuitive : La structure de l’interface de Construct 2 (panneaux de propriétés, zone de travail, explorateur de projet, gestion des calques) est un modèle que l’on retrouve dans la plupart des moteurs de jeu modernes. Maîtriser cette organisation facilite grandement l’apprentissage de nouveaux outils. Le système de comportements (Behaviors) : L’utilisation de comportements prédéfinis pour des actions courantes (mouvement, physique, détection de collisions) est une fonctionnalité puissante qui accélère considérablement le développement. Elle permet aux créateurs de se concentrer sur l’expérience de jeu plutôt que sur l’implémentation technique de base. La gestion des calques (Layers) : L’organisation des éléments du jeu en calques est une pratique fondamentale en 2D pour gérer la profondeur, les interactions et l’ordre d’affichage. Ce concept est universel et essentiel pour des scènes complexes. L’importance de la préparation du projet : Bien nommer ses éléments (layouts, event sheets, sprites) et organiser ses calques dès le début sont des bonnes pratiques qui évitent des problèmes futurs et facilitent la maintenance, quel que soit le moteur de jeu. Le concept de “Top-Down Shooter” : Ce genre de jeu simple est un excellent point de départ pour apprendre les bases du mouvement, des collisions, du tir et de la gestion des ennemis, des compétences transférables à de nombreux autres types de jeux. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Plongez dans le monde de la création de jeux HTML5 avec Construct 2 ! Ce premier tutoriel vous guide à travers l’installation, la découverte de l’interface et la mise en place des bases de votre premier jeu, un Top-Down Shooter.\nRésumé des notions clés Introduction à Construct 2 et HTML5 Avantages du HTML5 : Compatibilité multiplateforme (PC, Mac, Linux, iOS, Android), permettant de créer un jeu jouable partout. Construct 2 : Logiciel intuitif et accessible, idéal pour une première approche du développement de jeux. Versions de Construct 2 : Gratuite (avec limitations), personnelle (environ 60€), et commerciale (plus de 200€ pour la revente de jeux). Objectif de la série : Apprendre à créer un jeu de tir vu de dessus (Top-Down Shooter - TDS). Prise en main de l’interface de Construct 2 Panneau de propriétés (à gauche) : Affiche les attributs de l’élément sélectionné. Zone de travail centrale : Layout : La partie graphique où vous placez vos éléments de jeu. Event Sheet : La partie logique où vous définissez les interactions et comportements. Panneau de droite : Project Explorer : Gère l’ensemble de votre projet (layouts, event sheets, etc.). Layers : Permet de superposer les éléments du jeu sur différents niveaux (calques). Objects : Liste tous les objets présents dans la scène actuelle. Configuration du projet Création d’un nouveau projet (.capx pour un fichier unique). Nom du projet : TDS. Taille de la fenêtre de jeu (Window Size) : Définie à 640x480 pixels. Navigateur de prévisualisation (Preview Browser) : Permet de choisir le navigateur pour tester le jeu. Configuration du niveau (Layout) Renommage du layout par défaut en Level One. Taille du layout (Layout Size) : Définie à 1280x1224 (deux fois la taille de la fenêtre) pour un niveau plus grand que l’écran. Gestion des Event Sheets Renommage de l’Event Sheet par défaut en ES_Level One pour une meilleure organisation et la possibilité de réutiliser la même feuille d’événements pour plusieurs niveaux. Organisation des calques (Layers) Renommage du calque par défaut en Fond. Ajout de nouveaux calques : Joueur, Ennemis, HUD. Limitation de la version gratuite : Seulement 4 calques disponibles. Verrouillage du calque Fond : Empêche toute modification accidentelle une fois le fond configuré. Ajout des premiers éléments graphiques Arrière-plan (Tiled Background) : Ajout d’un objet Tiled Background sur le calque Fond. Chargement de l’image BG.png. Positionnement à 0,0 et redimensionnement à la taille du layout (1280x1224) pour couvrir tout le niveau. Personnage joueur (Sprite) : Ajout d’un objet Sprite sur le calque Joueur. Chargement de l’image player.png. Renommage du sprite en Marine. Introduction aux comportements (Behaviors) Sélection du sprite Marine. Ajout du comportement 8 Direction via le panneau des propriétés. Ce comportement permet un déplacement facile du personnage avec les touches directionnelles du clavier, sans écrire de code. Test du jeu pour visualiser le personnage se déplaçant. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait été remplacé par Construct 3, les concepts fondamentaux introduits dans ce tutoriel restent d’une pertinence capitale pour tout développeur de jeux, quel que soit le moteur utilisé :",
     "tags": [
       "Construct 2",
       "HTML5",
-      "Développement De Jeux",
+      "Game Development",
       "Tutoriel",
-      "Débutant",
+      "Debutant",
       "Interface",
-      "Configuration Projet",
-      "Calques",
-      "Comportements",
-      "Mouvement 8 Directions",
+      "Projet",
       "Sprite",
-      "Tile Background",
-      "Cross-Platform",
-      "Version Gratuite",
-      "Layout",
-      "Event Sheet"
+      "Comportements",
+      "Mouvement"
     ],
-    "title": "1. 1. Premiers Pas dans la Création de Jeux HTML5",
-    "uri": "/construct-2/tuto-top-down-shooter/construct-2-premiers-pas-creation-jeux-html5/index.html"
+    "title": "1. Introduction et premiers pas",
+    "uri": "/construct-2/tuto-top-down-shooter/creer-jeu-html5-construct-2-introduction-premiers-pas/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -123,21 +117,21 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Top Down Shooter (Construct 2)",
-    "content": "Dans ce deuxième volet de notre série de tutoriels sur Construct 2, nous allons franchir une étape cruciale dans la création de notre Top-Down Shooter : permettre à notre personnage de viser avec la souris et de tirer des projectiles. Préparez-vous à plonger au cœur du système d’événements de Construct 2, une notion fondamentale pour tout développement de jeu !\nRésumé du tutoriel : Visée et Tir dans Construct 2 Ce tutoriel vous guide pas à pas pour implémenter les mécaniques de visée à la souris et de tir pour votre personnage dans Construct 2.\nReprise du projet existant\nOuverture du projet TDS (Top-Down Shooter) commencé précédemment. Vérification du déplacement du personnage avec les flèches directionnelles. Mise en place de la visée à la souris\nIntroduction aux événements : Comprendre la logique “Si [condition], Alors [action]”. Ajout de l’objet Mouse : Indispensable pour interagir avec la souris. Cet objet est global au projet. Création de l’événement System -\u003e Every Tick : Cet événement se déclenche à chaque rafraîchissement du jeu, permettant une mise à jour constante. Ajout de l’action Marine -\u003e Set Angle Toward Position : Cette action, associée à l’événement Every Tick, permet au sprite Marine (notre personnage) de s’orienter en permanence vers une position spécifique. Définition des coordonnées de visée : Utilisation de Mouse.X et Mouse.Y pour que le personnage vise la position actuelle du curseur de la souris. Test de la visée : Vérification que le personnage suit désormais la souris, indépendamment de son déplacement. Création de l’objet balle\nAjout d’un nouveau Sprite : Importation de l’image bullet.png pour représenter le projectile. Ajout du comportement Bullet : Ce comportement pré-défini confère à l’objet les propriétés d’un projectile (vitesse, accélération, gravité, rebond). Configuration des propriétés de la balle : Ajustement de la vitesse du projectile pour une meilleure visibilité lors des tests. Implémentation du tir\nCréation de l’événement Mouse -\u003e On Click : Déclenche une action lorsque le bouton gauche de la souris est cliqué. Ajout de l’action Marine -\u003e Spawn another object : Permet au sprite Marine de créer une instance de l’objet Balle. Définition du calque de spawn : La balle est créée sur le calque “Joueur” pour assurer sa visibilité. Test du tir : Vérification que le personnage tire des balles dans la direction de la souris. Gestion de l’ordre Z (Z-order) : Discussion sur le positionnement des sprites en profondeur (balle apparaissant derrière le personnage, problème reporté pour un futur épisode). Gestion de la balle initiale : La balle ajoutée à la scène pour la création du sprite est rendue invisible ou supprimée au démarrage du jeu pour éviter qu’elle ne soit présente avant le tir. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, un moteur de jeu qui a depuis évolué vers Construct 3, les concepts fondamentaux abordés restent d’une pertinence capitale pour tout développeur de jeux, quel que soit le moteur utilisé :\nLe système d’événements/actions : La logique “si [condition], alors [action]” est la pierre angulaire de la programmation visuelle et se retrouve sous diverses formes (Blueprints dans Unreal Engine, State Machines, etc.) dans la plupart des moteurs de jeu modernes. La boucle de jeu (Every Tick / Update) : L’événement Every Tick est l’équivalent des fonctions Update() ou _process() que l’on retrouve dans Unity, Godot ou d’autres frameworks. Il est essentiel pour mettre à jour la logique du jeu à chaque frame. La gestion des entrées utilisateur (Input) : L’intégration de la souris ou du clavier pour la visée et le tir est une compétence de base, universelle à la création de jeux interactifs. Les comportements pré-faits (Behaviors) : Des fonctionnalités comme le comportement “Bullet” de Construct 2 sont des exemples d’outils qui accélèrent le développement en fournissant des logiques complexes prêtes à l’emploi. On retrouve des concepts similaires dans les “Components” d’Unity ou les “Nodes” de Godot. La gestion des calques et de l’ordre Z : Comprendre comment les objets sont empilés les uns sur les autres (Z-order) est crucial pour la profondeur visuelle et l’interaction des éléments dans un jeu 2D. La création dynamique d’objets (Spawn another object) : La capacité à instancier des objets (comme des projectiles) à la volée est une mécanique de base pour les jeux d’action, les RPG, et bien d’autres genres. Ces principes sont intemporels et constituent une excellente base pour quiconque souhaite se lancer dans le développement de jeux vidéo, même avec des outils plus récents.\n⬅️ Vidéo Précédente 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
-    "description": "Dans ce deuxième volet de notre série de tutoriels sur Construct 2, nous allons franchir une étape cruciale dans la création de notre Top-Down Shooter : permettre à notre personnage de viser avec la souris et de tirer des projectiles. Préparez-vous à plonger au cœur du système d’événements de Construct 2, une notion fondamentale pour tout développement de jeu !\nRésumé du tutoriel : Visée et Tir dans Construct 2 Ce tutoriel vous guide pas à pas pour implémenter les mécaniques de visée à la souris et de tir pour votre personnage dans Construct 2.",
+    "content": "Plongez dans la deuxième partie de notre série de tutoriels Construct 2, où nous allons donner à notre personnage la capacité de viser avec la souris et de tirer des projectiles !\nRésumé des notions clés abordées : Ouverture de Projet et Prévisualisation Comment ouvrir un projet récent dans Construct 2. Utilisation de la fonction “Preview” pour tester le jeu en cours de développement. Introduction aux Événements Construct 2 Explication du concept d’événement : “Si [condition], alors [action]”. Utilisation de l’exemple de la cuisson des pâtes pour illustrer la logique événementielle. Comment ajouter un événement (Add Event) et une action (Add Action). L’événement Système “Every Tick” Présentation de l’événement System -\u003e Every Tick, qui s’exécute à chaque cycle de lecture du programme (la boucle de jeu). Son importance pour les actions continues. Intégration de la Souris Ajout de l’objet Mouse au projet pour capter les entrées de la souris. Utilisation des expressions Mouse.X et Mouse.Y pour obtenir les coordonnées du curseur. Visée du Personnage avec la Souris Action Marines -\u003e Set Angle Towards Position pour orienter le personnage vers un point spécifique. Combinaison de cette action avec Mouse.X et Mouse.Y pour que le personnage suive le curseur de la souris. Création et Configuration d’un Projectile (Balle) Ajout d’un nouveau Sprite pour représenter la balle. Application du comportement (Behavior) “Bullet” au sprite de la balle. Configuration des propriétés du comportement “Bullet” (vitesse, accélération, gravité, rebond). Astuce pour masquer le sprite initial de la balle en le plaçant hors de la zone de jeu. Système de Tir Création d’un événement Mouse -\u003e On Click (bouton gauche) pour déclencher le tir. Action Marines -\u003e Spawn another object pour instancier une balle à partir du personnage. Spécification du calque (Layer) sur lequel la balle doit apparaître. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les concepts fondamentaux abordés sont intemporels et s’appliquent à la plupart des moteurs de jeu modernes, y compris Construct 3 et d’autres plateformes de développement :\nLa Logique Événementielle (Event-Driven Programming) : Le principe “Si [condition], alors [action]” est le pilier de nombreux systèmes de jeu, en particulier dans les moteurs sans code ou low-code. Comprendre cette logique est essentiel pour créer des interactions dynamiques. La Boucle de Jeu (Game Loop) : L’événement “Every Tick” illustre le concept universel de la boucle de jeu, où le programme met à jour l’état du jeu en continu. C’est le cœur de tout jeu en temps réel. Gestion des Inputs : L’intégration des périphériques d’entrée (souris, clavier, manette) est une étape fondamentale. Les méthodes pour capter les clics ou les positions du curseur sont des compétences transférables. Comportements (Behaviors / Components) : L’idée d’attacher des fonctionnalités pré-construites (comme le comportement “Bullet”) à des objets est une abstraction puissante. Dans d’autres moteurs, cela se retrouve sous forme de composants ou de scripts réutilisables. Instanciation Dynamique d’Objets (Spawning) : Créer des objets en cours de jeu (comme des projectiles, des ennemis ou des effets) à partir de “préfabriqués” ou de “modèles” est une technique courante et indispensable pour la plupart des jeux. Gestion des Calques (Layers) : Organiser les éléments du jeu sur différents calques est une pratique standard pour gérer la profondeur de rendu, les interactions et la visibilité des objets. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Plongez dans la deuxième partie de notre série de tutoriels Construct 2, où nous allons donner à notre personnage la capacité de viser avec la souris et de tirer des projectiles !\nRésumé des notions clés abordées : Ouverture de Projet et Prévisualisation Comment ouvrir un projet récent dans Construct 2. Utilisation de la fonction “Preview” pour tester le jeu en cours de développement. Introduction aux Événements Construct 2 Explication du concept d’événement : “Si [condition], alors [action]”. Utilisation de l’exemple de la cuisson des pâtes pour illustrer la logique événementielle. Comment ajouter un événement (Add Event) et une action (Add Action). L’événement Système “Every Tick” Présentation de l’événement System -\u003e Every Tick, qui s’exécute à chaque cycle de lecture du programme (la boucle de jeu). Son importance pour les actions continues. Intégration de la Souris Ajout de l’objet Mouse au projet pour capter les entrées de la souris. Utilisation des expressions Mouse.X et Mouse.Y pour obtenir les coordonnées du curseur. Visée du Personnage avec la Souris Action Marines -\u003e Set Angle Towards Position pour orienter le personnage vers un point spécifique. Combinaison de cette action avec Mouse.X et Mouse.Y pour que le personnage suive le curseur de la souris. Création et Configuration d’un Projectile (Balle) Ajout d’un nouveau Sprite pour représenter la balle. Application du comportement (Behavior) “Bullet” au sprite de la balle. Configuration des propriétés du comportement “Bullet” (vitesse, accélération, gravité, rebond). Astuce pour masquer le sprite initial de la balle en le plaçant hors de la zone de jeu. Système de Tir Création d’un événement Mouse -\u003e On Click (bouton gauche) pour déclencher le tir. Action Marines -\u003e Spawn another object pour instancier une balle à partir du personnage. Spécification du calque (Layer) sur lequel la balle doit apparaître. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les concepts fondamentaux abordés sont intemporels et s’appliquent à la plupart des moteurs de jeu modernes, y compris Construct 3 et d’autres plateformes de développement :",
     "tags": [
       "Construct 2",
-      "Game Development",
       "Tutoriel",
+      "Game Dev",
       "Top-Down Shooter",
-      "Événements",
-      "Visée Souris",
+      "Evenements",
+      "Comportements",
+      "Visee Souris",
       "Tir",
-      "Sprite",
-      "Comportement Bullet"
+      "Developpement De Jeu"
     ],
-    "title": "2. Visée et Tir",
-    "uri": "/construct-2/tuto-top-down-shooter/creer-top-down-shooter-construct-2-visee-tir/index.html"
+    "title": "2. Visée à la Souris et Tirs de Balles",
+    "uri": "/construct-2/tuto-top-down-shooter/tutoriel-construct-2-visee-tirs-balles/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -184,6 +178,25 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/systeme-construction/3-overlaps-erreurs-construction/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Top Down Shooter (Construct 2)",
+    "content": "Dans cette troisième partie de notre tutoriel sur Construct 2, nous allons donner vie à notre jeu en introduisant des ennemis et une intelligence artificielle rudimentaire.\nRésumé des notions clés abordées : Préparation de l’environnement : Verrouillage des calques existants (HUD, Joueur, Fond) pour s’assurer de travailler exclusivement sur le calque “Monstres”. Création d’un nouveau Sprite nommé “Mubbe” (notre monstre) et importation de son image. Comportement des Monstres : Ajout du comportement “Bullet” (Projectile) au monstre, le considérant comme un projectile qui se déplace. Réglage de la vitesse du monstre (ex: 50) pour un mouvement plus lent et contrôlé. Intelligence Artificielle Simple (Suivi de Joueur) : Dans la feuille d’événements (Event Sheet), à chaque “tick” (chaque boucle de jeu) : Le monstre utilise l’action “Set Angle Towards Position” pour toujours regarder et se diriger vers la position (X, Y) du joueur. Gestion des Collisions : Balle vs. Monstre : Événement : Quand la “Balle” entre en collision avec “Mubbe”. Actions : “Mubbe: Destroy” (le monstre disparaît), “Balle: Destroy” (la balle disparaît après l’impact). Joueur vs. Monstre : Événement : Quand le “Marine” (le joueur) entre en collision avec “Mubbe”. Action : “Marine: Destroy” (le joueur disparaît – cette action est temporaire pour les tests et sera remplacée par un système de points de vie/Game Over plus tard). Duplication des Monstres : Démonstration de la facilité à dupliquer les monstres configurés (Ctrl+C, Ctrl+V) pour peupler rapidement le niveau avec plusieurs ennemis. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les principes fondamentaux du développement de jeux qu’il aborde sont intemporels et s’appliquent à la plupart des moteurs de jeu modernes :\nLogique événementielle et Comportements : Le concept de “feuille d’événements” et l’utilisation de “comportements” pré-faits pour gérer le mouvement, les projectiles ou l’IA sont des piliers du développement de jeux sans code ou à faible code (comme GDevelop, Scratch, ou même des systèmes de nœuds visuels dans Unity/Unreal). Gestion des entités et des collisions : Créer des objets (Sprites), leur attribuer des propriétés et gérer leurs interactions (collisions) est la base de tout jeu. La détection de collision et les actions qui en découlent sont des mécaniques essentielles. IA simple (Suivi de joueur) : La technique de faire “regarder” un ennemi vers le joueur est une forme d’IA très courante et efficace pour les jeux d’action top-down ou les tower defense. Elle est souvent le point de départ pour des IA plus complexes. Organisation du projet : L’utilisation de calques (layers) pour structurer les éléments du jeu (joueur, HUD, ennemis, fond) reste une excellente pratique pour maintenir la clarté du projet et gérer l’ordre de rendu. Prototypage rapide : Construct 2, comme d’autres outils similaires, excelle dans le prototypage rapide. Les méthodes présentées permettent de mettre en place des mécaniques de jeu de base en un temps record, ce qui est précieux pour tester des idées. Développement HTML5 : Construct 2 génère des jeux HTML5, un format toujours très pertinent pour les jeux web, mobiles via des wrappers, et même pour des applications légères. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cette troisième partie de notre tutoriel sur Construct 2, nous allons donner vie à notre jeu en introduisant des ennemis et une intelligence artificielle rudimentaire.\nRésumé des notions clés abordées : Préparation de l’environnement : Verrouillage des calques existants (HUD, Joueur, Fond) pour s’assurer de travailler exclusivement sur le calque “Monstres”. Création d’un nouveau Sprite nommé “Mubbe” (notre monstre) et importation de son image. Comportement des Monstres : Ajout du comportement “Bullet” (Projectile) au monstre, le considérant comme un projectile qui se déplace. Réglage de la vitesse du monstre (ex: 50) pour un mouvement plus lent et contrôlé. Intelligence Artificielle Simple (Suivi de Joueur) : Dans la feuille d’événements (Event Sheet), à chaque “tick” (chaque boucle de jeu) : Le monstre utilise l’action “Set Angle Towards Position” pour toujours regarder et se diriger vers la position (X, Y) du joueur. Gestion des Collisions : Balle vs. Monstre : Événement : Quand la “Balle” entre en collision avec “Mubbe”. Actions : “Mubbe: Destroy” (le monstre disparaît), “Balle: Destroy” (la balle disparaît après l’impact). Joueur vs. Monstre : Événement : Quand le “Marine” (le joueur) entre en collision avec “Mubbe”. Action : “Marine: Destroy” (le joueur disparaît – cette action est temporaire pour les tests et sera remplacée par un système de points de vie/Game Over plus tard). Duplication des Monstres : Démonstration de la facilité à dupliquer les monstres configurés (Ctrl+C, Ctrl+V) pour peupler rapidement le niveau avec plusieurs ennemis. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les principes fondamentaux du développement de jeux qu’il aborde sont intemporels et s’appliquent à la plupart des moteurs de jeu modernes :",
+    "tags": [
+      "Construct 2",
+      "Game Development",
+      "Tutoriel",
+      "Monstres",
+      "IA Simple",
+      "Comportements",
+      "Evenements",
+      "Collision",
+      "HTML5",
+      "WizWig"
+    ],
+    "title": "3. Créer des Monstres et une IA Simple dans Construct 2 (Partie 3)",
+    "uri": "/construct-2/tuto-top-down-shooter/creer-monstres-ia-simple-construct-2/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
     "content": "Note : Cet article est une archive du quatrième tutoriel de la série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Architecture des niveaux : Utilisation d’une feuille d’événement unique (ESJOUEUR) pour tous les niveaux afin d’éviter la duplication de code. Transition de niveau dynamique : Création d’une variable globale Niveau Actuel (valeur initiale : 1) pour suivre la progression. Utilisation de l’action système Go to layout by name combinée avec une concaténation (\"niveau\" \u0026 Niveau Actuel) pour charger automatiquement le layout suivant. Gestion des interactions (Panneaux) : Affichage contextuel d’une infobulle via le changement d’opacité (Set Opacity) lorsque le joueur chevauche le panneau. Utilisation de la touche Espace pour valider le passage au niveau supérieur. Implémentation de pièges : Ajout d’objets Spikes provoquant le redémarrage du niveau ou le retour au menu via une collision. Organisation du projet Pour maintenir une feuille d’événements lisible malgré l’ajout de fonctionnalités, il est fortement conseillé de :\nUtiliser les commentaires : Organisez votre feuille par sections (Fin de niveau, Pièges, etc.) pour une maintenance facilitée. Regrouper les événements : Utilisez la fonction Add Group pour condenser des ensembles d’actions (ex: groupe “Animations”) et gagner de l’espace visuel. Résumé technique pour Hugo Variable Globale : Nive Actuel (Nombre, Initial 1). Logique de chargement : System: Go to layout by name -\u003e \"niveau\" \u0026 Nive Actuel. Optimisation visuelle : Utilisation de Set Opacity (0 à 100) pour des effets de fondu plus élégants que la simple visibilité binaire. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Note : Cet article est une archive du quatrième tutoriel de la série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Architecture des niveaux : Utilisation d’une feuille d’événement unique (ESJOUEUR) pour tous les niveaux afin d’éviter la duplication de code. Transition de niveau dynamique : Création d’une variable globale Niveau Actuel (valeur initiale : 1) pour suivre la progression. Utilisation de l’action système Go to layout by name combinée avec une concaténation (\"niveau\" \u0026 Niveau Actuel) pour charger automatiquement le layout suivant. Gestion des interactions (Panneaux) : Affichage contextuel d’une infobulle via le changement d’opacité (Set Opacity) lorsque le joueur chevauche le panneau. Utilisation de la touche Espace pour valider le passage au niveau supérieur. Implémentation de pièges : Ajout d’objets Spikes provoquant le redémarrage du niveau ou le retour au menu via une collision. Organisation du projet Pour maintenir une feuille d’événements lisible malgré l’ajout de fonctionnalités, il est fortement conseillé de :",
@@ -228,6 +241,22 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/systeme-construction/4-selection-objets-molette-destruction/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Top Down Shooter (Construct 2)",
+    "content": "Dans ce quatrième épisode de notre série sur Construct 2, nous plongeons au cœur de la gestion des dégâts et de l’introduction des variables d’instance pour rendre nos interactions de jeu plus dynamiques et réalistes.\nRésumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet épisode clé nous guide à travers l’implémentation d’un système de dégâts et l’utilisation des variables, des concepts fondamentaux en développement de jeux.\nIntroduction aux Variables d’Instance Définition : Les variables sont des valeurs qui peuvent être modifiées par le jeu et pendant le jeu, par opposition aux constantes qui restent fixes. Utilité : Elles sont essentielles pour gérer les états dynamiques des objets (points de vie, dégâts, scores, etc.). Configuration des Variables pour les Objets du Jeu Joueur (Marine) : Ajout d’une variable d’instance Vie_Joueur (type: Nombre, valeur initiale: 100). Ennemi (Mob) : Ajout de deux variables d’instance : Degats_Mob (type: Nombre, valeur initiale: 5) pour les dégâts infligés au joueur. Vie_Mob (type: Nombre, valeur initiale: 10) pour les points de vie du mob. Balle (Bullet) : Ajout d’une variable d’instance Degats_Balle (type: Nombre, valeur initiale: 5) pour les dégâts infligés aux mobs. Types de Variables : Construct 2 propose des types “Nombre”, “Booléen” (vrai/faux) et “Texte”. Modification : Les variables d’instance sont ajoutées et modifiées via le panneau des propriétés de chaque objet. Logique des Événements pour les Dégâts et la Mort Joueur touché par un Mob : Mort du joueur : Si Marine entre en collision avec Mob ET Vie_Joueur est inférieure ou égale à Mob.Degats_Mob, alors Destroy Marine. Perte de vie : Si Marine entre en collision avec Mob, alors Marine: Soustraire de Vie_Joueur la valeur de Mob.Degats_Mob. Mob touché par une Balle : Mort du mob : Si Bullet entre en collision avec Mob ET Vie_Mob est inférieure ou égale à Bullet.Degats_Balle, alors Destroy Mob et Destroy Bullet. Perte de vie du mob : Si Bullet entre en collision avec Mob, alors Mob: Soustraire de Vie_Mob la valeur de Bullet.Degats_Balle, puis Destroy Bullet. Affichage de la Vie du Joueur (HUD) Création : Ajout d’un objet Text sur le layout (calque HUD). Mise à jour : Dans l’événement System: Every Tick, ajouter l’action Text: Set text à la valeur de Marine.Vie_Joueur pour un affichage en temps réel. Suivi de Caméra sur le Joueur Implémentation : Dans l’événement System: Every Tick, ajouter l’action System: Scroll to object (Marine) pour que la caméra suive le joueur. Organisation des Événements Regroupement : Brève introduction à l’organisation des événements en groupes pour une meilleure lisibilité et gestion du projet. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les concepts abordés sont des piliers du développement de jeux et restent pleinement pertinents, quel que soit le moteur ou le langage utilisé :\nVariables d’Instance (ou Propriétés d’Objet) : C’est un concept fondamental. Dans Unity, Godot, Unreal Engine ou même en programmation pure (C++, Python), chaque instance d’un objet peut avoir ses propres propriétés (variables) qui définissent son état unique (sa vie, sa position, sa couleur, etc.). Comprendre leur rôle est essentiel pour créer des jeux dynamiques. Systèmes de Dégâts et de Santé : La logique de soustraction de points de vie, la vérification d’un seuil de mort (vie \u003c= 0 ou vie \u003c= dégâts entrants), et la destruction de l’objet sont des mécanismes universels. La manière de les implémenter peut varier (scripts, blueprints, événements visuels), mais le principe reste le même. Affichage Dynamique de l’Interface Utilisateur (HUD) : Mettre à jour des éléments visuels (barres de vie, scores, compteurs) en temps réel en fonction des variables du jeu est une pratique courante pour informer le joueur. Cela se fait via des Canvas UI dans Unity, des Control Nodes dans Godot, ou des widgets dans Unreal. Logique Conditionnelle : L’utilisation de conditions (If, Else If, Else, opérateurs de comparaison comme \u003c=, ==, \u003e) est la base de toute programmation. Les événements de Construct 2 illustrent parfaitement comment ces conditions structurent le comportement du jeu. Gestion de Caméra : Le suivi de caméra (Scroll to object) est un mécanisme essentiel pour de nombreux types de jeux. Des systèmes plus avancés incluent des zones mortes, des interpolations douces ou des caméras cinématiques, mais le principe de base est de maintenir le joueur à l’écran. Organisation du Code/des Événements : Regrouper les événements ou le code par fonctionnalité (joueur, ennemis, UI) est une bonne pratique pour maintenir un projet propre, lisible et facile à déboguer, quel que soit l’outil. Ces notions sont des fondations solides pour quiconque souhaite se lancer dans le développement de jeux, et les apprendre avec Construct 2 offre une excellente porte d’entrée visuelle et intuitive.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce quatrième épisode de notre série sur Construct 2, nous plongeons au cœur de la gestion des dégâts et de l’introduction des variables d’instance pour rendre nos interactions de jeu plus dynamiques et réalistes.\nRésumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet épisode clé nous guide à travers l’implémentation d’un système de dégâts et l’utilisation des variables, des concepts fondamentaux en développement de jeux.",
+    "tags": [
+      "Construct 2",
+      "Game Development",
+      "Variables",
+      "Instance Variables",
+      "Damage System",
+      "Tutoriel",
+      "HTML5 Game"
+    ],
+    "title": "4. Gérer les Dégâts et Introduire les Variables d'Instance",
+    "uri": "/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables-instance/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
     "content": "Note : Cet article est une archive technique traitant d’une solution spécifique aux problèmes de collision irrégulière dans Construct 2.\nLe problème : Plateformes et formes complexes Dans Construct 2, la gestion des collisions sur des plateformes possédant des trous, des pentes ou des arrondis peut provoquer des erreurs de calcul. Le moteur a parfois du mal à gérer physiquement le personnage sur ces surfaces, entraînant des traversées accidentelles ou des bugs de positionnement.\nLa solution : Utiliser un contrôleur de collision transparent Au lieu de compter sur la forme visuelle complexe de vos plateformes, la technique consiste à créer une couche invisible dédiée à la physique.\nÉtape 1 : Visualisation Allez dans l’onglet View en haut à gauche et cochez Show collision polygons. Cela vous permet de voir les zones réelles où le moteur calcule la collision.\nÉtape 2 : Nettoyage des objets Supprimez le comportement Jump-through de vos objets de décor visuel (plateformes, coins, etc.). Ces objets ne doivent plus gérer la collision eux-mêmes.\nÉtape 3 : Création du contrôleur\nCréez un nouveau Sprite transparent nommé call platform. Définissez son point d’origine à 0,0. Appliquez le comportement Jump-through à cet objet. Étape 4 : Implémentation Placez cet objet call platform par-dessus vos plateformes visuelles. Dupliquez-le pour couvrir toute la surface de jeu où le personnage doit pouvoir marcher.\nConclusion sur les concessions techniques Cette méthode supprime radicalement les bugs de traversée. Il est important de noter qu’il s’agit d’une concession : le personnage peut sembler flotter de quelques pixels sur les bords arrondis. C’est toutefois une solution très robuste pour garantir un gameplay fluide, indépendamment de la puissance de calcul du navigateur du joueur.\nN’oubliez pas de décocher Show collision polygons une fois le travail terminé pour retrouver un affichage propre.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Note : Cet article est une archive technique traitant d’une solution spécifique aux problèmes de collision irrégulière dans Construct 2.\nLe problème : Plateformes et formes complexes Dans Construct 2, la gestion des collisions sur des plateformes possédant des trous, des pentes ou des arrondis peut provoquer des erreurs de calcul. Le moteur a parfois du mal à gérer physiquement le personnage sur ces surfaces, entraînant des traversées accidentelles ou des bugs de positionnement.",
@@ -257,6 +286,26 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/5-variable-sprint-course-stamina/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Top Down Shooter (Construct 2)",
+    "content": "Dans ce cinquième épisode de notre série sur Construct 2, nous allons approfondir la gestion de l’interface utilisateur et des mécaniques de jeu essentielles, en nous concentrant sur les munitions et le rechargement.\nRésumé des notions clés abordées : Gestion du HUD Statique avec Parallax (0,0) Apprentissage de la propriété Parallax pour les calques (Layers) dans Construct 2. Configuration du calque HUD (Heads-Up Display) avec une valeur de parallax de 0,0 pour s’assurer que les éléments d’interface (vie, munitions) restent fixes à l’écran, indépendamment du défilement de la caméra. Affichage des Munitions Création d’un objet Text sur le calque HUD pour afficher le nombre de munitions restantes. Personnalisation du texte (police, taille, couleur, position). Variables d’Instance pour les Munitions Pour le Joueur (Marine) : MaxMun : Variable d’instance pour définir la capacité maximale de munitions que le joueur peut porter (ex: 6 pour un revolver). Munition : Variable d’instance pour suivre le nombre actuel de munitions du joueur. Pour les Chargeurs (Charger) : Charge : Variable d’instance pour définir la quantité de munitions qu’un chargeur (pickup) fournit. Initialisation des Munitions au Démarrage du Niveau Utilisation de l’événement système On Start Of Layout pour initialiser la variable Munition du joueur à la valeur de MaxMun. Cela assure que le joueur commence chaque niveau avec un chargeur plein. Mise à Jour de l’Affichage des Munitions Dans l’événement système Every Tick (à chaque image du jeu), mise à jour de l’objet Text des munitions pour qu’il affiche la valeur actuelle de la variable Munition du joueur. Mécanique de Tir et Consommation de Munitions Modification de l’événement Mouse - On Left Button Clicked (lorsque le joueur tire). Condition : Ajout d’une condition Marine.Munition \u003e 0 pour s’assurer que le joueur ne peut tirer que s’il a des munitions. Action : Soustraire 1 à la variable Munition du joueur après chaque tir. Ramassage des Chargeurs (Pickups) Création d’un objet Sprite pour représenter un chargeur de munitions sur le sol. Événement : Marine - Is Overlapping another object (Charger) (lorsque le joueur entre en collision avec un chargeur). Condition Cruciale : Ajout d’une condition pour éviter de recharger au-delà de la capacité maximale : Marine.MaxMun \u003e= Marine.Munition + Charger.Charge. Cela vérifie si l’ajout des munitions du chargeur ne dépasse pas la capacité maximale du joueur. Actions : Ajouter la valeur de Charger.Charge à la variable Munition du joueur. Détruire l’objet Charger pour le faire disparaître du niveau. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les concepts abordés sont des piliers fondamentaux du développement de jeux vidéo et restent entièrement pertinents, quel que soit le moteur ou le langage utilisé :\nGestion de l’Interface Utilisateur (UI/HUD) : La nécessité de calques dédiés pour l’interface utilisateur et la gestion de leur comportement (comme la fixité à l’écran via le parallax) est une pratique standard pour une bonne expérience joueur. Tous les moteurs modernes offrent des outils robustes pour cela. Variables d’Instance et Gestion des États : L’utilisation de variables pour stocker des données spécifiques à chaque objet (vie, munitions, vitesse, etc.) est la base de la logique de jeu. Comprendre comment définir, modifier et comparer ces variables est essentiel pour créer des systèmes de jeu dynamiques. Logique Conditionnelle et Événementielle : Le modèle “si [condition] alors [action]” est le cœur de la programmation. Savoir comment enchaîner des conditions complexes (comme empêcher le tir sans munitions ou le sur-rechargement) est une compétence précieuse pour tout développeur. Interactions Objets-Joueur (Pickups) : La détection de collision et la gestion des interactions avec des objets ramassables (santé, munitions, bonus) sont des mécaniques de jeu universelles, présentes dans presque tous les types de jeux. Construct 2 comme Tremplin : L’approche visuelle de Construct 2 est excellente pour apprendre ces concepts sans se noyer dans la syntaxe complexe. Les compétences acquises sont directement transférables à des moteurs plus complexes comme Unity (avec C#), Godot (avec GDScript) ou GameMaker Studio (avec GML), où les mêmes principes de variables, d’événements et de conditions s’appliquent. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce cinquième épisode de notre série sur Construct 2, nous allons approfondir la gestion de l’interface utilisateur et des mécaniques de jeu essentielles, en nous concentrant sur les munitions et le rechargement.\nRésumé des notions clés abordées : Gestion du HUD Statique avec Parallax (0,0) Apprentissage de la propriété Parallax pour les calques (Layers) dans Construct 2. Configuration du calque HUD (Heads-Up Display) avec une valeur de parallax de 0,0 pour s’assurer que les éléments d’interface (vie, munitions) restent fixes à l’écran, indépendamment du défilement de la caméra. Affichage des Munitions Création d’un objet Text sur le calque HUD pour afficher le nombre de munitions restantes. Personnalisation du texte (police, taille, couleur, position). Variables d’Instance pour les Munitions Pour le Joueur (Marine) : MaxMun : Variable d’instance pour définir la capacité maximale de munitions que le joueur peut porter (ex: 6 pour un revolver). Munition : Variable d’instance pour suivre le nombre actuel de munitions du joueur. Pour les Chargeurs (Charger) : Charge : Variable d’instance pour définir la quantité de munitions qu’un chargeur (pickup) fournit. Initialisation des Munitions au Démarrage du Niveau Utilisation de l’événement système On Start Of Layout pour initialiser la variable Munition du joueur à la valeur de MaxMun. Cela assure que le joueur commence chaque niveau avec un chargeur plein. Mise à Jour de l’Affichage des Munitions Dans l’événement système Every Tick (à chaque image du jeu), mise à jour de l’objet Text des munitions pour qu’il affiche la valeur actuelle de la variable Munition du joueur. Mécanique de Tir et Consommation de Munitions Modification de l’événement Mouse - On Left Button Clicked (lorsque le joueur tire). Condition : Ajout d’une condition Marine.Munition \u003e 0 pour s’assurer que le joueur ne peut tirer que s’il a des munitions. Action : Soustraire 1 à la variable Munition du joueur après chaque tir. Ramassage des Chargeurs (Pickups) Création d’un objet Sprite pour représenter un chargeur de munitions sur le sol. Événement : Marine - Is Overlapping another object (Charger) (lorsque le joueur entre en collision avec un chargeur). Condition Cruciale : Ajout d’une condition pour éviter de recharger au-delà de la capacité maximale : Marine.MaxMun \u003e= Marine.Munition + Charger.Charge. Cela vérifie si l’ajout des munitions du chargeur ne dépasse pas la capacité maximale du joueur. Actions : Ajouter la valeur de Charger.Charge à la variable Munition du joueur. Détruire l’objet Charger pour le faire disparaître du niveau. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les concepts abordés sont des piliers fondamentaux du développement de jeux vidéo et restent entièrement pertinents, quel que soit le moteur ou le langage utilisé :",
+    "tags": [
+      "Construct 2",
+      "Tutoriel",
+      "Game Dev",
+      "HTML5",
+      "HUD",
+      "Parallax",
+      "Variables",
+      "Munitions",
+      "Rechargement",
+      "Pickups",
+      "UI"
+    ],
+    "title": "5. Munitions, Rechargement et HUD Statique",
+    "uri": "/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
     "content": "Note : Cet article est une archive pédagogique du cinquième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Amélioration du Level Design : Conseils pour rendre vos niveaux plus visuels et attrayants en modifiant la disposition des éléments de décor. IA d’ennemi basique : * Mise en place d’un ennemi qui se déplace automatiquement de gauche à droite. Utilisation de la logique de retournement automatique pour simuler une patrouille. Organisation du code : * Introduction aux Groupes d’événements : création d’un groupe dédié (AnimJackEnemy) pour isoler la logique de l’ennemi. Activation/Désactivation des groupes au démarrage pour optimiser la lisibilité et la maintenance du projet. Gestion des bugs de collision : Identification et résolution de problèmes liés aux chutes non désirées à travers les plateformes (complémentaire au tutoriel de debug). Conseils d’organisation pour vos feuilles d’événements À mesure que votre projet gagne en complexité, la structure de votre feuille d’événements devient cruciale :\nRegroupement logique : Ne laissez pas vos événements “flotter” sur la page. Créez des groupes par fonctionnalité (ex: Mouvement Joueur, IA Ennemis, Animations). Gestion d’état : L’activation de groupes au démarrage permet de garder une interface de travail propre et de structurer le comportement de chaque entité de manière indépendante. Exercice pratique Pour cet épisode, l’objectif est de rendre votre niveau moins statique. Essayez d’intégrer au moins deux ennemis ayant des zones de patrouille distinctes et assurez-vous que leurs animations de retournement sont fluides en utilisant les groupes pour organiser vos événements.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Note : Cet article est une archive pédagogique du cinquième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.\nPoints clés abordés Amélioration du Level Design : Conseils pour rendre vos niveaux plus visuels et attrayants en modifiant la disposition des éléments de décor. IA d’ennemi basique : * Mise en place d’un ennemi qui se déplace automatiquement de gauche à droite. Utilisation de la logique de retournement automatique pour simuler une patrouille. Organisation du code : * Introduction aux Groupes d’événements : création d’un groupe dédié (AnimJackEnemy) pour isoler la logique de l’ennemi. Activation/Désactivation des groupes au démarrage pour optimiser la lisibilité et la maintenance du projet. Gestion des bugs de collision : Identification et résolution de problèmes liés aux chutes non désirées à travers les plateformes (complémentaire au tutoriel de debug). Conseils d’organisation pour vos feuilles d’événements À mesure que votre projet gagne en complexité, la structure de votre feuille d’événements devient cruciale :",
@@ -284,6 +333,24 @@ var relearn_searchindex = [
     ],
     "title": "6. Création de l'interface HUD (Viseur, Batterie et Endurance)",
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/6-ui-umg-widget-affichage-hud-ue5/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Tuto Top Down Shooter (Construct 2)",
+    "content": "Dans ce sixième épisode de notre série dédiée à Construct 2, nous allons approfondir la gestion des packs de vie, structurer notre jeu avec un menu d’accueil et peaufiner les performances et l’organisation de notre projet.\nRésumé des notions clés Gestion des Packs de Vie (Health Packs) Création du sprite “Elpack” (Health Pack) et ajout d’une variable d’instance pv (points de vie) pour définir la quantité de soin. Ajout d’une variable d’instance MaxV (vie maximale) au joueur pour définir sa capacité de vie maximale. Initialisation de la vie du joueur à MaxV au démarrage du layout pour garantir une vie pleine au début. Implémentation de deux logiques de ramassage pour les packs de vie : Ajout des pv du pack à la vie du joueur si cela ne dépasse pas MaxV. Réinitialisation de la vie du joueur à MaxV si le ramassage du pack le ferait dépasser, évitant ainsi de soigner au-delà du maximum. Création d’un Menu Principal Ajout d’un nouveau layout “Menu” et d’une feuille d’événements dédiée “ES_Menu” pour gérer la logique du menu. Intégration d’un bouton “Jouer” sur le menu qui, une fois cliqué, redirige le joueur vers le “Level 1” (le jeu). Modification de l’événement de mort du joueur pour qu’il revienne au menu principal plutôt que de simplement disparaître. Optimisation et Améliorations du Jeu Nettoyage des balles: Ajout d’un événement pour détruire automatiquement les balles qui sortent du layout, économisant ainsi des ressources. Point de sortie du tir: Création d’un “Image Point” nommé “gun” sur le sprite du joueur, permettant aux balles de partir de l’extrémité de l’arme pour un rendu plus réaliste. Organisation du code: Utilisation de groupes d’événements (“System”, “Marine”, “Balles”) pour structurer et rendre plus lisible la feuille d’événements. Exportation du jeu: Explication du processus d’exportation du projet en “HTML5 Website” et des étapes pour le déployer sur un hébergement web. Devoir Maison Appliquer la logique de “vie maximale” aux munitions : faire en sorte que ramasser un chargeur ne permette pas de dépasser la capacité maximale du chargeur du joueur. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait évolué vers Construct 3, les principes fondamentaux abordés dans ce tutoriel restent des piliers du développement de jeux vidéo et sont applicables à la plupart des moteurs de jeu modernes :\nLogique de jeu fondamentale: La gestion des attributs du joueur (vie, munitions) via des variables d’instance et l’implémentation de conditions pour interagir avec des objets (packs de vie, chargeurs) sont des concepts universels. Structuration de l’expérience utilisateur: La création d’un menu principal, la gestion des transitions entre les écrans (jeu, menu, fin de partie) sont essentielles pour une expérience utilisateur cohérente et professionnelle. Optimisation des ressources: La pratique de détruire les objets hors écran (comme les balles) est une technique d’optimisation courante pour maintenir les performances du jeu, même avec des moteurs plus puissants. Précision visuelle et gameplay: L’utilisation de “points d’image” ou de “sockets” pour définir des points d’attache précis sur les sprites (comme la sortie d’une arme) est une méthode standard pour améliorer le réalisme et la précision du gameplay. Organisation du projet: L’importance de regrouper les événements ou le code par catégorie (système, joueur, projectiles) est cruciale pour la maintenabilité, la lisibilité et la collaboration sur des projets de toute taille. Déploiement Web: La capacité d’exporter des jeux pour le web (HTML5) reste une voie d’accès majeure pour la distribution et la jouabilité instantanée, très pertinente à l’ère du cloud gaming et des plateformes de jeux en ligne. Apprentissage par la pratique: Le conseil d’expérimenter, de tester et de ne pas hésiter à créer des copies de son projet pour des tests est une approche intemporelle et efficace pour l’apprentissage et la résolution de problèmes en développement de jeux. ⬅️ Vidéo Précédente 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce sixième épisode de notre série dédiée à Construct 2, nous allons approfondir la gestion des packs de vie, structurer notre jeu avec un menu d’accueil et peaufiner les performances et l’organisation de notre projet.\nRésumé des notions clés Gestion des Packs de Vie (Health Packs) Création du sprite “Elpack” (Health Pack) et ajout d’une variable d’instance pv (points de vie) pour définir la quantité de soin. Ajout d’une variable d’instance MaxV (vie maximale) au joueur pour définir sa capacité de vie maximale. Initialisation de la vie du joueur à MaxV au démarrage du layout pour garantir une vie pleine au début. Implémentation de deux logiques de ramassage pour les packs de vie : Ajout des pv du pack à la vie du joueur si cela ne dépasse pas MaxV. Réinitialisation de la vie du joueur à MaxV si le ramassage du pack le ferait dépasser, évitant ainsi de soigner au-delà du maximum. Création d’un Menu Principal Ajout d’un nouveau layout “Menu” et d’une feuille d’événements dédiée “ES_Menu” pour gérer la logique du menu. Intégration d’un bouton “Jouer” sur le menu qui, une fois cliqué, redirige le joueur vers le “Level 1” (le jeu). Modification de l’événement de mort du joueur pour qu’il revienne au menu principal plutôt que de simplement disparaître. Optimisation et Améliorations du Jeu Nettoyage des balles: Ajout d’un événement pour détruire automatiquement les balles qui sortent du layout, économisant ainsi des ressources. Point de sortie du tir: Création d’un “Image Point” nommé “gun” sur le sprite du joueur, permettant aux balles de partir de l’extrémité de l’arme pour un rendu plus réaliste. Organisation du code: Utilisation de groupes d’événements (“System”, “Marine”, “Balles”) pour structurer et rendre plus lisible la feuille d’événements. Exportation du jeu: Explication du processus d’exportation du projet en “HTML5 Website” et des étapes pour le déployer sur un hébergement web. Devoir Maison Appliquer la logique de “vie maximale” aux munitions : faire en sorte que ramasser un chargeur ne permette pas de dépasser la capacité maximale du chargeur du joueur. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait évolué vers Construct 3, les principes fondamentaux abordés dans ce tutoriel restent des piliers du développement de jeux vidéo et sont applicables à la plupart des moteurs de jeu modernes :",
+    "tags": [
+      "Construct 2",
+      "Game Dev",
+      "Tutoriel",
+      "HTML5",
+      "Variables",
+      "Evenements",
+      "Optimisation",
+      "Menu",
+      "Export"
+    ],
+    "title": "6. Gérer la Vie, Créer un Menu et Optimiser son Jeu sur Construct 2",
+    "uri": "/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -1045,8 +1112,48 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Comportement Bullet",
-    "uri": "/tags/comportement-bullet/index.html"
+    "title": "Tag :: Comportements",
+    "uri": "/tags/comportements/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Damage System",
+    "uri": "/tags/damage-system/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Debutant",
+    "uri": "/tags/debutant/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Developpement De Jeu",
+    "uri": "/tags/developpement-de-jeu/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Evenements",
+    "uri": "/tags/evenements/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Export",
+    "uri": "/tags/export/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1055,6 +1162,118 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Game Development",
     "uri": "/tags/game-development/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: HTML5",
+    "uri": "/tags/html5/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: HTML5 Game",
+    "uri": "/tags/html5-game/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: IA Simple",
+    "uri": "/tags/ia-simple/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Instance Variables",
+    "uri": "/tags/instance-variables/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Interface",
+    "uri": "/tags/interface/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Menu",
+    "uri": "/tags/menu/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Monstres",
+    "uri": "/tags/monstres/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Mouvement",
+    "uri": "/tags/mouvement/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Munitions",
+    "uri": "/tags/munitions/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Optimisation",
+    "uri": "/tags/optimisation/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Parallax",
+    "uri": "/tags/parallax/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Pickups",
+    "uri": "/tags/pickups/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Projet",
+    "uri": "/tags/projet/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Rechargement",
+    "uri": "/tags/rechargement/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1082,8 +1301,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Construct 2",
-    "content": "Bienvenue dans la série de tutoriels consacrée à Tuto Top Down Shooter développée sur Construct 2.\nVous trouverez ci-dessous l’ensemble des chapitres, classés par ordre de progression. Utilisez les boutons de navigation pour passer d’un épisode à l’autre.",
-    "description": "Bienvenue dans la série de tutoriels consacrée à Tuto Top Down Shooter développée sur Construct 2.\nVous trouverez ci-dessous l’ensemble des chapitres, classés par ordre de progression. Utilisez les boutons de navigation pour passer d’un épisode à l’autre.",
+    "content": "Bienvenue dans la série de tutoriels consacrée à Tuto Top Down Shooter développée sur Construct 2.",
+    "description": "Bienvenue dans la série de tutoriels consacrée à Tuto Top Down Shooter développée sur Construct 2.",
     "tags": [],
     "title": "Tuto Top Down Shooter (Construct 2)",
     "uri": "/construct-2/tuto-top-down-shooter/index.html"
@@ -1093,111 +1312,23 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Visée Souris",
-    "uri": "/tags/vis%C3%A9e-souris/index.html"
+    "title": "Tag :: UI",
+    "uri": "/tags/ui/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Calques",
-    "uri": "/tags/calques/index.html"
+    "title": "Tag :: Visee Souris",
+    "uri": "/tags/visee-souris/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Comportements",
-    "uri": "/tags/comportements/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Configuration Projet",
-    "uri": "/tags/configuration-projet/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Cross-Platform",
-    "uri": "/tags/cross-platform/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Débutant",
-    "uri": "/tags/d%C3%A9butant/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Développement De Jeux",
-    "uri": "/tags/d%C3%A9veloppement-de-jeux/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Event Sheet",
-    "uri": "/tags/event-sheet/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: HTML5",
-    "uri": "/tags/html5/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Interface",
-    "uri": "/tags/interface/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Layout",
-    "uri": "/tags/layout/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Mouvement 8 Directions",
-    "uri": "/tags/mouvement-8-directions/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Tile Background",
-    "uri": "/tags/tile-background/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Version Gratuite",
-    "uri": "/tags/version-gratuite/index.html"
+    "title": "Tag :: WizWig",
+    "uri": "/tags/wizwig/index.html"
   }
 ]

@@ -9,7 +9,7 @@ tags: ['Construct 2', 'Tutoriel', 'Game Dev', 'Top-Down Shooter', 'Evenements', 
 ---
 Plongez dans la deuxième partie de notre série de tutoriels Construct 2, où nous allons donner à notre personnage la capacité de viser avec la souris et de tirer des projectiles !
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "9VbNUC23V6k" >}}
 
 ### Résumé des notions clés abordées :
 

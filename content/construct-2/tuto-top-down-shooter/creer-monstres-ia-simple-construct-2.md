@@ -1,5 +1,5 @@
 ---
-title: "3. Créer des Monstres et une IA Simple dans Construct 2 (Partie 3)"
+title: "3. Créer des Monstres et une IA Simple dans Construct 2"
 weight: 3
 prev_url: "/construct-2/tuto-top-down-shooter/tutoriel-construct-2-visee-tirs-balles/"
 next_url: "/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables-instance/"
@@ -9,7 +9,7 @@ tags: ['Construct 2', 'Game Development', 'Tutoriel', 'Monstres', 'IA Simple', '
 ---
 Dans cette troisième partie de notre tutoriel sur Construct 2, nous allons donner vie à notre jeu en introduisant des ennemis et une intelligence artificielle rudimentaire.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "8SKId4m6uu4" >}}
 
 ### Résumé des notions clés abordées :
 

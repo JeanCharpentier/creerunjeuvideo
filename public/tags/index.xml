@@ -317,10 +317,45 @@
       <description></description>
     </item>
     <item>
-      <title>Tag :: Comportement Bullet</title>
-      <link>http://localhost:1313/tags/comportement-bullet/index.html</link>
+      <title>Tag :: Comportements</title>
+      <link>http://localhost:1313/tags/comportements/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/comportement-bullet/index.html</guid>
+      <guid>http://localhost:1313/tags/comportements/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Damage System</title>
+      <link>http://localhost:1313/tags/damage-system/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/damage-system/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Debutant</title>
+      <link>http://localhost:1313/tags/debutant/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/debutant/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Developpement De Jeu</title>
+      <link>http://localhost:1313/tags/developpement-de-jeu/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/developpement-de-jeu/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Evenements</title>
+      <link>http://localhost:1313/tags/evenements/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/evenements/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Export</title>
+      <link>http://localhost:1313/tags/export/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/export/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -328,6 +363,104 @@
       <link>http://localhost:1313/tags/game-development/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/game-development/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: HTML5</title>
+      <link>http://localhost:1313/tags/html5/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/html5/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: HTML5 Game</title>
+      <link>http://localhost:1313/tags/html5-game/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/html5-game/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: IA Simple</title>
+      <link>http://localhost:1313/tags/ia-simple/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ia-simple/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Instance Variables</title>
+      <link>http://localhost:1313/tags/instance-variables/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/instance-variables/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Interface</title>
+      <link>http://localhost:1313/tags/interface/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/interface/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Menu</title>
+      <link>http://localhost:1313/tags/menu/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/menu/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Monstres</title>
+      <link>http://localhost:1313/tags/monstres/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/monstres/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Mouvement</title>
+      <link>http://localhost:1313/tags/mouvement/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mouvement/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Munitions</title>
+      <link>http://localhost:1313/tags/munitions/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/munitions/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Optimisation</title>
+      <link>http://localhost:1313/tags/optimisation/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/optimisation/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Parallax</title>
+      <link>http://localhost:1313/tags/parallax/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/parallax/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Pickups</title>
+      <link>http://localhost:1313/tags/pickups/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pickups/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Projet</title>
+      <link>http://localhost:1313/tags/projet/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/projet/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Rechargement</title>
+      <link>http://localhost:1313/tags/rechargement/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rechargement/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -352,101 +485,24 @@
       <description></description>
     </item>
     <item>
-      <title>Tag :: Visée Souris</title>
-      <link>http://localhost:1313/tags/vis%C3%A9e-souris/index.html</link>
+      <title>Tag :: UI</title>
+      <link>http://localhost:1313/tags/ui/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/vis%C3%A9e-souris/index.html</guid>
+      <guid>http://localhost:1313/tags/ui/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag :: Calques</title>
-      <link>http://localhost:1313/tags/calques/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/calques/index.html</guid>
+      <title>Tag :: Visee Souris</title>
+      <link>http://localhost:1313/tags/visee-souris/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/visee-souris/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag :: Comportements</title>
-      <link>http://localhost:1313/tags/comportements/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/comportements/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Configuration Projet</title>
-      <link>http://localhost:1313/tags/configuration-projet/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/configuration-projet/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Cross-Platform</title>
-      <link>http://localhost:1313/tags/cross-platform/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cross-platform/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Débutant</title>
-      <link>http://localhost:1313/tags/d%C3%A9butant/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/d%C3%A9butant/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Développement De Jeux</title>
-      <link>http://localhost:1313/tags/d%C3%A9veloppement-de-jeux/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/d%C3%A9veloppement-de-jeux/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Event Sheet</title>
-      <link>http://localhost:1313/tags/event-sheet/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/event-sheet/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: HTML5</title>
-      <link>http://localhost:1313/tags/html5/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/html5/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Interface</title>
-      <link>http://localhost:1313/tags/interface/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/interface/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Layout</title>
-      <link>http://localhost:1313/tags/layout/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/layout/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Mouvement 8 Directions</title>
-      <link>http://localhost:1313/tags/mouvement-8-directions/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mouvement-8-directions/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Tile Background</title>
-      <link>http://localhost:1313/tags/tile-background/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tile-background/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Version Gratuite</title>
-      <link>http://localhost:1313/tags/version-gratuite/index.html</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/version-gratuite/index.html</guid>
+      <title>Tag :: WizWig</title>
+      <link>http://localhost:1313/tags/wizwig/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wizwig/index.html</guid>
       <description></description>
     </item>
   </channel>

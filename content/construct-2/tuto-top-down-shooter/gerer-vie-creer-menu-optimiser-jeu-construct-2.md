@@ -1,5 +1,5 @@
 ---
-title: "6. Gérer la Vie, Créer un Menu et Optimiser son Jeu sur Construct 2"
+title: "6. Gérer la Vie, Créer un Menu et Optimiser son Jeu"
 weight: 6
 prev_url: "/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/"
 date: 2023-10-27
@@ -8,7 +8,7 @@ tags: ['Construct 2', 'Game Dev', 'Tutoriel', 'HTML5', 'Variables', 'Evenements'
 ---
 Dans ce sixième épisode de notre série dédiée à Construct 2, nous allons approfondir la gestion des packs de vie, structurer notre jeu avec un menu d'accueil et peaufiner les performances et l'organisation de notre projet.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "tlPL1TQw7kU" >}}
 
 ### Résumé des notions clés
 
