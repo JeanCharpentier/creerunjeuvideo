@@ -1,5 +1,5 @@
 ---
-title: "21. Comment gérer les droits d'administration et de modération dans Intersect Engine"
+title: "21. Comment gérer les droits d'administration et de modération"
 weight: 21
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-quete-fedex-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/guide-migration-intersect-engine-beta-1/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'MMORPG', 'Tutoriel', 'SQLite', 'Administration']
 
 Dans ce guide, nous allons explorer comment élever les privilèges de vos joueurs au sein de votre projet MMORPG développé avec Intersect Engine, en passant par une manipulation directe de la base de données.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "l2UfLUE79iQ" >}}
 
 ### Résumé des notions clés
 

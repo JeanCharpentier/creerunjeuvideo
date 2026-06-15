@@ -1,5 +1,5 @@
 ---
-title: "8. Créer et équilibrer vos classes de personnages dans Intersect Engine"
+title: "8. Créer et équilibrer vos classes de personnages"
 weight: 8
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-lier-cartes-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/optimiser-ressources-graphiques-decouper-sprites-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
 
 La création des classes de personnages est une étape fondamentale dans le développement de votre MMORPG avec Intersect Engine, car elle pose les bases de l'identité de jeu et de l'équilibrage global.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "yopdeVwoURw" >}}
 
 ### Résumé des notions clés
 

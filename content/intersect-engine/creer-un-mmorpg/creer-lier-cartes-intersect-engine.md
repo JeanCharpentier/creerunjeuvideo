@@ -1,5 +1,5 @@
 ---
-title: "7. Créer et lier vos premières cartes dans Intersect Engine"
+title: "7. Créer et lier vos premières cartes"
 weight: 7
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-falaises-cascades-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/creer-equilibrer-classes-personnages-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'Tutoriel', 'Level Design']
 
 Apprenez à structurer le monde de votre MMORPG en créant votre premier village et en maîtrisant la liaison des cartes dans Intersect Engine.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "_sUQdCm4seY" >}}
 
 ### Résumé des notions clés
 

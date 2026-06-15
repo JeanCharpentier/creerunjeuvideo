@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'Tutoriel', 'RPG', 'Spells']
 
 Apprendre à gérer les compétences magiques est une étape cruciale pour donner de la profondeur à votre RPG. Dans ce guide, nous explorons comment configurer un sort de soin fonctionnel au sein d'Intersect Engine.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "Hr_koShCWxY" >}}
 
 ### Les fondamentaux du système de sorts
 La création d'un sort dans Intersect Engine repose sur une structure logique allant de la définition technique à l'intégration dans le gameplay :

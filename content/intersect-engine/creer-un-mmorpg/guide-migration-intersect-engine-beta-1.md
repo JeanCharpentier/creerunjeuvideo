@@ -1,5 +1,5 @@
 ---
-title: "22. Guide de migration et nouveautés"
+title: "22. Guide de migration et nouveautés Beta 1"
 weight: 22
 prev_url: "/intersect-engine/creer-un-mmorpg/gestion-droits-administration-moderation-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/maitriser-systeme-crafting-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'MMORPG', 'Tutoriel', 'Game Development']
 
 Le passage à la version Beta 1 d'Intersect Engine marque un tournant majeur dans le développement de votre MMORPG 2D, introduisant des fonctionnalités essentielles pour enrichir l'expérience de jeu.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "dHjTyPN0mmI" >}}
 
 ### Résumé des nouveautés de la Beta 1
 Cette mise à jour majeure apporte des outils indispensables qui transforment la structure même de votre projet :

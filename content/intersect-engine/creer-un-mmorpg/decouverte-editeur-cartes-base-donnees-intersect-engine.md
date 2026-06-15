@@ -1,5 +1,5 @@
 ---
-title: "3. Découverte de l'éditeur de cartes et de la base de données dans Intersect Engine"
+title: "3. Découverte de l'éditeur de cartes et de la base de données"
 weight: 3
 prev_url: "/intersect-engine/creer-un-mmorpg/heberger-serveur-intersect-engine-linux-ubuntu/"
 next_url: "/intersect-engine/creer-un-mmorpg/maitriser-mapping-intersect-engine-calques-auto-tiles/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'MMORPG', 'Game Development', 'Tutoriel']
 
 Dans ce troisième volet de notre série dédiée à la création d'un MMORPG avec Intersect Engine, nous plongeons au cœur de l'outil de développement pour explorer l'interface de création de cartes et la gestion de la base de données.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "Frp2oDR1I7I" >}}
 
 ### Résumé des notions clés
 

@@ -19,7 +19,7 @@ Résumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet
 Résumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet épisode clé nous guide à travers l’implémentation d’un système de dégâts et l’utilisation des variables, des concepts fondamentaux en développement de jeux.">
     <meta property="og:locale" content="fr_fr">
     <meta property="og:type" content="article">
-    <meta property="article:section" content="Construct 2">
+    <meta property="article:section" content="Tutoriels Construct 2">
     <meta property="article:published_time" content="2023-10-27T00:00:00+00:00">
     <meta property="article:modified_time" content="2023-10-27T00:00:00+00:00">
     <meta property="article:tag" content="Construct 2">
@@ -36,26 +36,26 @@ Résumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet
     <meta itemprop="wordCount" content="816">
     <meta itemprop="keywords" content="Construct 2,Game Development,Variables,Instance Variables,Damage System,Tutoriel,HTML5 Game">
     <title>4. Gérer les Dégâts et Introduire les Variables d&#39;Instance :: Créer un jeu vidéo</title>
-    <link href="/css/auto-complete/auto-complete.min.css?1781363894" rel="stylesheet">
-    <script src="/js/auto-complete/auto-complete.min.js?1781363894" defer></script>
-    <script src="/js/search-lunr.js?1781363894" defer></script>
-    <script src="/js/search.js?1781363894" defer></script>
+    <link href="/css/auto-complete/auto-complete.min.css?1781540963" rel="stylesheet">
+    <script src="/js/auto-complete/auto-complete.min.js?1781540963" defer></script>
+    <script src="/js/search-lunr.js?1781540963" defer></script>
+    <script src="/js/search.js?1781540963" defer></script>
     <script>
       window.relearn = window.relearn || {};
-      window.relearn.index_js_url="/searchindex.en.js?1781363894";
+      window.relearn.index_js_url="/searchindex.en.js?1781540963";
     </script>
-    <script src="/js/lunr/lunr.min.js?1781363894" defer></script>
-    <script src="/js/lunr/lunr.stemmer.support.min.js?1781363894" defer></script>
-    <script src="/js/lunr/lunr.multi.min.js?1781363894" defer></script>
-    <script src="/js/lunr/lunr.fr.min.js?1781363894" defer></script>
+    <script src="/js/lunr/lunr.min.js?1781540963" defer></script>
+    <script src="/js/lunr/lunr.stemmer.support.min.js?1781540963" defer></script>
+    <script src="/js/lunr/lunr.multi.min.js?1781540963" defer></script>
+    <script src="/js/lunr/lunr.fr.min.js?1781540963" defer></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.contentLangs=['fr'];
     </script>
-    <link href="/fonts/fontawesome/css/all.min.css?1781363894" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/all.min.css?1781363894" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1781363894" rel="stylesheet">
-    <link href="/css/theme.css?1781363894" rel="stylesheet">
-    <link href="/css/format-html.css?1781363894" rel="stylesheet" id="R-format-style">
+    <link href="/fonts/fontawesome/css/all.min.css?1781540963" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/all.min.css?1781540963" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1781540963" rel="stylesheet">
+    <link href="/css/theme.css?1781540963" rel="stylesheet">
+    <link href="/css/format-html.css?1781540963" rel="stylesheet" id="R-format-style">
     <script>
       window.relearn = window.relearn || {};
       // configuration
@@ -133,7 +133,7 @@ Résumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet
               </div>
             </div>
           </div>
-          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/index.html"><span itemprop="name">Créer un jeu vidéo</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/construct-2/index.html"><span itemprop="name">Construct 2</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/construct-2/tuto-top-down-shooter/index.html"><span itemprop="name">Créer un jeu de tir en vue de dessus avec Construct 2</span></a><meta itemprop="position" content="3">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">4. Gérer les Dégâts et Introduire les Variables d&#39;Instance</span><meta itemprop="position" content="4"></li>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/index.html"><span itemprop="name">Créer un jeu vidéo</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/construct-2/index.html"><span itemprop="name">Tutoriels Construct 2</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/construct-2/tuto-top-down-shooter/index.html"><span itemprop="name">Créer un jeu de tir en vue de dessus avec Construct 2</span></a><meta itemprop="position" content="3">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">4. Gérer les Dégâts et Introduire les Variables d&#39;Instance</span><meta itemprop="position" content="4"></li>
           </ol>
           <div class="topbar-area topbar-area-end" data-area="end">
             <div class="topbar-button topbar-button-prev default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
@@ -366,7 +366,7 @@ Résumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet
       <div id="R-content-wrapper" class="highlightable">
         <div class="R-sidebarmenu R-shortcutmenu-main default-animation">
           <ul class="enlarge morespace collapsible-menu">
-            <li class="parent " data-nav-id="/construct-2/index.html"><a class="padding default-animation" href="/construct-2/index.html">Construct 2</a><ul id="R-subsections-cce4b606b0538b1d55c0d58eee48e27a" class="collapsible-menu">
+            <li class="parent " data-nav-id="/construct-2/index.html"><a class="padding default-animation" href="/construct-2/index.html">Tutoriels Construct 2</a><ul id="R-subsections-cce4b606b0538b1d55c0d58eee48e27a" class="collapsible-menu">
             <li class="alwaysopen " data-nav-id="/construct-2/tuto-jeu-plateforme/index.html"><a class="padding default-animation" href="/construct-2/tuto-jeu-plateforme/index.html">Apprendre la création de jeux vidéo avec Construct 2</a><ul id="R-subsections-04245fa432d33ae3fbfe91743dc8faa4" class="collapsible-menu"></ul></li>
             <li class="parent alwaysopen " data-nav-id="/construct-2/tuto-top-down-shooter/index.html"><a class="padding default-animation" href="/construct-2/tuto-top-down-shooter/index.html">Créer un jeu de tir en vue de dessus avec Construct 2</a><ul id="R-subsections-37e043fea5b63060a6790b06fcb190c5" class="collapsible-menu">
             <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/creer-jeu-html5-construct-2-introduction-premiers-pas/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/creer-jeu-html5-construct-2-introduction-premiers-pas/index.html">1. Introduction et premiers pas</a></li>
@@ -376,8 +376,8 @@ Résumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet
             <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html">5. Munitions, Rechargement et HUD Statique</a></li>
             <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/index.html">6. Gérer la Vie, Créer un Menu et Optimiser son Jeu</a></li></ul></li></ul></li>
             <li class="" data-nav-id="/unreal-engine-5/index.html"><a class="padding default-animation" href="/unreal-engine-5/index.html">Tutoriels Unreal Engine 5</a><ul id="R-subsections-7ba934a6d645a707dda7263d6f637014" class="collapsible-menu"></ul></li>
-            <li class="" data-nav-id="/game-maker-studio/index.html"><a class="padding default-animation" href="/game-maker-studio/index.html">Game-Maker-Studios</a><ul id="R-subsections-69c440621b5787956f904504d42ac826" class="collapsible-menu"></ul></li>
             <li class="" data-nav-id="/intersect-engine/index.html"><a class="padding default-animation" href="/intersect-engine/index.html">Intersect-Engines</a><ul id="R-subsections-3f037921b34bc00fb411f9b09ca8ea3e" class="collapsible-menu"></ul></li>
+            <li class="" data-nav-id="/game-maker-studio/index.html"><a class="padding default-animation" href="/game-maker-studio/index.html">Tutoriels Game Maker Studio</a><ul id="R-subsections-69c440621b5787956f904504d42ac826" class="collapsible-menu"></ul></li>
           </ul>
         </div>
         <div class="R-sidebarmenu R-shortcutmenu-shortcuts default-animation">
@@ -410,8 +410,8 @@ Résumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet
 <div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
       </div>
     </aside>
-    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1781363894" defer></script>
-    <script src="/js/theme.js?1781363894" defer></script>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1781540963" defer></script>
+    <script src="/js/theme.js?1781540963" defer></script>
     <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
   </body>
 </html>

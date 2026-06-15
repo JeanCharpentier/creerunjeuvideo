@@ -1,5 +1,5 @@
 ---
-title: "12. Créer des Mobs et peupler votre monde avec Intersect Engine"
+title: "12. Créer des Mobs et peupler votre monde"
 weight: 12
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-equiper-objets-depart-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/creer-boutique-marchand-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'MMORPG', 'Game Development', 'Tutoriel']
 
 Donner vie à votre MMORPG nécessite bien plus que de simples décors : il faut des créatures pour peupler vos zones et offrir des défis à vos joueurs. Dans ce guide, nous explorons comment configurer vos premiers "Mobs" (monstres) avec Intersect Engine.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "I3fjIxLcB3I" >}}
 
 ### Notions clés pour la création de Mobs
 La création de personnages non-joueurs (PNJ) hostiles repose sur plusieurs paramètres essentiels dans l'éditeur d'Intersect :

@@ -79,7 +79,7 @@
       <description>La création des classes de personnages est une étape fondamentale dans le développement de votre MMORPG avec Intersect Engine, car elle pose les bases de l’identité de jeu et de l’équilibrage global.&#xA;Résumé des notions clés La création de classes dans Intersect Engine se déroule au sein du Content Editor. Voici les points essentiels à retenir pour configurer vos archétypes :</description>
     </item>
     <item>
-      <title>8. Créer des ennemis et un système de spawn dynamique dans GameMaker</title>
+      <title>8. Créer des ennemis et un système de spawn dynamique</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemis-spawn-dynamique-gamemaker/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemis-spawn-dynamique-gamemaker/index.html</guid>
@@ -93,7 +93,7 @@
       <description>Dans le développement de votre MMORPG avec Intersect Engine, la gestion des ressources graphiques est une étape cruciale. Si les assets par défaut sont un bon point de départ, vous serez rapidement limité si vous ne savez pas intégrer vos propres objets.&#xA;Résumé des notions clés Pour enrichir votre base de données d’objets (items), voici les étapes fondamentales abordées :</description>
     </item>
     <item>
-      <title>10. Créer des ennemis avec un mouvement sinusoïdal dans GameMaker</title>
+      <title>10. Créer des ennemis avec un mouvement sinusoïdal</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemis-mouvement-sinusoidal-gamemaker/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemis-mouvement-sinusoidal-gamemaker/index.html</guid>
@@ -114,14 +114,14 @@
       <description>Donner vie à votre MMORPG nécessite bien plus que de simples décors : il faut des créatures pour peupler vos zones et offrir des défis à vos joueurs. Dans ce guide, nous explorons comment configurer vos premiers “Mobs” (monstres) avec Intersect Engine.&#xA;Notions clés pour la création de Mobs La création de personnages non-joueurs (PNJ) hostiles repose sur plusieurs paramètres essentiels dans l’éditeur d’Intersect :</description>
     </item>
     <item>
-      <title>13. Créer une boutique (Shop) dans Intersect Engine</title>
+      <title>13. Créer une boutique (Shop)</title>
       <link>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-boutique-marchand-intersect-engine/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-boutique-marchand-intersect-engine/index.html</guid>
       <description>Dans ce tutoriel, nous allons apprendre à dynamiser l’économie de votre MMORPG en créant un système de marchands fonctionnel avec Intersect Engine.&#xA;Résumé des notions clés La mise en place d’un système de commerce dans Intersect Engine repose sur deux piliers : la configuration des données dans l’éditeur et l’implémentation via les événements sur la carte.</description>
     </item>
     <item>
-      <title>14. Créer une banque fonctionnelle dans Intersect Engine</title>
+      <title>14. Créer une banque fonctionnelle</title>
       <link>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-banque-fonctionnelle-intersect-engine/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-banque-fonctionnelle-intersect-engine/index.html</guid>

@@ -1,5 +1,5 @@
 ---
-title: "5. Créer des environnements vivants dans Intersect Engine"
+title: "5. Créer des environnements vivants"
 weight: 5
 prev_url: "/intersect-engine/creer-un-mmorpg/maitriser-mapping-intersect-engine-calques-auto-tiles/"
 next_url: "/intersect-engine/creer-un-mmorpg/creer-falaises-cascades-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'Tutoriel', 'Level Design', 'MMOR
 
 Donner vie à vos cartes dans Intersect Engine ne se limite pas à poser des tuiles ; il s'agit de jouer avec les calques et les animations pour créer une véritable profondeur visuelle.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "DDEVR34THbo" >}}
 
 ### Résumé des notions clés
 

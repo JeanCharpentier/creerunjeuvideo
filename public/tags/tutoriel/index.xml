@@ -51,7 +51,7 @@
       <description>Note : Cet article est une archive pédagogique du deuxième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Logique Événement/Action : Comprendre le principe fondamental de Construct 2 : lorsqu’une condition est remplie dans le jeu (événement), alors le moteur exécute une réaction spécifique (action). Liaison des feuilles d’événements : Apprendre à lier une feuille d’événements (Event Sheet) à un Layout spécifique via les propriétés du niveau. Gestion des sorties de zone : Utilisation de l’événement Is Outside Layout sur le personnage pour déclencher une réaction lorsqu’il tombe hors de l’écran. Navigation entre niveaux : Mise en place d’une interaction utilisateur (clic sur un bouton) pour changer de Layout via l’action Go To Layout. Gestion du Game Over : Modification dynamique d’une action existante pour créer une boucle de gameplay (retour au menu principal au lieu de simplement redémarrer le niveau). Ce qui reste d’actualité aujourd’hui La logique des événements de Construct 2 reste le cœur battant du développement sur Construct 3. Bien que l’interface ait évolué, le concept de “Condition -&gt; Action” et la gestion des feuilles d’événements sont des acquis universels pour tout développeur de jeux 2D. Comprendre comment lier un bouton à un changement de niveau ou gérer la sortie d’un personnage de l’aire de jeu sont des techniques que vous utiliserez dans chacun de vos projets.</description>
     </item>
     <item>
-      <title>2. Guide pour débutants</title>
+      <title>2. Installation</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/installation-configuration-gamemaker-studio-debutants/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/installation-configuration-gamemaker-studio-debutants/index.html</guid>
@@ -170,7 +170,7 @@
       <description>Dans ce sixième épisode de notre série dédiée à Construct 2, nous allons approfondir la gestion des packs de vie, structurer notre jeu avec un menu d’accueil et peaufiner les performances et l’organisation de notre projet.&#xA;Résumé des notions clés Gestion des Packs de Vie (Health Packs) Création du sprite “Elpack” (Health Pack) et ajout d’une variable d’instance pv (points de vie) pour définir la quantité de soin. Ajout d’une variable d’instance MaxV (vie maximale) au joueur pour définir sa capacité de vie maximale. Initialisation de la vie du joueur à MaxV au démarrage du layout pour garantir une vie pleine au début. Implémentation de deux logiques de ramassage pour les packs de vie : Ajout des pv du pack à la vie du joueur si cela ne dépasse pas MaxV. Réinitialisation de la vie du joueur à MaxV si le ramassage du pack le ferait dépasser, évitant ainsi de soigner au-delà du maximum. Création d’un Menu Principal Ajout d’un nouveau layout “Menu” et d’une feuille d’événements dédiée “ES_Menu” pour gérer la logique du menu. Intégration d’un bouton “Jouer” sur le menu qui, une fois cliqué, redirige le joueur vers le “Level 1” (le jeu). Modification de l’événement de mort du joueur pour qu’il revienne au menu principal plutôt que de simplement disparaître. Optimisation et Améliorations du Jeu Nettoyage des balles: Ajout d’un événement pour détruire automatiquement les balles qui sortent du layout, économisant ainsi des ressources. Point de sortie du tir: Création d’un “Image Point” nommé “gun” sur le sprite du joueur, permettant aux balles de partir de l’extrémité de l’arme pour un rendu plus réaliste. Organisation du code: Utilisation de groupes d’événements (“System”, “Marine”, “Balles”) pour structurer et rendre plus lisible la feuille d’événements. Exportation du jeu: Explication du processus d’exportation du projet en “HTML5 Website” et des étapes pour le déployer sur un hébergement web. Devoir Maison Appliquer la logique de “vie maximale” aux munitions : faire en sorte que ramasser un chargeur ne permette pas de dépasser la capacité maximale du chargeur du joueur. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait évolué vers Construct 3, les principes fondamentaux abordés dans ce tutoriel restent des piliers du développement de jeux vidéo et sont applicables à la plupart des moteurs de jeu modernes :</description>
     </item>
     <item>
-      <title>6. Limiter les déplacements de votre vaisseau dans Game Maker Studio</title>
+      <title>6. Limiter les déplacements de votre vaisseau</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/limiter-deplacements-vaisseau-game-maker-studio/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/limiter-deplacements-vaisseau-game-maker-studio/index.html</guid>
@@ -191,7 +191,7 @@
       <description>Apprenez à structurer le monde de votre MMORPG en créant votre premier village et en maîtrisant la liaison des cartes dans Intersect Engine.&#xA;Résumé des notions clés Dans ce tutoriel, nous abordons les étapes fondamentales pour donner vie à vos zones de jeu :</description>
     </item>
     <item>
-      <title>7. Maîtriser le tir automatique et la gestion des instances dans Game Maker Studio</title>
+      <title>7. Maîtriser le tir automatique et la gestion des instances</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/maitriser-tir-automatique-gestion-instances-game-maker/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/maitriser-tir-automatique-gestion-instances-game-maker/index.html</guid>
@@ -212,7 +212,7 @@
       <description>La création des classes de personnages est une étape fondamentale dans le développement de votre MMORPG avec Intersect Engine, car elle pose les bases de l’identité de jeu et de l’équilibrage global.&#xA;Résumé des notions clés La création de classes dans Intersect Engine se déroule au sein du Content Editor. Voici les points essentiels à retenir pour configurer vos archétypes :</description>
     </item>
     <item>
-      <title>8. Créer des ennemis et un système de spawn dynamique dans GameMaker</title>
+      <title>8. Créer des ennemis et un système de spawn dynamique</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemis-spawn-dynamique-gamemaker/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemis-spawn-dynamique-gamemaker/index.html</guid>
@@ -247,7 +247,7 @@
       <description>Note : Cet article détaille la création d’un système de score global et par niveau, ainsi que la sauvegarde de session via l’objet Web Storage de Construct 2.&#xA;1. Configuration des variables globales Dans votre feuille d’événements ES Menu, créez deux variables globales (clic droit &gt; Add global variable) :</description>
     </item>
     <item>
-      <title>10. Créer des ennemis avec un mouvement sinusoïdal dans GameMaker</title>
+      <title>10. Créer des ennemis avec un mouvement sinusoïdal</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemis-mouvement-sinusoidal-gamemaker/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemis-mouvement-sinusoidal-gamemaker/index.html</guid>
@@ -275,7 +275,7 @@
       <description>Dans ce guide, nous allons configurer l’équipement de départ pour vos classes de personnages dans Intersect Engine, afin de donner à vos joueurs un coup de pouce bien mérité dès leur arrivée en jeu.&#xA;Notions clés abordées Item Editor : Création des objets (hache, bâton, dagues) avec définition des statistiques (attaque, défense, bonus). Gestion des restrictions : Limitation du port d’armes par classe et par sexe. Slots d’équipement : Configuration des emplacements (Weapon, Shield, Two-Handed) pour structurer l’inventaire. Class Editor : Attribution des objets de départ et de la monnaie initiale via les index d’inventaire. Test en jeu : Importance de créer un compte joueur standard (non-admin) pour vérifier l’attribution correcte des items au démarrage. Ce qui reste d’actualité aujourd’hui Bien que l’interface d’Intersect Engine puisse évoluer au fil des mises à jour, la logique fondamentale présentée ici demeure le standard pour tout développeur de MMORPG sur ce moteur :</description>
     </item>
     <item>
-      <title>11. Créer un ennemi avec tir laser dans GameMaker Studio</title>
+      <title>11. Créer un ennemi avec tir laser</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemi-tir-laser-gamemaker-studio/index.html</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemi-tir-laser-gamemaker-studio/index.html</guid>
@@ -296,7 +296,7 @@
       <description>Donner vie à votre MMORPG nécessite bien plus que de simples décors : il faut des créatures pour peupler vos zones et offrir des défis à vos joueurs. Dans ce guide, nous explorons comment configurer vos premiers “Mobs” (monstres) avec Intersect Engine.&#xA;Notions clés pour la création de Mobs La création de personnages non-joueurs (PNJ) hostiles repose sur plusieurs paramètres essentiels dans l’éditeur d’Intersect :</description>
     </item>
     <item>
-      <title>12. Gérer les collisions et la destruction des ennemis dans GameMaker</title>
+      <title>12. Gérer les collisions et la destruction des ennemis</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-collisions-destruction-ennemis-gamemaker/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-collisions-destruction-ennemis-gamemaker/index.html</guid>
@@ -310,14 +310,14 @@
       <description>Cette page est une archive pédagogique du dixième épisode de ma série consacrée à la création d’un jeu de plateforme avec Construct 2.&#xA;Notions clés abordées Gestion de l’objet Audio : Ajout de l’objet système Audio pour gérer la lecture des sons dans l’ensemble du projet. Importation de ressources : Importation de fichiers au format OGG (format natif recommandé) depuis des plateformes comme OpenGameArt. Organisation des sons : Renommage et catégorisation des fichiers dans l’arborescence du projet (Sounds vs Musiques). Déclenchement événementiel : Utilisation de l’action Audio &gt; Play dans la feuille d’événements pour déclencher des sons lors d’actions précises (saut, mort, collecte). Optimisation du chargement : Utilisation de l’action Preload pour éviter les latences de lecture sur les connexions internet lentes. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur désormais ancien, les principes de gestion audio présentés ici restent des fondamentaux du développement de jeux web :</description>
     </item>
     <item>
-      <title>13. Créer une boutique (Shop) dans Intersect Engine</title>
+      <title>13. Créer une boutique (Shop)</title>
       <link>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-boutique-marchand-intersect-engine/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-boutique-marchand-intersect-engine/index.html</guid>
       <description>Dans ce tutoriel, nous allons apprendre à dynamiser l’économie de votre MMORPG en créant un système de marchands fonctionnel avec Intersect Engine.&#xA;Résumé des notions clés La mise en place d’un système de commerce dans Intersect Engine repose sur deux piliers : la configuration des données dans l’éditeur et l’implémentation via les événements sur la carte.</description>
     </item>
     <item>
-      <title>13. Gérer les collisions et la défaite du joueur dans GameMaker</title>
+      <title>13. Gérer les collisions et la défaite du joueur</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-collisions-defaite-joueur-gamemaker/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-collisions-defaite-joueur-gamemaker/index.html</guid>
@@ -331,14 +331,14 @@
       <description>Cette page constitue une archive pédagogique du onzième et dernier épisode de ma série consacrée à la création d’un jeu de plateforme avec Construct 2.&#xA;Notions clés abordées Finalisation du projet : Nettoyage des derniers détails pour rendre le jeu “prêt à jouer”. Préparation au Web : Configuration des paramètres d’exportation pour le format HTML5. Hébergement gratuit : Présentation des plateformes permettant d’héberger vos jeux en ligne simplement et gratuitement. Ouverture sur le futur : Discussion sur les évolutions possibles, comme l’ajout futur de la prise en charge des manettes. Partage et communauté : Encouragement à partager ses créations pour obtenir des retours et enrichir son portfolio. Ce qui reste d’actualité aujourd’hui Même si le moteur a évolué, les problématiques de distribution demeurent constantes pour tout développeur indépendant :</description>
     </item>
     <item>
-      <title>14. Créer des menus interactifs dans GameMaker Studio</title>
+      <title>14. Créer des menus interactifs</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/creer-menus-interactifs-gamemaker-studio/index.html</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/creer-menus-interactifs-gamemaker-studio/index.html</guid>
       <description>Apprendre à concevoir des menus fonctionnels est une étape cruciale pour transformer votre prototype en un véritable jeu vidéo. Dans ce guide, nous explorons comment créer des boutons personnalisés et gérer la navigation entre les différentes salles (rooms) de votre projet.&#xA;Résumé des notions clés La création d’une interface utilisateur (UI) dans GameMaker Studio repose sur une méthodologie simple mais efficace :</description>
     </item>
     <item>
-      <title>14. Créer une banque fonctionnelle dans Intersect Engine</title>
+      <title>14. Créer une banque fonctionnelle</title>
       <link>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-banque-fonctionnelle-intersect-engine/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-banque-fonctionnelle-intersect-engine/index.html</guid>
@@ -359,7 +359,7 @@
       <description>Apprendre à intégrer des ressources récoltables est une étape fondamentale pour donner vie à l’économie de votre MMORPG. Dans ce guide, nous explorons comment transformer des éléments visuels en objets interactifs que vos joueurs pourront farmer.&#xA;Résumé des notions clés La mise en place d’un système de récolte dans Intersect Engine repose sur une chaîne de production logique :</description>
     </item>
     <item>
-      <title>15. Gérer et afficher un score global dans GameMaker Studio</title>
+      <title>15. Gérer et afficher un score global</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-afficher-score-global-gamemaker-studio/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-afficher-score-global-gamemaker-studio/index.html</guid>
@@ -373,7 +373,7 @@
       <description>Cette page est une archive pédagogique du douzième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2, traitant de la mise en place d’éléments dynamiques.&#xA;Notions clés abordées Conception de pièges dynamiques : Création d’obstacles interactifs qui apparaissent et disparaissent, ajoutant du défi au level design. Comportement “Line of Sight” (Ligne de vue) : Utilisation du comportement de détection visuelle pour déclencher des actions. Configuration des paramètres de portée (range) et de cône de vision (cone of view). Interaction IA : Utilisation de la ligne de vue pour faire réagir les ennemis (ex: un monstre qui se déplace vers le joueur uniquement lorsqu’il est repéré). Personnalisation des comportements : Ajustement des réglages pour adapter la détection selon le placement du joueur (au-dessus, sur les côtés, etc.). Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur historique, les concepts abordés ici sont les piliers de l’intelligence artificielle en 2D :</description>
     </item>
     <item>
-      <title>16. Gérer le score et l&#39;affichage Game Over dans GameMaker</title>
+      <title>16. Gérer le score et l&#39;affichage Game Over</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-score-affichage-game-over-gamemaker/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/gerer-score-affichage-game-over-gamemaker/index.html</guid>
@@ -408,14 +408,14 @@
       <description>Apprendre à gérer les compétences magiques est une étape cruciale pour donner de la profondeur à votre RPG. Dans ce guide, nous explorons comment configurer un sort de soin fonctionnel au sein d’Intersect Engine.&#xA;Les fondamentaux du système de sorts La création d’un sort dans Intersect Engine repose sur une structure logique allant de la définition technique à l’intégration dans le gameplay :</description>
     </item>
     <item>
-      <title>18. Intégrer les sons et la musique dans Game Maker Studio</title>
+      <title>18. Intégrer les sons et la musique</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/integrer-sons-musique-game-maker-studio/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/integrer-sons-musique-game-maker-studio/index.html</guid>
       <description>Apprendre à gérer l’ambiance sonore est une étape cruciale pour donner vie à votre projet : découvrez comment implémenter les effets de tir, les explosions et la musique de fond dans Game Maker Studio.&#xA;Résumé des notions clés Lecture audio de base : Utilisation de la fonction audio_play_sound(soundID, priority, loop) pour déclencher vos fichiers audio. Gestion des variables audio : Stocker le son dans une variable (ex: var snd = audio_play_sound(...)) permet de manipuler ses propriétés en temps réel. Ajustement du volume (Gain) : Utilisation de audio_sound_gain(soundID, volume, time) pour régler l’intensité sonore (de 0 à 1) et le temps de transition. Bouclage de musique : Activation du paramètre loop à true pour les musiques de fond afin qu’elles se répètent en continu. Bonnes pratiques : L’importance de commenter son code pour faciliter la relecture et la maintenance du projet. Ce qui reste d’actualité aujourd’hui Bien que les versions de Game Maker aient évolué, les principes fondamentaux de la gestion audio restent identiques. La fonction audio_play_sound demeure le standard pour déclencher des effets sonores. La capacité à manipuler le gain dynamiquement est une compétence essentielle pour créer des environnements sonores immersifs, notamment pour gérer la distance entre la caméra et la source sonore ou pour créer des fondus (fades) lors des transitions de scènes. Maîtriser ces fonctions de base vous offre une base solide pour intégrer des systèmes audio plus complexes, comme les groupes audio ou les effets de filtres, disponibles dans les versions les plus récentes du moteur.</description>
     </item>
     <item>
-      <title>19. Guide complet pour exporter votre premier jeu avec GameMaker Studio</title>
+      <title>19. Guide complet pour exporter votre premier jeu</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/guide-exporter-jeu-gamemaker-studio/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/guide-exporter-jeu-gamemaker-studio/index.html</guid>

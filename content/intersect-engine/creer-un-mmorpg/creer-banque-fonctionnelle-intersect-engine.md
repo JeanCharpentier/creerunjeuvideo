@@ -1,5 +1,5 @@
 ---
-title: "14. Créer une banque fonctionnelle dans Intersect Engine"
+title: "14. Créer une banque fonctionnelle"
 weight: 14
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-boutique-marchand-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/creer-systeme-recolte-ressources-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'MMORPG', 'Tutoriel', 'Game Development']
 
 Dans ce guide, nous allons apprendre à mettre en place un système de stockage sécurisé pour vos joueurs en créant un PNJ banquier au sein de l'éditeur Intersect Engine.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "xfTRmk3rt-8" >}}
 
 ### Notions clés abordées
 *   **Création d'un PNJ interactif :** Configuration d'un événement sur la carte, choix du sprite et définition de l'activation via le bouton d'action.

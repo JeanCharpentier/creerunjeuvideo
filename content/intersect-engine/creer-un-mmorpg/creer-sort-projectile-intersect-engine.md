@@ -1,5 +1,5 @@
 ---
-title: "19. Guide complet pour Intersect Engine"
+title: "19. Sorts et projectiles"
 weight: 19
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-sort-soin-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/creer-quete-fedex-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel', 'Spells']
 
 Apprendre à intégrer des sorts de type projectile est une étape cruciale pour donner vie aux combats de votre MMORPG. Dans ce guide, nous allons voir comment concevoir une boule de feu dynamique, de l'animation jusqu'à son implémentation en jeu.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "mfaoj-BN7D8" >}}
 
 ### Résumé des notions clés
 

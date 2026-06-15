@@ -1,5 +1,5 @@
 ---
-title: "17. Créer des lumières dynamiques et animées dans Intersect Engine"
+title: "17. Créer des lumières dynamiques et animées"
 weight: 17
 prev_url: "/intersect-engine/creer-un-mmorpg/mise-en-place-cycle-jour-nuit-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/creer-sort-soin-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'Tutoriel', 'MMORPG', 'Level Desi
 
 Donner vie à votre monde est essentiel pour l'immersion, surtout lors de la mise en place d'un cycle jour/nuit. Dans ce tutoriel, nous allons apprendre à intégrer des torches animées et des sources de lumière dynamiques pour illuminer vos villages.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "-bQqu1j0Zhg" >}}
 
 ### Résumé des notions clés
 

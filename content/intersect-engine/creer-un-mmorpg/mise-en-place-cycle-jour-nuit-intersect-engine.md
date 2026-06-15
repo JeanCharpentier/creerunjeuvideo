@@ -1,5 +1,5 @@
 ---
-title: "16. Mise en place d'un cycle jour/nuit dynamique dans Intersect Engine"
+title: "16. Mise en place d'un cycle jour/nuit dynamique"
 weight: 16
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-systeme-recolte-ressources-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/creer-lumieres-dynamiques-animees-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
 
 Découvrez comment dynamiser l'immersion de votre MMORPG en configurant un cycle jour/nuit automatisé grâce au Time Editor d'Intersect Engine.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "MbZ9VSXxe4U" >}}
 
 ### Résumé des notions clés
 

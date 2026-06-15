@@ -1,5 +1,5 @@
 ---
-title: "9. Comment découper vos sprites pour Intersect Engine"
+title: "9. Comment découper vos sprites"
 weight: 9
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-equilibrer-classes-personnages-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/guide-import-assets-systeme-monnaie-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'Pixel Art', 'Tutoriel', 'MMO']
 
 Dans le développement de votre MMORPG avec Intersect Engine, la gestion des ressources graphiques est une étape cruciale. Si les assets par défaut sont un bon point de départ, vous serez rapidement limité si vous ne savez pas intégrer vos propres objets.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "LwxQD31k3I4" >}}
 
 ### Résumé des notions clés
 

@@ -1,5 +1,5 @@
 ---
-title: "20. Créer une quête de type FedEx dans Intersect Engine"
+title: "20. Créer une quête de type FedEx"
 weight: 20
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-sort-projectile-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/gestion-droits-administration-moderation-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel', 'Scripting'
 
 Apprendre à manipuler le système d'événements est une étape cruciale pour donner vie à votre MMORPG. Aujourd'hui, nous explorons comment créer une quête de type "FedEx" (livraison d'objet) en utilisant les outils de base d'Intersect Engine.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "jf3-ILiL2tQ" >}}
 
 ### Résumé des notions clés
 

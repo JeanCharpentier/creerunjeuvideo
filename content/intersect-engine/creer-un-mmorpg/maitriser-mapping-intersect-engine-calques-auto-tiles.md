@@ -1,5 +1,5 @@
 ---
-title: "4. tiles"
+title: "4. Bases du mapping, des tuiles et tilesets"
 weight: 4
 prev_url: "/intersect-engine/creer-un-mmorpg/decouverte-editeur-cartes-base-donnees-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/creer-environnements-vivants-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'Mapping', 'Tutoriel']
 
 Apprendre à structurer ses cartes est l'étape fondamentale pour tout développeur utilisant Intersect Engine. Dans ce guide, nous explorons les bases du mapping, de la gestion des calques à l'utilisation intelligente des auto-tiles.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "Ab-T7abvnao" >}}
 
 ### Résumé des notions clés
 

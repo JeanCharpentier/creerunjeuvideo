@@ -1,5 +1,5 @@
 ---
-title: "15. Créer un système de récolte de ressources dans Intersect Engine"
+title: "15. Créer un système de récolte de ressources"
 weight: 15
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-banque-fonctionnelle-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/mise-en-place-cycle-jour-nuit-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'MMO', 'Game Dev', 'Tutoriel']
 
 Apprendre à intégrer des ressources récoltables est une étape fondamentale pour donner vie à l'économie de votre MMORPG. Dans ce guide, nous explorons comment transformer des éléments visuels en objets interactifs que vos joueurs pourront farmer.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "xVwCR--qQlY" >}}
 
 ### Résumé des notions clés
 

@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
 
 Vous rêvez de créer votre propre MMORPG mais vous ne savez pas par où commencer ? Intersect Engine est l'outil idéal pour transformer cette ambition en réalité, même pour les débutants.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "-EjAgU4t4Kc" >}}
 
 ### Résumé des notions clés
 

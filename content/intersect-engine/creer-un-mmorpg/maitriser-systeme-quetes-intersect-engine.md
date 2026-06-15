@@ -9,7 +9,7 @@ tags: ['Intersect Engine', 'MMORPG', 'Game Dev', 'Tutoriel']
 
 Créer un MMORPG demande de la structure, et le système de quêtes est le cœur battant de l'engagement de vos joueurs. Dans ce guide, nous explorons comment configurer vos premières missions avec l'éditeur intégré d'Intersect Engine pour donner vie à votre univers.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "weYjYsQ9EWc" >}}
 
 ### Résumé des notions clés
 

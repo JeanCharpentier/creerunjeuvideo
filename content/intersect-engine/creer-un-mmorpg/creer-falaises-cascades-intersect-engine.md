@@ -1,5 +1,5 @@
 ---
-title: "6. Créer des falaises et des cascades dans Intersect Engine"
+title: "6. Créer des falaises et des cascades"
 weight: 6
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-environnements-vivants-intersect-engine/"
 next_url: "/intersect-engine/creer-un-mmorpg/creer-lier-cartes-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
 
 Apprenez à donner du relief à vos environnements dans Intersect Engine en maîtrisant la création de cartes connectées, de falaises et d'effets de cascades dynamiques pour vos zones de jeu.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "hehaRJV6yUg" >}}
 
 ### Notions clés abordées
 *   **Gestion des cartes connectées :** Utilisation de la *Map List* et du *Map Grid* pour lier deux zones adjacentes et assurer une continuité fluide dans votre monde.

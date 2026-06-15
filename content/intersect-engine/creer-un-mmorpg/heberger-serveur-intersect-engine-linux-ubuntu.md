@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Linux', 'Ubuntu', 'Serveur', 'MMORPG']
 
 Déployer son MMORPG sur un serveur dédié ou un VPS Linux est une étape cruciale pour garantir une disponibilité 24h/24 et une meilleure stabilité. Voici comment configurer votre environnement sous Ubuntu pour faire tourner le moteur Intersect Engine.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "2WHJOldoQow" >}}
 
 ### Résumé des étapes clés
 

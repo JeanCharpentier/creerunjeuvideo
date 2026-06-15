@@ -1,5 +1,5 @@
 ---
-title: "23. Maîtriser le système de Crafting dans Intersect Engine"
+title: "23. Maîtriser le système de Crafting"
 weight: 23
 prev_url: "/intersect-engine/creer-un-mmorpg/guide-migration-intersect-engine-beta-1/"
 next_url: "/intersect-engine/creer-un-mmorpg/maitriser-systeme-quetes-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'MMO', 'Tutoriel']
 
 Le système de craft est un pilier fondamental pour l'immersion et l'économie de tout MMO. Avec Intersect Engine, les développeurs disposent d'un outil puissant pour créer des ateliers spécialisés et structurer la progression de leurs joueurs.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "z45ZPNIw-F0" >}}
 
 ### Résumé des notions clés
 

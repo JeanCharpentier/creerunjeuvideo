@@ -1,5 +1,5 @@
 ---
-title: "13. Créer une boutique (Shop) dans Intersect Engine"
+title: "13. Créer une boutique (Shop)"
 weight: 13
 prev_url: "/intersect-engine/creer-un-mmorpg/creer-mobs-monstres-intersect-engine-tutoriel/"
 next_url: "/intersect-engine/creer-un-mmorpg/creer-banque-fonctionnelle-intersect-engine/"
@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
 
 Dans ce tutoriel, nous allons apprendre à dynamiser l'économie de votre MMORPG en créant un système de marchands fonctionnel avec Intersect Engine.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "I5S2GWSrcGI" >}}
 
 ### Résumé des notions clés
 

@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel', 'Asset Mana
 
 Dans ce nouvel épisode de notre série dédiée à la création d'un MMORPG avec Intersect Engine, nous abordons une étape cruciale : l'intégration de vos assets graphiques et la mise en place structurée de votre économie en jeu.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "N3r_706d6ts" >}}
 
 ### Résumé des notions clés
 

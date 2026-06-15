@@ -10,7 +10,7 @@ tags: ['Intersect Engine', 'Game Dev', 'MMORPG', 'Tutoriel']
 
 Dans ce guide, nous allons configurer l'équipement de départ pour vos classes de personnages dans Intersect Engine, afin de donner à vos joueurs un coup de pouce bien mérité dès leur arrivée en jeu.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "Jc0aYoWYKTQ" >}}
 
 ### Notions clés abordées
 *   **Item Editor :** Création des objets (hache, bâton, dagues) avec définition des statistiques (attaque, défense, bonus).
