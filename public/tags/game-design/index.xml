@@ -79,6 +79,13 @@
       <description>Après avoir mis en place les mécaniques de fond pour la lampe-torche et la gestion de la course, il est indispensable de donner des retours visuels clairs au joueur. Cet épisode se concentre sur l’habillage de notre prototype avec la création complète d’un HUD (Heads-Up Display) dynamique sous Unreal Engine 5.</description>
     </item>
     <item>
+      <title>6. Créer un matériau d&#39;eau dynamique</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-eau-dynamique-unreal-engine/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-eau-dynamique-unreal-engine/index.html</guid>
+      <description>Apprenez à concevoir un matériau d’eau réaliste et dynamique dans Unreal Engine 4 en utilisant les fonctions de profondeur, les normales animées et les effets de réfraction.&#xA;Résumé des notions clés Ce tutoriel vous guide à travers les étapes essentielles pour créer une surface d’eau crédible :</description>
+    </item>
+    <item>
       <title>7. Ramassage d&#39;objets (Raycast), système de score et éclairage d&#39;ambiance</title>
       <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/7-ramassage-objet-score-points-compteur/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
@@ -91,6 +98,13 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/8-ia-behavior-tree-blackboard-ennemi/index.html</guid>
       <description>Dans ce huitième volet de la série Kawaii Slender, nous attaquons un gros morceau du développement sur Unreal Engine 5.6.1 : l’Intelligence Artificielle (IA). C’est ici que notre jeu d’horreur mignon commence à prendre vie avec l’intégration de notre grand antagoniste : une poule de l’enfer géante qui va nous traquer sans relâche.</description>
+    </item>
+    <item>
+      <title>8. Créer un matériau de terrain adaptatif</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-terrain-adaptatif-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-terrain-adaptatif-unreal-engine-4/index.html</guid>
+      <description>Apprenez à automatiser le texturage de vos environnements en créant un matériau de terrain intelligent capable de s’adapter dynamiquement aux pentes de vos paysages dans Unreal Engine 4.&#xA;Résumé des notions clés Ce tutoriel vous guide dans la création d’un matériau “Auto-Landscape” basé sur l’inclinaison des surfaces. Voici les points essentiels abordés :</description>
     </item>
     <item>
       <title>9. Perception sensorielle de l&#39;IA (AI Perception) et activation du Slender</title>
@@ -147,6 +161,13 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/15-props-decor-lumiere-clignotte-lanterne-village/index.html</guid>
       <description>Notre forêt est désormais dense et bien plantée, mais pour renforcer l’ambiance de notre Slender-like nocturne, il est temps d’y ajouter des points d’intérêt narratifs. Dans cet avant-dernier épisode de la série, nous allons habiller notre niveau avec des structures en bois (cabanes, ponts, barrières) et concevoir de A à Z une lanterne atmosphérique dotée d’une flamme vacillante et entourée de petits insectes nocturnes.</description>
+    </item>
+    <item>
+      <title>15. Créer un matériau de pépite d&#39;or procédural</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-pepite-or-procedural-unreal-engine/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-pepite-or-procedural-unreal-engine/index.html</guid>
+      <description>Apprenez à concevoir un matériau de pépite d’or réaliste et sans répétition grâce à la puissance des textures procédurales dans Unreal Engine 4.&#xA;Résumé des notions clés Dans ce tutoriel, nous explorons la création d’un matériau dynamique en utilisant uniquement les outils natifs de l’éditeur de matériaux d’UE4 :</description>
     </item>
     <item>
       <title>16. Création du menu principal, optimisation finale et export du jeu (Packaging)</title>

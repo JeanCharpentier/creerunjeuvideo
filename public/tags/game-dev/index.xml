@@ -44,11 +44,25 @@
       <description>Note : Cet article est une archive du quatrième tutoriel de la série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Architecture des niveaux : Utilisation d’une feuille d’événement unique (ESJOUEUR) pour tous les niveaux afin d’éviter la duplication de code. Transition de niveau dynamique : Création d’une variable globale Niveau Actuel (valeur initiale : 1) pour suivre la progression. Utilisation de l’action système Go to layout by name combinée avec une concaténation (&#34;niveau&#34; &amp; Niveau Actuel) pour charger automatiquement le layout suivant. Gestion des interactions (Panneaux) : Affichage contextuel d’une infobulle via le changement d’opacité (Set Opacity) lorsque le joueur chevauche le panneau. Utilisation de la touche Espace pour valider le passage au niveau supérieur. Implémentation de pièges : Ajout d’objets Spikes provoquant le redémarrage du niveau ou le retour au menu via une collision. Organisation du projet Pour maintenir une feuille d’événements lisible malgré l’ajout de fonctionnalités, il est fortement conseillé de :</description>
     </item>
     <item>
+      <title>4. Créer des matériaux émissifs</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiaux-emissifs-unreal-engine/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiaux-emissifs-unreal-engine/index.html</guid>
+      <description>Découvrez comment donner vie à vos environnements en créant des matériaux capables d’émettre leur propre lumière, une technique essentielle pour simuler la lave, les néons ou les écrans.&#xA;Résumé des notions clés Le canal Emissive Color : Contrairement à la Base Color qui définit l’aspect visuel, le canal Emissive permet à une surface de briller par elle-même, sans nécessiter de source lumineuse externe. Vector Parameter : Utilisé pour définir la couleur de base, il permet de créer des instances de matériaux facilement modifiables. Scalar Parameter : Indispensable pour contrôler l’intensité de l’émission. En multipliant la couleur par une valeur scalaire, vous pouvez augmenter la puissance lumineuse au-delà de 1. Le nœud Multiply : L’opération mathématique de base pour combiner votre couleur et votre valeur d’intensité (puissance) avant de les injecter dans le canal Emissive Color. Workflow efficace : Utilisation des raccourcis clavier (touche ‘V’ pour Vector, touche ‘S’ pour Scalar) pour accélérer la création de vos graphiques de matériaux. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Unreal Engine 4, les principes fondamentaux des matériaux émissifs restent identiques dans Unreal Engine 5. La logique de multiplication d’un paramètre scalaire avec une couleur pour piloter l’intensité lumineuse est une pratique standard dans l’industrie. Que vous travailliez sur du rendu temps réel ou sur des effets visuels (VFX), la maîtrise de ces nœuds est le socle indispensable pour créer des shaders complexes, comme des matériaux réactifs au Bloom ou des surfaces luminescentes dynamiques. Ces techniques sont toujours le moyen le plus performant pour ajouter du “punch” visuel à vos scènes sans alourdir le calcul des lumières dynamiques.</description>
+    </item>
+    <item>
       <title>Correctif: Résoudre les problèmes de collision de plateformes</title>
       <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/debug-collisions-plateformes/index.html</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/debug-collisions-plateformes/index.html</guid>
       <description>Note : Cet article est une archive technique traitant d’une solution spécifique aux problèmes de collision irrégulière dans Construct 2.&#xA;Le problème : Plateformes et formes complexes Dans Construct 2, la gestion des collisions sur des plateformes possédant des trous, des pentes ou des arrondis peut provoquer des erreurs de calcul. Le moteur a parfois du mal à gérer physiquement le personnage sur ces surfaces, entraînant des traversées accidentelles ou des bugs de positionnement.</description>
+    </item>
+    <item>
+      <title>5. Ajouter des textures</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-les-textures-dans-unreal-engine-4/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-les-textures-dans-unreal-engine-4/index.html</guid>
+      <description>Découvrez comment passer de simples aplats de couleurs à des matériaux réalistes en intégrant des textures complexes dans Unreal Engine 4.&#xA;Résumé des notions clés Dans ce tutoriel, nous explorons l’utilisation des textures pour enrichir le rendu visuel de vos objets 3D. Voici les points essentiels abordés :</description>
     </item>
     <item>
       <title>5. Munitions, Rechargement et HUD Statique</title>
@@ -79,6 +93,13 @@
       <description>Note : Cet article est une archive pédagogique du sixième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Programme de l’épisode Gestion avancée des collisions : Distinguer l’interaction “saut sur l’ennemi” (destruction) de l’interaction “contact latéral” (perte de vie/redémarrage). Interface (HUD) : Création d’une interface fixe pour afficher la vie (cœurs) et le score. Optimisation UI : Utilisation du comportement Anchor pour maintenir l’interface à l’écran pendant le défilement. Ajout d’objets : Intégration de pièces à collecter. Logique des collisions (Feuille d’événement) Pour gérer la différence entre écraser un ennemi et se faire toucher, on utilise des sous-événements basés sur l’état vertical du joueur :</description>
     </item>
     <item>
+      <title>7. Maîtriser le tiling des textures</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-le-tiling-des-textures-unreal-engine/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-le-tiling-des-textures-unreal-engine/index.html</guid>
+      <description>Apprenez à contrôler dynamiquement la répétition de vos textures sur vos modèles 3D grâce au Material Editor d’Unreal Engine 4.&#xA;Résumé des notions clés Dans ce tutoriel, nous explorons comment manipuler les coordonnées UV pour ajuster le “tiling” (la répétition) de vos textures :</description>
+    </item>
+    <item>
       <title>Correctif: Animation de marche persistante à l&#39;atterrissage</title>
       <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/correctif-animation-atterrissage/index.html</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
@@ -93,11 +114,25 @@
       <description>Note : Cet article est une archive pédagogique du septième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Variables globales : Utilisation de variables pour suivre l’état du joueur (Score et Vie). Gestion des pièces : * Détection de collision entre le joueur et l’objet Pièce. Destruction de la pièce après contact. Incrémentation de la variable globale Score et mise à jour de l’affichage textuel (HUD). IA d’ennemi et dégâts : Système de “double collision” : saut sur l’ennemi (destruction) vs contact latéral (perte de vie). Soustraction d’une valeur à la variable Vie lors d’un contact non létal. Condition de défaite (Game Over) : Vérification de la valeur de la variable Vie après chaque impact. Si Vie &lt;= 0, déclenchement de l’action Restart Layout. Logique des variables dans Construct 2 La gestion des données est au cœur de cet épisode. Voici la structure logique recommandée pour vos événements :</description>
     </item>
     <item>
+      <title>9. Créer un matériau de glace réaliste avec la tessellation</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-glace-tessellation-unreal-engine/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-glace-tessellation-unreal-engine/index.html</guid>
+      <description>Apprenez à concevoir un matériau de glace dynamique et visuellement riche en utilisant les outils avancés de l’éditeur de matériaux d’Unreal Engine 4, incluant la tessellation pour une déformation géométrique réelle.&#xA;Résumé des notions clés Ce tutoriel explore les techniques fondamentales pour créer un shader de glace complexe :</description>
+    </item>
+    <item>
       <title>8. Système de score et persistance des données</title>
       <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/8-systeme-score-web-storage/index.html</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/8-systeme-score-web-storage/index.html</guid>
       <description>Note : Cet article détaille la création d’un système de score global et par niveau, ainsi que la sauvegarde de session via l’objet Web Storage de Construct 2.&#xA;1. Configuration des variables globales Dans votre feuille d’événements ES Menu, créez deux variables globales (clic droit &gt; Add global variable) :</description>
+    </item>
+    <item>
+      <title>10. Créer un matériau de verre translucide avancé</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-verre-translucide-unreal-engine/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-verre-translucide-unreal-engine/index.html</guid>
+      <description>Dans ce tutoriel, nous allons explorer la création d’un matériau de type “verre” (VR) évolué sous Unreal Engine 4, en intégrant des effets de réfraction, de flou et de transparence dynamique.&#xA;Résumé des notions clés Pour obtenir un rendu de verre réaliste et personnalisable, nous avons structuré le Material Editor autour des points suivants :</description>
     </item>
     <item>
       <title>Patch : Mise à jour du système WebStorage</title>
@@ -135,6 +170,13 @@
       <description>Cette page constitue une archive pédagogique du onzième et dernier épisode de ma série consacrée à la création d’un jeu de plateforme avec Construct 2.&#xA;Notions clés abordées Finalisation du projet : Nettoyage des derniers détails pour rendre le jeu “prêt à jouer”. Préparation au Web : Configuration des paramètres d’exportation pour le format HTML5. Hébergement gratuit : Présentation des plateformes permettant d’héberger vos jeux en ligne simplement et gratuitement. Ouverture sur le futur : Discussion sur les évolutions possibles, comme l’ajout futur de la prise en charge des manettes. Partage et communauté : Encouragement à partager ses créations pour obtenir des retours et enrichir son portfolio. Ce qui reste d’actualité aujourd’hui Même si le moteur a évolué, les problématiques de distribution demeurent constantes pour tout développeur indépendant :</description>
     </item>
     <item>
+      <title>14. Créer un effet de neige dynamique sur vos objets</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-effet-neige-dynamique-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-effet-neige-dynamique-unreal-engine-4/index.html</guid>
+      <description>Apprenez à simuler l’accumulation de neige sur vos modèles 3D en utilisant les masques de matériaux et la tessellation dans Unreal Engine 4.&#xA;Résumé des notions clés Dans ce tutoriel, nous explorons la création d’un matériau dynamique capable de simuler une couche de neige. Voici les points techniques abordés :</description>
+    </item>
+    <item>
       <title>11Bis. Hébergement Web de vos jeux</title>
       <link>http://localhost:1313/construct-2/tuto-jeu-plateforme/11bis-hebergement-web-jeu-construct-2/index.html</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
@@ -142,7 +184,7 @@
       <description>Cette page constitue une archive pédagogique du douzième épisode de ma série consacrée à la création d’un jeu de plateforme. Dans ce tutoriel, j’aborde les méthodes pour publier votre jeu sur le web lorsque les options de partage simples ne sont plus disponibles.&#xA;Notions clés abordées Exportation HTML5 : Paramétrage de Construct 2 pour générer un projet web compatible avec les navigateurs. Hébergement gratuit : Utilisation d’un hébergeur web (ex: 000webhost) pour disposer d’un espace serveur accessible en ligne. Transfert FTP : Configuration et utilisation du client FileZilla pour transférer les fichiers de votre jeu vers l’espace distant. Gestion des répertoires : Organisation des fichiers sur le serveur via le dossier public_html pour isoler vos différents projets. Sécurité basique : Utilisation d’un fichier index.html vide à la racine pour masquer la structure de vos dossiers publics. Ce qui reste d’actualité aujourd’hui Si les outils spécifiques cités dans cette vidéo (comme 000webhost ou les méthodes d’accès FTP traditionnelles) ont évolué, les principes fondamentaux restent cruciaux pour tout développeur indépendant :</description>
     </item>
     <item>
-      <title>15. Créer un système de récolte de ressources dans Intersect Engine</title>
+      <title>15. Créer un système de récolte de ressources</title>
       <link>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-systeme-recolte-ressources-intersect-engine/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-systeme-recolte-ressources-intersect-engine/index.html</guid>
@@ -154,6 +196,20 @@
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/12-systeme-pieges-ligne-vue/index.html</guid>
       <description>Cette page est une archive pédagogique du douzième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2, traitant de la mise en place d’éléments dynamiques.&#xA;Notions clés abordées Conception de pièges dynamiques : Création d’obstacles interactifs qui apparaissent et disparaissent, ajoutant du défi au level design. Comportement “Line of Sight” (Ligne de vue) : Utilisation du comportement de détection visuelle pour déclencher des actions. Configuration des paramètres de portée (range) et de cône de vision (cone of view). Interaction IA : Utilisation de la ligne de vue pour faire réagir les ennemis (ex: un monstre qui se déplace vers le joueur uniquement lorsqu’il est repéré). Personnalisation des comportements : Ajustement des réglages pour adapter la détection selon le placement du joueur (au-dessus, sur les côtés, etc.). Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur historique, les concepts abordés ici sont les piliers de l’intelligence artificielle en 2D :</description>
+    </item>
+    <item>
+      <title>16. Créer un matériau de peinture automobile réaliste</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-peinture-voiture-unreal-engine/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-peinture-voiture-unreal-engine/index.html</guid>
+      <description>Apprenez à concevoir un shader de peinture automobile sophistiqué, intégrant des effets d’irisation et une couche de vernis réaliste, directement dans l’éditeur de matériaux d’Unreal Engine 4.&#xA;Résumé des notions clés Pour obtenir un rendu de peinture “carrosserie” convaincant, ce tutoriel décompose la création du matériau en plusieurs étapes techniques :</description>
+    </item>
+    <item>
+      <title>19. Maîtriser les masques et le Linear Interpolate</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-les-masques-et-linear-interpolate-unreal-engine/index.html</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-les-masques-et-linear-interpolate-unreal-engine/index.html</guid>
+      <description>Découvrez comment utiliser les masques et le nœud Linear Interpolate pour créer des transitions dynamiques et des mélanges de textures complexes dans vos matériaux Unreal Engine 4.&#xA;Résumé des notions clés Dans ce tutoriel, nous explorons les bases fondamentales du masquage dans l’éditeur de matériaux d’Unreal Engine :</description>
     </item>
     <item>
       <title>24. Maîtriser le système de quêtes dans Intersect Engine</title>

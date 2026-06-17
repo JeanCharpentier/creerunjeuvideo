@@ -6,7 +6,7 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutoriels Construct 2</title>
@@ -14,6 +14,20 @@
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/construct-2/index.html</guid>
       <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Créer un MMORPG de A à Z</title>
+      <link>http://localhost:1313/intersect-engine/index.html</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/intersect-engine/index.html</guid>
+      <description>Bienvenue dans cette série de guides et de tutoriels dédiés à Intersect Engine, l’une des solutions open-source les plus accessibles et puissantes pour donner vie à vos projets de MMORPG 2D.&#xA;Que vous soyez nostalgique de l’époque des créateurs de jeux en ligne amateurs (comme la grande époque de Mirage Source ou Eclipse) ou un développeur cherchant une base réseau ultra-solide sans réinventer la roue, Intersect est l’outil parfait pour matérialiser votre univers.</description>
+    </item>
+    <item>
+      <title>Tutoriels Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/index.html</guid>
+      <description>Cette archive regroupe des tutoriels fondamentaux dédiés à l’apprentissage du moteur Unreal Engine 4 pour le développement de jeux vidéo.&#xA;Notions clés abordées Interface et Navigation : Prise en main de l’éditeur, gestion des fenêtres et des raccourcis essentiels pour gagner en productivité. Le Système de Blueprints : Compréhension de la programmation visuelle pour créer des logiques de jeu complexes sans écrire de code. Gestion des Assets : Importation et organisation rigoureuse des modèles 3D, textures et matériaux dans le Content Browser. Lumières et Post-Process : Paramétrage des éclairages dynamiques et des effets de rendu pour une immersion visuelle immédiate. Level Design : Utilisation des outils de landscaping et placement stratégique des acteurs dans la scène. Ce qui reste d’actualité aujourd’hui Bien qu’Unreal Engine 5 soit devenu le standard actuel de l’industrie, les concepts fondamentaux présentés dans cette archive constituent toujours le socle indispensable de toute production sous Unreal. La structure des Blueprints, la logique de gestion des matériaux et l’architecture des acteurs restent identiques. Maîtriser ces bases sur la version 4 est la meilleure méthode pour comprendre les rouages profonds du moteur avant de migrer vers des outils plus avancés comme Nanite ou Lumen. C’est une base solide qui garantit une compréhension durable du workflow Unreal.</description>
     </item>
     <item>
       <title>Mentions Legales</title>
@@ -35,13 +49,6 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/unreal-engine-5/index.html</guid>
       <description>Devenez développeur de jeux vidéo indépendant avec mes cours et tutoriels gratuits sur Unreal Engine 5. Apprenez le Blueprint, l&#39;IA, le Level Design et compilez votre premier jeu.</description>
-    </item>
-    <item>
-      <title>Intersect-Engines</title>
-      <link>http://localhost:1313/intersect-engine/index.html</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/intersect-engine/index.html</guid>
-      <description></description>
     </item>
     <item>
       <title>Tutoriels Game Maker Studio</title>

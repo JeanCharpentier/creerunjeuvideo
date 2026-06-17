@@ -53,6 +53,22 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/systeme-construction/1-introduction-ghost-object-blueprint/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo",
+    "content": "Bienvenue dans cette série de guides et de tutoriels dédiés à Intersect Engine, l’une des solutions open-source les plus accessibles et puissantes pour donner vie à vos projets de MMORPG 2D.\nQue vous soyez nostalgique de l’époque des créateurs de jeux en ligne amateurs (comme la grande époque de Mirage Source ou Eclipse) ou un développeur cherchant une base réseau ultra-solide sans réinventer la roue, Intersect est l’outil parfait pour matérialiser votre univers.\nPourquoi choisir Intersect Engine ? Développer un jeu en ligne massivement multijoueur est réputé pour être le boss de fin du développement de jeux vidéo. Gestion de la latence, synchronisation des joueurs, bases de données, sécurité… Les barrières sont nombreuses.\nIntersect brise ces barrières en proposant une architecture Clef en main :\nArchitecture Client/Serveur Native : Pas besoin de coder le netcode. La synchronisation des mouvements, du chat et des combats est gérée nativement et de manière sécurisée (le serveur a toujours le dernier mot). Éditeur Visuel Complet : Modifiez vos cartes en temps réel (mapping), créez vos objets, vos classes, vos sorts, vos animations et vos PNJ directement depuis une interface graphique, sans aligner une seule ligne de code. Système d’Événements Puissant : Créez des quêtes complexes, des cinématiques, des boutiques et des mécaniques de jeu avancées grâce à un système de script visuel accessible mais extrêmement profond. Performances Modernes : Écrit en C#, le moteur offre une stabilité et des performances bien supérieures aux vieux moteurs en VB6 d’autrefois. Ce que nous allons aborder À travers cette série de tutoriels, nous allons décortiquer le fonctionnement d’Intersect pas à pas. Du premier lancement local jusqu’au déploiement de votre serveur en production :\nInstallation \u0026 Configuration : Mettre en place l’environnement, connecter le client au serveur local et configurer la base de données. Le Mapping \u0026 L’Univers : Maîtriser l’éditeur de cartes, les couches (layers), les attributs de tuiles (blocages, zones de warp) et les lumières dynamiques. Économie \u0026 Progression : Créer un équilibrage propre (statistiques des classes, drops de monstres, arbres de compétences). Événements \u0026 Quêtes : Structurer votre histoire avec des dialogues conditionnels et des récompenses dynamiques. Prêt à bâtir votre monde ? Pas besoin d’avoir une équipe de 50 personnes ou un budget de multinationale pour créer un RPG en ligne unique. Avec un peu de rigueur, de la créativité et les bons outils, vous pouvez poser la première pierre de votre propre MMO dès aujourd’hui.\nExplorez les chapitres ci-dessous en utilisant la navigation pour suivre le guide de création étape par étape. Bon dév !",
+    "description": "Bienvenue dans cette série de guides et de tutoriels dédiés à Intersect Engine, l’une des solutions open-source les plus accessibles et puissantes pour donner vie à vos projets de MMORPG 2D.\nQue vous soyez nostalgique de l’époque des créateurs de jeux en ligne amateurs (comme la grande époque de Mirage Source ou Eclipse) ou un développeur cherchant une base réseau ultra-solide sans réinventer la roue, Intersect est l’outil parfait pour matérialiser votre univers.",
+    "tags": [],
+    "title": "Créer un MMORPG de A à Z",
+    "uri": "/intersect-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z",
+    "content": "Bienvenue dans cette série de guides et de tutoriels dédiés à Intersect Engine, l’une des solutions open-source les plus accessibles et puissantes pour donner vie à vos projets de MMORPG 2D.\nQue vous soyez nostalgique de l’époque des créateurs de jeux en ligne amateurs (comme la grande époque de Mirage Source ou Eclipse) ou un développeur cherchant une base réseau ultra-solide sans réinventer la roue, Intersect est l’outil parfait pour matérialiser votre univers.\nPourquoi choisir Intersect Engine ? Développer un jeu en ligne massivement multijoueur est réputé pour être le boss de fin du développement de jeux vidéo. Gestion de la latence, synchronisation des joueurs, bases de données, sécurité… Les barrières sont nombreuses.\nIntersect brise ces barrières en proposant une architecture Clef en main :\nArchitecture Client/Serveur Native : Pas besoin de coder le netcode. La synchronisation des mouvements, du chat et des combats est gérée nativement et de manière sécurisée (le serveur a toujours le dernier mot). Éditeur Visuel Complet : Modifiez vos cartes en temps réel (mapping), créez vos objets, vos classes, vos sorts, vos animations et vos PNJ directement depuis une interface graphique, sans aligner une seule ligne de code. Système d’Événements Puissant : Créez des quêtes complexes, des cinématiques, des boutiques et des mécaniques de jeu avancées grâce à un système de script visuel accessible mais extrêmement profond. Performances Modernes : Écrit en C#, le moteur offre une stabilité et des performances bien supérieures aux vieux moteurs en VB6 d’autrefois. Ce que nous allons aborder À travers cette série de tutoriels, nous allons décortiquer le fonctionnement d’Intersect pas à pas. Du premier lancement local jusqu’au déploiement de votre serveur en production :\nInstallation \u0026 Configuration : Mettre en place l’environnement, connecter le client au serveur local et configurer la base de données. Le Mapping \u0026 L’Univers : Maîtriser l’éditeur de cartes, les couches (layers), les attributs de tuiles (blocages, zones de warp) et les lumières dynamiques. Économie \u0026 Progression : Créer un équilibrage propre (statistiques des classes, drops de monstres, arbres de compétences). Événements \u0026 Quêtes : Structurer votre histoire avec des dialogues conditionnels et des récompenses dynamiques. Prêt à bâtir votre monde ? Pas besoin d’avoir une équipe de 50 personnes ou un budget de multinationale pour créer un RPG en ligne unique. Avec un peu de rigueur, de la créativité et les bons outils, vous pouvez poser la première pierre de votre propre MMO dès aujourd’hui.\nExplorez les chapitres ci-dessous en utilisant la navigation pour suivre le guide de création étape par étape. Bon dév !",
+    "description": "Bienvenue dans cette série de guides et de tutoriels dédiés à Intersect Engine, l’une des solutions open-source les plus accessibles et puissantes pour donner vie à vos projets de MMORPG 2D.\nQue vous soyez nostalgique de l’époque des créateurs de jeux en ligne amateurs (comme la grande époque de Mirage Source ou Eclipse) ou un développeur cherchant une base réseau ultra-solide sans réinventer la roue, Intersect est l’outil parfait pour matérialiser votre univers.",
+    "tags": [],
+    "title": "Intersect Engine",
+    "uri": "/intersect-engine/creer-un-mmorpg/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Game Maker Studio \u003e Shoot Them Up (Shmup)",
     "content": "Découvrez comment prendre en main GameMaker Studio à travers une série de tutoriels complets dédiés à la création d’un shoot ’em up à scrolling horizontal.\nRésumé de la série Cette formation structurée vous accompagne pas à pas dans l’apprentissage du moteur, de l’installation jusqu’à l’exportation finale de votre projet. Voici les points clés abordés :\nPrise en main complète : Installation et configuration de l’interface de GameMaker Studio. Projet pratique : Développement d’un jeu de type shoot ’em up (style R-Type ou Gradius). Mécaniques de jeu intégrées : Gestion du mouvement du vaisseau, système de score, ennemis et gestion des collisions. Interface utilisateur : Création d’un menu principal et affichage du score final. Format pédagogique : Des vidéos courtes et concises, conçues comme un véritable cours pour favoriser la réflexion et la personnalisation. Ce qui reste d’actualité aujourd’hui Bien que GameMaker ait évolué vers des versions plus récentes (comme GameMaker 2023+), les fondamentaux abordés dans cette série restent le socle indispensable pour tout débutant :\nLa logique de boucle de jeu : La gestion des objets, des événements (Create, Step, Draw) et des collisions demeure le cœur battant du moteur. Structure de projet : Apprendre à organiser ses ressources (sprites, objets, rooms) est une compétence transférable quelle que soit la version du logiciel utilisée. Approche itérative : La méthode consistant à partir d’un prototype simple pour arriver à un jeu exportable est la meilleure façon d’apprendre le Game Design. Logique de programmation : Les concepts de variables pour le score et de gestion des états de jeu sont universels dans le développement de jeux 2D. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Découvrez comment prendre en main GameMaker Studio à travers une série de tutoriels complets dédiés à la création d’un shoot ’em up à scrolling horizontal.\nRésumé de la série Cette formation structurée vous accompagne pas à pas dans l’apprentissage du moteur, de l’installation jusqu’à l’exportation finale de votre projet. Voici les points clés abordés :",
@@ -66,7 +82,7 @@ var relearn_searchindex = [
     "uri": "/game-maker-studio/shoot-them-up/decouvrir-gamemaker-studio-creer-votre-premier-shoot-em-up/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Vous rêvez de créer votre propre MMORPG mais vous ne savez pas par où commencer ? Intersect Engine est l’outil idéal pour transformer cette ambition en réalité, même pour les débutants.\nRésumé des notions clés Qu’est-ce qu’un MMO ? : Le terme “Massively Multiplayer” implique des milliers de joueurs. Intersect Engine est optimisé pour des serveurs de taille plus modeste (150-200 joueurs simultanés), ce qui en fait un excellent moteur pour des projets de type “Multiplayer Online RPG” (MORPG). Pourquoi Intersect Engine ? : Contrairement aux anciens moteurs comme Eclipse (basé sur VB6), Intersect est écrit en C#, ce qui lui confère une meilleure stabilité, une compatibilité moderne avec Windows et une capacité à tourner sur Linux via Mono. Structure du projet : Le dossier de travail se divise en trois parties essentielles : Serveur : Le cœur du jeu qui gère la base de données (Intersect.db) et les connexions. Client : Ce que le joueur utilise pour se connecter et jouer. Éditeur : L’outil de création permettant de concevoir les cartes, les quêtes, les monstres et les objets. Configuration réseau : L’utilisation de l’adresse 127.0.0.1 (localhost) permet de tester votre serveur en local. Pour une mise en ligne, il faudra configurer votre IP publique et gérer l’ouverture des ports (par défaut 4500). Sécurité : Le premier compte créé sur le serveur devient automatiquement l’administrateur. Il est crucial de choisir un mot de passe robuste et de sauvegarder régulièrement le fichier de base de données. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, les fondamentaux présentés ici restent le socle de tout projet sur ce moteur :\nL’architecture Client-Serveur : Le découpage entre le client (le jeu) et l’éditeur reste la norme. Comprendre comment ces deux entités communiquent via le fichier config.xml est une compétence indispensable pour tout développeur Intersect. La gestion des ressources : L’organisation des dossiers images, spells et animations dans le répertoire resources est toujours la méthode standard pour importer vos propres assets graphiques. L’importance de la base de données : La sauvegarde du fichier de base de données reste la règle d’or. Peu importe les mises à jour du moteur, la perte de ce fichier signifie la perte totale de la progression de vos joueurs et de la configuration de votre monde. La flexibilité du C# : Le choix de ce langage par les développeurs d’Intersect garantit que le moteur reste pérenne et capable d’évoluer avec les standards technologiques actuels. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Vous rêvez de créer votre propre MMORPG mais vous ne savez pas par où commencer ? Intersect Engine est l’outil idéal pour transformer cette ambition en réalité, même pour les débutants.\nRésumé des notions clés Qu’est-ce qu’un MMO ? : Le terme “Massively Multiplayer” implique des milliers de joueurs. Intersect Engine est optimisé pour des serveurs de taille plus modeste (150-200 joueurs simultanés), ce qui en fait un excellent moteur pour des projets de type “Multiplayer Online RPG” (MORPG). Pourquoi Intersect Engine ? : Contrairement aux anciens moteurs comme Eclipse (basé sur VB6), Intersect est écrit en C#, ce qui lui confère une meilleure stabilité, une compatibilité moderne avec Windows et une capacité à tourner sur Linux via Mono. Structure du projet : Le dossier de travail se divise en trois parties essentielles : Serveur : Le cœur du jeu qui gère la base de données (Intersect.db) et les connexions. Client : Ce que le joueur utilise pour se connecter et jouer. Éditeur : L’outil de création permettant de concevoir les cartes, les quêtes, les monstres et les objets. Configuration réseau : L’utilisation de l’adresse 127.0.0.1 (localhost) permet de tester votre serveur en local. Pour une mise en ligne, il faudra configurer votre IP publique et gérer l’ouverture des ports (par défaut 4500). Sécurité : Le premier compte créé sur le serveur devient automatiquement l’administrateur. Il est crucial de choisir un mot de passe robuste et de sauvegarder régulièrement le fichier de base de données. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, les fondamentaux présentés ici restent le socle de tout projet sur ce moteur :",
     "tags": [
@@ -77,6 +93,19 @@ var relearn_searchindex = [
     ],
     "title": "1. Installation et configuration de votre serveur MMO",
     "uri": "/intersect-engine/creer-un-mmorpg/debuter-avec-intersect-engine-installation-serveur-mmo/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Dans ce guide, nous posons les bases de votre projet de création de matériaux sous Unreal Engine 4 en configurant votre environnement de travail et en explorant les meilleures sources de textures gratuites.\nRésumé des notions clés Préparation du projet : Téléchargement et extraction de l’archive contenant les fichiers .uproject, Config et Content. Il est recommandé de placer ces éléments dans un dossier dédié pour une meilleure organisation. Lancement : Le premier démarrage peut être long car le moteur doit compiler les shaders et générer les fichiers intermédiaires nécessaires au projet. Interface : Utilisation du Source Panel pour naviguer efficacement dans les dossiers. Le projet inclut des scènes de test (sphères, cubes) et des Blueprints spécifiques pour les effets avancés comme la dissolution. Ressources de textures : Texture.com : Un système de crédits quotidiens (15 gratuits) idéal pour constituer une bibliothèque de textures seamless (tuilables). CC0Textures.com (désormais Poly Haven) : Une excellente alternative proposant des textures en haute résolution (jusqu’au 8K) libres de droits et sans système de crédits. Maps essentielles : Rappel sur l’importance de l’Albedo (couleur), de la Normal Map (relief) et de la Roughness (rugosité) pour obtenir un rendu réaliste. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué vers la 5, les fondamentaux abordés ici restent le socle de tout développement graphique :\nOrganisation des assets : La structure de dossiers (Content, Config) et la gestion des fichiers de projet restent identiques dans les versions récentes. Workflow PBR : La compréhension des maps (Albedo, Normal, Roughness) est universelle. Que vous utilisiez UE4 ou UE5, ces textures sont les piliers du Physically Based Rendering. Recherche de ressources : Les sites cités, bien qu’ayant parfois changé de nom ou d’interface (comme CC0Textures devenu Poly Haven), demeurent des références incontournables pour les développeurs indépendants cherchant des assets de qualité professionnelle sans budget. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce guide, nous posons les bases de votre projet de création de matériaux sous Unreal Engine 4 en configurant votre environnement de travail et en explorant les meilleures sources de textures gratuites.\nRésumé des notions clés Préparation du projet : Téléchargement et extraction de l’archive contenant les fichiers .uproject, Config et Content. Il est recommandé de placer ces éléments dans un dossier dédié pour une meilleure organisation. Lancement : Le premier démarrage peut être long car le moteur doit compiler les shaders et générer les fichiers intermédiaires nécessaires au projet. Interface : Utilisation du Source Panel pour naviguer efficacement dans les dossiers. Le projet inclut des scènes de test (sphères, cubes) et des Blueprints spécifiques pour les effets avancés comme la dissolution. Ressources de textures : Texture.com : Un système de crédits quotidiens (15 gratuits) idéal pour constituer une bibliothèque de textures seamless (tuilables). CC0Textures.com (désormais Poly Haven) : Une excellente alternative proposant des textures en haute résolution (jusqu’au 8K) libres de droits et sans système de crédits. Maps essentielles : Rappel sur l’importance de l’Albedo (couleur), de la Normal Map (relief) et de la Roughness (rugosité) pour obtenir un rendu réaliste. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué vers la 5, les fondamentaux abordés ici restent le socle de tout développement graphique :",
+    "tags": [
+      "Unreal Engine 4",
+      "Game Development",
+      "Materiaux",
+      "Tutoriel"
+    ],
+    "title": "1. Installation et ressources",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/demarrer-creation-materiaux-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Créer un jeu de tir en vue de dessus avec Construct 2",
@@ -142,7 +171,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/systeme-construction/2-raytracing-raycasting-blocs-poser/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Déployer son MMORPG sur un serveur dédié ou un VPS Linux est une étape cruciale pour garantir une disponibilité 24h/24 et une meilleure stabilité. Voici comment configurer votre environnement sous Ubuntu pour faire tourner le moteur Intersect Engine.\nRésumé des étapes clés Pour transformer votre machine Linux en serveur de jeu, voici la procédure à suivre via votre terminal SSH :\nInstallation de Mono : Le moteur Intersect étant basé sur .NET, l’installation de mono-complete est indispensable pour exécuter les fichiers .exe sur un environnement Linux. Commande : sudo apt-get install mono-complete Récupération des fichiers : Téléchargez l’archive du moteur (client + serveur) directement sur votre serveur via wget. Décompression : Utilisez la commande unzip pour extraire les fichiers de l’archive. Lancement du serveur : Naviguez dans le dossier /server et exécutez le serveur avec la commande mono Intersect.Server.exe. Configuration réseau : Identifiez l’adresse IP de votre machine (via ifconfig) et mettez à jour le fichier config.xml de votre client/éditeur local pour pointer vers cette IP au lieu de localhost. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine aient évolué, les fondamentaux présentés dans ce tutoriel restent des piliers pour tout développeur de MMORPG :\nL’importance de l’hébergement distant : Le passage de l’hébergement local (votre PC) vers un VPS (Virtual Private Server) est toujours la norme pour passer d’un projet de test à un jeu jouable par une communauté. La gestion via SSH : La maîtrise de la ligne de commande reste l’outil de prédilection pour administrer des serveurs de jeu, offrant une gestion légère et efficace sans interface graphique gourmande en ressources. La portabilité : La capacité d’Intersect à fonctionner sur Linux via Mono (ou les versions plus récentes basées sur .NET Core/.NET 5+) prouve la flexibilité du moteur, permettant d’optimiser les coûts d’hébergement en évitant les licences Windows Server. La structure des fichiers : La séparation entre le dossier Client \u0026 Editor et le dossier Server reste la structure logique standard pour maintenir une architecture client-serveur propre et sécurisée. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Déployer son MMORPG sur un serveur dédié ou un VPS Linux est une étape cruciale pour garantir une disponibilité 24h/24 et une meilleure stabilité. Voici comment configurer votre environnement sous Ubuntu pour faire tourner le moteur Intersect Engine.\nRésumé des étapes clés Pour transformer votre machine Linux en serveur de jeu, voici la procédure à suivre via votre terminal SSH :",
     "tags": [
@@ -167,6 +196,19 @@ var relearn_searchindex = [
     ],
     "title": "2. Installation",
     "uri": "/game-maker-studio/shoot-them-up/installation-configuration-gamemaker-studio-debutants/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprendre à manipuler l’éditeur de matériaux d’Unreal Engine 4 est une étape fondamentale pour tout développeur souhaitant donner vie à ses environnements 3D. Dans ce guide, nous explorons les bases de la création de matériaux, de la gestion des couleurs aux propriétés physiques de surface.\nRésumé des notions clés La création de matériaux dans Unreal Engine 4 repose sur l’utilisation de l’éditeur de matériaux (Material Editor). Voici les points essentiels à retenir :\nOrganisation et nommage : Adoptez une nomenclature rigoureuse (ex: Mat_NomDuMateriau) pour maintenir votre projet propre et structuré. Interface de l’éditeur : Palette : Contient toutes les fonctions et nodes disponibles. Fenêtre centrale : Espace de travail pour connecter vos nodes. Aperçu (Viewport) : Permet de visualiser le rendu sur différentes formes (sphère, cube, plan). Détails : Permet de configurer le Blend Mode (Opaque, Translucent, etc.) et les options d’illumination. Propriétés fondamentales : Base Color : Définit la couleur diffuse de l’objet. Metallic : Détermine si la surface se comporte comme un métal (1) ou un diélectrique (0). Roughness : Gère la “rugosité” ou la dureté de la réflexion (0 = miroir parfait, 1 = surface mate). Nodes essentiels : Vector Parameter : Utilisé pour définir une couleur (et idéal pour les instances de matériaux). Constant : Valeur numérique fixe (0 à 1) pour contrôler les propriétés physiques comme le métallique ou la rugosité. Two-Sided : Une option cruciale dans les détails si vous souhaitez que votre matériau soit visible des deux côtés d’un plan. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des fonctionnalités avancées comme le Lumen ou le Nanite, les principes fondamentaux abordés ici restent le socle du développement :\nLe workflow PBR (Physically Based Rendering) : Le système de Base Color, Metallic et Roughness est toujours le standard industriel pour créer des matériaux réalistes. L’importance des paramètres : L’utilisation de Vector Parameters au lieu de constantes simples est une pratique toujours recommandée pour créer des “Material Instances”, permettant de varier l’apparence de vos objets sans multiplier les fichiers de matériaux. La structure de l’éditeur : L’interface de l’éditeur de matériaux n’a que très peu changé. Maîtriser ces bases dans UE4 vous permet d’être immédiatement opérationnel dans les versions les plus récentes du moteur. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprendre à manipuler l’éditeur de matériaux d’Unreal Engine 4 est une étape fondamentale pour tout développeur souhaitant donner vie à ses environnements 3D. Dans ce guide, nous explorons les bases de la création de matériaux, de la gestion des couleurs aux propriétés physiques de surface.\nRésumé des notions clés La création de matériaux dans Unreal Engine 4 repose sur l’utilisation de l’éditeur de matériaux (Material Editor). Voici les points essentiels à retenir :",
+    "tags": [
+      "Unreal Engine 4",
+      "Game Development",
+      "Materiaux",
+      "Tutoriel"
+    ],
+    "title": "2. Les bases",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-premier-materiau-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Créer un jeu de tir en vue de dessus avec Construct 2",
@@ -263,7 +305,7 @@ var relearn_searchindex = [
     "uri": "/construct-2/tuto-top-down-shooter/creer-monstres-ia-simple-construct-2/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Dans ce troisième volet de notre série dédiée à la création d’un MMORPG avec Intersect Engine, nous plongeons au cœur de l’outil de développement pour explorer l’interface de création de cartes et la gestion de la base de données.\nRésumé des notions clés L’éditeur d’Intersect Engine est un outil complet qui se divise en plusieurs zones stratégiques pour faciliter le workflow de développement :\nLa colonne des outils (gauche) : Tiles \u0026 Calques : Gestion des textures et des couches (sol, masques, objets) pour donner de la profondeur à vos environnements. Attributs : Définition des zones bloquées, des zones de téléportation ou des déclencheurs spécifiques. Lights \u0026 Events : Ajout d’éclairages dynamiques et de systèmes d’événements (quêtes, interactions, combats). NPCs : Intégration des personnages non-joueurs gérés par le serveur. Le Map Grid : Une fonctionnalité indispensable qui permet de visualiser l’agencement global de vos cartes pour assurer une cohérence géographique dans votre monde ouvert. Propriétés de carte (droite) : Paramétrage fin de l’ambiance (brouillard, filtres de couleur, musique, sons) et des règles de zone (PVP, zones sans monstres). Content Editor : Le centre névralgique pour créer les éléments de jeu : classes de personnages, statistiques, boutiques, monnaies et objets. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, les fondamentaux présentés ici restent le socle de tout projet sur ce moteur. La structure par “calques” et l’utilisation du “Map Grid” demeurent les meilleures pratiques pour éviter les erreurs de level design. De même, la logique de création de la base de données (définir ses objets et monnaies avant de configurer ses boutiques) est une méthodologie de travail rigoureuse qui vous fera gagner un temps précieux, peu importe la version du moteur que vous utilisez. Maîtriser ces outils, c’est s’assurer une base solide pour construire un monde cohérent et immersif.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce troisième volet de notre série dédiée à la création d’un MMORPG avec Intersect Engine, nous plongeons au cœur de l’outil de développement pour explorer l’interface de création de cartes et la gestion de la base de données.\nRésumé des notions clés L’éditeur d’Intersect Engine est un outil complet qui se divise en plusieurs zones stratégiques pour faciliter le workflow de développement :",
     "tags": [
@@ -272,8 +314,21 @@ var relearn_searchindex = [
       "Game Development",
       "Tutoriel"
     ],
-    "title": "3. Découverte de l'éditeur de cartes et de la base de données dans Intersect Engine",
+    "title": "3. Découverte de l'éditeur de cartes et de la base de données",
     "uri": "/intersect-engine/creer-un-mmorpg/decouverte-editeur-cartes-base-donnees-intersect-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Découvrez comment optimiser votre workflow de texturing dans Unreal Engine 4 en utilisant la puissance des instances de matériaux pour créer des variantes infinies à partir d’une base unique.\nRésumé des notions clés Vector Parameter : Permet de définir des propriétés colorimétriques modifiables dynamiquement (raccourci clavier : maintenir ‘V’ + clic gauche). Scalar Parameter : Utilisé pour contrôler des valeurs numériques (comme le Metallic ou le Roughness) au sein des instances. Material Instance : Une “copie” liée à un matériau parent. Toute modification apportée au matériau de base (ajout de textures, de nouveaux paramètres) se répercute automatiquement sur toutes ses instances. Workflow efficace : Créer un matériau “maître” avec des paramètres exposés permet de gagner un temps précieux lors de la création de variantes (couleurs, reflets, rugosité) sans avoir à dupliquer inutilement les assets. Interface des instances : Une fois l’instance créée, l’interface simplifiée permet de modifier uniquement les paramètres cochés, sans avoir à ouvrir l’éditeur de nœuds complexe. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel se concentre sur Unreal Engine 4, les concepts abordés restent le pilier central du texturing dans Unreal Engine 5. La gestion par “Material Instance” est une pratique indispensable pour tout développeur souhaitant optimiser les performances de son projet (Draw Calls) et maintenir une cohérence visuelle. Que vous travailliez sur des shaders complexes ou des matériaux simples, la logique de “Parent/Enfant” demeure la norme industrielle pour gérer efficacement des bibliothèques d’assets variées tout en conservant une structure de projet propre et évolutive.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Découvrez comment optimiser votre workflow de texturing dans Unreal Engine 4 en utilisant la puissance des instances de matériaux pour créer des variantes infinies à partir d’une base unique.\nRésumé des notions clés Vector Parameter : Permet de définir des propriétés colorimétriques modifiables dynamiquement (raccourci clavier : maintenir ‘V’ + clic gauche). Scalar Parameter : Utilisé pour contrôler des valeurs numériques (comme le Metallic ou le Roughness) au sein des instances. Material Instance : Une “copie” liée à un matériau parent. Toute modification apportée au matériau de base (ajout de textures, de nouveaux paramètres) se répercute automatiquement sur toutes ses instances. Workflow efficace : Créer un matériau “maître” avec des paramètres exposés permet de gagner un temps précieux lors de la création de variantes (couleurs, reflets, rugosité) sans avoir à dupliquer inutilement les assets. Interface des instances : Une fois l’instance créée, l’interface simplifiée permet de modifier uniquement les paramètres cochés, sans avoir à ouvrir l’éditeur de nœuds complexe. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel se concentre sur Unreal Engine 4, les concepts abordés restent le pilier central du texturing dans Unreal Engine 5. La gestion par “Material Instance” est une pratique indispensable pour tout développeur souhaitant optimiser les performances de son projet (Draw Calls) et maintenir une cohérence visuelle. Que vous travailliez sur des shaders complexes ou des matériaux simples, la logique de “Parent/Enfant” demeure la norme industrielle pour gérer efficacement des bibliothèques d’assets variées tout en conservant une structure de projet propre et évolutive.",
+    "tags": [
+      "Unreal Engine 4",
+      "Game Development",
+      "Materiaux",
+      "Tutoriel"
+    ],
+    "title": "3. Maîtriser les Matériaux Dynamiques et les Instances",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-materiaux-dynamiques-instances-unreal-engine/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -320,6 +375,19 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/systeme-construction/4-selection-objets-molette-destruction/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
+    "content": "Apprendre à structurer ses cartes est l’étape fondamentale pour tout développeur utilisant Intersect Engine. Dans ce guide, nous explorons les bases du mapping, de la gestion des calques à l’utilisation intelligente des auto-tiles.\nRésumé des notions clés Gestion des calques (Layers) : Ground : La couche de base pour le sol. Mask \u0026 Mask 2 : Couches intermédiaires situées derrière le joueur. Utiles pour les détails du sol et les objets bas. Fringe \u0026 Fringe 2 : Couches situées au-dessus du joueur. Indispensables pour les éléments comme les toits, les arbres hauts ou les barrières que le joueur doit pouvoir “cacher” en passant derrière. Outils de dessin : Pinceau (Crayon) : Pour le dessin manuel, idéal pour les détails précis. Pot de peinture (Fill) : Pour remplir rapidement de larges zones. Auto-tiles : L’outil indispensable pour créer des transitions fluides et automatiques (herbe, chemins, barrières) sans avoir à gérer manuellement les coins et les bordures. Bonnes pratiques : Vérification constante : Toujours s’assurer du calque sélectionné avant de poser un objet pour éviter d’écraser des éléments existants. Sauvegarde : Utiliser régulièrement le bouton de sauvegarde (ou Ctrl+S) pour sécuriser votre progression sur le serveur. Ce qui reste d’actualité aujourd’hui Bien que l’interface d’Intersect Engine puisse évoluer, les principes fondamentaux du mapping restent inchangés. La hiérarchie des calques (Ground, Mask, Fringe) est le cœur battant de la profondeur visuelle dans un RPG 2D. Maîtriser l’utilisation des auto-tiles demeure la compétence la plus importante pour gagner en productivité : elle permet de transformer une carte plate et monotone en un environnement cohérent et professionnel en un temps record. La règle d’or reste la même : une organisation rigoureuse de vos calques dès le début du projet vous évitera des heures de correction fastidieuses.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprendre à structurer ses cartes est l’étape fondamentale pour tout développeur utilisant Intersect Engine. Dans ce guide, nous explorons les bases du mapping, de la gestion des calques à l’utilisation intelligente des auto-tiles.\nRésumé des notions clés Gestion des calques (Layers) : Ground : La couche de base pour le sol. Mask \u0026 Mask 2 : Couches intermédiaires situées derrière le joueur. Utiles pour les détails du sol et les objets bas. Fringe \u0026 Fringe 2 : Couches situées au-dessus du joueur. Indispensables pour les éléments comme les toits, les arbres hauts ou les barrières que le joueur doit pouvoir “cacher” en passant derrière. Outils de dessin : Pinceau (Crayon) : Pour le dessin manuel, idéal pour les détails précis. Pot de peinture (Fill) : Pour remplir rapidement de larges zones. Auto-tiles : L’outil indispensable pour créer des transitions fluides et automatiques (herbe, chemins, barrières) sans avoir à gérer manuellement les coins et les bordures. Bonnes pratiques : Vérification constante : Toujours s’assurer du calque sélectionné avant de poser un objet pour éviter d’écraser des éléments existants. Sauvegarde : Utiliser régulièrement le bouton de sauvegarde (ou Ctrl+S) pour sécuriser votre progression sur le serveur. Ce qui reste d’actualité aujourd’hui Bien que l’interface d’Intersect Engine puisse évoluer, les principes fondamentaux du mapping restent inchangés. La hiérarchie des calques (Ground, Mask, Fringe) est le cœur battant de la profondeur visuelle dans un RPG 2D. Maîtriser l’utilisation des auto-tiles demeure la compétence la plus importante pour gagner en productivité : elle permet de transformer une carte plate et monotone en un environnement cohérent et professionnel en un temps record. La règle d’or reste la même : une organisation rigoureuse de vos calques dès le début du projet vous évitera des heures de correction fastidieuses.",
+    "tags": [
+      "Intersect Engine",
+      "Game Development",
+      "Mapping",
+      "Tutoriel"
+    ],
+    "title": "4. Bases du mapping, des tuiles et tilesets",
+    "uri": "/intersect-engine/creer-un-mmorpg/maitriser-mapping-intersect-engine-calques-auto-tiles/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Game Maker Studio \u003e Shoot Them Up (Shmup)",
     "content": "Dans ce guide, nous allons transformer vos ressources graphiques en éléments interactifs et donner vie à votre premier niveau grâce à la technique du scrolling parallaxe.\nRésumé des notions clés Gestion des Objets (Objects) : Les sprites ne sont que des images statiques. Pour leur donner vie (vitesse, collisions, logique), il est indispensable de les convertir en “Objets”. Configuration des Rooms : La “Room” est votre espace de jeu. Il est crucial de définir ses dimensions (largeur/hauteur) et sa fréquence de rafraîchissement (FPS) pour garantir une expérience fluide. Superposition de Backgrounds : Game Maker permet d’empiler plusieurs calques de fond pour enrichir visuellement votre scène. Effet de Parallaxe : En attribuant des vitesses de défilement horizontales (Hspeed) différentes à chaque calque de fond, vous créez une illusion de profondeur et de distance, essentielle pour le dynamisme d’un jeu 2D. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de Game Maker (GMS2 et versions ultérieures) aient fait évoluer l’interface utilisateur, les concepts fondamentaux abordés ici restent le socle de tout développement 2D :\nLa séparation Sprite/Objet : Cette architecture reste le cœur du moteur. Comprendre que l’objet est le conteneur logique de votre entité est une compétence indispensable. La gestion des calques (Layers) : La logique de superposition des backgrounds est devenue encore plus puissante avec le système de “Layer” moderne, permettant de gérer la profondeur (Z-index) de manière très intuitive. Le Parallaxe : Cette technique demeure le standard de l’industrie pour donner du relief aux jeux en 2D. La manipulation des vitesses de défilement est toujours la méthode la plus efficace et la moins coûteuse en ressources pour simuler un environnement vivant. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce guide, nous allons transformer vos ressources graphiques en éléments interactifs et donner vie à votre premier niveau grâce à la technique du scrolling parallaxe.\nRésumé des notions clés Gestion des Objets (Objects) : Les sprites ne sont que des images statiques. Pour leur donner vie (vitesse, collisions, logique), il est indispensable de les convertir en “Objets”. Configuration des Rooms : La “Room” est votre espace de jeu. Il est crucial de définir ses dimensions (largeur/hauteur) et sa fréquence de rafraîchissement (FPS) pour garantir une expérience fluide. Superposition de Backgrounds : Game Maker permet d’empiler plusieurs calques de fond pour enrichir visuellement votre scène. Effet de Parallaxe : En attribuant des vitesses de défilement horizontales (Hspeed) différentes à chaque calque de fond, vous créez une illusion de profondeur et de distance, essentielle pour le dynamisme d’un jeu 2D. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de Game Maker (GMS2 et versions ultérieures) aient fait évoluer l’interface utilisateur, les concepts fondamentaux abordés ici restent le socle de tout développement 2D :",
@@ -331,6 +399,19 @@ var relearn_searchindex = [
     ],
     "title": "4. Création des objets et mise en place du scrolling parallaxe",
     "uri": "/game-maker-studio/shoot-them-up/creation-objets-scrolling-parallaxe-gamemaker/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Découvrez comment donner vie à vos environnements en créant des matériaux capables d’émettre leur propre lumière, une technique essentielle pour simuler la lave, les néons ou les écrans.\nRésumé des notions clés Le canal Emissive Color : Contrairement à la Base Color qui définit l’aspect visuel, le canal Emissive permet à une surface de briller par elle-même, sans nécessiter de source lumineuse externe. Vector Parameter : Utilisé pour définir la couleur de base, il permet de créer des instances de matériaux facilement modifiables. Scalar Parameter : Indispensable pour contrôler l’intensité de l’émission. En multipliant la couleur par une valeur scalaire, vous pouvez augmenter la puissance lumineuse au-delà de 1. Le nœud Multiply : L’opération mathématique de base pour combiner votre couleur et votre valeur d’intensité (puissance) avant de les injecter dans le canal Emissive Color. Workflow efficace : Utilisation des raccourcis clavier (touche ‘V’ pour Vector, touche ‘S’ pour Scalar) pour accélérer la création de vos graphiques de matériaux. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Unreal Engine 4, les principes fondamentaux des matériaux émissifs restent identiques dans Unreal Engine 5. La logique de multiplication d’un paramètre scalaire avec une couleur pour piloter l’intensité lumineuse est une pratique standard dans l’industrie. Que vous travailliez sur du rendu temps réel ou sur des effets visuels (VFX), la maîtrise de ces nœuds est le socle indispensable pour créer des shaders complexes, comme des matériaux réactifs au Bloom ou des surfaces luminescentes dynamiques. Ces techniques sont toujours le moyen le plus performant pour ajouter du “punch” visuel à vos scènes sans alourdir le calcul des lumières dynamiques.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Découvrez comment donner vie à vos environnements en créant des matériaux capables d’émettre leur propre lumière, une technique essentielle pour simuler la lave, les néons ou les écrans.\nRésumé des notions clés Le canal Emissive Color : Contrairement à la Base Color qui définit l’aspect visuel, le canal Emissive permet à une surface de briller par elle-même, sans nécessiter de source lumineuse externe. Vector Parameter : Utilisé pour définir la couleur de base, il permet de créer des instances de matériaux facilement modifiables. Scalar Parameter : Indispensable pour contrôler l’intensité de l’émission. En multipliant la couleur par une valeur scalaire, vous pouvez augmenter la puissance lumineuse au-delà de 1. Le nœud Multiply : L’opération mathématique de base pour combiner votre couleur et votre valeur d’intensité (puissance) avant de les injecter dans le canal Emissive Color. Workflow efficace : Utilisation des raccourcis clavier (touche ‘V’ pour Vector, touche ‘S’ pour Scalar) pour accélérer la création de vos graphiques de matériaux. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Unreal Engine 4, les principes fondamentaux des matériaux émissifs restent identiques dans Unreal Engine 5. La logique de multiplication d’un paramètre scalaire avec une couleur pour piloter l’intensité lumineuse est une pratique standard dans l’industrie. Que vous travailliez sur du rendu temps réel ou sur des effets visuels (VFX), la maîtrise de ces nœuds est le socle indispensable pour créer des shaders complexes, comme des matériaux réactifs au Bloom ou des surfaces luminescentes dynamiques. Ces techniques sont toujours le moyen le plus performant pour ajouter du “punch” visuel à vos scènes sans alourdir le calcul des lumières dynamiques.",
+    "tags": [
+      "Unreal Engine 4",
+      "Materiaux",
+      "Shaders",
+      "Game Dev"
+    ],
+    "title": "4. Créer des matériaux émissifs",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiaux-emissifs-unreal-engine/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Créer un jeu de tir en vue de dessus avec Construct 2",
@@ -347,19 +428,6 @@ var relearn_searchindex = [
     ],
     "title": "4. Gérer les Dégâts et Introduire les Variables d'Instance",
     "uri": "/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables-instance/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
-    "content": "Apprendre à structurer ses cartes est l’étape fondamentale pour tout développeur utilisant Intersect Engine. Dans ce guide, nous explorons les bases du mapping, de la gestion des calques à l’utilisation intelligente des auto-tiles.\nRésumé des notions clés Gestion des calques (Layers) : Ground : La couche de base pour le sol. Mask \u0026 Mask 2 : Couches intermédiaires situées derrière le joueur. Utiles pour les détails du sol et les objets bas. Fringe \u0026 Fringe 2 : Couches situées au-dessus du joueur. Indispensables pour les éléments comme les toits, les arbres hauts ou les barrières que le joueur doit pouvoir “cacher” en passant derrière. Outils de dessin : Pinceau (Crayon) : Pour le dessin manuel, idéal pour les détails précis. Pot de peinture (Fill) : Pour remplir rapidement de larges zones. Auto-tiles : L’outil indispensable pour créer des transitions fluides et automatiques (herbe, chemins, barrières) sans avoir à gérer manuellement les coins et les bordures. Bonnes pratiques : Vérification constante : Toujours s’assurer du calque sélectionné avant de poser un objet pour éviter d’écraser des éléments existants. Sauvegarde : Utiliser régulièrement le bouton de sauvegarde (ou Ctrl+S) pour sécuriser votre progression sur le serveur. Ce qui reste d’actualité aujourd’hui Bien que l’interface d’Intersect Engine puisse évoluer, les principes fondamentaux du mapping restent inchangés. La hiérarchie des calques (Ground, Mask, Fringe) est le cœur battant de la profondeur visuelle dans un RPG 2D. Maîtriser l’utilisation des auto-tiles demeure la compétence la plus importante pour gagner en productivité : elle permet de transformer une carte plate et monotone en un environnement cohérent et professionnel en un temps record. La règle d’or reste la même : une organisation rigoureuse de vos calques dès le début du projet vous évitera des heures de correction fastidieuses.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
-    "description": "Apprendre à structurer ses cartes est l’étape fondamentale pour tout développeur utilisant Intersect Engine. Dans ce guide, nous explorons les bases du mapping, de la gestion des calques à l’utilisation intelligente des auto-tiles.\nRésumé des notions clés Gestion des calques (Layers) : Ground : La couche de base pour le sol. Mask \u0026 Mask 2 : Couches intermédiaires situées derrière le joueur. Utiles pour les détails du sol et les objets bas. Fringe \u0026 Fringe 2 : Couches situées au-dessus du joueur. Indispensables pour les éléments comme les toits, les arbres hauts ou les barrières que le joueur doit pouvoir “cacher” en passant derrière. Outils de dessin : Pinceau (Crayon) : Pour le dessin manuel, idéal pour les détails précis. Pot de peinture (Fill) : Pour remplir rapidement de larges zones. Auto-tiles : L’outil indispensable pour créer des transitions fluides et automatiques (herbe, chemins, barrières) sans avoir à gérer manuellement les coins et les bordures. Bonnes pratiques : Vérification constante : Toujours s’assurer du calque sélectionné avant de poser un objet pour éviter d’écraser des éléments existants. Sauvegarde : Utiliser régulièrement le bouton de sauvegarde (ou Ctrl+S) pour sécuriser votre progression sur le serveur. Ce qui reste d’actualité aujourd’hui Bien que l’interface d’Intersect Engine puisse évoluer, les principes fondamentaux du mapping restent inchangés. La hiérarchie des calques (Ground, Mask, Fringe) est le cœur battant de la profondeur visuelle dans un RPG 2D. Maîtriser l’utilisation des auto-tiles demeure la compétence la plus importante pour gagner en productivité : elle permet de transformer une carte plate et monotone en un environnement cohérent et professionnel en un temps record. La règle d’or reste la même : une organisation rigoureuse de vos calques dès le début du projet vous évitera des heures de correction fastidieuses.",
-    "tags": [
-      "Intersect Engine",
-      "Game Development",
-      "Mapping",
-      "Tutoriel"
-    ],
-    "title": "4. tiles",
-    "uri": "/intersect-engine/creer-un-mmorpg/maitriser-mapping-intersect-engine-calques-auto-tiles/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -391,7 +459,20 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/5-variable-sprint-course-stamina/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Découvrez comment passer de simples aplats de couleurs à des matériaux réalistes en intégrant des textures complexes dans Unreal Engine 4.\nRésumé des notions clés Dans ce tutoriel, nous explorons l’utilisation des textures pour enrichir le rendu visuel de vos objets 3D. Voici les points essentiels abordés :\nBase Color (Albedo) : La texture qui définit la couleur réelle et les motifs visuels de votre matériau. Normal Map (NRM) : Une carte indispensable pour simuler du relief et des détails géométriques complexes sans augmenter le nombre de polygones, en manipulant la manière dont la lumière rebondit sur la surface. Roughness (RGH) : Une carte en niveaux de gris qui définit la rugosité de la surface. Elle permet de varier la brillance et la réflexion de la lumière sur différentes zones de l’objet. Workflow dans l’éditeur : Utilisation du nœud Texture Sample pour importer vos fichiers. Importance de bien configurer le Sampler Type (notamment en mode “Normal” pour les Normal Maps). Utilisation du raccourci Ctrl + W pour dupliquer rapidement vos nœuds. Application des textures aux entrées correspondantes du nœud principal du matériau. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Unreal Engine 4, les principes fondamentaux du “PBR” (Physically Based Rendering) restent identiques dans Unreal Engine 5. La gestion des textures, la compréhension des cartes de normales et la manipulation des paramètres de rugosité sont des compétences universelles. Que vous travailliez sur UE4 ou UE5, la logique de connexion des nœuds dans l’éditeur de matériaux (Material Editor) demeure le standard de l’industrie pour créer des surfaces crédibles. Maîtriser ces bases est une étape incontournable pour tout développeur souhaitant passer à des systèmes plus avancés comme les Material Instances ou les Layered Materials.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Découvrez comment passer de simples aplats de couleurs à des matériaux réalistes en intégrant des textures complexes dans Unreal Engine 4.\nRésumé des notions clés Dans ce tutoriel, nous explorons l’utilisation des textures pour enrichir le rendu visuel de vos objets 3D. Voici les points essentiels abordés :",
+    "tags": [
+      "Unreal Engine 4",
+      "Materiaux",
+      "Texturing",
+      "Game Dev"
+    ],
+    "title": "5. Ajouter des textures",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-les-textures-dans-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Donner vie à vos cartes dans Intersect Engine ne se limite pas à poser des tuiles ; il s’agit de jouer avec les calques et les animations pour créer une véritable profondeur visuelle.\nRésumé des notions clés Dans ce tutoriel, nous explorons deux piliers fondamentaux du level design sous Intersect Engine :\nL’animation des tuiles (Tilesets) : Apprenez à utiliser le mode “Animated” dans les propriétés des tuiles pour transformer des textures statiques (comme l’eau) en éléments dynamiques qui apportent du mouvement à vos environnements. La gestion des calques (Layers) : Ground : À réserver exclusivement au sol (ne jamais y placer d’objets comme des arbres). Mask / Mask 2 : Idéal pour les éléments de décor comme les troncs d’arbres. Fringes : Le calque indispensable pour placer le feuillage des arbres, permettant au joueur de passer “derrière” l’objet. Le système d’attributs (Attributes) : L’utilisation de l’attribut “Block” (B) pour définir les zones infranchissables. Technique du “Pseudo-3D” : La méthode consistant à diviser un arbre en deux parties (tronc sur le masque, feuillage sur le fringe) pour créer un effet de relief saisissant et améliorer l’immersion. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, les principes fondamentaux de ce tutoriel demeurent le standard pour tout développeur de MMORPG 2D :\nL’importance de la hiérarchie des calques : La distinction entre Ground, Mask et Fringes est le cœur même du moteur. Maîtriser cette séparation est la seule façon d’éviter les bugs de collision et d’affichage. L’optimisation visuelle : La technique de découpe des arbres reste la méthode la plus efficace pour donner du volume à un jeu en vue isométrique ou de dessus sans avoir recours à des assets 3D complexes. La gestion des collisions : Le système d’attributs reste l’outil principal pour contrôler les déplacements des joueurs. Comprendre comment appliquer ces attributs de manière sélective (bloquer le bas, laisser le haut libre) est une compétence indispensable pour tout level designer. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Donner vie à vos cartes dans Intersect Engine ne se limite pas à poser des tuiles ; il s’agit de jouer avec les calques et les animations pour créer une véritable profondeur visuelle.\nRésumé des notions clés Dans ce tutoriel, nous explorons deux piliers fondamentaux du level design sous Intersect Engine :",
     "tags": [
@@ -401,7 +482,7 @@ var relearn_searchindex = [
       "Level Design",
       "MMORPG"
     ],
-    "title": "5. Créer des environnements vivants dans Intersect Engine",
+    "title": "5. Créer des environnements vivants",
     "uri": "/intersect-engine/creer-un-mmorpg/creer-environnements-vivants-intersect-engine/index.html"
   },
   {
@@ -468,7 +549,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/6-ui-umg-widget-affichage-hud-ue5/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Apprenez à donner du relief à vos environnements dans Intersect Engine en maîtrisant la création de cartes connectées, de falaises et d’effets de cascades dynamiques pour vos zones de jeu.\nNotions clés abordées Gestion des cartes connectées : Utilisation de la Map List et du Map Grid pour lier deux zones adjacentes et assurer une continuité fluide dans votre monde. Utilisation des calques (Layers) : Maîtrise des calques Ground, Mask et Fringe pour superposer les éléments de décor et gérer les priorités d’affichage. Création de reliefs : Utilisation des Tile Types (Montagnes et Cliffs) pour structurer le terrain et créer des dénivelés visuels. Effets animés : Intégration de tuiles Animated pour l’eau et utilisation du type Waterfall pour créer des cascades. Astuces de collision : Utilisation du calque Fringe pour permettre au joueur de passer derrière des éléments de décor, comme une cascade, ajoutant ainsi de la profondeur au gameplay. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, les fondamentaux du mapping restent inchangés. La gestion des calques (Ground/Mask/Fringe) demeure la pierre angulaire pour créer des environnements immersifs. La technique consistant à lier des cartes via le Map Grid est toujours la méthode standard pour construire des mondes ouverts sans surcharger la mémoire du client. Enfin, l’utilisation des tuiles animées et des propriétés de collision reste une compétence indispensable pour tout développeur souhaitant créer des zones interactives et vivantes dans son MMORPG.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprenez à donner du relief à vos environnements dans Intersect Engine en maîtrisant la création de cartes connectées, de falaises et d’effets de cascades dynamiques pour vos zones de jeu.\nNotions clés abordées Gestion des cartes connectées : Utilisation de la Map List et du Map Grid pour lier deux zones adjacentes et assurer une continuité fluide dans votre monde. Utilisation des calques (Layers) : Maîtrise des calques Ground, Mask et Fringe pour superposer les éléments de décor et gérer les priorités d’affichage. Création de reliefs : Utilisation des Tile Types (Montagnes et Cliffs) pour structurer le terrain et créer des dénivelés visuels. Effets animés : Intégration de tuiles Animated pour l’eau et utilisation du type Waterfall pour créer des cascades. Astuces de collision : Utilisation du calque Fringe pour permettre au joueur de passer derrière des éléments de décor, comme une cascade, ajoutant ainsi de la profondeur au gameplay. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, les fondamentaux du mapping restent inchangés. La gestion des calques (Ground/Mask/Fringe) demeure la pierre angulaire pour créer des environnements immersifs. La technique consistant à lier des cartes via le Map Grid est toujours la méthode standard pour construire des mondes ouverts sans surcharger la mémoire du client. Enfin, l’utilisation des tuiles animées et des propriétés de collision reste une compétence indispensable pour tout développeur souhaitant créer des zones interactives et vivantes dans son MMORPG.",
     "tags": [
@@ -477,8 +558,21 @@ var relearn_searchindex = [
       "MMORPG",
       "Tutoriel"
     ],
-    "title": "6. Créer des falaises et des cascades dans Intersect Engine",
+    "title": "6. Créer des falaises et des cascades",
     "uri": "/intersect-engine/creer-un-mmorpg/creer-falaises-cascades-intersect-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprenez à concevoir un matériau d’eau réaliste et dynamique dans Unreal Engine 4 en utilisant les fonctions de profondeur, les normales animées et les effets de réfraction.\nRésumé des notions clés Ce tutoriel vous guide à travers les étapes essentielles pour créer une surface d’eau crédible :\nGestion de la profondeur (Depth Fade) : Utilisation du nœud DepthFade pour créer un dégradé de couleur naturel en fonction de la profondeur de l’eau. Mélange linéaire (Lerp) : Technique permettant d’interpoler entre deux couleurs (ou textures) pour un rendu visuel fluide. Normal Maps et animation : Inversion des normales via un nœud Multiply et un Constant3Vector pour corriger le relief. Utilisation de Panner pour le mouvement simple ou de Motion_FarWave_Chaos pour un rendu plus organique et chaotique. Réfraction et physique : Application du nœud Fresnel pour simuler le comportement de la lumière sur une surface liquide (indice de réfraction de l’eau à 1.33). Paramétrage du matériau : Ajustement des propriétés Roughness, Specular et Opacity pour obtenir l’aspect translucide caractéristique de l’eau. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel soit basé sur Unreal Engine 4, les fondamentaux du Material Editor restent inchangés dans Unreal Engine 5. La logique de création de matériaux “Master” reste la pierre angulaire du développement visuel :\nLa modularité : L’utilisation des Material Functions pour organiser vos graphes est une pratique indispensable pour maintenir des projets complexes. Le calcul procédural : Les techniques de DepthFade et de Fresnel sont toujours les méthodes standards pour donner du volume et de la profondeur aux surfaces transparentes sans alourdir les performances. Le workflow de shading : La compréhension des modes de mélange (Translucent, Surface Forward Shading) est toujours cruciale pour gérer correctement la lumière à travers des surfaces semi-transparentes. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprenez à concevoir un matériau d’eau réaliste et dynamique dans Unreal Engine 4 en utilisant les fonctions de profondeur, les normales animées et les effets de réfraction.\nRésumé des notions clés Ce tutoriel vous guide à travers les étapes essentielles pour créer une surface d’eau crédible :",
+    "tags": [
+      "Unreal Engine 4",
+      "Material Editor",
+      "Game Design",
+      "Tutoriel"
+    ],
+    "title": "6. Créer un matériau d'eau dynamique",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-eau-dynamique-unreal-engine/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Créer un jeu de tir en vue de dessus avec Construct 2",
@@ -542,7 +636,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/7-ramassage-objet-score-points-compteur/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Apprenez à structurer le monde de votre MMORPG en créant votre premier village et en maîtrisant la liaison des cartes dans Intersect Engine.\nRésumé des notions clés Dans ce tutoriel, nous abordons les étapes fondamentales pour donner vie à vos zones de jeu :\nCréation de carte : Utilisation de l’outil “New Map” pour générer un nouvel espace de travail. Gestion du sol et des décors : Utilisation des calques (Layers) pour peindre le terrain, ajouter des barrières de sécurité et structurer l’environnement. Liaison des cartes (Map Linking) : Procédure pour connecter vos cartes entre elles via le “Map Grid” afin de créer un monde cohérent et fluide. Gestion des calques (Layers) : Importance de la distinction entre les calques Mask (pour le sol et les éléments de base) et Fringes (pour les éléments de décor en hauteur, comme les toits, qui doivent passer au-dessus du joueur). Astuces de Level Design : Conseils pour ajouter du relief avec des objets (étals de marché, caisses) et gestion de la complexité des bâtiments. Ce qui reste d’actualité aujourd’hui Bien que les outils d’Intersect Engine évoluent, les principes de base présentés ici restent le socle de tout projet réussi :\nLa hiérarchie des calques : La maîtrise du calque Fringes est toujours indispensable pour éviter les problèmes de collision visuelle et donner une impression de profondeur à vos environnements 2D. La méthode de liaison : La technique consistant à lier les cartes progressivement reste la méthode la plus sûre pour éviter les bugs de navigation dans votre monde ouvert. L’importance du détail : L’utilisation d’objets décoratifs (caisses, étals) pour briser la répétitivité des tuiles (tilesets) est une règle d’or pour rendre un village vivant et immersif. La patience dans le mapping : La création de bâtiments reste une étape technique qui demande de l’entraînement. Ne cherchez pas la perfection immédiate ; commencez par des structures simples avant de vous lancer dans des architectures complexes. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprenez à structurer le monde de votre MMORPG en créant votre premier village et en maîtrisant la liaison des cartes dans Intersect Engine.\nRésumé des notions clés Dans ce tutoriel, nous abordons les étapes fondamentales pour donner vie à vos zones de jeu :",
     "tags": [
@@ -551,8 +645,21 @@ var relearn_searchindex = [
       "Tutoriel",
       "Level Design"
     ],
-    "title": "7. Créer et lier vos premières cartes dans Intersect Engine",
+    "title": "7. Créer et lier vos premières cartes",
     "uri": "/intersect-engine/creer-un-mmorpg/creer-lier-cartes-intersect-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprenez à contrôler dynamiquement la répétition de vos textures sur vos modèles 3D grâce au Material Editor d’Unreal Engine 4.\nRésumé des notions clés Dans ce tutoriel, nous explorons comment manipuler les coordonnées UV pour ajuster le “tiling” (la répétition) de vos textures :\nTexture Coordinate (TexCoord) : Le nœud de base qui définit comment la texture est plaquée sur la géométrie. Multiplication des coordonnées : Utiliser un nœud Multiply pour multiplier les coordonnées UV par une valeur scalaire afin de répéter la texture. Scalar Parameter : Remplacer les valeurs fixes par des paramètres pour modifier la taille de la texture à la volée, idéal pour les Material Instances. Append Vector : Une technique avancée pour séparer le contrôle des répétitions sur l’axe X et l’axe Y, permettant d’étirer ou d’ajuster la texture indépendamment sur chaque dimension. Application pratique : L’importance de cette technique pour les grands objets ou les terrains, où une texture unique peut paraître trop étirée ou peu détaillée. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel soit basé sur Unreal Engine 4, les principes fondamentaux du Material Editor restent identiques dans Unreal Engine 5. La manipulation des coordonnées UV via des paramètres scalaires est une compétence indispensable pour tout artiste technique. Que vous travailliez sur des matériaux complexes ou des systèmes de shaders procéduraux, la capacité à contrôler le tiling de manière dynamique permet d’optimiser le rendu visuel sans avoir à modifier les UV dans un logiciel de modélisation externe (comme Blender ou Maya). C’est une méthode efficace pour garantir une densité de texels cohérente sur l’ensemble de vos environnements.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprenez à contrôler dynamiquement la répétition de vos textures sur vos modèles 3D grâce au Material Editor d’Unreal Engine 4.\nRésumé des notions clés Dans ce tutoriel, nous explorons comment manipuler les coordonnées UV pour ajuster le “tiling” (la répétition) de vos textures :",
+    "tags": [
+      "Unreal Engine 4",
+      "Material Editor",
+      "Texturing",
+      "Game Dev"
+    ],
+    "title": "7. Maîtriser le tiling des textures",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-le-tiling-des-textures-unreal-engine/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Game Maker Studio \u003e Shoot Them Up (Shmup)",
@@ -597,7 +704,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/8-ia-behavior-tree-blackboard-ennemi/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "La création des classes de personnages est une étape fondamentale dans le développement de votre MMORPG avec Intersect Engine, car elle pose les bases de l’identité de jeu et de l’équilibrage global.\nRésumé des notions clés La création de classes dans Intersect Engine se déroule au sein du Content Editor. Voici les points essentiels à retenir pour configurer vos archétypes :\nGestion des Sprites et du Genre : Vous pouvez définir des apparences distinctes pour les personnages masculins et féminins. Les ressources graphiques se trouvent dans le dossier Client \u0026 Editor/Resources/Entities. Point d’apparition (Spawn Point) : Utilisez l’outil “Open Visual Interface” pour sélectionner précisément la case (coordonnées X, Y) sur la carte où chaque classe débutera son aventure. Statistiques de base : Définissez les PV, la Mana, l’Armure et la vitesse de déplacement. Ces valeurs doivent être cohérentes avec le rôle de la classe (ex: un Guerrier aura plus de PV, un Mage plus de Mana). Progression et Équilibrage : Expérience : Configurez le coût en points d’expérience pour monter de niveau et le multiplicateur de difficulté pour les paliers suivants. Bonus de niveau : Choisissez entre des bonus statiques ou en pourcentage pour chaque statistique gagnée lors d’un gain de niveau. Régénération : Paramétrez la vitesse de récupération naturelle des points de vie et de mana, un élément crucial pour le confort de jeu. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, la logique de structuration des données reste identique. La gestion des classes demeure le “cœur” de votre jeu :\nL’interdépendance des systèmes : Comme expliqué, il est préférable de définir vos classes avant de créer les objets (items) ou les sorts, car ces derniers dépendent souvent des prérequis de classe. La cohérence des statistiques : L’importance de l’équilibrage mathématique entre les classes (Tank vs DPS vs Support) est une constante dans le développement de MMORPG. Extensibilité : Le moteur permet toujours d’ajouter des feuilles de sprites personnalisées, à condition de respecter le format d’animation standard du moteur, ce qui garantit une grande liberté artistique. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "La création des classes de personnages est une étape fondamentale dans le développement de votre MMORPG avec Intersect Engine, car elle pose les bases de l’identité de jeu et de l’équilibrage global.\nRésumé des notions clés La création de classes dans Intersect Engine se déroule au sein du Content Editor. Voici les points essentiels à retenir pour configurer vos archétypes :",
     "tags": [
@@ -606,8 +713,22 @@ var relearn_searchindex = [
       "MMORPG",
       "Tutoriel"
     ],
-    "title": "8. Créer et équilibrer vos classes de personnages dans Intersect Engine",
+    "title": "8. Créer et équilibrer vos classes de personnages",
     "uri": "/intersect-engine/creer-un-mmorpg/creer-equilibrer-classes-personnages-intersect-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprenez à automatiser le texturage de vos environnements en créant un matériau de terrain intelligent capable de s’adapter dynamiquement aux pentes de vos paysages dans Unreal Engine 4.\nRésumé des notions clés Ce tutoriel vous guide dans la création d’un matériau “Auto-Landscape” basé sur l’inclinaison des surfaces. Voici les points essentiels abordés :\nOrganisation des textures : Importation et gestion des textures (Base Color, Roughness, Normal) pour trois types de sols : herbe, terre et roche. Utilisation des Linear Interpolate (Lerp) : Utilisation de ces nœuds pour mélanger les textures entre elles de manière progressive. Le nœud World Aligned Blend : L’élément central qui permet de définir le mélange des textures en fonction de l’orientation des faces par rapport au monde (gravité/pente). Paramétrage dynamique : Création de Scalar Parameters (Blend Sharpness et Blend Bias) pour ajuster en temps réel la dureté de la transition et la hauteur de déclenchement du mélange. Gestion des normales et de la rugosité : Application du mélange aux cartes de normales (via World Aligned Blend spécifique) et ajustement de la brillance (Roughness) pour un rendu cohérent. Organisation du Material Editor : Utilisation des commentaires (touche ‘C’) pour structurer les différents blocs de mélange et faciliter la maintenance du matériau. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des outils comme le Virtual Texturing ou le Landscape Layer Blend, les concepts présentés ici restent fondamentaux pour tout développeur :\nLogique de mélange : La compréhension des Lerp et des masques de mélange est toujours la base de la création de shaders complexes. World Aligned Texturing : Cette technique reste indispensable pour éviter les étirements de textures sur les parois verticales (falaises) et pour garantir une cohérence visuelle sur des terrains sculptés manuellement. Optimisation : La méthode consistant à exposer des paramètres (Scalar Parameters) pour ajuster le rendu sans avoir à recompiler le shader est une pratique standard pour gagner en productivité. Modularité : La capacité à empiler des couches de matériaux reste la méthode privilégiée pour créer des environnements naturels variés sans multiplier les matériaux uniques. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprenez à automatiser le texturage de vos environnements en créant un matériau de terrain intelligent capable de s’adapter dynamiquement aux pentes de vos paysages dans Unreal Engine 4.\nRésumé des notions clés Ce tutoriel vous guide dans la création d’un matériau “Auto-Landscape” basé sur l’inclinaison des surfaces. Voici les points essentiels abordés :",
+    "tags": [
+      "Unreal Engine 4",
+      "Material Editor",
+      "Game Design",
+      "Landscape",
+      "Tutoriel"
+    ],
+    "title": "8. Créer un matériau de terrain adaptatif",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-terrain-adaptatif-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Game Maker Studio \u003e Shoot Them Up (Shmup)",
@@ -652,7 +773,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/9-ai-perception-detection-vision-ecoute-suivre/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Dans le développement de votre MMORPG avec Intersect Engine, la gestion des ressources graphiques est une étape cruciale. Si les assets par défaut sont un bon point de départ, vous serez rapidement limité si vous ne savez pas intégrer vos propres objets.\nRésumé des notions clés Pour enrichir votre base de données d’objets (items), voici les étapes fondamentales abordées :\nLa source des assets : Utilisez des plateformes comme OpenGameArt.org pour trouver des ressources libres de droits (licence CC0 ou compatible). Le format requis : Intersect Engine utilise généralement des icônes individuelles au format PNG avec fond transparent, souvent en 32x32 pixels. La problématique des Tilesets : La plupart des packs téléchargés se présentent sous forme de “feuilles” (tilesets) regroupant des dizaines d’objets. Découper ces images manuellement est fastidieux. L’automatisation : L’utilisation d’un outil de “Sprite Splitting” permet de transformer une grande image en une multitude de fichiers individuels en quelques secondes. La transparence : Veillez à ce que le pixel situé en haut à gauche de votre image soit de la couleur que vous souhaitez rendre transparente (souvent le fond de l’image). Ce qui reste d’actualité aujourd’hui Bien que les outils évoluent, les principes fondamentaux de gestion de ressources dans Intersect Engine restent inchangés :\nStandardisation : La structure de dossiers Client \u0026 Editor/resources/items attend toujours des fichiers images bien définis. Comprendre comment préparer ces fichiers en amont vous fera gagner un temps précieux lors de l’importation dans l’éditeur. Licences : La vérification des droits d’auteur (Creative Commons) reste une règle d’or pour tout projet de jeu vidéo, même amateur. Workflow de production : La technique du “découpage automatique” est toujours la méthode la plus efficace pour les développeurs indépendants. Que vous utilisiez un logiciel dédié ou des scripts Python/Photoshop, le principe de transformer des feuilles de sprites en assets unitaires est une compétence indispensable pour tout créateur de MMO. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans le développement de votre MMORPG avec Intersect Engine, la gestion des ressources graphiques est une étape cruciale. Si les assets par défaut sont un bon point de départ, vous serez rapidement limité si vous ne savez pas intégrer vos propres objets.\nRésumé des notions clés Pour enrichir votre base de données d’objets (items), voici les étapes fondamentales abordées :",
     "tags": [
@@ -662,7 +783,7 @@ var relearn_searchindex = [
       "Tutoriel",
       "MMO"
     ],
-    "title": "9. Comment découper vos sprites pour Intersect Engine",
+    "title": "9. Comment découper vos sprites",
     "uri": "/intersect-engine/creer-un-mmorpg/optimiser-ressources-graphiques-decouper-sprites-intersect-engine/index.html"
   },
   {
@@ -677,6 +798,19 @@ var relearn_searchindex = [
     ],
     "title": "9. Créer des escadrilles et limiter le spawn",
     "uri": "/game-maker-studio/shoot-them-up/optimiser-vagues-ennemis-game-maker-escadrilles/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprenez à concevoir un matériau de glace dynamique et visuellement riche en utilisant les outils avancés de l’éditeur de matériaux d’Unreal Engine 4, incluant la tessellation pour une déformation géométrique réelle.\nRésumé des notions clés Ce tutoriel explore les techniques fondamentales pour créer un shader de glace complexe :\nGestion des couleurs (Lerp \u0026 Fresnel) : Utilisation du nœud Linear Interpolate (Lerp) combiné à un effet Fresnel pour simuler les variations de teintes naturelles de la glace. Rugosité et Bruit : Intégration d’un nœud Noise pour générer des variations aléatoires de brillance sur la surface. Normal Maps superposées : Mélange de plusieurs textures de normales via une addition pour obtenir un relief plus profond et moins répétitif. Shading Model Subsurface : Passage au modèle Subsurface pour simuler la pénétration de la lumière sous la surface de la glace. Tessellation (World Displacement) : Introduction à la déformation géométrique du mesh. Utilisation du Vertex Normal World Space masqué pour cibler uniquement certaines zones (le bas du mesh) et créer des effets de coulées gelées. Optimisation : Importance du découpage en groupes (touche ‘C’) et de l’utilisation de paramètres (Scalar/Vector Parameters) pour créer des instances de matériaux flexibles. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système Nanite et le Virtual Shadow Mapping, les concepts abordés ici restent des piliers du développement :\nLogique de Shader : La compréhension des nœuds Lerp, Fresnel et Noise est universelle. Ces outils sont toujours la base pour créer des matériaux procéduraux performants. Workflow des Material Instances : La pratique consistant à exposer des paramètres (couleurs, puissances, tailles) reste la méthode standard pour travailler efficacement en équipe et itérer rapidement sur le rendu visuel. Compréhension des normales et du Subsurface : Ces techniques de simulation de lumière sont toujours essentielles pour le rendu de matériaux organiques ou translucides, même avec les nouvelles technologies de rendu. Limites géométriques : Le rappel sur la densité des sommets (vertex count) pour la tessellation est une leçon cruciale : un effet de déformation ne sera jamais visible si le mesh de base est trop simple (ex: un cube de base). Cela reste vrai pour toute manipulation de vertex, qu’il s’agisse de tessellation classique ou de World Position Offset. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprenez à concevoir un matériau de glace dynamique et visuellement riche en utilisant les outils avancés de l’éditeur de matériaux d’Unreal Engine 4, incluant la tessellation pour une déformation géométrique réelle.\nRésumé des notions clés Ce tutoriel explore les techniques fondamentales pour créer un shader de glace complexe :",
+    "tags": [
+      "Unreal Engine 4",
+      "Material Editor",
+      "Tessellation",
+      "Game Dev"
+    ],
+    "title": "9. Créer un matériau de glace réaliste avec la tessellation",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-glace-tessellation-unreal-engine/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -721,7 +855,20 @@ var relearn_searchindex = [
     "uri": "/game-maker-studio/shoot-them-up/creer-ennemis-mouvement-sinusoidal-gamemaker/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Dans ce tutoriel, nous allons explorer la création d’un matériau de type “verre” (VR) évolué sous Unreal Engine 4, en intégrant des effets de réfraction, de flou et de transparence dynamique.\nRésumé des notions clés Pour obtenir un rendu de verre réaliste et personnalisable, nous avons structuré le Material Editor autour des points suivants :\nMode de fusion (Blend Mode) : Utilisation du mode Translucent pour permettre la transparence. Effet de flou (Blur) : Utilisation du node SpiralBlurSceneTexture pour simuler un verre dépoli ou granuleux (type paroi de douche). Gestion de la couleur : Utilisation d’un Vector Parameter relié à l’entrée Emissive Color pour une gestion flexible via les instances. Réalisme avec le Fresnel : Utilisation du node Fresnel pour varier l’opacité et la réfraction selon l’angle de vue de la caméra. Interpolation linéaire (Lerp) : Mise en place de Linear Interpolate pour piloter les transitions entre deux états de réfraction et d’opacité. Material Instances : Création d’une instance de matériau pour modifier en temps réel les paramètres (couleur, intensité du flou, indices de réfraction) sans recompiler le shader. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des systèmes comme Lumen ou le Substrate Material Framework, les concepts abordés ici restent fondamentaux pour tout développeur :\nLa puissance des Material Instances : C’est toujours la méthode standard pour optimiser le workflow et permettre aux artistes de varier les propriétés d’un matériau sans multiplier les assets. L’utilisation du Fresnel : Ce node est indispensable pour simuler le comportement physique des surfaces transparentes ou réfléchissantes, un principe qui ne change pas avec les versions du moteur. La logique de Shader : Comprendre comment manipuler les entrées Opacity, Refraction et Emissive est la base pour créer n’importe quel matériau complexe, qu’il s’agisse de verre, d’eau ou de surfaces holographiques. Optimisation : La technique du SpiralBlurSceneTexture reste une astuce efficace pour créer des effets visuels coûteux en apparence, tout en gardant un contrôle total sur les performances via des paramètres scalaires. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce tutoriel, nous allons explorer la création d’un matériau de type “verre” (VR) évolué sous Unreal Engine 4, en intégrant des effets de réfraction, de flou et de transparence dynamique.\nRésumé des notions clés Pour obtenir un rendu de verre réaliste et personnalisable, nous avons structuré le Material Editor autour des points suivants :",
+    "tags": [
+      "Unreal Engine 4",
+      "Material Editor",
+      "Game Dev",
+      "Shader"
+    ],
+    "title": "10. Créer un matériau de verre translucide avancé",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-verre-translucide-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Dans ce nouvel épisode de notre série dédiée à la création d’un MMORPG avec Intersect Engine, nous abordons une étape cruciale : l’intégration de vos assets graphiques et la mise en place structurée de votre économie en jeu.\nRésumé des notions clés L’organisation est la clé pour éviter de perdre du temps lors du développement de votre monde persistant. Voici les points essentiels abordés :\nPréparation des assets : Avant de lancer l’éditeur, placez vos images dans le dossier resources/items de votre projet. Une bonne convention de nommage (ex: “Hache_Guerrier_01”, “Hache_Guerrier_02”) facilite grandement la recherche dans l’éditeur. Gestion des ressources : L’utilisation de banques d’images (spritesheets) permet de gagner un temps précieux. N’hésitez pas à renommer vos fichiers par lots pour garder une structure propre. L’importance de la monnaie : Il est fortement conseillé de créer vos types de monnaie avant vos objets équipables. Cela vous permet d’assigner immédiatement une valeur marchande à vos items lors de leur création, évitant ainsi de devoir éditer chaque objet une seconde fois plus tard. Hiérarchie monétaire : Pour une économie équilibrée, implémentez un système de paliers (ex: 100 unités de base = 1 unité supérieure). Cela rend la gestion des prix dans les boutiques beaucoup plus flexible. Utilisation de l’Item Editor : Apprenez à définir le type d’objet (Currency, Equipment, Consumable) et à remplir les champs descriptifs pour chaque item créé. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, la logique de gestion des assets et de la base de données reste un pilier fondamental du moteur :\nWorkflow de fichiers : Le moteur scanne toujours le dossier resources au démarrage. La méthode consistant à préparer ses assets en amont reste la norme pour éviter les conflits de chargement. Architecture de données : La structure de l’Item Editor est conçue pour être modulaire. La hiérarchie des types (Currency, Equipment, etc.) est le cœur du système de jeu d’Intersect. Comprendre cette hiérarchie dès le début est toujours le meilleur moyen de concevoir un MMORPG scalable. Bonnes pratiques : L’anticipation des valeurs (prix, prérequis de classe) lors de la création initiale d’un objet est une règle d’or en Game Design. Cela réduit drastiquement la dette technique et le temps passé à l’équilibrage global de votre jeu. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce nouvel épisode de notre série dédiée à la création d’un MMORPG avec Intersect Engine, nous abordons une étape cruciale : l’intégration de vos assets graphiques et la mise en place structurée de votre économie en jeu.\nRésumé des notions clés L’organisation est la clé pour éviter de perdre du temps lors du développement de votre monde persistant. Voici les points essentiels abordés :",
     "tags": [
@@ -764,7 +911,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/11-attaque-ennemie-ragdoll-physique-unreal/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Dans ce guide, nous allons configurer l’équipement de départ pour vos classes de personnages dans Intersect Engine, afin de donner à vos joueurs un coup de pouce bien mérité dès leur arrivée en jeu.\nNotions clés abordées Item Editor : Création des objets (hache, bâton, dagues) avec définition des statistiques (attaque, défense, bonus). Gestion des restrictions : Limitation du port d’armes par classe et par sexe. Slots d’équipement : Configuration des emplacements (Weapon, Shield, Two-Handed) pour structurer l’inventaire. Class Editor : Attribution des objets de départ et de la monnaie initiale via les index d’inventaire. Test en jeu : Importance de créer un compte joueur standard (non-admin) pour vérifier l’attribution correcte des items au démarrage. Ce qui reste d’actualité aujourd’hui Bien que l’interface d’Intersect Engine puisse évoluer au fil des mises à jour, la logique fondamentale présentée ici demeure le standard pour tout développeur de MMORPG sur ce moteur :\nLa hiérarchie des données : La séparation entre la création de l’objet (Item Editor) et son attribution (Class Editor) est une structure immuable qui garantit la propreté de votre base de données. L’équilibrage par les prérequis : L’utilisation des niveaux minimums ou des statistiques requises pour équiper des objets puissants reste la méthode la plus efficace pour éviter le “power creep” (la montée en puissance trop rapide) dès le début de l’aventure. L’importance du test utilisateur : Tester avec un compte “joueur” plutôt qu’un compte “admin” est une règle d’or. Les droits d’administration peuvent masquer des erreurs de configuration sur les permissions d’objets ou les inventaires de départ. Modularité : La possibilité d’ajouter plusieurs index d’objets (monnaie + arme + armure) permet de créer des packs de départ personnalisés pour chaque classe, offrant une expérience de jeu unique dès la première seconde. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce guide, nous allons configurer l’équipement de départ pour vos classes de personnages dans Intersect Engine, afin de donner à vos joueurs un coup de pouce bien mérité dès leur arrivée en jeu.\nNotions clés abordées Item Editor : Création des objets (hache, bâton, dagues) avec définition des statistiques (attaque, défense, bonus). Gestion des restrictions : Limitation du port d’armes par classe et par sexe. Slots d’équipement : Configuration des emplacements (Weapon, Shield, Two-Handed) pour structurer l’inventaire. Class Editor : Attribution des objets de départ et de la monnaie initiale via les index d’inventaire. Test en jeu : Importance de créer un compte joueur standard (non-admin) pour vérifier l’attribution correcte des items au démarrage. Ce qui reste d’actualité aujourd’hui Bien que l’interface d’Intersect Engine puisse évoluer au fil des mises à jour, la logique fondamentale présentée ici demeure le standard pour tout développeur de MMORPG sur ce moteur :",
     "tags": [
@@ -775,6 +922,20 @@ var relearn_searchindex = [
     ],
     "title": "11. Créer et équiper les objets de départ dans Intersect Engine",
     "uri": "/intersect-engine/creer-un-mmorpg/creer-equiper-objets-depart-intersect-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprenez à manipuler les propriétés de vos matériaux en temps réel pour créer des effets visuels saisissants, comme la disparition progressive d’un objet, grâce aux instances de matériaux dynamiques et aux Blueprints.\nRésumé des notions clés Ce tutoriel vous guide à travers la création d’un système de “dissolve” (dissolution) complet :\nCréation du Matériau : Utilisation de Scalar Parameters pour contrôler la quantité de dissolution et la répartition de l’effet néon. Logique Mathématique : Emploi des nœuds IF pour comparer les valeurs de texture et créer un masque d’opacité dynamique. Configuration du Blend Mode : Passage du mode Opaque au mode Masked pour permettre la transparence. Instances Dynamiques : Utilisation du nœud Create Dynamic Material Instance dans le Blueprint pour modifier les propriétés du matériau au runtime. Animation via Timeline : Mise en place d’une Timeline pour interpoler les valeurs de dissolution de 0 à 1 sur une durée définie. Interactivité : Gestion des entrées clavier pour déclencher l’apparition et la disparition des objets, avec l’option Auto Receive Input activée. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Unreal Engine 4, les concepts fondamentaux restent le pilier du développement visuel dans les versions plus récentes (UE5) :\nMaterial Instances : La séparation entre le matériau maître et ses instances reste la méthode la plus optimisée pour gérer les variations visuelles sans multiplier les ressources. Dynamic Material Instances : La capacité de modifier les paramètres d’un matériau via Blueprint au cours d’une partie est toujours indispensable pour le gameplay (effets de dégâts, changements d’état, transitions). Le système de masquage : La logique de Opacity Mask est toujours la norme pour gérer les objets qui doivent disparaître ou être découpés dynamiquement. Timelines : Elles demeurent l’outil privilégié pour créer des animations simples et fluides directement dans les Blueprints sans avoir recours à des séquences complexes. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprenez à manipuler les propriétés de vos matériaux en temps réel pour créer des effets visuels saisissants, comme la disparition progressive d’un objet, grâce aux instances de matériaux dynamiques et aux Blueprints.\nRésumé des notions clés Ce tutoriel vous guide à travers la création d’un système de “dissolve” (dissolution) complet :",
+    "tags": [
+      "Unreal Engine 4",
+      "Game Development",
+      "Materials",
+      "Blueprints",
+      "Tutoriel"
+    ],
+    "title": "11. Créer un effet de dissolution dynamique",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-effet-dissolution-dynamique-unreal-engine/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Game Maker Studio \u003e Shoot Them Up (Shmup)",
@@ -819,7 +980,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/12-win-loose-gameover-ecran-fin-menu-widget/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Donner vie à votre MMORPG nécessite bien plus que de simples décors : il faut des créatures pour peupler vos zones et offrir des défis à vos joueurs. Dans ce guide, nous explorons comment configurer vos premiers “Mobs” (monstres) avec Intersect Engine.\nNotions clés pour la création de Mobs La création de personnages non-joueurs (PNJ) hostiles repose sur plusieurs paramètres essentiels dans l’éditeur d’Intersect :\nComportement (Behavior) : Attack on Sight : Le monstre attaque dès qu’il détecte le joueur dans son champ de vision (Sight Range). Attack when Attacked : Le monstre reste passif tant que le joueur ne porte pas le premier coup. Idéal pour les zones de départ afin de ne pas frustrer les nouveaux joueurs. Gestion du Loot : Vous pouvez configurer jusqu’à 10 types d’objets différents par monstre, avec une probabilité de drop personnalisable (ex: 50% de chance d’obtenir 5 pièces d’or). Équilibrage des Stats : Il est crucial de comparer les statistiques de vos monstres avec celles de vos classes de départ (PV, Force, Armure) pour garantir que le jeu reste accessible. Spawn et Respawn : Le Spawn Duration définit le temps nécessaire avant qu’un monstre ne réapparaisse après sa mort. Intégration sur la carte : Utilisez l’onglet Attributes pour placer les points de spawn et définir des zones d’exclusion (NPC Avoid) si nécessaire. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, la logique fondamentale présentée ici demeure le standard pour le développement de RPG 2D :\nLa hiérarchie des PNJ : La distinction entre Mobs (ennemis), Gardes (protecteurs) et PNJ amicaux (marchands/donneurs de quêtes) est toujours la base de la structure narrative d’un MMO. L’importance de l’équilibrage : La méthode consistant à utiliser le Class Editor comme référence pour créer ses monstres reste la meilleure pratique pour éviter de créer des ennemis impossibles à vaincre ou trop faibles. Le caractère aléatoire (RNG) : Comprendre que le taux de drop est une probabilité indépendante à chaque mort du monstre est essentiel pour la gestion de l’économie de votre jeu. Le dynamisme du monde : L’utilisation de directions de spawn aléatoires pour les monstres est une astuce simple mais efficace pour rendre les zones de jeu moins répétitives et plus “vivantes”. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Donner vie à votre MMORPG nécessite bien plus que de simples décors : il faut des créatures pour peupler vos zones et offrir des défis à vos joueurs. Dans ce guide, nous explorons comment configurer vos premiers “Mobs” (monstres) avec Intersect Engine.\nNotions clés pour la création de Mobs La création de personnages non-joueurs (PNJ) hostiles repose sur plusieurs paramètres essentiels dans l’éditeur d’Intersect :",
     "tags": [
@@ -828,7 +989,7 @@ var relearn_searchindex = [
       "Game Development",
       "Tutoriel"
     ],
-    "title": "12. Créer des Mobs et peupler votre monde avec Intersect Engine",
+    "title": "12. Créer des Mobs et peupler votre monde",
     "uri": "/intersect-engine/creer-un-mmorpg/creer-mobs-monstres-intersect-engine-tutoriel/index.html"
   },
   {
@@ -875,7 +1036,20 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/13-terrain-editore-editeur-landscape-mode/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprenez à concevoir un matériau de lave réaliste et dynamique en utilisant les systèmes de textures, de masques et de tessellation dans Unreal Engine 4.\nRésumé des notions clés Ce tutoriel détaille la création d’un shader complexe pour simuler de la lave. Voici les points techniques abordés :\nGestion des textures PBR : Utilisation combinée des maps de couleur (Base Color), normale (Normal), rugosité (Roughness) et émissivité (Emissive). Animation de surface : Utilisation du nœud Panner couplé à des Texture Coordinates pour créer un mouvement fluide de la lave. Masquage dynamique : Utilisation d’une texture de masque (via le canal Alpha) pour contrôler précisément les zones lumineuses de l’émissivité. Tessellation et déplacement : Application d’une texture de bruit (Tiling Noise) reliée au World Displacement pour déformer dynamiquement la géométrie du mesh. Optimisation : Utilisation de Scalar Parameters pour permettre un contrôle en temps réel des valeurs (vitesse, intensité lumineuse, force de déformation) via les Blueprints. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système Nanite et le Virtual Shadow Mapping, les fondamentaux présentés ici restent piliers pour tout développeur :\nLa logique des masques : La technique consistant à multiplier une texture émissive par un masque Alpha est toujours la méthode standard pour créer des effets de lumière localisés sur des matériaux. Le workflow PBR : La structure des entrées (Base Color, Roughness, Normal) demeure le standard industriel pour la création de shaders, quelle que soit la version du moteur. Paramétrisation : L’utilisation de Scalar Parameters est une bonne pratique indispensable pour créer des matériaux “Master” flexibles, permettant de modifier l’apparence d’un objet sans avoir à dupliquer le shader. Déformation procédurale : La manipulation des vertex via le World Displacement reste une technique efficace pour ajouter du relief organique à des surfaces planes, même si les méthodes de rendu ont évolué vers des solutions plus performantes pour les scènes à très haute densité géométrique. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprenez à concevoir un matériau de lave réaliste et dynamique en utilisant les systèmes de textures, de masques et de tessellation dans Unreal Engine 4.\nRésumé des notions clés Ce tutoriel détaille la création d’un shader complexe pour simuler de la lave. Voici les points techniques abordés :",
+    "tags": [
+      "Unreal Engine 4",
+      "Materiaux",
+      "Tessellation",
+      "Shaders"
+    ],
+    "title": "12 et 13. Créer un matériau de lave dynamique",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-lave-dynamique-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Dans ce tutoriel, nous allons apprendre à dynamiser l’économie de votre MMORPG en créant un système de marchands fonctionnel avec Intersect Engine.\nRésumé des notions clés La mise en place d’un système de commerce dans Intersect Engine repose sur deux piliers : la configuration des données dans l’éditeur et l’implémentation via les événements sur la carte.\nShop Editor (Gestion des stocks) :\nCréation : Définissez un nom et la monnaie utilisée par défaut pour les transactions. Gestion des listes : Séparez clairement les objets destinés à la vente (ce que le joueur achète) et ceux destinés au rachat (ce que le marchand accepte d’acheter au joueur). Équilibrage : Pensez à appliquer une marge bénéficiaire en fixant un prix de rachat inférieur au prix de vente. Conversion de devises : Vous pouvez ajouter des objets de type “monnaie” dans la liste de vente pour permettre aux joueurs d’échanger leurs petites coupures contre des plus grosses. Event Editor (Mise en scène) :\nGraphisme : Choisissez un sprite de PNJ et configurez son apparence (face, animation). Trigger (Déclencheur) : Utilisez le “Action Button” pour que le joueur doive interagir avec le PNJ pour ouvrir la boutique. Commandes : Utilisez la commande Open Shop dans la liste des actions de l’événement pour lier votre boutique créée précédemment au PNJ. Conditions : Vous pouvez restreindre l’accès à la boutique selon le niveau, la classe ou les quêtes du joueur. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, la logique de création de boutiques reste un pilier fondamental du moteur. La séparation entre la base de données des objets (Shop Editor) et l’instance physique (Event Editor) est une structure immuable qui permet une grande flexibilité.\nAujourd’hui, il est toujours crucial de bien tester vos restrictions de classes (comme vu dans la vidéo avec les dagues) pour éviter la frustration des joueurs. De plus, la recommandation de sauvegarder régulièrement votre projet reste le conseil le plus précieux : en développement de jeu, la stabilité de l’éditeur dépend de la rigueur de vos sauvegardes manuelles.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce tutoriel, nous allons apprendre à dynamiser l’économie de votre MMORPG en créant un système de marchands fonctionnel avec Intersect Engine.\nRésumé des notions clés La mise en place d’un système de commerce dans Intersect Engine repose sur deux piliers : la configuration des données dans l’éditeur et l’implémentation via les événements sur la carte.",
     "tags": [
@@ -943,7 +1117,20 @@ var relearn_searchindex = [
     "uri": "/game-maker-studio/shoot-them-up/creer-menus-interactifs-gamemaker-studio/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprenez à simuler l’accumulation de neige sur vos modèles 3D en utilisant les masques de matériaux et la tessellation dans Unreal Engine 4.\nRésumé des notions clés Dans ce tutoriel, nous explorons la création d’un matériau dynamique capable de simuler une couche de neige. Voici les points techniques abordés :\nCréation de masques procéduraux : Utilisation de textures existantes converties en niveaux de gris via le node CheapContrast pour définir les zones d’accumulation. Paramétrage dynamique : Utilisation de Scalar Parameters pour contrôler en temps réel, via les Blueprints, la quantité de neige et le contraste du masque. Mélange de matériaux (LERP) : Utilisation du node Linear Interpolate pour mixer les textures de base (couleur, roughness, normales) avec la couleur de la neige en fonction du masque. Tessellation et Displacement : Ajout de relief géométrique sur l’objet en utilisant le World Displacement et les normales des sommets (Vertex Normal WS) pour donner du volume à la neige. Orientation spatiale : Utilisation du Component Mask sur les normales pour limiter l’accumulation de neige aux surfaces orientées vers le haut. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système Nanite et le Virtual Shadow Mapping, les principes fondamentaux présentés ici restent essentiels pour tout développeur :\nLa logique des masques : La technique consistant à détourner des textures existantes pour créer des masques de mélange est une compétence de base pour optimiser les performances (éviter de multiplier les textures inutiles). Le Material Graph : La manipulation des paramètres (Scalar/Vector Parameters) reste la méthode standard pour créer des environnements interactifs où le climat ou l’état des objets change dynamiquement. La compréhension des normales : Savoir utiliser les normales des sommets pour orienter des effets (neige, mousse, pluie) est une technique “indémodable” qui permet de donner une cohérence visuelle à vos assets sans avoir à peindre manuellement chaque texture. Note : Si vous travaillez sur Unreal Engine 5, gardez à l’esprit que la tessellation classique a été remplacée par le système Nanite Displacement, mais la logique de création du masque reste identique.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprenez à simuler l’accumulation de neige sur vos modèles 3D en utilisant les masques de matériaux et la tessellation dans Unreal Engine 4.\nRésumé des notions clés Dans ce tutoriel, nous explorons la création d’un matériau dynamique capable de simuler une couche de neige. Voici les points techniques abordés :",
+    "tags": [
+      "Unreal Engine 4",
+      "Material Editor",
+      "Tessellation",
+      "Game Dev"
+    ],
+    "title": "14. Créer un effet de neige dynamique sur vos objets",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-effet-neige-dynamique-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Dans ce guide, nous allons apprendre à mettre en place un système de stockage sécurisé pour vos joueurs en créant un PNJ banquier au sein de l’éditeur Intersect Engine.\nNotions clés abordées Création d’un PNJ interactif : Configuration d’un événement sur la carte, choix du sprite et définition de l’activation via le bouton d’action. Utilisation des commandes de chat : Intégration de la variable \\pn pour afficher dynamiquement le nom du joueur dans les dialogues. Gestion des dialogues : Mise en place d’une séquence textuelle avant l’ouverture de l’interface bancaire. Fonctionnement de la banque : Mécanique de transfert d’objets entre l’inventaire du joueur et le stockage distant, incluant la gestion des quantités. Bonnes pratiques rédactionnelles : Importance de la qualité orthographique et grammaticale dans les textes de votre jeu pour garantir une expérience professionnelle. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, les fondamentaux de la gestion des événements restent identiques. La création d’un système de banque est une étape cruciale pour tout MMORPG, car elle permet de gérer l’économie de votre jeu et la progression des joueurs sur le long terme. L’utilisation des variables dynamiques (comme \\pn) est une compétence indispensable pour rendre vos PNJ vivants et immersifs. Enfin, le conseil sur la relecture de vos textes demeure une règle d’or : un jeu avec une interface propre et un français soigné sera toujours mieux perçu par votre communauté, renforçant ainsi la crédibilité de votre projet.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce guide, nous allons apprendre à mettre en place un système de stockage sécurisé pour vos joueurs en créant un PNJ banquier au sein de l’éditeur Intersect Engine.\nNotions clés abordées Création d’un PNJ interactif : Configuration d’un événement sur la carte, choix du sprite et définition de l’activation via le bouton d’action. Utilisation des commandes de chat : Intégration de la variable \\pn pour afficher dynamiquement le nom du joueur dans les dialogues. Gestion des dialogues : Mise en place d’une séquence textuelle avant l’ouverture de l’interface bancaire. Fonctionnement de la banque : Mécanique de transfert d’objets entre l’inventaire du joueur et le stockage distant, incluant la gestion des quantités. Bonnes pratiques rédactionnelles : Importance de la qualité orthographique et grammaticale dans les textes de votre jeu pour garantir une expérience professionnelle. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, les fondamentaux de la gestion des événements restent identiques. La création d’un système de banque est une étape cruciale pour tout MMORPG, car elle permet de gérer l’économie de votre jeu et la progression des joueurs sur le long terme. L’utilisation des variables dynamiques (comme \\pn) est une compétence indispensable pour rendre vos PNJ vivants et immersifs. Enfin, le conseil sur la relecture de vos textes demeure une règle d’or : un jeu avec une interface propre et un français soigné sera toujours mieux perçu par votre communauté, renforçant ainsi la crédibilité de votre projet.",
     "tags": [
@@ -986,7 +1173,20 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/15-props-decor-lumiere-clignotte-lanterne-village/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprenez à concevoir un matériau de pépite d’or réaliste et sans répétition grâce à la puissance des textures procédurales dans Unreal Engine 4.\nRésumé des notions clés Dans ce tutoriel, nous explorons la création d’un matériau dynamique en utilisant uniquement les outils natifs de l’éditeur de matériaux d’UE4 :\nUtilisation du nœud ‘Noise’ : La base pour générer des variations aléatoires sans dépendre de textures externes (tiling). Mélange de couleurs (Lerp) : Utilisation de l’interpolation linéaire pour mixer deux teintes (or et terre/impuretés) via le masque de bruit. Gestion du Metallic et Roughness : Application du bruit pour varier les propriétés physiques de la surface, avec des nœuds ‘Clamp’ pour contrôler les plages de valeurs. Génération de Normal Maps procédurales : Utilisation des nœuds ‘Component Mask’, ‘Append’ et ‘Texture Coordinate’ pour créer du relief à partir du bruit. Tessellation et World Displacement : Déformation géométrique du mesh en temps réel pour donner du volume aux irrégularités de la pépite. Paramétrisation : Création de ‘Scalar Parameters’ pour transformer le matériau en une instance flexible et réutilisable. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des technologies comme Nanite et Lumen qui modifient la gestion de la géométrie et de la lumière, les principes abordés ici restent fondamentaux pour tout développeur :\nL’approche procédurale : La maîtrise des nœuds mathématiques dans l’éditeur de matériaux est toujours la compétence la plus recherchée pour optimiser les performances et éviter la répétition visuelle (le fameux “tiling”). La création d’instances : La méthode consistant à exposer des paramètres (Roughness, Displacement, etc.) est le standard industriel pour permettre aux artistes de décliner des dizaines de variantes d’un même matériau sans surcharger la mémoire. La logique de shader : Comprendre comment manipuler les canaux (RG, Normales, Displacement) reste le socle indispensable pour créer des shaders complexes, que ce soit pour des pépites d’or, de la roche ou des surfaces organiques. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprenez à concevoir un matériau de pépite d’or réaliste et sans répétition grâce à la puissance des textures procédurales dans Unreal Engine 4.\nRésumé des notions clés Dans ce tutoriel, nous explorons la création d’un matériau dynamique en utilisant uniquement les outils natifs de l’éditeur de matériaux d’UE4 :",
+    "tags": [
+      "Unreal Engine 4",
+      "Material Editor",
+      "Procedural",
+      "Game Design"
+    ],
+    "title": "15. Créer un matériau de pépite d'or procédural",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-pepite-or-procedural-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Apprendre à intégrer des ressources récoltables est une étape fondamentale pour donner vie à l’économie de votre MMORPG. Dans ce guide, nous explorons comment transformer des éléments visuels en objets interactifs que vos joueurs pourront farmer.\nRésumé des notions clés La mise en place d’un système de récolte dans Intersect Engine repose sur une chaîne de production logique :\nPréparation graphique : Utilisation d’un logiciel d’édition d’image (type Paint.net) pour isoler les tuiles (32x32 ou 64x64) depuis vos tilesets existants. Il est crucial de créer deux états : l’objet intact et l’objet épuisé. Configuration dans le Resource Editor : Tool Type : Définir l’outil requis (ex: Hache pour le bois). Respawn Time : Paramétrer le temps de réapparition pour équilibrer l’économie. HP de la ressource : Définir une plage de points de vie pour varier la difficulté de récolte. Graphismes : Associer les sprites créés aux états “Initial” et “Removed”. Gestion des objets (Items) : Créer l’objet récolté (ex: Rondin de bois) dans l’Item Editor. Créer l’outil de récolte (ex: Hache) en veillant à bien spécifier le Tool Type correspondant dans ses propriétés. Déploiement sur la carte : Utiliser l’onglet “Attribute” de l’éditeur de map pour placer les ressources manuellement sur le terrain. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, la logique de ce système reste un pilier central du moteur. La séparation entre l’objet “outil” (qui possède un Tool Type) et l’objet “ressource” (qui possède des points de vie et des probabilités de drop) est une mécanique robuste qui n’a pas changé. Cette approche modulaire permet aux développeurs de créer des systèmes complexes — comme de la minage, de la cueillette ou de la pêche — simplement en modifiant les paramètres de l’éditeur sans avoir à toucher au code source. Maîtriser ce flux de travail est essentiel pour tout créateur souhaitant implémenter une boucle de gameplay “récolte-artisanat-vente” cohérente.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à intégrer des ressources récoltables est une étape fondamentale pour donner vie à l’économie de votre MMORPG. Dans ce guide, nous explorons comment transformer des éléments visuels en objets interactifs que vos joueurs pourront farmer.\nRésumé des notions clés La mise en place d’un système de récolte dans Intersect Engine repose sur une chaîne de production logique :",
     "tags": [
@@ -995,7 +1195,7 @@ var relearn_searchindex = [
       "Game Dev",
       "Tutoriel"
     ],
-    "title": "15. Créer un système de récolte de ressources dans Intersect Engine",
+    "title": "15. Créer un système de récolte de ressources",
     "uri": "/intersect-engine/creer-un-mmorpg/creer-systeme-recolte-ressources-intersect-engine/index.html"
   },
   {
@@ -1041,6 +1241,19 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/16-menu-principal-optimisations-export-packaging-build/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprenez à concevoir un shader de peinture automobile sophistiqué, intégrant des effets d’irisation et une couche de vernis réaliste, directement dans l’éditeur de matériaux d’Unreal Engine 4.\nRésumé des notions clés Pour obtenir un rendu de peinture “carrosserie” convaincant, ce tutoriel décompose la création du matériau en plusieurs étapes techniques :\nUtilisation des Material Attributes : Activation de l’option Use Material Attributes pour manipuler des blocs de matériaux complets, facilitant ainsi le mélange de couches (peinture + vernis). Effet d’irisation (Fresnel) : Utilisation de la Fresnel Function pour créer un dégradé de couleurs dynamique qui réagit à l’angle de vue de la caméra. Mélange de couches (MatLayerBlend) : Emploi du node MatLayerBlend_Simple pour superposer la couche de vernis sur la base colorée. Détails procéduraux : Ajout de micro-imperfections via un node Noise pour simuler le grain réel d’une peinture, évitant ainsi un aspect trop “parfait” et artificiel. Paramétrage complet : Utilisation intensive de Scalar Parameters pour permettre un ajustement en temps réel via les instances de matériaux (spéculaire, rugosité, intensité du vernis). Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des systèmes comme le Substrate ou le Lumen, les fondamentaux abordés ici restent le socle de tout shader complexe :\nLa logique du Fresnel : Le contrôle de la réflexion et de la couleur selon l’angle de vue est toujours la base pour simuler des matériaux diélectriques ou métalliques réalistes. L’importance des Material Instances : La méthode consistant à exposer des paramètres (couleurs, rugosité, intensité) reste la norme industrielle pour optimiser le workflow et permettre aux artistes de itérer rapidement sans recompiler les shaders. Le mélange de couches : La technique de “layering” est devenue encore plus puissante avec les outils modernes. Comprendre comment mélanger deux attributs de matériaux est essentiel pour créer des surfaces complexes comme du métal oxydé, du plastique verni ou du cuir usé. Le procédural : L’utilisation de bruits (noise) pour casser la perfection géométrique des surfaces est une pratique indispensable pour atteindre un rendu “Next-Gen” crédible. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprenez à concevoir un shader de peinture automobile sophistiqué, intégrant des effets d’irisation et une couche de vernis réaliste, directement dans l’éditeur de matériaux d’Unreal Engine 4.\nRésumé des notions clés Pour obtenir un rendu de peinture “carrosserie” convaincant, ce tutoriel décompose la création du matériau en plusieurs étapes techniques :",
+    "tags": [
+      "Unreal Engine 4",
+      "Material Editor",
+      "Shaders",
+      "Game Dev"
+    ],
+    "title": "16. Créer un matériau de peinture automobile réaliste",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-peinture-voiture-unreal-engine/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Game Maker Studio \u003e Shoot Them Up (Shmup)",
     "content": "Apprenez à dynamiser votre système de score en récompensant le joueur pour chaque ennemi détruit et à afficher le résultat final sur votre écran de Game Over.\nRésumé des notions clés Dans ce tutoriel, nous abordons deux aspects fondamentaux de la gestion de score dans GameMaker :\nIncrémentation dynamique : Utilisation de l’opérateur += pour ajouter des points à une variable globale (global.score) lors de la collision entre un laser et un ennemi. Différenciation des récompenses : Attribution de valeurs de points variables (25, 50, 75) selon le type d’ennemi éliminé pour enrichir le gameplay. Gestion des variables globales : Comprendre comment stocker une valeur persistante qui peut être récupérée même après un changement de room. Affichage sur l’écran de fin : Création d’un objet dédié (obj_score_go) pour capturer le score final et l’afficher via l’événement Draw sur la room de Game Over. Positionnement UI : Utilisation de la fonction draw_text pour placer précisément le score au-dessus des éléments d’interface comme les boutons “Rejouer” ou “Quitter”. Ce qui reste d’actualité aujourd’hui Bien que les versions de GameMaker aient évolué, les principes fondamentaux présentés ici restent le socle de tout jeu arcade :\nL’opérateur += : C’est une convention de programmation universelle en GML (GameMaker Language). Elle reste la méthode la plus propre et la plus efficace pour modifier une valeur existante sans alourdir votre code. La puissance des variables globales : L’utilisation de global. est toujours la méthode recommandée pour gérer des données qui doivent survivre au passage d’une room à une autre (comme le score, les vies ou les paramètres du joueur). La séparation des responsabilités : Créer un objet spécifique pour l’affichage du score (obj_score_go) est une bonne pratique de conception. Cela permet de garder votre logique d’interface propre et isolée de la logique de jeu pure, facilitant ainsi la maintenance et les modifications futures de votre UI. L’événement Draw : La gestion de l’affichage via l’événement Draw reste le standard pour dessiner du texte, des sprites ou des formes primitives à l’écran en temps réel. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprenez à dynamiser votre système de score en récompensant le joueur pour chaque ennemi détruit et à afficher le résultat final sur votre écran de Game Over.\nRésumé des notions clés Dans ce tutoriel, nous abordons deux aspects fondamentaux de la gestion de score dans GameMaker :",
@@ -1054,7 +1267,7 @@ var relearn_searchindex = [
     "uri": "/game-maker-studio/shoot-them-up/gerer-score-affichage-game-over-gamemaker/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Découvrez comment dynamiser l’immersion de votre MMORPG en configurant un cycle jour/nuit automatisé grâce au Time Editor d’Intersect Engine.\nRésumé des notions clés Accès à l’éditeur : Le paramétrage du temps se situe dans le Content Editor, sous l’onglet Time Editor. Gestion du Time Rate : La valeur 1 correspond au temps réel. Une valeur supérieure à 1 accélère le cycle (ex: 1000 pour un test rapide). Une valeur entre 0 et 1 ralentit le cycle. Personnalisation visuelle : Color Overlay : Permet de teinter l’écran (bleu ciel pour le jour, bleu sombre pour la nuit). Brightness : Ajuste l’opacité de la teinte pour simuler l’intensité lumineuse. Synchronisation : Possibilité de synchroniser l’heure du jeu avec celle du serveur réel via l’option Sync With Server. Bonne pratique : Il est recommandé de redémarrer le serveur après avoir modifié ces paramètres pour garantir la bonne prise en compte des changements par le client. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, le fonctionnement du Time Editor reste un pilier fondamental pour la gestion de l’ambiance dans vos projets. La capacité à manipuler le Time Rate est toujours une technique indispensable pour tester rapidement vos transitions visuelles sans attendre des cycles complets de 24 heures. De plus, la gestion des teintes (overlays) reste la méthode la plus efficace pour créer une atmosphère cohérente avant d’implémenter des systèmes d’éclairage plus complexes comme les sources lumineuses dynamiques (torches, lampadaires), qui seront le sujet de notre prochaine étape.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Découvrez comment dynamiser l’immersion de votre MMORPG en configurant un cycle jour/nuit automatisé grâce au Time Editor d’Intersect Engine.\nRésumé des notions clés Accès à l’éditeur : Le paramétrage du temps se situe dans le Content Editor, sous l’onglet Time Editor. Gestion du Time Rate : La valeur 1 correspond au temps réel. Une valeur supérieure à 1 accélère le cycle (ex: 1000 pour un test rapide). Une valeur entre 0 et 1 ralentit le cycle. Personnalisation visuelle : Color Overlay : Permet de teinter l’écran (bleu ciel pour le jour, bleu sombre pour la nuit). Brightness : Ajuste l’opacité de la teinte pour simuler l’intensité lumineuse. Synchronisation : Possibilité de synchroniser l’heure du jeu avec celle du serveur réel via l’option Sync With Server. Bonne pratique : Il est recommandé de redémarrer le serveur après avoir modifié ces paramètres pour garantir la bonne prise en compte des changements par le client. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, le fonctionnement du Time Editor reste un pilier fondamental pour la gestion de l’ambiance dans vos projets. La capacité à manipuler le Time Rate est toujours une technique indispensable pour tester rapidement vos transitions visuelles sans attendre des cycles complets de 24 heures. De plus, la gestion des teintes (overlays) reste la méthode la plus efficace pour créer une atmosphère cohérente avant d’implémenter des systèmes d’éclairage plus complexes comme les sources lumineuses dynamiques (torches, lampadaires), qui seront le sujet de notre prochaine étape.",
     "tags": [
@@ -1063,8 +1276,21 @@ var relearn_searchindex = [
       "MMORPG",
       "Tutoriel"
     ],
-    "title": "16. Mise en place d'un cycle jour/nuit dynamique dans Intersect Engine",
+    "title": "16. Mise en place d'un cycle jour/nuit dynamique",
     "uri": "/intersect-engine/creer-un-mmorpg/mise-en-place-cycle-jour-nuit-intersect-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprendre à diffuser du contenu vidéo directement sur des objets 3D dans Unreal Engine 4 ouvre des possibilités créatives infinies, de l’affichage d’écrans interactifs à la création de menus principaux dynamiques.\nRésumé des notions clés Pour intégrer une vidéo dans votre projet, le processus repose sur le Media Framework d’Unreal Engine. Voici les étapes essentielles :\nPréparation du fichier : Utilisez de préférence le format .mp4. Veillez à ce que le nom de votre fichier ne contienne ni espaces, ni accents, ni caractères spéciaux pour éviter tout conflit. File Media Source : C’est l’asset qui pointe vers le chemin d’accès de votre fichier vidéo sur votre disque dur. Media Player \u0026 Texture : Le Media Player est le moteur de lecture. Lors de sa création, Unreal génère automatiquement une Media Texture qui servira de lien entre votre vidéo et vos matériaux. Application sur un objet : Il suffit de glisser-déposer la Media Texture sur un objet (comme un plan) pour créer automatiquement un matériau dynamique. Automatisation via Blueprint : Pour lancer la vidéo au démarrage, utilisez le Level Blueprint avec le nœud Open Source relié à l’événement Event BeginPlay. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué (notamment avec l’arrivée d’UE5), les fondamentaux du Media Framework restent identiques. La gestion des textures vidéo via le Media Player demeure la méthode standard pour intégrer des contenus animés externes.\nLes bonnes pratiques mentionnées, comme l’optimisation du poids des fichiers et la vigilance sur l’utilisation des ressources (pour ne pas surcharger la mémoire vidéo), sont plus que jamais d’actualité dans le développement moderne. Que vous soyez sur UE4 ou UE5, la logique de “File Media Source” et le contrôle via Blueprint constituent toujours le socle technique indispensable pour tout développeur souhaitant intégrer de la vidéo dans ses environnements 3D.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprendre à diffuser du contenu vidéo directement sur des objets 3D dans Unreal Engine 4 ouvre des possibilités créatives infinies, de l’affichage d’écrans interactifs à la création de menus principaux dynamiques.\nRésumé des notions clés Pour intégrer une vidéo dans votre projet, le processus repose sur le Media Framework d’Unreal Engine. Voici les étapes essentielles :",
+    "tags": [
+      "Unreal Engine 4",
+      "Tutoriel",
+      "Game Development",
+      "Media Framework"
+    ],
+    "title": "17. Texture Vidéo",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/integrer-video-objet-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Game Maker Studio \u003e Shoot Them Up (Shmup)",
@@ -1081,7 +1307,7 @@ var relearn_searchindex = [
     "uri": "/game-maker-studio/shoot-them-up/animer-effets-visuels-game-maker-explosions/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Donner vie à votre monde est essentiel pour l’immersion, surtout lors de la mise en place d’un cycle jour/nuit. Dans ce tutoriel, nous allons apprendre à intégrer des torches animées et des sources de lumière dynamiques pour illuminer vos villages.\nRésumé des notions clés Pour réussir l’intégration de vos effets de lumière, voici les étapes à suivre dans l’éditeur :\nCréation de l’animation : Rendez-vous dans le Content Editor pour créer une nouvelle animation. Gestion des calques : Choisissez entre Upper (au-dessus du joueur) ou Lower (en dessous) selon le placement de votre objet. Configuration des frames : Vérifiez le nombre d’images dans votre fichier source (dossier resources/animations). Ajustez les valeurs Horizontal/Vertical Frames pour que l’animation soit fluide. Réglages temporels : Utilisez le Frame Duration pour définir la vitesse de l’animation (100ms est une bonne base). Intégration des lumières sur la carte : Utilisez l’onglet Lights dans l’éditeur de carte. Paramétrage : Définissez la couleur, l’intensité (0 à 255) et la taille (rayon) de la lumière. Ajustements : Utilisez les Offsets (X et Y) pour aligner précisément la source lumineuse avec l’objet graphique de la torche. Placement : Utilisez l’onglet Attributes pour poser l’animation créée précédemment sur les cases de votre carte. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, les principes fondamentaux de ce tutoriel demeurent des piliers du level design sur ce moteur :\nLe découpage des animations : La logique de lecture des spritesheets (horizontal/vertical frames) est une constante dans le développement 2D. Comprendre comment Intersect découpe une image pour créer un mouvement est une compétence transférable à tous vos futurs assets. L’optimisation des lumières : La gestion des lumières via l’onglet Lights reste la méthode la plus performante pour créer des ambiances sans surcharger le moteur. La distinction entre les lumières statiques (map) et dynamiques (objets/projectiles) est toujours d’actualité pour maintenir un bon framerate. L’importance du “Layering” : La gestion des calques (Upper/Lower) est cruciale pour éviter les problèmes de profondeur visuelle, un point qui reste central pour assurer la lisibilité de votre MMORPG. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Donner vie à votre monde est essentiel pour l’immersion, surtout lors de la mise en place d’un cycle jour/nuit. Dans ce tutoriel, nous allons apprendre à intégrer des torches animées et des sources de lumière dynamiques pour illuminer vos villages.\nRésumé des notions clés Pour réussir l’intégration de vos effets de lumière, voici les étapes à suivre dans l’éditeur :",
     "tags": [
@@ -1091,11 +1317,11 @@ var relearn_searchindex = [
       "MMORPG",
       "Level Design"
     ],
-    "title": "17. Créer des lumières dynamiques et animées dans Intersect Engine",
+    "title": "17. Créer des lumières dynamiques et animées",
     "uri": "/intersect-engine/creer-un-mmorpg/creer-lumieres-dynamiques-animees-intersect-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Apprendre à gérer les compétences magiques est une étape cruciale pour donner de la profondeur à votre RPG. Dans ce guide, nous explorons comment configurer un sort de soin fonctionnel au sein d’Intersect Engine.\nLes fondamentaux du système de sorts La création d’un sort dans Intersect Engine repose sur une structure logique allant de la définition technique à l’intégration dans le gameplay :\nLe Spell Editor : C’est ici que tout commence. Vous définissez le type de sort (Combat, Événement), son icône, sa description et, surtout, son comportement. Targeting (Ciblage) : Le choix du type de cible est déterminant. Pour un soin, le mode “Single Target, Includes Self” est idéal, car il permet de se soigner soi-même ou de cibler un allié. Gestion des coûts et délais : Mana Cost : Indispensable pour équilibrer vos classes. Cast Time : Ajoute une dimension tactique en rendant le lancement vulnérable aux interruptions. Cooldown : Empêche le spam des compétences et force le joueur à gérer ses ressources. Effets (HP Difference) : Une valeur positive soigne, tandis qu’une valeur négative inflige des dégâts. Vous pouvez également manipuler d’autres statistiques (défense, mana, etc.). Apprentissage via Items : Pour rendre le sort accessible, il doit être lié à un objet (parchemin) que le joueur pourra acheter ou looter, puis apprendre via son livre de sorts (Spellbook). Ce qui reste d’actualité aujourd’hui Bien que le moteur évolue, les principes fondamentaux présentés ici restent le socle de tout projet sur Intersect Engine :\nL’équilibrage par les classes : La réflexion sur les coûts en mana par rapport aux statistiques de base de vos classes (Guerrier vs Mage) est une constante du game design. La rigueur du test : Le moteur étant en développement constant, la règle d’or reste de redémarrer le serveur après chaque modification majeure des sorts pour éviter les comportements erratiques. La zone d’effet (Hit Radius) : Comprendre comment le rayon d’impact affecte non seulement vos alliés mais aussi vos ennemis est essentiel pour éviter des situations de jeu frustrantes (comme soigner un monstre par accident). La modularité : La possibilité de combiner des effets (soin + buff de défense) montre que la puissance d’Intersect réside dans votre capacité à imaginer des synergies complexes plutôt que de simples sorts linéaires. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à gérer les compétences magiques est une étape cruciale pour donner de la profondeur à votre RPG. Dans ce guide, nous explorons comment configurer un sort de soin fonctionnel au sein d’Intersect Engine.\nLes fondamentaux du système de sorts La création d’un sort dans Intersect Engine repose sur une structure logique allant de la définition technique à l’intégration dans le gameplay :",
     "tags": [
@@ -1122,6 +1348,19 @@ var relearn_searchindex = [
     "uri": "/game-maker-studio/shoot-them-up/integrer-sons-musique-game-maker-studio/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Les matériaux physiques sont des outils indispensables pour donner du caractère à vos objets : découvrez comment simuler des comportements réalistes comme le rebond ou la glisse dans Unreal Engine 4.\nRésumé des notions clés Pour manipuler la physique de vos objets, voici les concepts essentiels à retenir :\nRôle des Physical Materials : Contrairement aux matériaux visuels, ils ne modifient pas l’apparence (couleur, texture) mais uniquement les propriétés physiques (friction, rebond, densité). Paramètres fondamentaux : Friction : Définit l’accroche de l’objet. Proche de 0, l’objet glisse ; plus la valeur est élevée, plus il est “freiné”. Restitution : Gère le facteur de rebondissement (bounciness). Une valeur de 1 signifie un rebond parfait sans perte d’énergie. Density : Influence la masse de l’objet en fonction de son volume. Combine Modes : Permet de définir comment deux objets interagissent lors d’une collision (Average, Min, Max, Multiply). L’option “Override” est cruciale pour forcer un comportement spécifique. Surface Types : Utilisables via les Project Settings, ils permettent de catégoriser vos matériaux (ex: glace, caoutchouc) pour déclencher des effets logiques (sons, particules) via les Blueprints. Application : Vous pouvez assigner un matériau physique directement dans l’éditeur de matériau (Material Editor) ou via l’onglet “Collision” dans les détails d’un acteur spécifique. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système Chaos Physics, les principes fondamentaux expliqués ici restent parfaitement valides. La gestion des matériaux physiques demeure la méthode standard pour définir le comportement dynamique des objets. La compréhension des modes de combinaison (Min/Max/Average) et de la restitution est toujours le socle nécessaire pour créer des interactions cohérentes, que vous travailliez sur un jeu de plateforme, un simulateur de conduite ou un jeu de tir. Maîtriser ces réglages vous évitera bien des comportements erratiques dans vos simulations physiques.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Les matériaux physiques sont des outils indispensables pour donner du caractère à vos objets : découvrez comment simuler des comportements réalistes comme le rebond ou la glisse dans Unreal Engine 4.\nRésumé des notions clés Pour manipuler la physique de vos objets, voici les concepts essentiels à retenir :",
+    "tags": [
+      "Unreal Engine 4",
+      "Game Development",
+      "Physics",
+      "Tutoriel"
+    ],
+    "title": "18. Maîtriser les matériaux physiques",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-materiaux-physiques-unreal-engine-4/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Game Maker Studio \u003e Shoot Them Up (Shmup)",
     "content": "Apprendre à créer un jeu est une étape gratifiante, mais savoir comment le partager avec le monde entier est l’aboutissement ultime de tout développeur. Dans ce guide, nous explorons les étapes essentielles pour configurer et exporter votre projet GameMaker Studio en un fichier exécutable prêt à être lancé.\nRésumé des notions clés L’exportation d’un jeu ne se limite pas à un simple clic ; elle demande une préparation minutieuse dans les paramètres globaux du projet :\nGlobal Game Settings : Le passage obligé pour définir l’identité de votre jeu (nom, version, auteur, copyright). Personnalisation visuelle : L’importance de l’icône (format .ico) et du splash screen pour donner une image professionnelle à votre production. Configuration graphique : Le choix du mode plein écran ou fenêtré dès le lancement. Types d’exportation : NSIS Installer : Idéal pour une installation propre avec contrat de licence et images personnalisées. Single Runtime Executable : La solution la plus simple et rapide pour un fichier unique. Format ZIP : Recommandé pour alléger le poids du fichier lors du partage en ligne. Validation finale : Vérification dans la console de GameMaker du message “Create Finished” pour confirmer la réussite de la compilation. Ce qui reste d’actualité aujourd’hui Bien que les versions de GameMaker aient évolué (passant de Studio à GameMaker 2023+), les principes fondamentaux abordés ici restent le socle de tout déploiement :\nLa gestion des métadonnées : La structure des Game Options est toujours le point central pour configurer les propriétés de votre fenêtre et les informations de versionnage. La flexibilité des formats : Que vous utilisiez les versions modernes ou anciennes, le choix entre un installateur (pour une expérience utilisateur classique) et un exécutable portable (pour la portabilité) reste une décision stratégique pour tout développeur indépendant. L’importance de la finition : L’utilisation d’icônes personnalisées et d’écrans de chargement (splash screens) demeure une règle d’or pour transformer un simple projet technique en un produit fini et crédible aux yeux des joueurs. ⬅️ Vidéo Précédente 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à créer un jeu est une étape gratifiante, mais savoir comment le partager avec le monde entier est l’aboutissement ultime de tout développeur. Dans ce guide, nous explorons les étapes essentielles pour configurer et exporter votre projet GameMaker Studio en un fichier exécutable prêt à être lancé.\nRésumé des notions clés L’exportation d’un jeu ne se limite pas à un simple clic ; elle demande une préparation minutieuse dans les paramètres globaux du projet :",
@@ -1135,7 +1374,20 @@ var relearn_searchindex = [
     "uri": "/game-maker-studio/shoot-them-up/guide-exporter-jeu-gamemaker-studio/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Découvrez comment utiliser les masques et le nœud Linear Interpolate pour créer des transitions dynamiques et des mélanges de textures complexes dans vos matériaux Unreal Engine 4.\nRésumé des notions clés Dans ce tutoriel, nous explorons les bases fondamentales du masquage dans l’éditeur de matériaux d’Unreal Engine :\nLe rôle des masques : Utilisation de textures en niveaux de gris (du noir au blanc) pour définir des zones d’influence. Le nœud Linear Interpolate (Lerp) : L’outil indispensable pour mélanger deux entrées (A et B) en fonction d’une valeur Alpha. Valeur 0 (Noir) : Affiche la couleur ou texture A. Valeur 1 (Blanc) : Affiche la couleur ou texture B. Valeurs intermédiaires (Gris) : Crée un mélange progressif entre les deux. Utilisation de textures procédurales : Remplacement de valeurs fixes par des textures comme le Noise pour obtenir des masques organiques et complexes. Optimisation : Utilisation de paramètres scalaires pour rendre les matériaux instanciables et ajustables en temps réel sans recompiler les shaders. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel soit basé sur Unreal Engine 4, les concepts abordés sont le socle même du Material Editor dans Unreal Engine 5. La logique du Linear Interpolate reste la méthode standard pour gérer les transitions de textures, le mélange de couches (Layer Blending) et la création de masques de salissure ou d’usure sur vos assets. La compréhension de ces flux de données est essentielle pour quiconque souhaite créer des matériaux complexes, qu’il s’agisse de shaders de sol, de murs ou d’effets spéciaux, et reste parfaitement transposable aux workflows modernes basés sur les Material Layers ou les Material Functions.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Découvrez comment utiliser les masques et le nœud Linear Interpolate pour créer des transitions dynamiques et des mélanges de textures complexes dans vos matériaux Unreal Engine 4.\nRésumé des notions clés Dans ce tutoriel, nous explorons les bases fondamentales du masquage dans l’éditeur de matériaux d’Unreal Engine :",
+    "tags": [
+      "Unreal Engine 4",
+      "Material Editor",
+      "Shaders",
+      "Game Dev"
+    ],
+    "title": "19. Maîtriser les masques et le Linear Interpolate",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-les-masques-et-linear-interpolate-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Apprendre à intégrer des sorts de type projectile est une étape cruciale pour donner vie aux combats de votre MMORPG. Dans ce guide, nous allons voir comment concevoir une boule de feu dynamique, de l’animation jusqu’à son implémentation en jeu.\nRésumé des notions clés La création d’un projectile dans Intersect Engine suit un processus séquentiel strict pour éviter les erreurs de compilation ou les crashs serveur. Voici les étapes à suivre :\nPréparation des ressources : Utilisation de l’éditeur d’images pour orienter vos sprites et configuration de l’animation dans l’Animation Editor (définition du nombre de frames horizontales/verticales). Ajout d’effets visuels : Utilisation du Light Editor pour ajouter une lueur dynamique à votre projectile, avec la possibilité de personnaliser l’intensité par frame. Configuration du Projectile : Paramétrage dans le Projectile Editor (vitesse, portée, collisions avec les éléments de la map, et points d’origine du tir). Création du Sort (Spell) : Liaison du projectile dans le Spell Editor, définition des dégâts (valeurs négatives pour la santé), du coût en mana et du temps de recharge (cooldown). Workflow de sécurité : Respectez impérativement l’ordre : Animation \u003e Projectile \u003e Sort \u003e Item. Modifier cet ordre peut entraîner des instabilités serveur. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent, la logique fondamentale présentée ici demeure le standard pour le développement de sorts :\nLa modularité des éditeurs : Le système de découplage entre l’animation, le comportement du projectile et la définition du sort est toujours au cœur du moteur. C’est ce qui permet une grande flexibilité pour créer des sorts complexes (AOE, projectiles multiples, sorts de soin). Gestion des collisions : La compréhension des “Attributes Blocks” et de la manière dont les sorts interagissent avec l’environnement reste une compétence essentielle pour le level design. Optimisation : L’importance de l’ordre de création est un rappel précieux sur la gestion des dépendances dans les moteurs de jeu. Même si les versions récentes sont plus robustes, maintenir une structure de travail propre reste la meilleure pratique pour éviter les bugs complexes à déboguer. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à intégrer des sorts de type projectile est une étape cruciale pour donner vie aux combats de votre MMORPG. Dans ce guide, nous allons voir comment concevoir une boule de feu dynamique, de l’animation jusqu’à son implémentation en jeu.\nRésumé des notions clés La création d’un projectile dans Intersect Engine suit un processus séquentiel strict pour éviter les erreurs de compilation ou les crashs serveur. Voici les étapes à suivre :",
     "tags": [
@@ -1145,11 +1397,11 @@ var relearn_searchindex = [
       "Tutoriel",
       "Spells"
     ],
-    "title": "19. Guide complet pour Intersect Engine",
+    "title": "19. Sorts et projectiles",
     "uri": "/intersect-engine/creer-un-mmorpg/creer-sort-projectile-intersect-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Apprendre à manipuler le système d’événements est une étape cruciale pour donner vie à votre MMORPG. Aujourd’hui, nous explorons comment créer une quête de type “FedEx” (livraison d’objet) en utilisant les outils de base d’Intersect Engine.\nRésumé des notions clés Pour mettre en place ce système de quête simple, voici les étapes fondamentales à suivre dans l’éditeur :\nGestion des Variables (Switches) : Utilisation des Player Switches dans le “Switch \u0026 Variable Editor” pour suivre l’état d’avancement de la quête (vrai/faux). Création des NPCs (Événements) : NPC Donneur : Utilisation d’une condition (Conditional Branch) pour vérifier si la quête est active. Si non, on donne l’objet au joueur et on bascule le switch sur “True”. NPC Récepteur : Vérification du switch sur “True”. Si le joueur possède l’objet, on le lui retire (Take Item), on lui octroie de l’expérience, et on réinitialise le switch pour permettre la répétition ou la fin de la quête. Logique de contrôle : Utilisation du Logic Flow pour gérer les embranchements conditionnels. Gestion des inventaires pleins via les retours de commandes Give/Take Item. Affichage de dialogues contextuels avec la commande Show Text. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine aient évolué, les principes fondamentaux présentés ici restent le socle de tout développement sur ce moteur :\nLa puissance des Switches : Le système de variables booléennes reste la méthode la plus fiable pour gérer la progression des joueurs dans une quête ou un scénario. L’Event Editor : La structure par “Trigger” (Action Button) et par “Commandes” (Logic Flow) est toujours le cœur battant de l’interactivité dans Intersect. Comprendre comment imbriquer des conditions est indispensable pour créer des quêtes complexes. L’importance de la planification : Comme souligné dans le tutoriel, la structure de vos quêtes doit être pensée en amont sur papier. La gestion des états (quand donner l’objet, quand le retirer, quand réinitialiser la quête) est ce qui différencie un monde vivant d’un monde statique. Modularité : La méthode consistant à créer des petits systèmes isolés (NPC donneur, NPC récepteur) permet de tester facilement vos fonctionnalités avant de les intégrer dans une boucle de jeu plus vaste. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à manipuler le système d’événements est une étape cruciale pour donner vie à votre MMORPG. Aujourd’hui, nous explorons comment créer une quête de type “FedEx” (livraison d’objet) en utilisant les outils de base d’Intersect Engine.\nRésumé des notions clés Pour mettre en place ce système de quête simple, voici les étapes fondamentales à suivre dans l’éditeur :",
     "tags": [
@@ -1159,11 +1411,24 @@ var relearn_searchindex = [
       "Tutoriel",
       "Scripting"
     ],
-    "title": "20. Créer une quête de type FedEx dans Intersect Engine",
+    "title": "20. Créer une quête de type FedEx",
     "uri": "/intersect-engine/creer-un-mmorpg/creer-quete-fedex-intersect-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Créer tes propres matériaux",
+    "content": "Apprenez à optimiser votre flux de travail en créant votre propre bibliothèque de matériaux réutilisables grâce à l’outil de migration d’Unreal Engine 4.\nRésumé des notions clés La migration d’assets est une étape fondamentale pour gagner en productivité. Voici les points essentiels à retenir :\nL’importance d’une bibliothèque : Créer un projet dédié à vos matériaux permet de centraliser vos créations et de les réutiliser facilement dans vos futurs développements. Pourquoi éviter le copier-coller Windows : Ne déplacez jamais vos fichiers directement via l’explorateur de fichiers, car cela brise les liens de dépendance entre les assets. L’outil “Migrate” : C’est la méthode officielle et sécurisée. Unreal Engine identifie automatiquement toutes les dépendances (textures, matériaux parents, instances) pour garantir que l’asset migré reste fonctionnel. Procédure de migration : Sélectionnez vos assets dans l’Content Browser. Faites un clic droit \u003e Asset Actions \u003e Migrate. Validez la liste des dépendances proposée par le moteur. Sélectionnez le dossier Content du projet de destination. Polyvalence : Cette technique ne se limite pas aux matériaux ; elle fonctionne avec les Blueprints, les meshes 3D et tout autre type d’asset dans l’éditeur. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel se concentre sur Unreal Engine 4, les principes fondamentaux de gestion de projet restent identiques dans Unreal Engine 5. La structure du dossier Content et le fonctionnement du système de migration sont des piliers du moteur. Que vous travailliez sur des projets complexes ou des prototypes rapides, la capacité à isoler vos assets dans des bibliothèques modulaires est une compétence indispensable pour tout développeur. Cette méthode vous permet non seulement de gagner un temps précieux, mais aussi de maintenir une cohérence visuelle et technique à travers l’ensemble de vos productions.\n⬅️ Vidéo Précédente 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Apprenez à optimiser votre flux de travail en créant votre propre bibliothèque de matériaux réutilisables grâce à l’outil de migration d’Unreal Engine 4.\nRésumé des notions clés La migration d’assets est une étape fondamentale pour gagner en productivité. Voici les points essentiels à retenir :",
+    "tags": [
+      "Unreal Engine 4",
+      "Tutoriel",
+      "Workflow",
+      "Materiaux"
+    ],
+    "title": "20. Comment migrer vos matériaux entre vos projets Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/migrer-materiaux-unreal-engine-bibliotheque-assets/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Dans ce guide, nous allons explorer comment élever les privilèges de vos joueurs au sein de votre projet MMORPG développé avec Intersect Engine, en passant par une manipulation directe de la base de données.\nRésumé des notions clés Pour transformer un simple joueur en modérateur ou administrateur, il est nécessaire d’intervenir directement sur les fichiers du serveur. Voici les étapes essentielles à retenir :\nSauvegarde indispensable : Avant toute manipulation, copiez votre fichier Intersect.db situé dans serveur/ressource. Une erreur de manipulation peut corrompre votre base de données. Outil nécessaire : Utilisez le logiciel DB Browser for SQLite pour ouvrir et modifier votre base de données sans risque. Localisation des données : Les droits des joueurs sont gérés dans la table users, au sein de la colonne Power. Niveaux de privilèges : 0 : Joueur standard. 1 : Modérateur (accès aux outils de modération via la touche Inser). 2 : Administrateur (accès complet). Procédure de sécurité : Coupez toujours votre serveur avant d’ouvrir la base de données dans le logiciel, puis enregistrez vos modifications avant de relancer le serveur. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine aient évolué depuis la sortie de ce tutoriel, les principes fondamentaux de gestion des données restent très pertinents :\nLa structure SQLite : Intersect Engine continue d’utiliser SQLite pour la gestion des données locales. La maîtrise de DB Browser for SQLite reste une compétence indispensable pour tout développeur souhaitant effectuer des corrections rapides ou des modifications de masse sur ses comptes utilisateurs. La gestion des accès : Le système de “Power” (niveaux de privilèges) est un standard dans le développement de jeux multijoueurs. Comprendre comment le moteur hiérarchise les droits permet de mieux structurer la modération de votre communauté dès le lancement de votre serveur. Bonnes pratiques de développement : La règle d’or consistant à toujours sauvegarder sa base de données avant toute modification manuelle reste le meilleur conseil pour éviter de perdre des semaines de travail sur le développement de vos quêtes, objets ou cartes. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce guide, nous allons explorer comment élever les privilèges de vos joueurs au sein de votre projet MMORPG développé avec Intersect Engine, en passant par une manipulation directe de la base de données.\nRésumé des notions clés Pour transformer un simple joueur en modérateur ou administrateur, il est nécessaire d’intervenir directement sur les fichiers du serveur. Voici les étapes essentielles à retenir :",
     "tags": [
@@ -1173,11 +1438,11 @@ var relearn_searchindex = [
       "SQLite",
       "Administration"
     ],
-    "title": "21. Comment gérer les droits d'administration et de modération dans Intersect Engine",
+    "title": "21. Comment gérer les droits d'administration et de modération",
     "uri": "/intersect-engine/creer-un-mmorpg/gestion-droits-administration-moderation-intersect-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Le passage à la version Beta 1 d’Intersect Engine marque un tournant majeur dans le développement de votre MMORPG 2D, introduisant des fonctionnalités essentielles pour enrichir l’expérience de jeu.\nRésumé des nouveautés de la Beta 1 Cette mise à jour majeure apporte des outils indispensables qui transforment la structure même de votre projet :\nÉditeur de quêtes dédié : Fini le recours complexe aux événements, vous disposez désormais d’un éditeur complet pour concevoir des quêtes complexes. Systèmes sociaux et économiques : Introduction du trading (échange entre joueurs), des groupes (parties) pour affronter des boss, et du système de craft basé sur la récolte de ressources. Interface utilisateur (UI) : Passage à une interface “Dark Mode” pour un meilleur confort visuel et une meilleure lisibilité des couleurs lors de la création. Outil de migration : Un utilitaire dédié permet de mettre à jour votre base de données existante vers la nouvelle version sans perdre votre progression. Guide de migration rapide Pour mettre à jour votre projet en toute sécurité, suivez ces étapes clés :\nSauvegarde : Copiez l’intégralité de votre dossier de projet actuel vers un dossier “Backup”. Nettoyage : Supprimez tous les fichiers des dossiers Server et Client/Editor, à l’exception du dossier Resources. Installation : Téléchargez la version Beta 1 et extrayez les nouveaux fichiers dans vos dossiers respectifs. Mise à jour des ressources : Appliquez le patch “Beta 1 upgrade resources” en écrasant les fichiers existants. Migration DB : Lancez le Intersect Migration Tool pour mettre à jour votre base de données vers la version 6. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine aient évolué, les principes fondamentaux présentés ici restent le socle de tout projet sur ce moteur :\nLa gestion des backups : La règle d’or reste de toujours sauvegarder ses ressources avant toute manipulation de version. L’importance des outils natifs : L’utilisation des éditeurs intégrés (Quêtes, Craft) est toujours préférable à la création de systèmes personnalisés via des événements, car ils sont optimisés pour la stabilité du serveur. La structure de projet : La séparation claire entre le client, l’éditeur et le serveur, ainsi que l’importance du dossier Resources, demeure la norme pour organiser correctement vos assets et bases de données. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Le passage à la version Beta 1 d’Intersect Engine marque un tournant majeur dans le développement de votre MMORPG 2D, introduisant des fonctionnalités essentielles pour enrichir l’expérience de jeu.\nRésumé des nouveautés de la Beta 1 Cette mise à jour majeure apporte des outils indispensables qui transforment la structure même de votre projet :",
     "tags": [
@@ -1186,11 +1451,11 @@ var relearn_searchindex = [
       "Tutoriel",
       "Game Development"
     ],
-    "title": "22. Guide de migration et nouveautés",
+    "title": "22. Guide de migration et nouveautés Beta 1",
     "uri": "/intersect-engine/creer-un-mmorpg/guide-migration-intersect-engine-beta-1/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Le système de craft est un pilier fondamental pour l’immersion et l’économie de tout MMO. Avec Intersect Engine, les développeurs disposent d’un outil puissant pour créer des ateliers spécialisés et structurer la progression de leurs joueurs.\nRésumé des notions clés Le système de craft d’Intersect Engine repose sur une logique d’ateliers (ou Crafting Benches) plutôt que sur un craft portable universel. Voici les étapes essentielles pour le mettre en place :\nLe Crafting Bench Editor : C’est ici que vous définissez vos ateliers. Chaque atelier peut être spécialisé (ex: forge pour le métal, établi d’ébéniste pour le bois) afin de segmenter les recettes par zone ou par type de métier. Configuration des recettes : Sélection de l’item : Choisissez l’objet final à produire parmi votre base de données d’items. Temps de fabrication : Définissez une durée réaliste pour le craft (en millisecondes). Ingrédients : Ajoutez les ressources nécessaires. Vous pouvez exiger plusieurs types d’objets et des quantités variables pour complexifier la création. Intégration dans le monde : Utilisez l’éditeur de carte pour placer un événement (PNJ ou objet décoratif comme un coffre/enclume). Assignez la commande OpenCrafting Station à cet événement en sélectionnant l’atelier correspondant. Expérience joueur : Une fois en jeu, le joueur interagit avec l’objet, ce qui ouvre une interface dédiée listant les recettes disponibles et permettant de lancer la production instantanément si les ingrédients sont présents dans l’inventaire. Ce qui reste d’actualité aujourd’hui Bien que l’interface d’Intersect Engine ait pu évoluer au fil des mises à jour, la logique fondamentale décrite ici reste le standard pour ce moteur :\nLa spécialisation géographique : Le fait de forcer les joueurs à se déplacer vers des lieux spécifiques (forges, scieries) reste une excellente pratique de game design pour encourager l’exploration et créer des points de rencontre sociaux. L’économie de jeu : Le système de craft est le moteur principal de l’économie. En contrôlant les ingrédients nécessaires, vous pouvez réguler la rareté des objets et favoriser le commerce entre joueurs (les “artisans” vs les “récolteurs”). Modularité : La possibilité d’ajouter autant d’ingrédients que souhaité permet de créer des systèmes de craft complexes, incluant des objets de haut niveau nécessitant des matériaux rares, ce qui prolonge considérablement la durée de vie de votre MMO. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Le système de craft est un pilier fondamental pour l’immersion et l’économie de tout MMO. Avec Intersect Engine, les développeurs disposent d’un outil puissant pour créer des ateliers spécialisés et structurer la progression de leurs joueurs.\nRésumé des notions clés Le système de craft d’Intersect Engine repose sur une logique d’ateliers (ou Crafting Benches) plutôt que sur un craft portable universel. Voici les étapes essentielles pour le mettre en place :",
     "tags": [
@@ -1199,11 +1464,11 @@ var relearn_searchindex = [
       "MMO",
       "Tutoriel"
     ],
-    "title": "23. Maîtriser le système de Crafting dans Intersect Engine",
+    "title": "23. Maîtriser le système de Crafting",
     "uri": "/intersect-engine/creer-un-mmorpg/maitriser-systeme-crafting-intersect-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines \u003e Creer Un Mmorpg 2D",
+    "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Créer un MMORPG demande de la structure, et le système de quêtes est le cœur battant de l’engagement de vos joueurs. Dans ce guide, nous explorons comment configurer vos premières missions avec l’éditeur intégré d’Intersect Engine pour donner vie à votre univers.\nRésumé des notions clés L’éditeur de quêtes d’Intersect Engine est un outil puissant qui permet de gérer la progression narrative et mécanique de votre jeu. Voici les points essentiels à retenir :\nConfiguration du Quest Log : Vous pouvez définir si une quête est visible avant acceptation, si elle reste dans le journal une fois terminée, et si elle est répétable ou abandonnable. Gestion des récompenses : Via l’éditeur d’événements de fin de quête, vous pouvez distribuer de l’expérience, de la monnaie ou des objets. Pensez à prévoir des messages d’erreur si l’inventaire du joueur est plein. Actions de quête : Utilisez les événements de début et de fin pour créer des mécaniques immersives (prêter un objet au début, le récupérer automatiquement à la fin). Pré-requis (Quest Requirements) : Vous pouvez restreindre l’accès à une quête selon le niveau du joueur, sa classe, ou d’autres conditions spécifiques. Types de tâches : L’éditeur supporte nativement le “Kill NPC” (tuer des monstres) et le “Gather Item” (récolter des objets), mais permet aussi des quêtes basées sur des événements personnalisés. Narration : Ne négligez pas la rédaction. Utilisez les champs de description (offre, progression, achèvement) pour tisser des liens entre vos PNJ et vos zones géographiques. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent (notamment avec le passage à la Beta 3.1 et au-delà), la logique fondamentale présentée ici reste le standard du moteur :\nLa séparation entre narration et logique : La structure “Offre / En cours / Terminé” est toujours la base de l’expérience utilisateur dans Intersect. L’importance des événements : Le système d’événements reste le pilier central pour créer des quêtes uniques qui sortent du simple “tuer 10 monstres”. L’équilibrage : La mise en garde sur les récompenses reste cruciale. Un bon système de quêtes doit être réfléchi sur papier avant d’être implémenté pour éviter de briser l’économie de votre jeu ou de créer des failles d’expérience (exploit). La modularité : La capacité de créer des pré-requis complexes (niveaux, classes) est une fonctionnalité pérenne qui permet de structurer la progression de vos joueurs sur le long terme. ⬅️ Vidéo Précédente 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Créer un MMORPG demande de la structure, et le système de quêtes est le cœur battant de l’engagement de vos joueurs. Dans ce guide, nous explorons comment configurer vos premières missions avec l’éditeur intégré d’Intersect Engine pour donner vie à votre univers.\nRésumé des notions clés L’éditeur de quêtes d’Intersect Engine est un outil puissant qui permet de gérer la progression narrative et mécanique de votre jeu. Voici les points essentiels à retenir :",
     "tags": [
@@ -1214,6 +1479,83 @@ var relearn_searchindex = [
     ],
     "title": "24. Maîtriser le système de quêtes dans Intersect Engine",
     "uri": "/intersect-engine/creer-un-mmorpg/maitriser-systeme-quetes-intersect-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Archivage",
+    "uri": "/tags/archivage/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Archive",
+    "uri": "/categories/archive/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Categories",
+    "uri": "/categories/index.html"
+  },
+  {
+    "breadcrumb": "",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Créer un jeu vidéo",
+    "uri": "/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Game Development",
+    "uri": "/tags/game-development/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tags",
+    "uri": "/tags/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Tutoriel",
+    "uri": "/tags/tutoriel/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo",
+    "content": "Cette archive regroupe des tutoriels fondamentaux dédiés à l’apprentissage du moteur Unreal Engine 4 pour le développement de jeux vidéo.\nNotions clés abordées Interface et Navigation : Prise en main de l’éditeur, gestion des fenêtres et des raccourcis essentiels pour gagner en productivité. Le Système de Blueprints : Compréhension de la programmation visuelle pour créer des logiques de jeu complexes sans écrire de code. Gestion des Assets : Importation et organisation rigoureuse des modèles 3D, textures et matériaux dans le Content Browser. Lumières et Post-Process : Paramétrage des éclairages dynamiques et des effets de rendu pour une immersion visuelle immédiate. Level Design : Utilisation des outils de landscaping et placement stratégique des acteurs dans la scène. Ce qui reste d’actualité aujourd’hui Bien qu’Unreal Engine 5 soit devenu le standard actuel de l’industrie, les concepts fondamentaux présentés dans cette archive constituent toujours le socle indispensable de toute production sous Unreal. La structure des Blueprints, la logique de gestion des matériaux et l’architecture des acteurs restent identiques. Maîtriser ces bases sur la version 4 est la meilleure méthode pour comprendre les rouages profonds du moteur avant de migrer vers des outils plus avancés comme Nanite ou Lumen. C’est une base solide qui garantit une compréhension durable du workflow Unreal.\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Cette archive regroupe des tutoriels fondamentaux dédiés à l’apprentissage du moteur Unreal Engine 4 pour le développement de jeux vidéo.\nNotions clés abordées Interface et Navigation : Prise en main de l’éditeur, gestion des fenêtres et des raccourcis essentiels pour gagner en productivité. Le Système de Blueprints : Compréhension de la programmation visuelle pour créer des logiques de jeu complexes sans écrire de code. Gestion des Assets : Importation et organisation rigoureuse des modèles 3D, textures et matériaux dans le Content Browser. Lumières et Post-Process : Paramétrage des éclairages dynamiques et des effets de rendu pour une immersion visuelle immédiate. Level Design : Utilisation des outils de landscaping et placement stratégique des acteurs dans la scène. Ce qui reste d’actualité aujourd’hui Bien qu’Unreal Engine 5 soit devenu le standard actuel de l’industrie, les concepts fondamentaux présentés dans cette archive constituent toujours le socle indispensable de toute production sous Unreal. La structure des Blueprints, la logique de gestion des matériaux et l’architecture des acteurs restent identiques. Maîtriser ces bases sur la version 4 est la meilleure méthode pour comprendre les rouages profonds du moteur avant de migrer vers des outils plus avancés comme Nanite ou Lumen. C’est une base solide qui garantit une compréhension durable du workflow Unreal.",
+    "tags": [
+      "Unreal Engine",
+      "Game Development",
+      "Archivage",
+      "Tutoriel"
+    ],
+    "title": "Tutoriels Unreal Engine 4",
+    "uri": "/unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Unreal Engine",
+    "uri": "/tags/unreal-engine/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1235,14 +1577,6 @@ var relearn_searchindex = [
     ],
     "title": "Apprendre la création de jeux vidéo avec Construct 2",
     "uri": "/construct-2/tuto-jeu-plateforme/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Category :: Archive",
-    "uri": "/categories/archive/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1277,14 +1611,6 @@ var relearn_searchindex = [
     "uri": "/tags/bug-fix/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Categories",
-    "uri": "/categories/index.html"
-  },
-  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
     "content": "",
     "description": "",
@@ -1307,14 +1633,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Construct 2",
     "uri": "/tags/construct-2/index.html"
-  },
-  {
-    "breadcrumb": "",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Créer un jeu vidéo",
-    "uri": "/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1467,22 +1785,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Sound Design",
     "uri": "/tags/sound-design/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tags",
-    "uri": "/tags/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Tutoriel",
-    "uri": "/tags/tutoriel/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1668,14 +1970,6 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Unreal Engine",
-    "uri": "/tags/unreal-engine/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
     "title": "Tag :: Unreal Engine 5",
     "uri": "/tags/unreal-engine-5/index.html"
   },
@@ -1688,20 +1982,12 @@ var relearn_searchindex = [
     "uri": "/tags/administration/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Intersect-Engines",
-    "content": "Bienvenue dans la série de tutoriels consacrée à Creer Un Mmorpg développée sur Intersect Engine.",
-    "description": "Bienvenue dans la série de tutoriels consacrée à Creer Un Mmorpg développée sur Intersect Engine.",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "Bienvenue dans la série de tutoriels consacrée à Creer Ses Matériaux développée sur Unreal Engine 4.",
+    "description": "Bienvenue dans la série de tutoriels consacrée à Creer Ses Matériaux développée sur Unreal Engine 4.",
     "tags": [],
-    "title": "Creer Un Mmorpg 2D",
-    "uri": "/intersect-engine/creer-un-mmorpg/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Game Development",
-    "uri": "/tags/game-development/index.html"
+    "title": "Créer tes propres matériaux",
+    "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1736,12 +2022,36 @@ var relearn_searchindex = [
     "uri": "/tags/intersect-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Intersect-Engines",
-    "uri": "/intersect-engine/index.html"
+    "title": "Tag :: Landscape",
+    "uri": "/tags/landscape/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Material Editor",
+    "uri": "/tags/material-editor/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Materials",
+    "uri": "/tags/materials/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Media Framework",
+    "uri": "/tags/media-framework/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1756,8 +2066,24 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Procedural",
+    "uri": "/tags/procedural/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Scripting",
     "uri": "/tags/scripting/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Shaders",
+    "uri": "/tags/shaders/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Game Maker Studio",
@@ -1776,6 +2102,14 @@ var relearn_searchindex = [
     "uri": "/tags/sqlite/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Tessellation",
+    "uri": "/tags/tessellation/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo",
     "content": "Bienvenue dans la série de tutoriels consacrée à Shoot Them Up développée sur Game Maker Studio.",
     "description": "Bienvenue dans la série de tutoriels consacrée à Shoot Them Up développée sur Game Maker Studio.",
@@ -1790,6 +2124,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: UI",
     "uri": "/tags/ui/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Unreal Engine 4",
+    "uri": "/tags/unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1964,6 +2306,14 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Materiaux",
+    "uri": "/tags/materiaux/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Menu",
     "uri": "/tags/menu/index.html"
   },
@@ -2014,6 +2364,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Parallax",
     "uri": "/tags/parallax/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Physics",
+    "uri": "/tags/physics/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2076,6 +2434,14 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Shader",
+    "uri": "/tags/shader/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Shoot-Em-Up",
     "uri": "/tags/shoot-em-up/index.html"
   },
@@ -2094,6 +2460,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Sprite",
     "uri": "/tags/sprite/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Texturing",
+    "uri": "/tags/texturing/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2134,5 +2508,13 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: WizWig",
     "uri": "/tags/wizwig/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Workflow",
+    "uri": "/tags/workflow/index.html"
   }
 ]

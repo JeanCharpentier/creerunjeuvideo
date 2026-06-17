@@ -9,7 +9,7 @@
     <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/level-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>5. Créer des environnements vivants dans Intersect Engine</title>
+      <title>5. Créer des environnements vivants</title>
       <link>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-environnements-vivants-intersect-engine/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-environnements-vivants-intersect-engine/index.html</guid>
@@ -23,7 +23,7 @@
       <description>Note : Cet article est une archive pédagogique du cinquième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Amélioration du Level Design : Conseils pour rendre vos niveaux plus visuels et attrayants en modifiant la disposition des éléments de décor. IA d’ennemi basique : * Mise en place d’un ennemi qui se déplace automatiquement de gauche à droite. Utilisation de la logique de retournement automatique pour simuler une patrouille. Organisation du code : * Introduction aux Groupes d’événements : création d’un groupe dédié (AnimJackEnemy) pour isoler la logique de l’ennemi. Activation/Désactivation des groupes au démarrage pour optimiser la lisibilité et la maintenance du projet. Gestion des bugs de collision : Identification et résolution de problèmes liés aux chutes non désirées à travers les plateformes (complémentaire au tutoriel de debug). Conseils d’organisation pour vos feuilles d’événements À mesure que votre projet gagne en complexité, la structure de votre feuille d’événements devient cruciale :</description>
     </item>
     <item>
-      <title>7. Créer et lier vos premières cartes dans Intersect Engine</title>
+      <title>7. Créer et lier vos premières cartes</title>
       <link>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-lier-cartes-intersect-engine/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-lier-cartes-intersect-engine/index.html</guid>
@@ -37,7 +37,7 @@
       <description>Cette page est une archive pédagogique du douzième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2, traitant de la mise en place d’éléments dynamiques.&#xA;Notions clés abordées Conception de pièges dynamiques : Création d’obstacles interactifs qui apparaissent et disparaissent, ajoutant du défi au level design. Comportement “Line of Sight” (Ligne de vue) : Utilisation du comportement de détection visuelle pour déclencher des actions. Configuration des paramètres de portée (range) et de cône de vision (cone of view). Interaction IA : Utilisation de la ligne de vue pour faire réagir les ennemis (ex: un monstre qui se déplace vers le joueur uniquement lorsqu’il est repéré). Personnalisation des comportements : Ajustement des réglages pour adapter la détection selon le placement du joueur (au-dessus, sur les côtés, etc.). Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur historique, les concepts abordés ici sont les piliers de l’intelligence artificielle en 2D :</description>
     </item>
     <item>
-      <title>17. Créer des lumières dynamiques et animées dans Intersect Engine</title>
+      <title>17. Créer des lumières dynamiques et animées</title>
       <link>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-lumieres-dynamiques-animees-intersect-engine/index.html</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-lumieres-dynamiques-animees-intersect-engine/index.html</guid>
