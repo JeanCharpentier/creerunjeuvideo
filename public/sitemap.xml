@@ -429,6 +429,10 @@
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/2d/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/archivage/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -445,11 +449,43 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/game-maker-studio/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/game-development/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/gamedev/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/gamemaker/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/indie-dev/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/mat%C3%A9riaux/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/shaders/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/texturing/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -669,19 +705,7 @@
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/index.html</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/gamedev/index.html</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/gamedev-debutant/index.html</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/gamemaker/index.html</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -717,10 +741,6 @@
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/shaders/index.html</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/game-maker-studio/shoot-them-up/index.html</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url>
@@ -730,10 +750,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/tessellation/index.html</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/game-maker-studio/index.html</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -906,10 +922,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/sprite/index.html</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/texturing/index.html</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url>
   <url>

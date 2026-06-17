@@ -23,6 +23,13 @@
       <description>Bienvenue dans cette série de guides et de tutoriels dédiés à Intersect Engine, l’une des solutions open-source les plus accessibles et puissantes pour donner vie à vos projets de MMORPG 2D.&#xA;Que vous soyez nostalgique de l’époque des créateurs de jeux en ligne amateurs (comme la grande époque de Mirage Source ou Eclipse) ou un développeur cherchant une base réseau ultra-solide sans réinventer la roue, Intersect est l’outil parfait pour matérialiser votre univers.</description>
     </item>
     <item>
+      <title>Découverte de GameMaker Studio : Le moteur 2D par excellence</title>
+      <link>http://localhost:1313/game-maker-studio/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/game-maker-studio/index.html</guid>
+      <description>Cette archive regroupe des tutoriels pédagogiques essentiels pour appréhender les bases du moteur GameMaker Studio et réaliser vos premiers projets de jeux en 2D.&#xA;Notions clés abordées Interface et Workflow : Navigation dans l’environnement de développement et organisation de l’arborescence du projet (Assets, Sprites, Objects). Système d’Objets et d’Événements : Compréhension du fonctionnement “Step-by-Step” de GameMaker : gestion des événements (Create, Step, Draw) pour structurer la logique du jeu. GML (GameMaker Language) : Introduction aux bases du langage de script propre au moteur pour manipuler les variables, les collisions et les entrées clavier. Gestion des Sprites et Animation : Importation de ressources graphiques et mise en place des séquences d’animation via l’éditeur intégré. Rooms et Instances : Organisation des niveaux de jeu, gestion des layers (calques) et placement des instances d’objets dans l’espace de jeu. Ce qui reste d’actualité aujourd’hui GameMaker Studio demeure une référence incontournable pour la scène indépendante. Si les versions récentes ont largement modernisé l’interface, la philosophie profonde du moteur reste intacte. La manière de gérer les collisions, la hiérarchie des objets et l’utilisation du GML sont des compétences pérennes : une fois ces bases acquises, le passage aux dernières itérations du logiciel se fait sans aucune friction. Ce contenu reste donc une rampe de lancement parfaite pour quiconque souhaite comprendre la logique de programmation orientée “jeu 2D” avant de s’attaquer à des projets plus ambitieux.</description>
+    </item>
+    <item>
       <title>Tutoriels Unreal Engine 4</title>
       <link>http://localhost:1313/unreal-engine-4/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -49,13 +56,6 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/unreal-engine-5/index.html</guid>
       <description>Devenez développeur de jeux vidéo indépendant avec mes cours et tutoriels gratuits sur Unreal Engine 5. Apprenez le Blueprint, l&#39;IA, le Level Design et compilez votre premier jeu.</description>
-    </item>
-    <item>
-      <title>Tutoriels Game Maker Studio</title>
-      <link>http://localhost:1313/game-maker-studio/index.html</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/game-maker-studio/index.html</guid>
-      <description>Bienvenue dans la série de tutoriels consacrée à Shoot Them Up développée sur Game Maker Studio.</description>
     </item>
   </channel>
 </rss>
