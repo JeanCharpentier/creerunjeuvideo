@@ -6,8 +6,15 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Introduction à Unreal Engine 4 : Le guide complet pour débutants</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/introduction-unreal-engine-4-debutant/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/introduction-unreal-engine-4-debutant/index.html</guid>
+      <description>Bienvenue dans cette série dédiée à l’apprentissage d’Unreal Engine 4. Si vous avez toujours rêvé de créer votre propre jeu vidéo mais que vous ne savez pas par où commencer, ce cours est conçu spécifiquement pour vous. Nous allons explorer ensemble le moteur de A à Z, de l’installation jusqu’à la publication de votre premier projet sur itch.io.&#xA;Ce que vous allez apprendre dans ce cours Ce parcours pédagogique couvre l’intégralité du pipeline de création d’un jeu vidéo simple :</description>
+    </item>
     <item>
       <title>1. Introduction et Configuration d&#39;Unreal Engine 5</title>
       <link>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/1-unreal-engine-5-installation-configuration-projet/index.html</link>
@@ -182,6 +189,34 @@
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/animer-effets-visuels-game-maker-explosions/index.html</guid>
       <description>Apprenez à donner vie à vos combats en ajoutant des effets d’explosion animés et en gérant leur cycle de vie pour un rendu professionnel.&#xA;Résumé des notions clés Pour transformer un simple sprite statique en un effet visuel dynamique, voici les étapes essentielles abordées dans ce tutoriel :</description>
+    </item>
+    <item>
+      <title>23. Intégration sonore et gestion des événements audio</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/integration-sonore-unreal-engine-4-blueprints/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/integration-sonore-unreal-engine-4-blueprints/index.html</guid>
+      <description>L’immersion dans un jeu vidéo passe inévitablement par l’audio. Dans cet épisode, nous allons apprendre à importer des ressources sonores dans Unreal Engine 4 et à les déclencher dynamiquement via les Blueprints pour ponctuer les moments clés de votre gameplay, comme la victoire ou la défaite.&#xA;Résumé de l’épisode Importation des assets : Organisation du dossier “Son” et importation des fichiers audio via le Content Browser. Play Sound at Location : Utilisation de ce node pour spatialiser le son en fonction de la position du joueur (récupérée via Get Actor Location). Gestion du flux d’exécution : Utilisation du node DoOnce pour éviter que le son ne se déclenche en boucle lors d’une collision persistante. Ajout d’un Delay pour laisser le temps au son de se jouer avant de quitter le jeu ou de redémarrer le niveau. Test rapide : Astuce pour placer temporairement un trigger près du point de spawn afin de valider l’implémentation sans parcourir tout le niveau. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système MetaSounds, les fondamentaux abordés ici restent parfaitement valides :</description>
+    </item>
+    <item>
+      <title>25. Intégrer une musique d&#39;&#39;ambiance dynamique dans Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/integrer-musique-ambiance-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/integrer-musique-ambiance-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous allons donner vie à votre niveau en y intégrant une musique d’ambiance. Il ne s’agit pas seulement de lancer un son, mais de gérer sa boucle, son volume et surtout son interaction avec les événements de fin de partie (victoire ou défaite) pour éviter les superpositions sonores désagréables.&#xA;Résumé des étapes clés Configuration du fichier audio : Activation de l’option “Looping” dans les détails du fichier Wave pour une lecture en continu. Utilisation des Sound Cues : Création d’un objet Sound Cue pour gérer plus finement les propriétés audio (effets, réverbération, logique de boucle). Implémentation via le Character Blueprint : Ajout d’un composant audio au personnage et lancement automatique via l’événement Event Begin Play. Gestion des interruptions : Utilisation du “Casting” (Cast to ThirdPersonCharacter) dans les Blueprints de zone de victoire et de défaite pour stopper la musique proprement lors du déclenchement d’un événement. Ce qui reste d’actualité aujourd’hui Bien que cet article se concentre sur Unreal Engine 4, les principes fondamentaux restent identiques dans Unreal Engine 5 :</description>
+    </item>
+    <item>
+      <title>31. Création d&#39;&#39;un menu de défaite (Game Over) dans Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-menu-defaite-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-menu-defaite-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous allons finaliser l’expérience utilisateur en cas d’échec dans votre jeu. Plutôt que de laisser le joueur face à un écran figé, nous allons implémenter un menu de “Game Over” fonctionnel. L’approche choisie ici est l’optimisation : au lieu de repartir de zéro, nous allons dupliquer notre interface de victoire pour y intégrer un message d’alerte tout en conservant les options de navigation essentielles (rejouer ou quitter).</description>
+    </item>
+    <item>
+      <title>42. Éclairage dynamique et mise en valeur des objets</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/eclairage-dynamique-blueprint-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/eclairage-dynamique-blueprint-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous allons améliorer l’aspect visuel de nos pièces en intégrant un système d’éclairage dynamique. L’objectif est double : rendre nos objets plus attrayants visuellement et guider naturellement le joueur à travers le niveau en créant un chemin lumineux clair.&#xA;Résumé de l’implémentation Accès au Blueprint : Navigation dans le dossier zone pour ouvrir le blueprint zone_pièce. Ajout de composant : Insertion d’un composant Point Light au sein de l’acteur. Configuration : Ajustement de la couleur (teinte orangée) et de l’intensité lumineuse (réglée à 1000) dans les détails du composant. Test en temps réel : Vérification immédiate dans le viewport du niveau pour valider l’impact visuel. Logique de jeu : Observation du comportement dynamique où la lumière disparaît logiquement lorsque la pièce est ramassée par le joueur. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux restent parfaitement transposables aux versions plus récentes (UE5) :</description>
     </item>
     <item>
       <title>Série : Créer un Système de Build complet dans Unreal Engine 5</title>

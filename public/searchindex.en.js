@@ -1,5 +1,18 @@
 var relearn_searchindex = [
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Bienvenue dans cette série dédiée à l’apprentissage d’Unreal Engine 4. Si vous avez toujours rêvé de créer votre propre jeu vidéo mais que vous ne savez pas par où commencer, ce cours est conçu spécifiquement pour vous. Nous allons explorer ensemble le moteur de A à Z, de l’installation jusqu’à la publication de votre premier projet sur itch.io.\nCe que vous allez apprendre dans ce cours Ce parcours pédagogique couvre l’intégralité du pipeline de création d’un jeu vidéo simple :\nConfiguration : Création de compte et installation du moteur. Interface : Prise en main de l’éditeur Unreal Engine 4. Assets : Création et importation d’objets, gestion des matériaux et utilisation de l’Asset Store. Level Design : Création de terrain, ajout de végétation et placement d’objets. Gameplay : Programmation des mécaniques (ramassage d’objets, système de score). UI/UX : Création de menus, écrans de victoire et de défaite. Packaging : Exportation et publication de votre jeu sur le web. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les fondamentaux enseignés ici restent le socle indispensable de tout développeur :\nLa logique de workflow : La structure d’un projet (Content Browser, World Outliner, Details Panel) est restée quasi identique, ce qui facilite grandement la transition vers UE5. Le système de Blueprints : La logique de programmation visuelle abordée ici est le cœur battant du moteur. Une fois comprise, elle est immédiatement transférable aux versions plus récentes. La gestion des collisions et triggers : Les zones de victoire/défaite et les mécaniques de ramassage reposent sur des concepts de collision qui sont universels dans le développement de jeux 3D. L’importance du prototypage : Apprendre à créer un jeu simple de A à Z est la meilleure méthode pour comprendre les contraintes techniques avant de se lancer dans des projets ambitieux. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Bienvenue dans cette série dédiée à l’apprentissage d’Unreal Engine 4. Si vous avez toujours rêvé de créer votre propre jeu vidéo mais que vous ne savez pas par où commencer, ce cours est conçu spécifiquement pour vous. Nous allons explorer ensemble le moteur de A à Z, de l’installation jusqu’à la publication de votre premier projet sur itch.io.\nCe que vous allez apprendre dans ce cours Ce parcours pédagogique couvre l’intégralité du pipeline de création d’un jeu vidéo simple :",
+    "tags": [
+      "Unreal Engine 4",
+      "Débutant",
+      "Game Design",
+      "Tutoriel"
+    ],
+    "title": "1. Introduction à Unreal Engine 4 : Le guide complet pour débutants",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/introduction-unreal-engine-4-debutant/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
     "content": "Note : Cet article constitue une archive pédagogique préservant des techniques fondamentales de développement de jeux 2D sous Construct 2.\nPoints clés abordés Comportement “Platform” : Configuration des paramètres de déplacement (vitesse, accélération, force de saut). Gestion des couches (Layers) : Organisation des éléments de décor et de gameplay. Animations du sprite : Création et basculement automatique entre les états (Idle, Run, Jump) via le système d’événements. Collisions de base : Mise en place des propriétés “Solid” pour les objets du décor afin d’interagir avec le moteur physique. Variables globales : Introduction simple au suivi du score ou des points de vie. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait été remplacé par Construct 3, la logique présentée dans ce tutoriel demeure transposable à 100%. Les concepts de gestion d’états d’animation, la séparation entre couches de rendu et moteurs physiques, ainsi que la hiérarchie des événements sont des bases immuables du développement de jeux vidéo 2D. Cette vidéo est un excellent point de départ pour comprendre la “logique Construct” avant de passer aux versions plus récentes du moteur.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Note : Cet article constitue une archive pédagogique préservant des techniques fondamentales de développement de jeux 2D sous Construct 2.\nPoints clés abordés Comportement “Platform” : Configuration des paramètres de déplacement (vitesse, accélération, force de saut). Gestion des couches (Layers) : Organisation des éléments de décor et de gameplay. Animations du sprite : Création et basculement automatique entre les états (Idle, Run, Jump) via le système d’événements. Collisions de base : Mise en place des propriétés “Solid” pour les objets du décor afin d’interagir avec le moteur physique. Variables globales : Introduction simple au suivi du score ou des points de vie. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait été remplacé par Construct 3, la logique présentée dans ce tutoriel demeure transposable à 100%. Les concepts de gestion d’états d’animation, la séparation entre couches de rendu et moteurs physiques, ainsi que la hiérarchie des événements sont des bases immuables du développement de jeux vidéo 2D. Cette vidéo est un excellent point de départ pour comprendre la “logique Construct” avant de passer aux versions plus récentes du moteur.",
@@ -12,14 +25,6 @@ var relearn_searchindex = [
     ],
     "title": "1. Création d'un personnage de plateforme",
     "uri": "/construct-2/tuto-jeu-plateforme/1-creation-personnage-plateforme-c2/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo",
-    "content": "This is a new chapter.",
-    "description": "This is a new chapter.",
-    "tags": [],
-    "title": "Tutoriels Construct 2",
-    "uri": "/construct-2/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 5 \u003e Série : Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5",
@@ -69,7 +74,7 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Découvrez comment prendre en main GameMaker Studio à travers une série de tutoriels complets dédiés à la création d’un shoot ’em up à scrolling horizontal.\nRésumé de la série Cette formation structurée vous accompagne pas à pas dans l’apprentissage du moteur, de l’installation jusqu’à l’exportation finale de votre projet. Voici les points clés abordés :\nPrise en main complète : Installation et configuration de l’interface de GameMaker Studio. Projet pratique : Développement d’un jeu de type shoot ’em up (style R-Type ou Gradius). Mécaniques de jeu intégrées : Gestion du mouvement du vaisseau, système de score, ennemis et gestion des collisions. Interface utilisateur : Création d’un menu principal et affichage du score final. Format pédagogique : Des vidéos courtes et concises, conçues comme un véritable cours pour favoriser la réflexion et la personnalisation. Ce qui reste d’actualité aujourd’hui Bien que GameMaker ait évolué vers des versions plus récentes (comme GameMaker 2023+), les fondamentaux abordés dans cette série restent le socle indispensable pour tout débutant :\nLa logique de boucle de jeu : La gestion des objets, des événements (Create, Step, Draw) et des collisions demeure le cœur battant du moteur. Structure de projet : Apprendre à organiser ses ressources (sprites, objets, rooms) est une compétence transférable quelle que soit la version du logiciel utilisée. Approche itérative : La méthode consistant à partir d’un prototype simple pour arriver à un jeu exportable est la meilleure façon d’apprendre le Game Design. Logique de programmation : Les concepts de variables pour le score et de gestion des états de jeu sont universels dans le développement de jeux 2D. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Découvrez comment prendre en main GameMaker Studio à travers une série de tutoriels complets dédiés à la création d’un shoot ’em up à scrolling horizontal.\nRésumé de la série Cette formation structurée vous accompagne pas à pas dans l’apprentissage du moteur, de l’installation jusqu’à l’exportation finale de votre projet. Voici les points clés abordés :",
     "tags": [
@@ -108,7 +113,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/demarrer-creation-materiaux-unreal-engine-4/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Créer un jeu de tir en vue de dessus avec Construct 2",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Développement d'un Top-Down Shooter",
     "content": "Plongez dans le monde de la création de jeux HTML5 avec Construct 2 ! Ce premier tutoriel vous guide à travers l’installation, la découverte de l’interface et la mise en place des bases de votre premier jeu, un Top-Down Shooter.\nRésumé des notions clés Introduction à Construct 2 et HTML5 Avantages du HTML5 : Compatibilité multiplateforme (PC, Mac, Linux, iOS, Android), permettant de créer un jeu jouable partout. Construct 2 : Logiciel intuitif et accessible, idéal pour une première approche du développement de jeux. Versions de Construct 2 : Gratuite (avec limitations), personnelle (environ 60€), et commerciale (plus de 200€ pour la revente de jeux). Objectif de la série : Apprendre à créer un jeu de tir vu de dessus (Top-Down Shooter - TDS). Prise en main de l’interface de Construct 2 Panneau de propriétés (à gauche) : Affiche les attributs de l’élément sélectionné. Zone de travail centrale : Layout : La partie graphique où vous placez vos éléments de jeu. Event Sheet : La partie logique où vous définissez les interactions et comportements. Panneau de droite : Project Explorer : Gère l’ensemble de votre projet (layouts, event sheets, etc.). Layers : Permet de superposer les éléments du jeu sur différents niveaux (calques). Objects : Liste tous les objets présents dans la scène actuelle. Configuration du projet Création d’un nouveau projet (.capx pour un fichier unique). Nom du projet : TDS. Taille de la fenêtre de jeu (Window Size) : Définie à 640x480 pixels. Navigateur de prévisualisation (Preview Browser) : Permet de choisir le navigateur pour tester le jeu. Configuration du niveau (Layout) Renommage du layout par défaut en Level One. Taille du layout (Layout Size) : Définie à 1280x1224 (deux fois la taille de la fenêtre) pour un niveau plus grand que l’écran. Gestion des Event Sheets Renommage de l’Event Sheet par défaut en ES_Level One pour une meilleure organisation et la possibilité de réutiliser la même feuille d’événements pour plusieurs niveaux. Organisation des calques (Layers) Renommage du calque par défaut en Fond. Ajout de nouveaux calques : Joueur, Ennemis, HUD. Limitation de la version gratuite : Seulement 4 calques disponibles. Verrouillage du calque Fond : Empêche toute modification accidentelle une fois le fond configuré. Ajout des premiers éléments graphiques Arrière-plan (Tiled Background) : Ajout d’un objet Tiled Background sur le calque Fond. Chargement de l’image BG.png. Positionnement à 0,0 et redimensionnement à la taille du layout (1280x1224) pour couvrir tout le niveau. Personnage joueur (Sprite) : Ajout d’un objet Sprite sur le calque Joueur. Chargement de l’image player.png. Renommage du sprite en Marine. Introduction aux comportements (Behaviors) Sélection du sprite Marine. Ajout du comportement 8 Direction via le panneau des propriétés. Ce comportement permet un déplacement facile du personnage avec les touches directionnelles du clavier, sans écrire de code. Test du jeu pour visualiser le personnage se déplaçant. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait été remplacé par Construct 3, les concepts fondamentaux introduits dans ce tutoriel restent d’une pertinence capitale pour tout développeur de jeux, quel que soit le moteur utilisé :\nLa philosophie “No-Code/Low-Code” : Construct 2 a été un pionnier dans la démocratisation de la création de jeux sans code ou avec très peu de code. Cette approche est plus que jamais d’actualité, avec des outils comme Construct 3, Unity Bolt, Unreal Engine Blueprints ou Godot Visual Script, qui permettent de se concentrer sur le design et la logique du jeu plutôt que sur la syntaxe du code. Le développement HTML5 et multiplateforme : La capacité de créer un jeu une seule fois et de le déployer sur une multitude de plateformes (web, mobile, desktop) est un avantage majeur. Le HTML5 reste une cible de choix pour les jeux casual, les prototypes et les applications interactives web. L’interface visuelle intuitive : La structure de l’interface de Construct 2 (panneaux de propriétés, zone de travail, explorateur de projet, gestion des calques) est un modèle que l’on retrouve dans la plupart des moteurs de jeu modernes. Maîtriser cette organisation facilite grandement l’apprentissage de nouveaux outils. Le système de comportements (Behaviors) : L’utilisation de comportements prédéfinis pour des actions courantes (mouvement, physique, détection de collisions) est une fonctionnalité puissante qui accélère considérablement le développement. Elle permet aux créateurs de se concentrer sur l’expérience de jeu plutôt que sur l’implémentation technique de base. La gestion des calques (Layers) : L’organisation des éléments du jeu en calques est une pratique fondamentale en 2D pour gérer la profondeur, les interactions et l’ordre d’affichage. Ce concept est universel et essentiel pour des scènes complexes. L’importance de la préparation du projet : Bien nommer ses éléments (layouts, event sheets, sprites) et organiser ses calques dès le début sont des bonnes pratiques qui évitent des problèmes futurs et facilitent la maintenance, quel que soit le moteur de jeu. Le concept de “Top-Down Shooter” : Ce genre de jeu simple est un excellent point de départ pour apprendre les bases du mouvement, des collisions, du tir et de la gestion des ennemis, des compétences transférables à de nombreux autres types de jeux. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Plongez dans le monde de la création de jeux HTML5 avec Construct 2 ! Ce premier tutoriel vous guide à travers l’installation, la découverte de l’interface et la mise en place des bases de votre premier jeu, un Top-Down Shooter.\nRésumé des notions clés Introduction à Construct 2 et HTML5 Avantages du HTML5 : Compatibilité multiplateforme (PC, Mac, Linux, iOS, Android), permettant de créer un jeu jouable partout. Construct 2 : Logiciel intuitif et accessible, idéal pour une première approche du développement de jeux. Versions de Construct 2 : Gratuite (avec limitations), personnelle (environ 60€), et commerciale (plus de 200€ pour la revente de jeux). Objectif de la série : Apprendre à créer un jeu de tir vu de dessus (Top-Down Shooter - TDS). Prise en main de l’interface de Construct 2 Panneau de propriétés (à gauche) : Affiche les attributs de l’élément sélectionné. Zone de travail centrale : Layout : La partie graphique où vous placez vos éléments de jeu. Event Sheet : La partie logique où vous définissez les interactions et comportements. Panneau de droite : Project Explorer : Gère l’ensemble de votre projet (layouts, event sheets, etc.). Layers : Permet de superposer les éléments du jeu sur différents niveaux (calques). Objects : Liste tous les objets présents dans la scène actuelle. Configuration du projet Création d’un nouveau projet (.capx pour un fichier unique). Nom du projet : TDS. Taille de la fenêtre de jeu (Window Size) : Définie à 640x480 pixels. Navigateur de prévisualisation (Preview Browser) : Permet de choisir le navigateur pour tester le jeu. Configuration du niveau (Layout) Renommage du layout par défaut en Level One. Taille du layout (Layout Size) : Définie à 1280x1224 (deux fois la taille de la fenêtre) pour un niveau plus grand que l’écran. Gestion des Event Sheets Renommage de l’Event Sheet par défaut en ES_Level One pour une meilleure organisation et la possibilité de réutiliser la même feuille d’événements pour plusieurs niveaux. Organisation des calques (Layers) Renommage du calque par défaut en Fond. Ajout de nouveaux calques : Joueur, Ennemis, HUD. Limitation de la version gratuite : Seulement 4 calques disponibles. Verrouillage du calque Fond : Empêche toute modification accidentelle une fois le fond configuré. Ajout des premiers éléments graphiques Arrière-plan (Tiled Background) : Ajout d’un objet Tiled Background sur le calque Fond. Chargement de l’image BG.png. Positionnement à 0,0 et redimensionnement à la taille du layout (1280x1224) pour couvrir tout le niveau. Personnage joueur (Sprite) : Ajout d’un objet Sprite sur le calque Joueur. Chargement de l’image player.png. Renommage du sprite en Marine. Introduction aux comportements (Behaviors) Sélection du sprite Marine. Ajout du comportement 8 Direction via le panneau des propriétés. Ce comportement permet un déplacement facile du personnage avec les touches directionnelles du clavier, sans écrire de code. Test du jeu pour visualiser le personnage se déplaçant. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait été remplacé par Construct 3, les concepts fondamentaux introduits dans ce tutoriel restent d’une pertinence capitale pour tout développeur de jeux, quel que soit le moteur utilisé :",
     "tags": [
@@ -125,6 +130,19 @@ var relearn_searchindex = [
     ],
     "title": "1. Introduction et premiers pas",
     "uri": "/construct-2/tuto-top-down-shooter/creer-jeu-html5-construct-2-introduction-premiers-pas/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Bienvenue dans ce second volet de notre série dédiée à Unreal Engine 4. Après avoir posé les bases de l’interface, nous allons nous concentrer sur l’optimisation de votre flux de travail quotidien. Que vous soyez artiste ou programmeur, comprendre comment structurer vos projets dès le départ est crucial pour éviter les goulots d’étranglement lors de la phase de production.\nRésumé des points clés Organisation des assets : L’importance d’une nomenclature stricte (Naming Convention) pour retrouver vos fichiers rapidement. Utilisation des Blueprints : Comment créer des systèmes modulaires pour faciliter la maintenance. Gestion des niveaux : Utilisation des Level Streaming pour optimiser les performances sur des environnements vastes. Le Content Browser : Astuces pour filtrer et organiser vos dossiers efficacement. Paramétrage du projet : Configurer les paramètres de rendu et d’input dès le début pour éviter les conflits futurs. Ce qui reste d’actualité aujourd’hui Bien que les versions plus récentes d’Unreal Engine aient introduit des outils comme Lumen ou Nanite, les fondamentaux abordés ici restent le socle de tout développement professionnel :\nLa rigueur structurelle : Peu importe la version du moteur, un projet désorganisé est un projet voué à l’échec. La hiérarchie des dossiers reste la règle d’or. La modularité : L’approche par composants et par Blueprints héritables est toujours la méthode recommandée pour créer des systèmes évolutifs. L’optimisation : La gestion des ressources et le découpage des niveaux sont des compétences transversales qui s’appliquent aussi bien à l’UE4 qu’à l’UE5. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Bienvenue dans ce second volet de notre série dédiée à Unreal Engine 4. Après avoir posé les bases de l’interface, nous allons nous concentrer sur l’optimisation de votre flux de travail quotidien. Que vous soyez artiste ou programmeur, comprendre comment structurer vos projets dès le départ est crucial pour éviter les goulots d’étranglement lors de la phase de production.\nRésumé des points clés Organisation des assets : L’importance d’une nomenclature stricte (Naming Convention) pour retrouver vos fichiers rapidement. Utilisation des Blueprints : Comment créer des systèmes modulaires pour faciliter la maintenance. Gestion des niveaux : Utilisation des Level Streaming pour optimiser les performances sur des environnements vastes. Le Content Browser : Astuces pour filtrer et organiser vos dossiers efficacement. Paramétrage du projet : Configurer les paramètres de rendu et d’input dès le début pour éviter les conflits futurs. Ce qui reste d’actualité aujourd’hui Bien que les versions plus récentes d’Unreal Engine aient introduit des outils comme Lumen ou Nanite, les fondamentaux abordés ici restent le socle de tout développement professionnel :",
+    "tags": [
+      "Unreal Engine 4",
+      "GameDev",
+      "Workflow",
+      "Tutoriel"
+    ],
+    "title": "2. Maîtriser le flux de travail dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/maitriser-flux-travail-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -185,7 +203,7 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/heberger-serveur-intersect-engine-linux-ubuntu/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Dans ce guide, nous allons franchir la première étape essentielle de votre aventure dans le développement de jeux vidéo : l’installation et la préparation de votre environnement de travail avec GameMaker Studio.\nRésumé des étapes clés Pour bien démarrer avec GameMaker Studio, voici les points essentiels abordés dans ce tutoriel :\nAccès au site officiel : Rendez-vous sur YoYoGames.com pour accéder aux ressources officielles et au téléchargement du moteur. Choix de la version : Le logiciel propose plusieurs paliers (Free, Pro, etc.). La version gratuite est amplement suffisante pour débuter et permet l’exportation vers Windows. Processus d’installation : Création d’un compte utilisateur obligatoire sur le site de YoYoGames. Téléchargement et exécution de l’installeur. Installation conjointe du “GameMaker Player”, utile pour tester vos projets sans avoir à compiler des exécutables complexes. Gestion des ressources : Avant de coder, il est primordial de préparer vos assets (graphismes, sons, musiques). Le tutoriel propose un pack de ressources spécifique pour un projet de type “Shoot ’em up” (Schmup), incluant des sprites de vaisseaux, des effets d’explosion et des fichiers audio. Ce qui reste d’actualité aujourd’hui Bien que l’interface de GameMaker ait évolué vers des versions plus récentes (comme GameMaker 2023+), les fondamentaux présentés ici restent le socle de tout développeur :\nLa philosophie du moteur : Le processus d’installation, la gestion des comptes via le site officiel et l’importance de bien organiser ses dossiers de ressources (assets) sont des pratiques qui n’ont pas changé. L’importance de la documentation : Le site officiel de YoYoGames reste la source de vérité pour les mises à jour, les licences et le support technique. La préparation du projet : Apprendre à structurer ses fichiers (sons, images, musiques) avant de lancer le moteur est une habitude de travail indispensable pour éviter de perdre du temps une fois dans l’éditeur. L’accessibilité : GameMaker continue de proposer des versions gratuites très performantes, permettant à n’importe quel débutant de créer et d’exporter ses premiers jeux sur PC sans barrière financière. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce guide, nous allons franchir la première étape essentielle de votre aventure dans le développement de jeux vidéo : l’installation et la préparation de votre environnement de travail avec GameMaker Studio.\nRésumé des étapes clés Pour bien démarrer avec GameMaker Studio, voici les points essentiels abordés dans ce tutoriel :",
     "tags": [
@@ -211,7 +229,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-premier-materiau-unreal-engine-4/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Créer un jeu de tir en vue de dessus avec Construct 2",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Développement d'un Top-Down Shooter",
     "content": "Plongez dans la deuxième partie de notre série de tutoriels Construct 2, où nous allons donner à notre personnage la capacité de viser avec la souris et de tirer des projectiles !\nRésumé des notions clés abordées : Ouverture de Projet et Prévisualisation Comment ouvrir un projet récent dans Construct 2. Utilisation de la fonction “Preview” pour tester le jeu en cours de développement. Introduction aux Événements Construct 2 Explication du concept d’événement : “Si [condition], alors [action]”. Utilisation de l’exemple de la cuisson des pâtes pour illustrer la logique événementielle. Comment ajouter un événement (Add Event) et une action (Add Action). L’événement Système “Every Tick” Présentation de l’événement System -\u003e Every Tick, qui s’exécute à chaque cycle de lecture du programme (la boucle de jeu). Son importance pour les actions continues. Intégration de la Souris Ajout de l’objet Mouse au projet pour capter les entrées de la souris. Utilisation des expressions Mouse.X et Mouse.Y pour obtenir les coordonnées du curseur. Visée du Personnage avec la Souris Action Marines -\u003e Set Angle Towards Position pour orienter le personnage vers un point spécifique. Combinaison de cette action avec Mouse.X et Mouse.Y pour que le personnage suive le curseur de la souris. Création et Configuration d’un Projectile (Balle) Ajout d’un nouveau Sprite pour représenter la balle. Application du comportement (Behavior) “Bullet” au sprite de la balle. Configuration des propriétés du comportement “Bullet” (vitesse, accélération, gravité, rebond). Astuce pour masquer le sprite initial de la balle en le plaçant hors de la zone de jeu. Système de Tir Création d’un événement Mouse -\u003e On Click (bouton gauche) pour déclencher le tir. Action Marines -\u003e Spawn another object pour instancier une balle à partir du personnage. Spécification du calque (Layer) sur lequel la balle doit apparaître. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les concepts fondamentaux abordés sont intemporels et s’appliquent à la plupart des moteurs de jeu modernes, y compris Construct 3 et d’autres plateformes de développement :\nLa Logique Événementielle (Event-Driven Programming) : Le principe “Si [condition], alors [action]” est le pilier de nombreux systèmes de jeu, en particulier dans les moteurs sans code ou low-code. Comprendre cette logique est essentiel pour créer des interactions dynamiques. La Boucle de Jeu (Game Loop) : L’événement “Every Tick” illustre le concept universel de la boucle de jeu, où le programme met à jour l’état du jeu en continu. C’est le cœur de tout jeu en temps réel. Gestion des Inputs : L’intégration des périphériques d’entrée (souris, clavier, manette) est une étape fondamentale. Les méthodes pour capter les clics ou les positions du curseur sont des compétences transférables. Comportements (Behaviors / Components) : L’idée d’attacher des fonctionnalités pré-construites (comme le comportement “Bullet”) à des objets est une abstraction puissante. Dans d’autres moteurs, cela se retrouve sous forme de composants ou de scripts réutilisables. Instanciation Dynamique d’Objets (Spawning) : Créer des objets en cours de jeu (comme des projectiles, des ennemis ou des effets) à partir de “préfabriqués” ou de “modèles” est une technique courante et indispensable pour la plupart des jeux. Gestion des Calques (Layers) : Organiser les éléments du jeu sur différents calques est une pratique standard pour gérer la profondeur de rendu, les interactions et la visibilité des objets. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Plongez dans la deuxième partie de notre série de tutoriels Construct 2, où nous allons donner à notre personnage la capacité de viser avec la souris et de tirer des projectiles !\nRésumé des notions clés abordées : Ouverture de Projet et Prévisualisation Comment ouvrir un projet récent dans Construct 2. Utilisation de la fonction “Preview” pour tester le jeu en cours de développement. Introduction aux Événements Construct 2 Explication du concept d’événement : “Si [condition], alors [action]”. Utilisation de l’exemple de la cuisson des pâtes pour illustrer la logique événementielle. Comment ajouter un événement (Add Event) et une action (Add Action). L’événement Système “Every Tick” Présentation de l’événement System -\u003e Every Tick, qui s’exécute à chaque cycle de lecture du programme (la boucle de jeu). Son importance pour les actions continues. Intégration de la Souris Ajout de l’objet Mouse au projet pour capter les entrées de la souris. Utilisation des expressions Mouse.X et Mouse.Y pour obtenir les coordonnées du curseur. Visée du Personnage avec la Souris Action Marines -\u003e Set Angle Towards Position pour orienter le personnage vers un point spécifique. Combinaison de cette action avec Mouse.X et Mouse.Y pour que le personnage suive le curseur de la souris. Création et Configuration d’un Projectile (Balle) Ajout d’un nouveau Sprite pour représenter la balle. Application du comportement (Behavior) “Bullet” au sprite de la balle. Configuration des propriétés du comportement “Bullet” (vitesse, accélération, gravité, rebond). Astuce pour masquer le sprite initial de la balle en le plaçant hors de la zone de jeu. Système de Tir Création d’un événement Mouse -\u003e On Click (bouton gauche) pour déclencher le tir. Action Marines -\u003e Spawn another object pour instancier une balle à partir du personnage. Spécification du calque (Layer) sur lequel la balle doit apparaître. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les concepts fondamentaux abordés sont intemporels et s’appliquent à la plupart des moteurs de jeu modernes, y compris Construct 3 et d’autres plateformes de développement :",
     "tags": [
@@ -227,6 +245,19 @@ var relearn_searchindex = [
     ],
     "title": "2. Visée à la Souris et Tirs de Balles",
     "uri": "/construct-2/tuto-top-down-shooter/tutoriel-construct-2-visee-tirs-balles/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Bienvenue dans ce troisième chapitre de notre série dédiée à la maîtrise d’Unreal Engine 4. Après avoir installé l’environnement, il est temps de passer à l’action en créant votre tout premier projet. Que vous souhaitiez concevoir un jeu de plateforme, un FPS ou une simulation, tout commence par le choix du bon template.\nRésumé des étapes de création Pour bien débuter, voici la marche à suivre dans le Launcher Epic Games :\nLancement : Ouvrez le Launcher, allez dans l’onglet “Bibliothèque” et lancez la version 4.12 (ou supérieure). Sélection du mode : Choisissez entre “Blueprint” (programmation visuelle par nœuds) ou “C++” (programmation textuelle). Choix du Template : Sélectionnez le modèle adapté à votre projet (Third Person, First Person, Top Down, etc.). Paramétrage : Target Hardware : Desktop/Console ou Mobile/Tablet. Qualité : Maximum Quality ou Scalable 3D/2D. Starter Content : À cocher si vous souhaitez disposer d’objets, lumières et matériaux de base pour prototyper rapidement. Nommage : Donnez un nom explicite à votre projet (sans espaces ni caractères spéciaux). Ce qui reste d’actualité aujourd’hui Bien que cet article se base sur une version ancienne (4.12), les fondamentaux de l’interface d’Unreal Engine restent extrêmement stables :\nLa structure des Templates : Le concept de “Third Person Template” est toujours la porte d’entrée idéale pour comprendre la gestion des caméras, des inputs et du Character Movement Component. Le choix Blueprint vs C++ : Cette distinction est toujours au cœur de l’architecture d’Unreal Engine 5. Apprendre à manipuler les Blueprints reste la compétence numéro 1 pour prototyper rapidement. Le Starter Content : L’utilisation de bibliothèques d’assets de base pour tester ses mécaniques de jeu avant de passer à la modélisation finale est une pratique standard dans l’industrie. L’importance du nommage : La gestion des chemins de fichiers et des noms de projets sans espaces reste une règle d’or pour éviter les erreurs de compilation ou de packaging, peu importe la version du moteur. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Bienvenue dans ce troisième chapitre de notre série dédiée à la maîtrise d’Unreal Engine 4. Après avoir installé l’environnement, il est temps de passer à l’action en créant votre tout premier projet. Que vous souhaitiez concevoir un jeu de plateforme, un FPS ou une simulation, tout commence par le choix du bon template.\nRésumé des étapes de création Pour bien débuter, voici la marche à suivre dans le Launcher Epic Games :",
+    "tags": [
+      "Unreal Engine 4",
+      "Débutant",
+      "Templates",
+      "Blueprints"
+    ],
+    "title": "3. Démarrer son premier projet dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/demarrer-premier-projet-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -273,7 +304,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/systeme-construction/3-overlaps-erreurs-construction/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Dans ce guide, nous explorons les étapes fondamentales pour bien débuter sur Game Maker Studio : de la configuration de votre premier projet à l’importation structurée de vos assets graphiques et sonores.\nRésumé des notions clés Pour bien structurer votre projet dès le lancement, voici les étapes essentielles abordées :\nInitialisation du projet : Création via l’onglet “New”, choix du répertoire et importance du nommage pour une meilleure organisation. Interface utilisateur : Compréhension de la hiérarchie de l’interface, notamment la colonne de gauche dédiée aux ressources (Sprites, Sounds, Backgrounds). Gestion des Sprites : Renommage systématique (ex: s_vaisseau) pour éviter les conflits. Utilisation de l’outil “Center” pour définir le point d’origine de l’objet. Activation du “Precise collision checking” pour une détection de collision pixel-par-pixel, idéale pour les jeux d’action. Gestion des Sons : Importation via “Load Sound”, avec une préférence pour le mode “Uncompressed” pour les musiques afin de limiter la charge CPU. Gestion des Backgrounds : Importation des fonds (ex: étoiles pour un effet de parallaxe) via la section dédiée. Bonnes pratiques : Sauvegarde régulière du projet pour éviter toute perte de données en cas de plantage. Ce qui reste d’actualité aujourd’hui Bien que Game Maker ait évolué vers des versions plus récentes (comme GMS2 ou GMS3), les fondamentaux présentés ici restent le socle de tout développement réussi :\nLa rigueur du nommage : Adopter une convention (préfixes comme s_, snd_, bg_) est une règle d’or qui vous sauvera des heures de débogage lorsque votre projet comptera des centaines d’assets. La gestion des collisions : La distinction entre les masques de collision simples (rectangulaires) et précis reste cruciale pour équilibrer performance et précision dans vos jeux. L’optimisation sonore : Le choix entre “Uncompressed” (pour la rapidité d’exécution) et “Compressed” (pour économiser la mémoire vive) est toujours une question pertinente pour le développement sur mobile ou plateformes limitées. L’organisation de l’espace de travail : La structure par dossiers (Sprites, Sounds, Rooms) est le cœur même du workflow de Game Maker, garantissant une navigation fluide dans vos projets les plus complexes. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce guide, nous explorons les étapes fondamentales pour bien débuter sur Game Maker Studio : de la configuration de votre premier projet à l’importation structurée de vos assets graphiques et sonores.\nRésumé des notions clés Pour bien structurer votre projet dès le lancement, voici les étapes essentielles abordées :",
     "tags": [
@@ -286,7 +317,7 @@ var relearn_searchindex = [
     "uri": "/game-maker-studio/shoot-them-up/demarrer-projet-game-maker-studio-gestion-ressources/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Créer un jeu de tir en vue de dessus avec Construct 2",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Développement d'un Top-Down Shooter",
     "content": "Dans cette troisième partie de notre tutoriel sur Construct 2, nous allons donner vie à notre jeu en introduisant des ennemis et une intelligence artificielle rudimentaire.\nRésumé des notions clés abordées : Préparation de l’environnement : Verrouillage des calques existants (HUD, Joueur, Fond) pour s’assurer de travailler exclusivement sur le calque “Monstres”. Création d’un nouveau Sprite nommé “Mubbe” (notre monstre) et importation de son image. Comportement des Monstres : Ajout du comportement “Bullet” (Projectile) au monstre, le considérant comme un projectile qui se déplace. Réglage de la vitesse du monstre (ex: 50) pour un mouvement plus lent et contrôlé. Intelligence Artificielle Simple (Suivi de Joueur) : Dans la feuille d’événements (Event Sheet), à chaque “tick” (chaque boucle de jeu) : Le monstre utilise l’action “Set Angle Towards Position” pour toujours regarder et se diriger vers la position (X, Y) du joueur. Gestion des Collisions : Balle vs. Monstre : Événement : Quand la “Balle” entre en collision avec “Mubbe”. Actions : “Mubbe: Destroy” (le monstre disparaît), “Balle: Destroy” (la balle disparaît après l’impact). Joueur vs. Monstre : Événement : Quand le “Marine” (le joueur) entre en collision avec “Mubbe”. Action : “Marine: Destroy” (le joueur disparaît – cette action est temporaire pour les tests et sera remplacée par un système de points de vie/Game Over plus tard). Duplication des Monstres : Démonstration de la facilité à dupliquer les monstres configurés (Ctrl+C, Ctrl+V) pour peupler rapidement le niveau avec plusieurs ennemis. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les principes fondamentaux du développement de jeux qu’il aborde sont intemporels et s’appliquent à la plupart des moteurs de jeu modernes :\nLogique événementielle et Comportements : Le concept de “feuille d’événements” et l’utilisation de “comportements” pré-faits pour gérer le mouvement, les projectiles ou l’IA sont des piliers du développement de jeux sans code ou à faible code (comme GDevelop, Scratch, ou même des systèmes de nœuds visuels dans Unity/Unreal). Gestion des entités et des collisions : Créer des objets (Sprites), leur attribuer des propriétés et gérer leurs interactions (collisions) est la base de tout jeu. La détection de collision et les actions qui en découlent sont des mécaniques essentielles. IA simple (Suivi de joueur) : La technique de faire “regarder” un ennemi vers le joueur est une forme d’IA très courante et efficace pour les jeux d’action top-down ou les tower defense. Elle est souvent le point de départ pour des IA plus complexes. Organisation du projet : L’utilisation de calques (layers) pour structurer les éléments du jeu (joueur, HUD, ennemis, fond) reste une excellente pratique pour maintenir la clarté du projet et gérer l’ordre de rendu. Prototypage rapide : Construct 2, comme d’autres outils similaires, excelle dans le prototypage rapide. Les méthodes présentées permettent de mettre en place des mécaniques de jeu de base en un temps record, ce qui est précieux pour tester des idées. Développement HTML5 : Construct 2 génère des jeux HTML5, un format toujours très pertinent pour les jeux web, mobiles via des wrappers, et même pour des applications légères. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans cette troisième partie de notre tutoriel sur Construct 2, nous allons donner vie à notre jeu en introduisant des ennemis et une intelligence artificielle rudimentaire.\nRésumé des notions clés abordées : Préparation de l’environnement : Verrouillage des calques existants (HUD, Joueur, Fond) pour s’assurer de travailler exclusivement sur le calque “Monstres”. Création d’un nouveau Sprite nommé “Mubbe” (notre monstre) et importation de son image. Comportement des Monstres : Ajout du comportement “Bullet” (Projectile) au monstre, le considérant comme un projectile qui se déplace. Réglage de la vitesse du monstre (ex: 50) pour un mouvement plus lent et contrôlé. Intelligence Artificielle Simple (Suivi de Joueur) : Dans la feuille d’événements (Event Sheet), à chaque “tick” (chaque boucle de jeu) : Le monstre utilise l’action “Set Angle Towards Position” pour toujours regarder et se diriger vers la position (X, Y) du joueur. Gestion des Collisions : Balle vs. Monstre : Événement : Quand la “Balle” entre en collision avec “Mubbe”. Actions : “Mubbe: Destroy” (le monstre disparaît), “Balle: Destroy” (la balle disparaît après l’impact). Joueur vs. Monstre : Événement : Quand le “Marine” (le joueur) entre en collision avec “Mubbe”. Action : “Marine: Destroy” (le joueur disparaît – cette action est temporaire pour les tests et sera remplacée par un système de points de vie/Game Over plus tard). Duplication des Monstres : Démonstration de la facilité à dupliquer les monstres configurés (Ctrl+C, Ctrl+V) pour peupler rapidement le niveau avec plusieurs ennemis. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les principes fondamentaux du développement de jeux qu’il aborde sont intemporels et s’appliquent à la plupart des moteurs de jeu modernes :",
     "tags": [
@@ -329,6 +360,20 @@ var relearn_searchindex = [
     ],
     "title": "3. Maîtriser les Matériaux Dynamiques et les Instances",
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-materiaux-dynamiques-instances-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Bienvenue dans ce quatrième volet de notre formation dédiée à Unreal Engine 4. Avant de plonger dans le développement pur, il est indispensable de savoir naviguer dans l’interface. L’éditeur peut paraître intimidant au premier abord — sachez que ce que vous voyez à l’écran ne représente qu’une infime partie de la puissance du moteur — mais une fois les zones clés identifiées, tout devient beaucoup plus intuitif.\nRésumé des points clés de l’interface Dans cet épisode, nous avons exploré les piliers de l’éditeur :\nLe Viewport : Votre fenêtre sur le monde. C’est ici que vous visualisez votre niveau, placez vos objets et ajustez l’échelle de votre environnement. Le panneau Modes (colonne de gauche) : Indispensable pour le placement d’objets (Place), la création de terrains (Landscape), la peinture de végétation (Foliage) ou l’édition de géométries. Le Content Browser : Le cœur de votre projet. Il centralise tous vos assets (textures, sons, blueprints, effets) utilisables à travers tous vos niveaux. Le World Outliner : La liste hiérarchique de tous les objets présents dans votre niveau actuel. Une bonne organisation ici (dossiers, nommage) est la clé pour ne pas se perdre. Le panneau Details : La fiche d’identité de chaque objet sélectionné. C’est ici que vous modifiez les propriétés spécifiques (position, rotation, matériaux, paramètres physiques). Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des changements visuels (notamment avec l’arrivée de l’interface Slate modernisée et de nouveaux outils comme Lumen ou Nanite), les fondamentaux présentés ici restent le socle de votre travail :\nLa distinction entre le Content Browser et le World Outliner : Cette séparation entre “ce qui existe dans le projet” et “ce qui est instancié dans le niveau” est une règle d’or qui n’a pas changé. L’importance du panneau Details : Quel que soit le moteur, la gestion des propriétés d’un objet reste le moyen principal de configurer le comportement de vos entités. La navigation dans le Viewport : Les réflexes de déplacement (clic droit pour pivoter, touches ZQSD/WASD) sont devenus un standard de l’industrie que vous retrouverez dans presque tous les logiciels de création 3D. L’organisation du projet : La nécessité de nommer correctement vos objets et de créer des dossiers dans le Content Browser reste la meilleure pratique pour maintenir un projet sain, que vous soyez sur UE4 ou UE5. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Bienvenue dans ce quatrième volet de notre formation dédiée à Unreal Engine 4. Avant de plonger dans le développement pur, il est indispensable de savoir naviguer dans l’interface. L’éditeur peut paraître intimidant au premier abord — sachez que ce que vous voyez à l’écran ne représente qu’une infime partie de la puissance du moteur — mais une fois les zones clés identifiées, tout devient beaucoup plus intuitif.\nRésumé des points clés de l’interface Dans cet épisode, nous avons exploré les piliers de l’éditeur :",
+    "tags": [
+      "Interface",
+      "Editor",
+      "Débutant",
+      "Viewport",
+      "Content Browser"
+    ],
+    "title": "4. Découverte et prise en main de l''interface Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/decouverte-interface-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -388,13 +433,13 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/maitriser-mapping-intersect-engine-calques-auto-tiles/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Dans ce guide, nous allons transformer vos ressources graphiques en éléments interactifs et donner vie à votre premier niveau grâce à la technique du scrolling parallaxe.\nRésumé des notions clés Gestion des Objets (Objects) : Les sprites ne sont que des images statiques. Pour leur donner vie (vitesse, collisions, logique), il est indispensable de les convertir en “Objets”. Configuration des Rooms : La “Room” est votre espace de jeu. Il est crucial de définir ses dimensions (largeur/hauteur) et sa fréquence de rafraîchissement (FPS) pour garantir une expérience fluide. Superposition de Backgrounds : Game Maker permet d’empiler plusieurs calques de fond pour enrichir visuellement votre scène. Effet de Parallaxe : En attribuant des vitesses de défilement horizontales (Hspeed) différentes à chaque calque de fond, vous créez une illusion de profondeur et de distance, essentielle pour le dynamisme d’un jeu 2D. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de Game Maker (GMS2 et versions ultérieures) aient fait évoluer l’interface utilisateur, les concepts fondamentaux abordés ici restent le socle de tout développement 2D :\nLa séparation Sprite/Objet : Cette architecture reste le cœur du moteur. Comprendre que l’objet est le conteneur logique de votre entité est une compétence indispensable. La gestion des calques (Layers) : La logique de superposition des backgrounds est devenue encore plus puissante avec le système de “Layer” moderne, permettant de gérer la profondeur (Z-index) de manière très intuitive. Le Parallaxe : Cette technique demeure le standard de l’industrie pour donner du relief aux jeux en 2D. La manipulation des vitesses de défilement est toujours la méthode la plus efficace et la moins coûteuse en ressources pour simuler un environnement vivant. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce guide, nous allons transformer vos ressources graphiques en éléments interactifs et donner vie à votre premier niveau grâce à la technique du scrolling parallaxe.\nRésumé des notions clés Gestion des Objets (Objects) : Les sprites ne sont que des images statiques. Pour leur donner vie (vitesse, collisions, logique), il est indispensable de les convertir en “Objets”. Configuration des Rooms : La “Room” est votre espace de jeu. Il est crucial de définir ses dimensions (largeur/hauteur) et sa fréquence de rafraîchissement (FPS) pour garantir une expérience fluide. Superposition de Backgrounds : Game Maker permet d’empiler plusieurs calques de fond pour enrichir visuellement votre scène. Effet de Parallaxe : En attribuant des vitesses de défilement horizontales (Hspeed) différentes à chaque calque de fond, vous créez une illusion de profondeur et de distance, essentielle pour le dynamisme d’un jeu 2D. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de Game Maker (GMS2 et versions ultérieures) aient fait évoluer l’interface utilisateur, les concepts fondamentaux abordés ici restent le socle de tout développement 2D :",
     "tags": [
       "GameMaker",
       "Tutoriel",
-      "Gamedev",
+      "GameDev",
       "LevelDesign"
     ],
     "title": "4. Création des objets et mise en place du scrolling parallaxe",
@@ -414,7 +459,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiaux-emissifs-unreal-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Créer un jeu de tir en vue de dessus avec Construct 2",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Développement d'un Top-Down Shooter",
     "content": "Dans ce quatrième épisode de notre série sur Construct 2, nous plongeons au cœur de la gestion des dégâts et de l’introduction des variables d’instance pour rendre nos interactions de jeu plus dynamiques et réalistes.\nRésumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet épisode clé nous guide à travers l’implémentation d’un système de dégâts et l’utilisation des variables, des concepts fondamentaux en développement de jeux.\nIntroduction aux Variables d’Instance Définition : Les variables sont des valeurs qui peuvent être modifiées par le jeu et pendant le jeu, par opposition aux constantes qui restent fixes. Utilité : Elles sont essentielles pour gérer les états dynamiques des objets (points de vie, dégâts, scores, etc.). Configuration des Variables pour les Objets du Jeu Joueur (Marine) : Ajout d’une variable d’instance Vie_Joueur (type: Nombre, valeur initiale: 100). Ennemi (Mob) : Ajout de deux variables d’instance : Degats_Mob (type: Nombre, valeur initiale: 5) pour les dégâts infligés au joueur. Vie_Mob (type: Nombre, valeur initiale: 10) pour les points de vie du mob. Balle (Bullet) : Ajout d’une variable d’instance Degats_Balle (type: Nombre, valeur initiale: 5) pour les dégâts infligés aux mobs. Types de Variables : Construct 2 propose des types “Nombre”, “Booléen” (vrai/faux) et “Texte”. Modification : Les variables d’instance sont ajoutées et modifiées via le panneau des propriétés de chaque objet. Logique des Événements pour les Dégâts et la Mort Joueur touché par un Mob : Mort du joueur : Si Marine entre en collision avec Mob ET Vie_Joueur est inférieure ou égale à Mob.Degats_Mob, alors Destroy Marine. Perte de vie : Si Marine entre en collision avec Mob, alors Marine: Soustraire de Vie_Joueur la valeur de Mob.Degats_Mob. Mob touché par une Balle : Mort du mob : Si Bullet entre en collision avec Mob ET Vie_Mob est inférieure ou égale à Bullet.Degats_Balle, alors Destroy Mob et Destroy Bullet. Perte de vie du mob : Si Bullet entre en collision avec Mob, alors Mob: Soustraire de Vie_Mob la valeur de Bullet.Degats_Balle, puis Destroy Bullet. Affichage de la Vie du Joueur (HUD) Création : Ajout d’un objet Text sur le layout (calque HUD). Mise à jour : Dans l’événement System: Every Tick, ajouter l’action Text: Set text à la valeur de Marine.Vie_Joueur pour un affichage en temps réel. Suivi de Caméra sur le Joueur Implémentation : Dans l’événement System: Every Tick, ajouter l’action System: Scroll to object (Marine) pour que la caméra suive le joueur. Organisation des Événements Regroupement : Brève introduction à l’organisation des événements en groupes pour une meilleure lisibilité et gestion du projet. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les concepts abordés sont des piliers du développement de jeux et restent pleinement pertinents, quel que soit le moteur ou le langage utilisé :\nVariables d’Instance (ou Propriétés d’Objet) : C’est un concept fondamental. Dans Unity, Godot, Unreal Engine ou même en programmation pure (C++, Python), chaque instance d’un objet peut avoir ses propres propriétés (variables) qui définissent son état unique (sa vie, sa position, sa couleur, etc.). Comprendre leur rôle est essentiel pour créer des jeux dynamiques. Systèmes de Dégâts et de Santé : La logique de soustraction de points de vie, la vérification d’un seuil de mort (vie \u003c= 0 ou vie \u003c= dégâts entrants), et la destruction de l’objet sont des mécanismes universels. La manière de les implémenter peut varier (scripts, blueprints, événements visuels), mais le principe reste le même. Affichage Dynamique de l’Interface Utilisateur (HUD) : Mettre à jour des éléments visuels (barres de vie, scores, compteurs) en temps réel en fonction des variables du jeu est une pratique courante pour informer le joueur. Cela se fait via des Canvas UI dans Unity, des Control Nodes dans Godot, ou des widgets dans Unreal. Logique Conditionnelle : L’utilisation de conditions (If, Else If, Else, opérateurs de comparaison comme \u003c=, ==, \u003e) est la base de toute programmation. Les événements de Construct 2 illustrent parfaitement comment ces conditions structurent le comportement du jeu. Gestion de Caméra : Le suivi de caméra (Scroll to object) est un mécanisme essentiel pour de nombreux types de jeux. Des systèmes plus avancés incluent des zones mortes, des interpolations douces ou des caméras cinématiques, mais le principe de base est de maintenir le joueur à l’écran. Organisation du Code/des Événements : Regrouper les événements ou le code par fonctionnalité (joueur, ennemis, UI) est une bonne pratique pour maintenir un projet propre, lisible et facile à déboguer, quel que soit l’outil. Ces notions sont des fondations solides pour quiconque souhaite se lancer dans le développement de jeux, et les apprendre avec Construct 2 offre une excellente porte d’entrée visuelle et intuitive.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce quatrième épisode de notre série sur Construct 2, nous plongeons au cœur de la gestion des dégâts et de l’introduction des variables d’instance pour rendre nos interactions de jeu plus dynamiques et réalistes.\nRésumé de l’épisode : Gérer les Dégâts et les Variables d’Instance Cet épisode clé nous guide à travers l’implémentation d’un système de dégâts et l’utilisation des variables, des concepts fondamentaux en développement de jeux.",
     "tags": [
@@ -428,6 +473,19 @@ var relearn_searchindex = [
     ],
     "title": "4. Gérer les Dégâts et Introduire les Variables d'Instance",
     "uri": "/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables-instance/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Bienvenue dans ce cinquième volet de notre série sur Unreal Engine 4. Travailler sur un moteur de jeu demande une aisance totale avec ses outils. Par défaut, Unreal Engine est configuré pour les claviers QWERTY, ce qui peut être un frein majeur pour les développeurs utilisant un clavier AZERTY. Dans cet article, nous allons configurer l’éditeur et les paramètres de votre projet pour une expérience de navigation fluide.\nAu programme de cet épisode : Optimisation de l’interface : Apprendre à organiser ses fenêtres (Editor Preferences) pour une meilleure visibilité, notamment sur écran unique. Navigation dans le Viewport : Remappage complet des touches de déplacement (ZQSD) pour correspondre aux standards français. Configuration des entrées (Input) : Modification des Action Mappings et Axis Mappings dans les Project Settings pour que votre personnage réponde correctement aux touches AZERTY. Workflow de test : Utilisation de la fenêtre “New Editor Window” pour séparer l’aperçu du jeu de l’éditeur et faciliter le débogage. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient évolué, les fondamentaux abordés ici restent cruciaux :\nLa gestion des Input : La logique des Axis Mappings (pour les mouvements continus comme ZQSD) et des Action Mappings (pour les actions ponctuelles comme le saut) est le socle de la gestion des contrôles dans Unreal Engine. Même avec l’arrivée du système Enhanced Input dans les versions plus récentes, comprendre la hiérarchie des axes reste indispensable. L’ergonomie de travail : La personnalisation de l’interface via les Editor Preferences est une pratique recommandée pour tous les développeurs. Savoir détacher les fenêtres de prévisualisation permet de mieux surveiller les Blueprints en temps réel pendant que le jeu tourne. La gestion des périphériques : Le nettoyage des entrées inutiles (comme les contrôles VR par défaut si vous n’en avez pas besoin) est une bonne habitude pour garder un projet propre et éviter les conflits de touches. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Bienvenue dans ce cinquième volet de notre série sur Unreal Engine 4. Travailler sur un moteur de jeu demande une aisance totale avec ses outils. Par défaut, Unreal Engine est configuré pour les claviers QWERTY, ce qui peut être un frein majeur pour les développeurs utilisant un clavier AZERTY. Dans cet article, nous allons configurer l’éditeur et les paramètres de votre projet pour une expérience de navigation fluide.\nAu programme de cet épisode : Optimisation de l’interface : Apprendre à organiser ses fenêtres (Editor Preferences) pour une meilleure visibilité, notamment sur écran unique. Navigation dans le Viewport : Remappage complet des touches de déplacement (ZQSD) pour correspondre aux standards français. Configuration des entrées (Input) : Modification des Action Mappings et Axis Mappings dans les Project Settings pour que votre personnage réponde correctement aux touches AZERTY. Workflow de test : Utilisation de la fenêtre “New Editor Window” pour séparer l’aperçu du jeu de l’éditeur et faciliter le débogage. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient évolué, les fondamentaux abordés ici restent cruciaux :",
+    "tags": [
+      "Configuration",
+      "Interface",
+      "Input",
+      "Débutant"
+    ],
+    "title": "5. Configuration des raccourcis clavier (AZERTY) et des contrôles",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/configuration-raccourcis-clavier-azerty-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -486,7 +544,7 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/creer-environnements-vivants-intersect-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Dans ce guide, nous allons apprendre à placer votre vaisseau dans la room et à lui donner vie grâce aux bases du Game Maker Language (GML).\nRésumé des notions clés Placement dans la Room : Utilisez l’onglet “Object” pour sélectionner votre vaisseau et le placer dans votre niveau. L’utilisation de la grille (Grid) est essentielle pour aligner précisément vos éléments. Le concept Événement/Action : La logique de Game Maker repose sur ce duo. Un événement (ex: appui sur une touche) déclenche une action spécifique. Utilisation du GML (Game Maker Language) : Plutôt que le Drag \u0026 Drop, nous utilisons ici l’éditeur de code pour une meilleure flexibilité. Variables intégrées : Game Maker gère nativement les coordonnées x et y de vos objets, vous évitant de les déclarer manuellement. Système de coordonnées : Dans Game Maker, l’origine (0,0) se situe en haut à gauche. Pour monter, on soustrait une valeur à y ; pour descendre, on l’additionne. Syntaxe condensée : Apprenez à utiliser les opérateurs d’affectation composée comme y -= 5 ou y += 5 pour un code plus propre et rapide. Commentaires : Utilisez // pour des notes personnelles et /// pour nommer vos blocs de code dans l’interface de l’objet. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de Game Maker aient évolué, les fondamentaux abordés ici restent le socle de tout projet :\nLa gestion des coordonnées : Le système de coordonnées (0,0 en haut à gauche) est une norme dans la quasi-totalité des moteurs 2D. Maîtriser ce déplacement est indispensable. L’importance du GML : Apprendre à écrire du code plutôt que de se reposer uniquement sur des briques visuelles vous donne une liberté créative totale et facilite le débogage de vos jeux complexes. La structure événementielle : La logique “Événement -\u003e Action” est le cœur battant de Game Maker. Comprendre comment les événements clavier (Keyboard Event) interagissent avec les variables d’instance est une compétence transférable à n’importe quel autre langage de programmation orienté objet. Bonnes pratiques : L’utilisation des commentaires et la simplification du code (y += 5) sont des habitudes de développeur professionnel qui rendent votre projet maintenable sur le long terme. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce guide, nous allons apprendre à placer votre vaisseau dans la room et à lui donner vie grâce aux bases du Game Maker Language (GML).\nRésumé des notions clés Placement dans la Room : Utilisez l’onglet “Object” pour sélectionner votre vaisseau et le placer dans votre niveau. L’utilisation de la grille (Grid) est essentielle pour aligner précisément vos éléments. Le concept Événement/Action : La logique de Game Maker repose sur ce duo. Un événement (ex: appui sur une touche) déclenche une action spécifique. Utilisation du GML (Game Maker Language) : Plutôt que le Drag \u0026 Drop, nous utilisons ici l’éditeur de code pour une meilleure flexibilité. Variables intégrées : Game Maker gère nativement les coordonnées x et y de vos objets, vous évitant de les déclarer manuellement. Système de coordonnées : Dans Game Maker, l’origine (0,0) se situe en haut à gauche. Pour monter, on soustrait une valeur à y ; pour descendre, on l’additionne. Syntaxe condensée : Apprenez à utiliser les opérateurs d’affectation composée comme y -= 5 ou y += 5 pour un code plus propre et rapide. Commentaires : Utilisez // pour des notes personnelles et /// pour nommer vos blocs de code dans l’interface de l’objet. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de Game Maker aient évolué, les fondamentaux abordés ici restent le socle de tout projet :",
     "tags": [
@@ -500,7 +558,7 @@ var relearn_searchindex = [
     "uri": "/game-maker-studio/shoot-them-up/debuter-game-maker-integrer-deplacer-vaisseau/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Créer un jeu de tir en vue de dessus avec Construct 2",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Développement d'un Top-Down Shooter",
     "content": "Dans ce cinquième épisode de notre série sur Construct 2, nous allons approfondir la gestion de l’interface utilisateur et des mécaniques de jeu essentielles, en nous concentrant sur les munitions et le rechargement.\nRésumé des notions clés abordées : Gestion du HUD Statique avec Parallax (0,0) Apprentissage de la propriété Parallax pour les calques (Layers) dans Construct 2. Configuration du calque HUD (Heads-Up Display) avec une valeur de parallax de 0,0 pour s’assurer que les éléments d’interface (vie, munitions) restent fixes à l’écran, indépendamment du défilement de la caméra. Affichage des Munitions Création d’un objet Text sur le calque HUD pour afficher le nombre de munitions restantes. Personnalisation du texte (police, taille, couleur, position). Variables d’Instance pour les Munitions Pour le Joueur (Marine) : MaxMun : Variable d’instance pour définir la capacité maximale de munitions que le joueur peut porter (ex: 6 pour un revolver). Munition : Variable d’instance pour suivre le nombre actuel de munitions du joueur. Pour les Chargeurs (Charger) : Charge : Variable d’instance pour définir la quantité de munitions qu’un chargeur (pickup) fournit. Initialisation des Munitions au Démarrage du Niveau Utilisation de l’événement système On Start Of Layout pour initialiser la variable Munition du joueur à la valeur de MaxMun. Cela assure que le joueur commence chaque niveau avec un chargeur plein. Mise à Jour de l’Affichage des Munitions Dans l’événement système Every Tick (à chaque image du jeu), mise à jour de l’objet Text des munitions pour qu’il affiche la valeur actuelle de la variable Munition du joueur. Mécanique de Tir et Consommation de Munitions Modification de l’événement Mouse - On Left Button Clicked (lorsque le joueur tire). Condition : Ajout d’une condition Marine.Munition \u003e 0 pour s’assurer que le joueur ne peut tirer que s’il a des munitions. Action : Soustraire 1 à la variable Munition du joueur après chaque tir. Ramassage des Chargeurs (Pickups) Création d’un objet Sprite pour représenter un chargeur de munitions sur le sol. Événement : Marine - Is Overlapping another object (Charger) (lorsque le joueur entre en collision avec un chargeur). Condition Cruciale : Ajout d’une condition pour éviter de recharger au-delà de la capacité maximale : Marine.MaxMun \u003e= Marine.Munition + Charger.Charge. Cela vérifie si l’ajout des munitions du chargeur ne dépasse pas la capacité maximale du joueur. Actions : Ajouter la valeur de Charger.Charge à la variable Munition du joueur. Détruire l’objet Charger pour le faire disparaître du niveau. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les concepts abordés sont des piliers fondamentaux du développement de jeux vidéo et restent entièrement pertinents, quel que soit le moteur ou le langage utilisé :\nGestion de l’Interface Utilisateur (UI/HUD) : La nécessité de calques dédiés pour l’interface utilisateur et la gestion de leur comportement (comme la fixité à l’écran via le parallax) est une pratique standard pour une bonne expérience joueur. Tous les moteurs modernes offrent des outils robustes pour cela. Variables d’Instance et Gestion des États : L’utilisation de variables pour stocker des données spécifiques à chaque objet (vie, munitions, vitesse, etc.) est la base de la logique de jeu. Comprendre comment définir, modifier et comparer ces variables est essentiel pour créer des systèmes de jeu dynamiques. Logique Conditionnelle et Événementielle : Le modèle “si [condition] alors [action]” est le cœur de la programmation. Savoir comment enchaîner des conditions complexes (comme empêcher le tir sans munitions ou le sur-rechargement) est une compétence précieuse pour tout développeur. Interactions Objets-Joueur (Pickups) : La détection de collision et la gestion des interactions avec des objets ramassables (santé, munitions, bonus) sont des mécaniques de jeu universelles, présentes dans presque tous les types de jeux. Construct 2 comme Tremplin : L’approche visuelle de Construct 2 est excellente pour apprendre ces concepts sans se noyer dans la syntaxe complexe. Les compétences acquises sont directement transférables à des moteurs plus complexes comme Unity (avec C#), Godot (avec GDScript) ou GameMaker Studio (avec GML), où les mêmes principes de variables, d’événements et de conditions s’appliquent. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce cinquième épisode de notre série sur Construct 2, nous allons approfondir la gestion de l’interface utilisateur et des mécaniques de jeu essentielles, en nous concentrant sur les munitions et le rechargement.\nRésumé des notions clés abordées : Gestion du HUD Statique avec Parallax (0,0) Apprentissage de la propriété Parallax pour les calques (Layers) dans Construct 2. Configuration du calque HUD (Heads-Up Display) avec une valeur de parallax de 0,0 pour s’assurer que les éléments d’interface (vie, munitions) restent fixes à l’écran, indépendamment du défilement de la caméra. Affichage des Munitions Création d’un objet Text sur le calque HUD pour afficher le nombre de munitions restantes. Personnalisation du texte (police, taille, couleur, position). Variables d’Instance pour les Munitions Pour le Joueur (Marine) : MaxMun : Variable d’instance pour définir la capacité maximale de munitions que le joueur peut porter (ex: 6 pour un revolver). Munition : Variable d’instance pour suivre le nombre actuel de munitions du joueur. Pour les Chargeurs (Charger) : Charge : Variable d’instance pour définir la quantité de munitions qu’un chargeur (pickup) fournit. Initialisation des Munitions au Démarrage du Niveau Utilisation de l’événement système On Start Of Layout pour initialiser la variable Munition du joueur à la valeur de MaxMun. Cela assure que le joueur commence chaque niveau avec un chargeur plein. Mise à Jour de l’Affichage des Munitions Dans l’événement système Every Tick (à chaque image du jeu), mise à jour de l’objet Text des munitions pour qu’il affiche la valeur actuelle de la variable Munition du joueur. Mécanique de Tir et Consommation de Munitions Modification de l’événement Mouse - On Left Button Clicked (lorsque le joueur tire). Condition : Ajout d’une condition Marine.Munition \u003e 0 pour s’assurer que le joueur ne peut tirer que s’il a des munitions. Action : Soustraire 1 à la variable Munition du joueur après chaque tir. Ramassage des Chargeurs (Pickups) Création d’un objet Sprite pour représenter un chargeur de munitions sur le sol. Événement : Marine - Is Overlapping another object (Charger) (lorsque le joueur entre en collision avec un chargeur). Condition Cruciale : Ajout d’une condition pour éviter de recharger au-delà de la capacité maximale : Marine.MaxMun \u003e= Marine.Munition + Charger.Charge. Cela vérifie si l’ajout des munitions du chargeur ne dépasse pas la capacité maximale du joueur. Actions : Ajouter la valeur de Charger.Charge à la variable Munition du joueur. Détruire l’objet Charger pour le faire disparaître du niveau. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Construct 2, les concepts abordés sont des piliers fondamentaux du développement de jeux vidéo et restent entièrement pertinents, quel que soit le moteur ou le langage utilisé :",
     "tags": [
@@ -518,6 +576,20 @@ var relearn_searchindex = [
     ],
     "title": "5. Munitions, Rechargement et HUD Statique",
     "uri": "/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans ce sixième chapitre de notre série dédiée à la création d’un jeu de plateforme, nous allons passer à l’étape cruciale de la personnalisation visuelle : remplacer le mannequin “crash test” par défaut par votre propre personnage.\nRésumé des étapes clés Organisation : Création d’un dossier dédié (/Perso) pour importer proprement vos assets. Importation FBX : Utilisation des options d’importation (Import Mesh et Import Skeletal) pour garantir que le modèle 3D possède un squelette fonctionnel. Configuration du Squelette : Association du squelette au UE4 Mannequin Skeleton pour assurer la compatibilité avec les animations existantes. Gestion des Matériels : Importation automatique des textures (Base Color, Normal Map, Specular) pour un rendu visuel complet. Intégration : Remplacement du mesh dans le Blueprint FirstPersonCharacter via le Viewport. Retargeting d’animation : Ajustement des paramètres de translation du squelette (Skeleton vs Animation Relative) pour corriger la posture du personnage et éviter les déformations lors des mouvements. Ce qui reste d’actualité aujourd’hui Bien que cet article se concentre sur Unreal Engine 4, les principes fondamentaux abordés restent parfaitement valables pour Unreal Engine 5 :\nLe workflow d’importation : La structure des fichiers FBX et la nécessité de lier un squelette restent identiques. L’importance des Normal Maps : L’optimisation par les textures de relief est toujours la norme pour maintenir un bon ratio performance/qualité visuelle. Le système de collision : L’utilisation de capsules de collision simplifiées pour les personnages est toujours la méthode privilégiée pour éviter les calculs physiques trop coûteux. Le Retargeting : Si l’interface a évolué avec l’IK Rig dans UE5, la logique de “remapage” des os pour adapter des animations à différents modèles reste le cœur du métier d’animateur sur le moteur. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce sixième chapitre de notre série dédiée à la création d’un jeu de plateforme, nous allons passer à l’étape cruciale de la personnalisation visuelle : remplacer le mannequin “crash test” par défaut par votre propre personnage.\nRésumé des étapes clés Organisation : Création d’un dossier dédié (/Perso) pour importer proprement vos assets. Importation FBX : Utilisation des options d’importation (Import Mesh et Import Skeletal) pour garantir que le modèle 3D possède un squelette fonctionnel. Configuration du Squelette : Association du squelette au UE4 Mannequin Skeleton pour assurer la compatibilité avec les animations existantes. Gestion des Matériels : Importation automatique des textures (Base Color, Normal Map, Specular) pour un rendu visuel complet. Intégration : Remplacement du mesh dans le Blueprint FirstPersonCharacter via le Viewport. Retargeting d’animation : Ajustement des paramètres de translation du squelette (Skeleton vs Animation Relative) pour corriger la posture du personnage et éviter les déformations lors des mouvements. Ce qui reste d’actualité aujourd’hui Bien que cet article se concentre sur Unreal Engine 4, les principes fondamentaux abordés restent parfaitement valables pour Unreal Engine 5 :",
+    "tags": [
+      "Unreal Engine 4",
+      "GameDev",
+      "Tutoriel",
+      "Skeletal Mesh",
+      "Animation"
+    ],
+    "title": "6. Remplacer le personnage par défaut dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/remplacer-personnage-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -575,7 +647,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-eau-dynamique-unreal-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Créer un jeu de tir en vue de dessus avec Construct 2",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Développement d'un Top-Down Shooter",
     "content": "Dans ce sixième épisode de notre série dédiée à Construct 2, nous allons approfondir la gestion des packs de vie, structurer notre jeu avec un menu d’accueil et peaufiner les performances et l’organisation de notre projet.\nRésumé des notions clés Gestion des Packs de Vie (Health Packs) Création du sprite “Elpack” (Health Pack) et ajout d’une variable d’instance pv (points de vie) pour définir la quantité de soin. Ajout d’une variable d’instance MaxV (vie maximale) au joueur pour définir sa capacité de vie maximale. Initialisation de la vie du joueur à MaxV au démarrage du layout pour garantir une vie pleine au début. Implémentation de deux logiques de ramassage pour les packs de vie : Ajout des pv du pack à la vie du joueur si cela ne dépasse pas MaxV. Réinitialisation de la vie du joueur à MaxV si le ramassage du pack le ferait dépasser, évitant ainsi de soigner au-delà du maximum. Création d’un Menu Principal Ajout d’un nouveau layout “Menu” et d’une feuille d’événements dédiée “ES_Menu” pour gérer la logique du menu. Intégration d’un bouton “Jouer” sur le menu qui, une fois cliqué, redirige le joueur vers le “Level 1” (le jeu). Modification de l’événement de mort du joueur pour qu’il revienne au menu principal plutôt que de simplement disparaître. Optimisation et Améliorations du Jeu Nettoyage des balles: Ajout d’un événement pour détruire automatiquement les balles qui sortent du layout, économisant ainsi des ressources. Point de sortie du tir: Création d’un “Image Point” nommé “gun” sur le sprite du joueur, permettant aux balles de partir de l’extrémité de l’arme pour un rendu plus réaliste. Organisation du code: Utilisation de groupes d’événements (“System”, “Marine”, “Balles”) pour structurer et rendre plus lisible la feuille d’événements. Exportation du jeu: Explication du processus d’exportation du projet en “HTML5 Website” et des étapes pour le déployer sur un hébergement web. Devoir Maison Appliquer la logique de “vie maximale” aux munitions : faire en sorte que ramasser un chargeur ne permette pas de dépasser la capacité maximale du chargeur du joueur. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait évolué vers Construct 3, les principes fondamentaux abordés dans ce tutoriel restent des piliers du développement de jeux vidéo et sont applicables à la plupart des moteurs de jeu modernes :\nLogique de jeu fondamentale: La gestion des attributs du joueur (vie, munitions) via des variables d’instance et l’implémentation de conditions pour interagir avec des objets (packs de vie, chargeurs) sont des concepts universels. Structuration de l’expérience utilisateur: La création d’un menu principal, la gestion des transitions entre les écrans (jeu, menu, fin de partie) sont essentielles pour une expérience utilisateur cohérente et professionnelle. Optimisation des ressources: La pratique de détruire les objets hors écran (comme les balles) est une technique d’optimisation courante pour maintenir les performances du jeu, même avec des moteurs plus puissants. Précision visuelle et gameplay: L’utilisation de “points d’image” ou de “sockets” pour définir des points d’attache précis sur les sprites (comme la sortie d’une arme) est une méthode standard pour améliorer le réalisme et la précision du gameplay. Organisation du projet: L’importance de regrouper les événements ou le code par catégorie (système, joueur, projectiles) est cruciale pour la maintenabilité, la lisibilité et la collaboration sur des projets de toute taille. Déploiement Web: La capacité d’exporter des jeux pour le web (HTML5) reste une voie d’accès majeure pour la distribution et la jouabilité instantanée, très pertinente à l’ère du cloud gaming et des plateformes de jeux en ligne. Apprentissage par la pratique: Le conseil d’expérimenter, de tester et de ne pas hésiter à créer des copies de son projet pour des tests est une approche intemporelle et efficace pour l’apprentissage et la résolution de problèmes en développement de jeux. ⬅️ Vidéo Précédente 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce sixième épisode de notre série dédiée à Construct 2, nous allons approfondir la gestion des packs de vie, structurer notre jeu avec un menu d’accueil et peaufiner les performances et l’organisation de notre projet.\nRésumé des notions clés Gestion des Packs de Vie (Health Packs) Création du sprite “Elpack” (Health Pack) et ajout d’une variable d’instance pv (points de vie) pour définir la quantité de soin. Ajout d’une variable d’instance MaxV (vie maximale) au joueur pour définir sa capacité de vie maximale. Initialisation de la vie du joueur à MaxV au démarrage du layout pour garantir une vie pleine au début. Implémentation de deux logiques de ramassage pour les packs de vie : Ajout des pv du pack à la vie du joueur si cela ne dépasse pas MaxV. Réinitialisation de la vie du joueur à MaxV si le ramassage du pack le ferait dépasser, évitant ainsi de soigner au-delà du maximum. Création d’un Menu Principal Ajout d’un nouveau layout “Menu” et d’une feuille d’événements dédiée “ES_Menu” pour gérer la logique du menu. Intégration d’un bouton “Jouer” sur le menu qui, une fois cliqué, redirige le joueur vers le “Level 1” (le jeu). Modification de l’événement de mort du joueur pour qu’il revienne au menu principal plutôt que de simplement disparaître. Optimisation et Améliorations du Jeu Nettoyage des balles: Ajout d’un événement pour détruire automatiquement les balles qui sortent du layout, économisant ainsi des ressources. Point de sortie du tir: Création d’un “Image Point” nommé “gun” sur le sprite du joueur, permettant aux balles de partir de l’extrémité de l’arme pour un rendu plus réaliste. Organisation du code: Utilisation de groupes d’événements (“System”, “Marine”, “Balles”) pour structurer et rendre plus lisible la feuille d’événements. Exportation du jeu: Explication du processus d’exportation du projet en “HTML5 Website” et des étapes pour le déployer sur un hébergement web. Devoir Maison Appliquer la logique de “vie maximale” aux munitions : faire en sorte que ramasser un chargeur ne permette pas de dépasser la capacité maximale du chargeur du joueur. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 ait évolué vers Construct 3, les principes fondamentaux abordés dans ce tutoriel restent des piliers du développement de jeux vidéo et sont applicables à la plupart des moteurs de jeu modernes :",
     "tags": [
@@ -593,7 +665,7 @@ var relearn_searchindex = [
     "uri": "/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprenez à restreindre les déplacements de votre vaisseau à l’intérieur de votre zone de jeu pour éviter qu’il ne disparaisse hors de l’écran grâce à la fonction clamp.\nRésumé des notions clés L’événement Step : Comprendre que cet événement s’exécute à chaque image (60 fois par seconde selon la vitesse de votre room), ce qui est idéal pour les vérifications constantes de position. La fonction clamp() : Utilisation de cette fonction intégrée à Game Maker pour contraindre une valeur entre un minimum et un maximum. Gestion de l’origine du sprite : Importance de prendre en compte le point d’origine de votre sprite (souvent au centre) pour calculer correctement les limites de collision avec les bords de l’écran. Calcul des marges : Ajustement des valeurs de clamp en fonction de la taille réelle de votre objet (hauteur/largeur) pour que le vaisseau reste entièrement visible à l’écran. Ce qui reste d’actualité aujourd’hui Bien que les versions de Game Maker aient évolué, les principes fondamentaux abordés ici restent des piliers du développement 2D :\nLa logique de boucle de jeu : L’événement Step demeure le cœur battant de toute logique de gameplay dans Game Maker. Maîtriser ce qui doit être calculé à chaque frame est essentiel pour la fluidité. L’utilisation de fonctions utilitaires : La fonction clamp() est un outil universel en programmation de jeux. Elle est toujours la méthode la plus propre et la plus performante pour limiter des coordonnées, des barres de vie ou des jauges d’énergie. La rigueur mathématique : Le souci du détail concernant l’origine des sprites et les dimensions des objets est une bonne pratique qui évite les bugs de collision frustrants. Comprendre comment le moteur interprète les coordonnées par rapport au centre de l’objet est une compétence indispensable pour tout développeur. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprenez à restreindre les déplacements de votre vaisseau à l’intérieur de votre zone de jeu pour éviter qu’il ne disparaisse hors de l’écran grâce à la fonction clamp.\nRésumé des notions clés L’événement Step : Comprendre que cet événement s’exécute à chaque image (60 fois par seconde selon la vitesse de votre room), ce qui est idéal pour les vérifications constantes de position. La fonction clamp() : Utilisation de cette fonction intégrée à Game Maker pour contraindre une valeur entre un minimum et un maximum. Gestion de l’origine du sprite : Importance de prendre en compte le point d’origine de votre sprite (souvent au centre) pour calculer correctement les limites de collision avec les bords de l’écran. Calcul des marges : Ajustement des valeurs de clamp en fonction de la taille réelle de votre objet (hauteur/largeur) pour que le vaisseau reste entièrement visible à l’écran. Ce qui reste d’actualité aujourd’hui Bien que les versions de Game Maker aient évolué, les principes fondamentaux abordés ici restent des piliers du développement 2D :",
     "tags": [
@@ -605,6 +677,19 @@ var relearn_searchindex = [
     ],
     "title": "6. Limiter les déplacements de votre vaisseau",
     "uri": "/game-maker-studio/shoot-them-up/limiter-deplacements-vaisseau-game-maker-studio/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une étape cruciale du développement : le nettoyage de votre environnement de travail. Avant de commencer à construire votre niveau final, il est essentiel de supprimer les éléments de test, les prototypes et les objets inutiles qui encombrent votre World Outliner et alourdissent inutilement votre scène.\nRésumé des étapes de nettoyage Utilisation du World Outliner : Apprenez à naviguer dans votre hiérarchie pour identifier et supprimer les éléments de test (murs, escaliers, formes géométriques de base). Suppression propre : Nettoyage des dossiers obsolètes (ex: World Coway) et des acteurs de template (ex: FirstPersonCharacter). Gestion des ombres : Comprendre pourquoi des ombres persistent après la suppression d’un objet et comment les corriger. Reconstruction de l’éclairage : Utilisation de l’outil Build Lighting Only pour mettre à jour le rendu de la scène après les modifications. Bonnes pratiques de sauvegarde : Utiliser le raccourci Ctrl + S pour sauvegarder l’intégralité du projet plutôt que de se limiter à la scène active. Ce qui reste d’actualité aujourd’hui Bien que cet article se concentre sur Unreal Engine 4, les principes fondamentaux restent identiques dans les versions plus récentes (UE5) :\nOrganisation du World Outliner : Garder une hiérarchie propre est indispensable pour éviter de se perdre dans des projets complexes. L’utilisation de dossiers et d’une nomenclature claire est une règle d’or. Gestion des ressources : Supprimer les objets inutilisés n’est pas seulement une question de visibilité, c’est aussi une question de performance. Chaque acteur présent dans la scène consomme des ressources de calcul. Le cycle “Build” : Le processus de Lightmass (ou Lumen dans UE5) nécessite toujours une mise à jour après des changements structurels majeurs pour éviter les artefacts visuels. Sauvegarde systématique : La discipline de sauvegarde est universelle. Ne comptez pas uniquement sur l’auto-save ; prenez l’habitude de sauvegarder manuellement vos changements pour éviter toute perte de données lors d’un crash. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une étape cruciale du développement : le nettoyage de votre environnement de travail. Avant de commencer à construire votre niveau final, il est essentiel de supprimer les éléments de test, les prototypes et les objets inutiles qui encombrent votre World Outliner et alourdissent inutilement votre scène.\nRésumé des étapes de nettoyage Utilisation du World Outliner : Apprenez à naviguer dans votre hiérarchie pour identifier et supprimer les éléments de test (murs, escaliers, formes géométriques de base). Suppression propre : Nettoyage des dossiers obsolètes (ex: World Coway) et des acteurs de template (ex: FirstPersonCharacter). Gestion des ombres : Comprendre pourquoi des ombres persistent après la suppression d’un objet et comment les corriger. Reconstruction de l’éclairage : Utilisation de l’outil Build Lighting Only pour mettre à jour le rendu de la scène après les modifications. Bonnes pratiques de sauvegarde : Utiliser le raccourci Ctrl + S pour sauvegarder l’intégralité du projet plutôt que de se limiter à la scène active. Ce qui reste d’actualité aujourd’hui Bien que cet article se concentre sur Unreal Engine 4, les principes fondamentaux restent identiques dans les versions plus récentes (UE5) :",
+    "tags": [
+      "Unreal Engine 4",
+      "Workflow",
+      "Optimisation",
+      "Level Design"
+    ],
+    "title": "7. Nettoyage et optimisation de votre scène dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/nettoyage-optimisation-scene-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -662,17 +747,31 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-le-tiling-des-textures-unreal-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprendre à créer un système de tir automatique est une étape fondamentale pour tout développeur débutant sur Game Maker Studio, car cela permet de comprendre la gestion du temps et des objets.\nRésumé des notions clés Dans ce tutoriel, nous avons abordé les piliers de la création d’un système de tir fonctionnel :\nUtilisation des Alarmes : Création d’un événement Alarm 0 pour cadencer le tir et éviter une création d’objets infinie à chaque frame. Gestion des instances : Utilisation de la fonction instance_create(x, y, obj) pour faire apparaître les lasers à la position du vaisseau. Variables intégrées : room_speed : Pour rendre la cadence de tir indépendante de la vitesse de rafraîchissement du jeu. hspeed : Pour définir la vitesse horizontale de déplacement du projectile. depth : Pour gérer la superposition des calques (le laser doit apparaître au-dessus du vaisseau). Optimisation des ressources : Utilisation de l’événement Outside Room couplé à instance_destroy() pour supprimer les objets qui ne sont plus visibles à l’écran, évitant ainsi les fuites de mémoire. Ce qui reste d’actualité aujourd’hui Bien que Game Maker ait évolué (notamment avec l’introduction du GML moderne et des systèmes de couches/layers plus complexes), les concepts présentés ici restent le socle de tout projet 2D :\nLa logique de boucle : Le concept d’alarme est toujours la méthode la plus propre pour gérer des actions répétitives sans surcharger le processeur. L’optimisation est reine : La destruction des instances hors champ (instance_destroy) est une règle d’or qui reste indispensable, quel que soit le moteur utilisé, pour maintenir un jeu fluide sur le long terme. La manipulation des coordonnées : Apprendre à décaler l’apparition d’un objet (x + 16) par rapport à son parent est une compétence essentielle pour le “game feel” et le rendu visuel de vos armes. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à créer un système de tir automatique est une étape fondamentale pour tout développeur débutant sur Game Maker Studio, car cela permet de comprendre la gestion du temps et des objets.\nRésumé des notions clés Dans ce tutoriel, nous avons abordé les piliers de la création d’un système de tir fonctionnel :",
     "tags": [
       "Game Maker",
       "Tutoriel",
       "Programmation",
-      "Gamedev"
+      "GameDev"
     ],
     "title": "7. Maîtriser le tir automatique et la gestion des instances",
     "uri": "/game-maker-studio/shoot-them-up/maitriser-tir-automatique-gestion-instances-game-maker/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une étape fondamentale du level design : la création de formes géométriques directement au sein d’Unreal Engine 4. Bien que la majorité des assets complexes soient importés depuis des logiciels de modélisation 3D (Blender, Maya, 3ds Max), la maîtrise des outils intégrés est indispensable pour le prototypage rapide, les décors lointains ou l’architecture simple.\nRésumé de l’épisode Utilisation des outils “Geometry” (BSP) : Présentation des formes de base (boîtes, cylindres, cônes, escaliers) disponibles dans l’onglet Modes. Modification des paramètres : Ajustement de la résolution (nombre de côtés) et des dimensions directement dans le panneau Details. Opérations booléennes : Création d’un tuyau en utilisant une forme “Additive” (le cylindre plein) et une forme “Subtractive” (le cylindre creux) pour évider l’objet. Conversion en Static Mesh : Transformation des brosses BSP en un objet 3D unique et réutilisable via le panneau Brush Settings. Gestion des collisions : Configuration de la propriété Collision Complexity sur “Use Complex Collision as Simple” pour permettre au joueur d’interagir physiquement avec l’objet créé. Ce qui reste d’actualité aujourd’hui Bien qu’Unreal Engine 5 ait introduit des outils de modélisation beaucoup plus avancés (le mode Modeling), les concepts abordés ici restent cruciaux pour plusieurs raisons :\nPrototypage (Greyboxing) : La méthode BSP reste la plus rapide pour définir les volumes d’un niveau avant de remplacer les éléments par des assets finaux. Compréhension des collisions : La gestion des collisions “Complex as Simple” est une notion technique qui s’applique toujours à de nombreux assets importés dans les versions récentes du moteur. Workflow de travail : La logique de soustraction de formes (booléens) est le socle de la modélisation constructive, un concept universel en GameDev. Optimisation : Savoir quand transformer une géométrie dynamique en Static Mesh est une compétence clé pour maintenir les performances de votre projet. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une étape fondamentale du level design : la création de formes géométriques directement au sein d’Unreal Engine 4. Bien que la majorité des assets complexes soient importés depuis des logiciels de modélisation 3D (Blender, Maya, 3ds Max), la maîtrise des outils intégrés est indispensable pour le prototypage rapide, les décors lointains ou l’architecture simple.\nRésumé de l’épisode Utilisation des outils “Geometry” (BSP) : Présentation des formes de base (boîtes, cylindres, cônes, escaliers) disponibles dans l’onglet Modes. Modification des paramètres : Ajustement de la résolution (nombre de côtés) et des dimensions directement dans le panneau Details. Opérations booléennes : Création d’un tuyau en utilisant une forme “Additive” (le cylindre plein) et une forme “Subtractive” (le cylindre creux) pour évider l’objet. Conversion en Static Mesh : Transformation des brosses BSP en un objet 3D unique et réutilisable via le panneau Brush Settings. Gestion des collisions : Configuration de la propriété Collision Complexity sur “Use Complex Collision as Simple” pour permettre au joueur d’interagir physiquement avec l’objet créé. Ce qui reste d’actualité aujourd’hui Bien qu’Unreal Engine 5 ait introduit des outils de modélisation beaucoup plus avancés (le mode Modeling), les concepts abordés ici restent cruciaux pour plusieurs raisons :",
+    "tags": [
+      "GameDev",
+      "Level Design",
+      "BSP",
+      "Static Mesh",
+      "Tutoriel"
+    ],
+    "title": "8. Création de décors et géométrie BSP",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creation-decors-geometrie-bsp-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -731,7 +830,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-terrain-adaptatif-unreal-engine-4/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprenez à donner vie à votre jeu en intégrant des ennemis mobiles et un système de génération automatique (spawner) pour dynamiser vos niveaux.\nRésumé des notions clés Initialisation du mouvement : Utilisation de la variable hspeed (horizontal speed) avec une valeur négative pour déplacer un objet de la droite vers la gauche. Gestion des sprites : Utilisation de l’outil “Mirror Flip” dans l’éditeur de sprite pour corriger l’orientation des ennemis sans modifier les ressources graphiques originales. Le concept de Spawner : Création d’un objet invisible (sans sprite ou avec un sprite de repère) dont le rôle unique est de générer d’autres instances dans la room. Automatisation avec les Alarmes : Utilisation de l’événement Alarm combiné à instance_create pour déclencher l’apparition d’ennemis à intervalles réguliers. Contrôle du rythme : Ajustement de la fréquence d’apparition en utilisant room_speed (le nombre de frames par seconde du jeu) pour définir un timing précis en secondes. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de GameMaker aient introduit des fonctionnalités comme les Sequences ou les Pathfinding, les principes abordés ici restent les fondations indispensables de tout développeur :\nLa logique de “Spawner” : C’est une technique universelle. Que vous utilisiez des objets invisibles ou des systèmes de gestion de vagues (Wave Managers) plus complexes, le besoin de séparer la logique de génération de celle des entités elles-mêmes est crucial pour maintenir un code propre. La gestion du temps : Comprendre le lien entre room_speed et les alarmes est essentiel pour créer des jeux dont la difficulté est constante, quel que soit le taux de rafraîchissement de l’écran. La manipulation des instances : La fonction instance_create (ou ses variantes modernes instance_create_layer) demeure le cœur battant de la création dynamique d’objets en jeu. Maîtriser ces bases permet de passer facilement à des systèmes de génération procédurale plus avancés. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprenez à donner vie à votre jeu en intégrant des ennemis mobiles et un système de génération automatique (spawner) pour dynamiser vos niveaux.\nRésumé des notions clés Initialisation du mouvement : Utilisation de la variable hspeed (horizontal speed) avec une valeur négative pour déplacer un objet de la droite vers la gauche. Gestion des sprites : Utilisation de l’outil “Mirror Flip” dans l’éditeur de sprite pour corriger l’orientation des ennemis sans modifier les ressources graphiques originales. Le concept de Spawner : Création d’un objet invisible (sans sprite ou avec un sprite de repère) dont le rôle unique est de générer d’autres instances dans la room. Automatisation avec les Alarmes : Utilisation de l’événement Alarm combiné à instance_create pour déclencher l’apparition d’ennemis à intervalles réguliers. Contrôle du rythme : Ajustement de la fréquence d’apparition en utilisant room_speed (le nombre de frames par seconde du jeu) pour définir un timing précis en secondes. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de GameMaker aient introduit des fonctionnalités comme les Sequences ou les Pathfinding, les principes abordés ici restent les fondations indispensables de tout développeur :",
     "tags": [
@@ -742,6 +841,20 @@ var relearn_searchindex = [
     ],
     "title": "8. Créer des ennemis et un système de spawn dynamique",
     "uri": "/game-maker-studio/shoot-them-up/creer-ennemis-spawn-dynamique-gamemaker/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous quittons l’aspect “gris par défaut” de nos objets pour leur donner vie. La création de matériaux est une étape fondamentale pour transformer des formes géométriques simples en éléments crédibles pour votre jeu. Nous allons apprendre à manipuler l’éditeur de matériaux d’Unreal Engine 4 pour définir la couleur, la rugosité et les propriétés métalliques de vos surfaces.\nRésumé de la leçon Organisation : Création d’un dossier dédié aux matériaux pour garder votre projet propre. Nommage : Utilisation de préfixes (ex: Mat_) pour identifier rapidement vos assets. L’éditeur de matériaux : Découverte de l’interface nodale, similaire aux Blueprints. Constant 3 Vector : Utilisation de ce nœud pour définir une couleur de base via le sélecteur RVB. Propriétés physiques : Roughness (Rugosité) : Contrôle le reflet de la lumière (0 = miroir, 1 = mat). Metallic (Métallique) : Définit si l’objet réagit comme un métal (0 = non-métal, 1 = métal). Application : Comment assigner un matériau créé à un objet spécifique dans le panneau “Details”. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des systèmes comme Lumen ou Nanite, les bases fondamentales présentées ici restent inchangées :\nLe système de nœuds : La logique de connexion entre les entrées (Base Color, Roughness, Metallic) est le cœur du moteur de rendu d’Unreal. Workflow de travail : La méthodologie de création de dossiers et de nommage reste une bonne pratique indispensable pour tout projet professionnel. PBR (Physically Based Rendering) : Les concepts de rugosité et de metallic sont les piliers du rendu réaliste moderne. Comprendre comment ces valeurs influencent la lumière est toujours la première étape avant de passer à des textures complexes (PBR maps). 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous quittons l’aspect “gris par défaut” de nos objets pour leur donner vie. La création de matériaux est une étape fondamentale pour transformer des formes géométriques simples en éléments crédibles pour votre jeu. Nous allons apprendre à manipuler l’éditeur de matériaux d’Unreal Engine 4 pour définir la couleur, la rugosité et les propriétés métalliques de vos surfaces.\nRésumé de la leçon Organisation : Création d’un dossier dédié aux matériaux pour garder votre projet propre. Nommage : Utilisation de préfixes (ex: Mat_) pour identifier rapidement vos assets. L’éditeur de matériaux : Découverte de l’interface nodale, similaire aux Blueprints. Constant 3 Vector : Utilisation de ce nœud pour définir une couleur de base via le sélecteur RVB. Propriétés physiques : Roughness (Rugosité) : Contrôle le reflet de la lumière (0 = miroir, 1 = mat). Metallic (Métallique) : Définit si l’objet réagit comme un métal (0 = non-métal, 1 = métal). Application : Comment assigner un matériau créé à un objet spécifique dans le panneau “Details”. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des systèmes comme Lumen ou Nanite, les bases fondamentales présentées ici restent inchangées :",
+    "tags": [
+      "Unreal Engine 4",
+      "Matériaux",
+      "GameDev",
+      "Texturing",
+      "Débutant"
+    ],
+    "title": "9. Création et application de matériaux",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creation-materiaux-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -787,12 +900,12 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/optimiser-ressources-graphiques-decouper-sprites-intersect-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Dans ce tutoriel, nous allons apprendre à structurer l’apparition de vos ennemis pour rendre votre jeu plus dynamique en créant des escadrilles et en limitant le nombre de vagues.\nRésumé des notions clés Création d’escadrilles : Au lieu de faire apparaître un seul objet, nous dupliquons la fonction instance_create dans l’alarme du spawner pour générer trois vaisseaux simultanément. Gestion des coordonnées (X, Y) : En modifiant les offsets (décalages) des coordonnées X et Y, nous créons une formation en “V” pour un rendu visuel plus professionnel. Variables de comptage : Utilisation d’une variable (nbne1) initialisée à 0 dans l’événement Create pour suivre le nombre de vagues générées. Incrémentation : Utilisation de l’opérateur ++ (ex: nbne1++) pour ajouter 1 à la variable à chaque déclenchement de l’alarme. Logique de fin de vague : Utilisation de l’événement Step pour vérifier en temps réel si le nombre de vagues souhaité est atteint, déclenchant ainsi la destruction du spawner via instance_destroy(). Ce qui reste d’actualité aujourd’hui Bien que les versions de Game Maker aient évolué, les concepts abordés ici restent les piliers du développement de jeux 2D :\nLa gestion des instances : La manipulation des coordonnées relatives pour créer des formations reste la méthode la plus efficace pour gérer des groupes d’ennemis sans surcharger la room. L’utilisation des alarmes : C’est toujours le moyen le plus propre pour gérer le timing dans Game Maker, évitant ainsi de surcharger l’événement Step avec des compteurs complexes. La logique conditionnelle : L’utilisation de l’événement Step pour surveiller des variables globales ou locales est une pratique standard pour gérer les transitions de niveaux ou les changements d’état du jeu. Optimisation du code : L’usage de l’opérateur d’incrémentation (++) est une bonne habitude de syntaxe GML (GameMaker Language) qui rend votre code plus lisible et concis, une pratique toujours recommandée pour les projets de grande envergure. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce tutoriel, nous allons apprendre à structurer l’apparition de vos ennemis pour rendre votre jeu plus dynamique en créant des escadrilles et en limitant le nombre de vagues.\nRésumé des notions clés Création d’escadrilles : Au lieu de faire apparaître un seul objet, nous dupliquons la fonction instance_create dans l’alarme du spawner pour générer trois vaisseaux simultanément. Gestion des coordonnées (X, Y) : En modifiant les offsets (décalages) des coordonnées X et Y, nous créons une formation en “V” pour un rendu visuel plus professionnel. Variables de comptage : Utilisation d’une variable (nbne1) initialisée à 0 dans l’événement Create pour suivre le nombre de vagues générées. Incrémentation : Utilisation de l’opérateur ++ (ex: nbne1++) pour ajouter 1 à la variable à chaque déclenchement de l’alarme. Logique de fin de vague : Utilisation de l’événement Step pour vérifier en temps réel si le nombre de vagues souhaité est atteint, déclenchant ainsi la destruction du spawner via instance_destroy(). Ce qui reste d’actualité aujourd’hui Bien que les versions de Game Maker aient évolué, les concepts abordés ici restent les piliers du développement de jeux 2D :",
     "tags": [
       "Game Maker Studio",
-      "Gamedev",
+      "GameDev",
       "Tutoriel",
       "Programmation"
     ],
@@ -811,6 +924,19 @@ var relearn_searchindex = [
     ],
     "title": "9. Créer un matériau de glace réaliste avec la tessellation",
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-glace-tessellation-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous allons passer à la vitesse supérieure en créant des matériaux plus réalistes. Plutôt que d’utiliser des couleurs unies, nous allons apprendre à générer nos propres textures de masquage pour simuler l’usure et la rouille sur nos objets 3D.\nRésumé de l’épisode Création de texture externe : Utilisation de Paint.NET pour générer une image de “nuages” (bruit procédural). Cette texture servira de masque pour définir les zones de rouille. Importation : Intégration de la texture dans le dossier Content d’Unreal Engine 4. Le nœud “Lerp” (Linear Interpolate) : C’est la clé de voûte de ce tutoriel. Il permet de mélanger deux entrées (A et B) en fonction d’une valeur Alpha (notre texture de nuages). Gestion des propriétés physiques : Application du masque de rouille non seulement sur la Base Color, mais aussi sur le Metallic et la Roughness pour que la rouille ait un aspect mat et non métallique, contrairement au métal sain. Astuces de workflow : Utilisation du raccourci Ctrl + W pour dupliquer rapidement des nœuds dans l’éditeur de matériaux. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux abordés ici restent le socle de la création de shaders :\nLe masquage est universel : Que vous soyez sur UE4 ou UE5, le principe d’utiliser une texture en noir et blanc (ou un canal spécifique) pour piloter un Lerp est la méthode standard pour créer des variations de matériaux (usure, salissure, peinture écaillée). La logique des canaux : Comprendre que chaque propriété d’un matériau (Roughness, Metallic, Specular) peut être pilotée par une texture est essentiel pour optimiser le rendu visuel sans alourdir les performances. L’importance du workflow : La normalisation des noms de fichiers et l’organisation dans le Content Browser restent des bonnes pratiques indispensables pour ne pas perdre pied dans des projets de grande envergure. L’approche procédurale : Bien que nous utilisions ici une texture générée dans un logiciel tiers, Unreal Engine propose aujourd’hui des outils comme le Substance Plugin ou les Material Functions intégrées qui permettent de faire cela directement dans le moteur, mais la logique mathématique derrière le Lerp reste identique. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous allons passer à la vitesse supérieure en créant des matériaux plus réalistes. Plutôt que d’utiliser des couleurs unies, nous allons apprendre à générer nos propres textures de masquage pour simuler l’usure et la rouille sur nos objets 3D.\nRésumé de l’épisode Création de texture externe : Utilisation de Paint.NET pour générer une image de “nuages” (bruit procédural). Cette texture servira de masque pour définir les zones de rouille. Importation : Intégration de la texture dans le dossier Content d’Unreal Engine 4. Le nœud “Lerp” (Linear Interpolate) : C’est la clé de voûte de ce tutoriel. Il permet de mélanger deux entrées (A et B) en fonction d’une valeur Alpha (notre texture de nuages). Gestion des propriétés physiques : Application du masque de rouille non seulement sur la Base Color, mais aussi sur le Metallic et la Roughness pour que la rouille ait un aspect mat et non métallique, contrairement au métal sain. Astuces de workflow : Utilisation du raccourci Ctrl + W pour dupliquer rapidement des nœuds dans l’éditeur de matériaux. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux abordés ici restent le socle de la création de shaders :",
+    "tags": [
+      "Matériaux",
+      "Texturing",
+      "Nodes",
+      "Shaders"
+    ],
+    "title": "10. Création de matériaux complexes : Intégration de textures et effets de rouille",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creation-materiaux-complexes-rouille-ue4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -842,7 +968,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/10-slender-animations-3d-spacialisation-sonore-blendspace/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprenez à dynamiser vos jeux en créant des ennemis aux trajectoires complexes grâce aux fonctions mathématiques intégrées de GameMaker.\nRésumé des notions clés Dans ce tutoriel, nous explorons comment passer d’un mouvement linéaire simple à une trajectoire fluide et cyclique pour vos ennemis :\nInitialisation des variables : Création de variables personnalisées (frequence, amplitude, timer) pour contrôler le comportement du mouvement. Utilisation de la fonction sin() : Application de la trigonométrie pour calculer une position Y oscillante en fonction du temps. Gestion du temps : Utilisation d’un timer incrémenté à chaque step pour animer le mouvement de manière fluide. Duplication de logique : Optimisation du workflow en dupliquant des objets existants (spawner) pour créer de nouvelles vagues d’ennemis rapidement. Enchaînement de vagues : Utilisation de l’événement Destroy pour déclencher l’apparition automatique d’un nouveau spawner une fois la vague précédente terminée. Positionnement hors-champ : Technique pour faire apparaître des ennemis à des coordonnées spécifiques en dehors de la zone de jeu visible. Ce qui reste d’actualité aujourd’hui Bien que les versions de GameMaker aient évolué, les principes fondamentaux abordés ici restent des piliers du développement de jeux 2D :\nLa puissance des mathématiques : La fonction sin() (sinus) est toujours l’outil standard pour créer des mouvements naturels, des effets de flottement ou des trajectoires de projectiles sans avoir recours à des animations complexes. Modularité du code : La séparation des responsabilités entre l’objet “ennemi” (qui gère son propre mouvement) et l’objet “spawner” (qui gère la logique de vague) est une excellente pratique d’architecture logicielle. Gestion d’état : L’utilisation d’événements comme Destroy pour déclencher des événements futurs est une méthode propre et efficace pour gérer le rythme de progression d’un niveau (game pacing). Optimisation : Apprendre à manipuler les coordonnées X et Y pour faire apparaître des objets hors écran est essentiel pour créer des jeux fluides sans temps de chargement visibles. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprenez à dynamiser vos jeux en créant des ennemis aux trajectoires complexes grâce aux fonctions mathématiques intégrées de GameMaker.\nRésumé des notions clés Dans ce tutoriel, nous explorons comment passer d’un mouvement linéaire simple à une trajectoire fluide et cyclique pour vos ennemis :",
     "tags": [
@@ -880,6 +1006,20 @@ var relearn_searchindex = [
     ],
     "title": "10. Importer vos assets et créer votre système de monnaie",
     "uri": "/intersect-engine/creer-un-mmorpg/guide-import-assets-systeme-monnaie-intersect-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une étape cruciale pour tout développeur solo ou débutant : comment habiller ses niveaux sans avoir à modéliser chaque élément soi-même. Si la création de contenu original (via Blender ou Maya) est une compétence précieuse, l’utilisation du Marketplace Unreal Engine est un gain de temps considérable pour prototyper et construire des environnements riches rapidement.\nRésumé de l’épisode Pourquoi le Marketplace ? Utiliser des assets existants permet de se concentrer sur le gameplay et le level design plutôt que sur la création 3D pure. Le pack Infinity Blade : Nous utilisons les ressources gratuites de la série Infinity Blade (Ice Lands, Fire Lands, etc.), une mine d’or pour apprendre à manipuler des matériaux complexes et des meshes variés. Processus d’intégration : Fermer le projet en cours. Se rendre dans l’onglet “Marché” (Marketplace) du Launcher Epic Games. Ajouter le pack souhaité à votre bibliothèque (“Coffre”). Cliquer sur “Ajouter au projet” et sélectionner votre projet actuel. Exploration : Une fois le téléchargement terminé, le contenu apparaît dans le dossier Content de votre projet. Vous pouvez y explorer les dossiers Environments, Static Meshes et Materials pour comprendre comment les assets sont structurés. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux restent identiques dans les versions plus récentes (UE5) :\nLe workflow d’importation : La gestion des assets via le Launcher Epic Games reste le standard pour intégrer du contenu tiers. Analyse des matériaux : Les packs Infinity Blade sont toujours d’excellents exemples pour étudier les “Master Materials” et l’utilisation des textures de normales (Normal Maps) pour donner du relief aux objets. Le prototypage rapide : Utiliser des assets de haute qualité pour construire un “Greybox” ou un niveau final est une pratique professionnelle courante. Même avec l’arrivée de Quixel Megascans (intégré nativement dans UE5), ces packs restent des références pédagogiques pour comprendre la hiérarchie des dossiers et l’organisation d’un projet. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une étape cruciale pour tout développeur solo ou débutant : comment habiller ses niveaux sans avoir à modéliser chaque élément soi-même. Si la création de contenu original (via Blender ou Maya) est une compétence précieuse, l’utilisation du Marketplace Unreal Engine est un gain de temps considérable pour prototyper et construire des environnements riches rapidement.\nRésumé de l’épisode Pourquoi le Marketplace ? Utiliser des assets existants permet de se concentrer sur le gameplay et le level design plutôt que sur la création 3D pure. Le pack Infinity Blade : Nous utilisons les ressources gratuites de la série Infinity Blade (Ice Lands, Fire Lands, etc.), une mine d’or pour apprendre à manipuler des matériaux complexes et des meshes variés. Processus d’intégration : Fermer le projet en cours. Se rendre dans l’onglet “Marché” (Marketplace) du Launcher Epic Games. Ajouter le pack souhaité à votre bibliothèque (“Coffre”). Cliquer sur “Ajouter au projet” et sélectionner votre projet actuel. Exploration : Une fois le téléchargement terminé, le contenu apparaît dans le dossier Content de votre projet. Vous pouvez y explorer les dossiers Environments, Static Meshes et Materials pour comprendre comment les assets sont structurés. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux restent identiques dans les versions plus récentes (UE5) :",
+    "tags": [
+      "Marketplace",
+      "Assets",
+      "Level Design",
+      "Infinity Blade",
+      "Tutoriel"
+    ],
+    "title": "11. Utiliser le Marketplace pour enrichir vos décors",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/utiliser-marketplace-unreal-engine-4-assets-infinity-blade/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -938,17 +1078,30 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-effet-dissolution-dynamique-unreal-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Dans ce tutoriel, nous allons enrichir votre jeu en ajoutant un troisième type d’ennemi capable de tirer des projectiles laser, tout en automatisant son apparition via un système de “spawner” dynamique.\nRésumé des notions clés Duplication et héritage : Utiliser la fonction “Duplicate” sur des sprites et objets existants pour gagner du temps et conserver une structure cohérente. Manipulation de sprites : Utilisation des outils Mirror Flip pour l’orientation et Colorize (swap color) pour créer des variantes visuelles rapidement. Logique de tir : Création d’un objet laser dédié avec une vitesse négative (hspeed = -2) pour se déplacer vers la gauche, en direction du joueur. Gestion des alarmes : Ajustement de la cadence de tir en modifiant le multiplicateur de la room_speed dans l’événement Alarm. Spawning dynamique : Utilisation de la fonction random() pour varier la position verticale (y) des ennemis et rendre les vagues moins prévisibles. Chaînage de vagues : Déclenchement de l’apparition d’un nouveau spawner juste avant la destruction du précédent pour créer une progression fluide. Ce qui reste d’actualité aujourd’hui Bien que les versions de GameMaker aient évolué, les principes fondamentaux abordés ici restent le cœur du développement 2D :\nLa réutilisation de code : La duplication d’objets et la modification de paramètres spécifiques (vitesse, cadence) est une pratique standard pour maintenir un projet propre et éviter la redondance. La gestion du temps : Le système d’alarmes reste la méthode la plus simple et efficace pour gérer des événements répétitifs (tirs, apparitions) sans alourdir l’événement Step. Le “Game Feel” par l’aléatoire : L’utilisation de fonctions de hasard pour le placement des ennemis est une technique intemporelle pour éviter que le joueur ne mémorise par cœur les patterns et pour augmenter la rejouabilité. Workflow efficace : La manipulation directe des propriétés d’instance via le code (comme le hspeed ou le y) est toujours la base de la programmation dans GameMaker, que vous utilisiez le GML (GameMaker Language) ou le GML Visual. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce tutoriel, nous allons enrichir votre jeu en ajoutant un troisième type d’ennemi capable de tirer des projectiles laser, tout en automatisant son apparition via un système de “spawner” dynamique.\nRésumé des notions clés Duplication et héritage : Utiliser la fonction “Duplicate” sur des sprites et objets existants pour gagner du temps et conserver une structure cohérente. Manipulation de sprites : Utilisation des outils Mirror Flip pour l’orientation et Colorize (swap color) pour créer des variantes visuelles rapidement. Logique de tir : Création d’un objet laser dédié avec une vitesse négative (hspeed = -2) pour se déplacer vers la gauche, en direction du joueur. Gestion des alarmes : Ajustement de la cadence de tir en modifiant le multiplicateur de la room_speed dans l’événement Alarm. Spawning dynamique : Utilisation de la fonction random() pour varier la position verticale (y) des ennemis et rendre les vagues moins prévisibles. Chaînage de vagues : Déclenchement de l’apparition d’un nouveau spawner juste avant la destruction du précédent pour créer une progression fluide. Ce qui reste d’actualité aujourd’hui Bien que les versions de GameMaker aient évolué, les principes fondamentaux abordés ici restent le cœur du développement 2D :",
     "tags": [
       "GameMaker",
       "Tutoriel",
-      "Gamedev",
+      "GameDev",
       "Gamedev-Debutant"
     ],
     "title": "11. Créer un ennemi avec tir laser",
     "uri": "/game-maker-studio/shoot-them-up/creer-ennemi-tir-laser-gamemaker-studio/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous passons à une étape cruciale pour donner vie à votre environnement : le remplacement du sol basique par un véritable terrain sculpté. L’outil Landscape d’Unreal Engine 4 est un système puissant qui permet de créer des reliefs complexes, des montagnes et des vallons, tout en gérant nativement les textures de sol.\nRésumé de la leçon Nettoyage de la scène : Suppression de l’objet “Floor” par défaut pour laisser place au système Landscape. Configuration du Landscape : Utilisation de l’éditeur dédié avec un réglage de Section Size (7x7 quads) pour une gestion optimisée des performances. Application des matériaux : Assignation d’un matériau de type “Ground Gravel” pour habiller le terrain. Maîtrise des outils de sculpture : Sculpt : Pour créer le relief (montagnes, collines). Smooth : Pour adoucir les polygones trop saillants. Flatten : Idéal pour créer des plateaux ou des chemins plats. Erosion : Pour simuler l’usure naturelle du sol. Noise : Pour ajouter un aspect chaotique et organique. Réglages de brosse : Compréhension du Brush Size (taille) et du Brush Falloff (atténuation) pour sculpter avec précision. Gestion du LOD (Level of Detail) : Observation du changement de résolution du terrain en fonction de la distance de la caméra. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les fondamentaux du Landscape Editor sont restés quasi identiques dans Unreal Engine 5. La logique de sculpture, l’utilisation des brosses et la gestion des matériaux de terrain (Landscape Layers) sont des compétences transversales.\nLe point de vigilance reste le LOD (Level of Detail) : si vous constatez des changements de résolution visibles lors de vos déplacements, sachez que dans les versions récentes, le système Nanite pour Landscape (introduit dans UE 5.1+) permet désormais de gérer des terrains d’une complexité géométrique extrême sans avoir à se soucier autant des transitions de LOD classiques. Cependant, pour un projet léger ou mobile, les techniques de sculpture manuelle abordées ici restent la méthode la plus performante.\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous passons à une étape cruciale pour donner vie à votre environnement : le remplacement du sol basique par un véritable terrain sculpté. L’outil Landscape d’Unreal Engine 4 est un système puissant qui permet de créer des reliefs complexes, des montagnes et des vallons, tout en gérant nativement les textures de sol.\nRésumé de la leçon Nettoyage de la scène : Suppression de l’objet “Floor” par défaut pour laisser place au système Landscape. Configuration du Landscape : Utilisation de l’éditeur dédié avec un réglage de Section Size (7x7 quads) pour une gestion optimisée des performances. Application des matériaux : Assignation d’un matériau de type “Ground Gravel” pour habiller le terrain. Maîtrise des outils de sculpture : Sculpt : Pour créer le relief (montagnes, collines). Smooth : Pour adoucir les polygones trop saillants. Flatten : Idéal pour créer des plateaux ou des chemins plats. Erosion : Pour simuler l’usure naturelle du sol. Noise : Pour ajouter un aspect chaotique et organique. Réglages de brosse : Compréhension du Brush Size (taille) et du Brush Falloff (atténuation) pour sculpter avec précision. Gestion du LOD (Level of Detail) : Observation du changement de résolution du terrain en fonction de la distance de la caméra. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les fondamentaux du Landscape Editor sont restés quasi identiques dans Unreal Engine 5. La logique de sculpture, l’utilisation des brosses et la gestion des matériaux de terrain (Landscape Layers) sont des compétences transversales.",
+    "tags": [
+      "Landscape",
+      "Level Design",
+      "Sculpting",
+      "Tutoriel"
+    ],
+    "title": "12. Création et sculpture de terrain avec Landscape",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creation-terrain-landscape-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -993,7 +1146,7 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/creer-mobs-monstres-intersect-engine-tutoriel/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprenez à implémenter un système de collision efficace pour détruire vos ennemis lors de l’impact de vos projectiles dans GameMaker Studio.\nRésumé des notions clés Événement de collision : Utilisation de l’événement Collision dans l’objet laser pour détecter le contact avec les différents types d’ennemis. Ciblage précis : Utilisation de la fonction with (instance_place(x, y, objet)) pour identifier et cibler spécifiquement l’instance de l’ennemi touchée. Destruction d’objets : Emploi de la fonction instance_destroy() pour supprimer à la fois l’ennemi touché et le projectile (le laser) après l’impact. Méthodologie : Répétition du processus pour chaque type d’ennemi afin de garantir une cohérence dans le gameplay. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de GameMaker aient évolué, les principes fondamentaux abordés ici restent le socle du développement 2D :\nLa gestion des collisions : L’utilisation de instance_place reste la méthode recommandée pour vérifier les collisions à des coordonnées précises sans déplacer l’instance actuelle. La portée du code (with) : La structure with est toujours indispensable pour exécuter du code dans le contexte d’une autre instance, ce qui est crucial pour la communication entre objets (ex: le laser qui ordonne à l’ennemi de se détruire). La propreté du code : L’importance de détruire les projectiles après impact est une règle d’or pour optimiser la gestion de la mémoire et éviter les fuites de ressources dans vos projets. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprenez à implémenter un système de collision efficace pour détruire vos ennemis lors de l’impact de vos projectiles dans GameMaker Studio.\nRésumé des notions clés Événement de collision : Utilisation de l’événement Collision dans l’objet laser pour détecter le contact avec les différents types d’ennemis. Ciblage précis : Utilisation de la fonction with (instance_place(x, y, objet)) pour identifier et cibler spécifiquement l’instance de l’ennemi touchée. Destruction d’objets : Emploi de la fonction instance_destroy() pour supprimer à la fois l’ennemi touché et le projectile (le laser) après l’impact. Méthodologie : Répétition du processus pour chaque type d’ennemi afin de garantir une cohérence dans le gameplay. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de GameMaker aient évolué, les principes fondamentaux abordés ici restent le socle du développement 2D :",
     "tags": [
@@ -1001,10 +1154,23 @@ var relearn_searchindex = [
       "Tutoriel",
       "Developpement De Jeux",
       "Collision",
-      "Gamedev"
+      "GameDev"
     ],
     "title": "12. Gérer les collisions et la destruction des ennemis",
     "uri": "/game-maker-studio/shoot-them-up/gerer-collisions-destruction-ennemis-gamemaker/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une étape cruciale pour donner vie à vos environnements : l’utilisation du Foliage Editor (Éditeur de feuillage). Plutôt que de placer vos arbres et éléments de végétation un par un manuellement — une tâche fastidieuse et chronophage — nous allons apprendre à utiliser les outils de peinture procédurale d’Unreal Engine 4 pour peupler rapidement vos niveaux.\nRésumé des points clés Importation des assets : Utilisation du Content Browser pour filtrer et sélectionner vos modèles 3D (arbres, troncs, etc.). Configuration du Foliage Editor : Glisser-déposer les assets dans la zone dédiée pour créer une palette de végétation. Gestion de la densité : Ajustement des paramètres de Paint Density pour contrôler la fréquence d’apparition de chaque type d’arbre. Optimisation : Désactivation des collisions si le gameplay ne nécessite pas d’interaction physique avec la végétation. Édition fine : Utilisation de l’outil Select pour supprimer ou déplacer manuellement des instances afin de créer des clairières ou des chemins spécifiques. Workflow de placement : Peindre directement sur le terrain pour créer des forêts denses tout en gardant la main sur la composition visuelle. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système PCG (Procedural Content Generation) et les Packed Level Actors, les fondamentaux du Foliage Editor restent identiques et essentiels pour :\nLe prototypage rapide : C’est toujours la méthode la plus efficace pour habiller un niveau en quelques minutes. La performance : Le système de foliage d’Unreal utilise l’instanciation (HISM - Hierarchical Instanced Static Meshes), ce qui est indispensable pour maintenir un framerate élevé avec des milliers d’objets. Le contrôle artistique : La possibilité de peindre manuellement reste irremplaçable pour diriger le regard du joueur ou créer des zones de gameplay spécifiques (clairières, sentiers) sans avoir à générer des règles procédurales complexes. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une étape cruciale pour donner vie à vos environnements : l’utilisation du Foliage Editor (Éditeur de feuillage). Plutôt que de placer vos arbres et éléments de végétation un par un manuellement — une tâche fastidieuse et chronophage — nous allons apprendre à utiliser les outils de peinture procédurale d’Unreal Engine 4 pour peupler rapidement vos niveaux.\nRésumé des points clés Importation des assets : Utilisation du Content Browser pour filtrer et sélectionner vos modèles 3D (arbres, troncs, etc.). Configuration du Foliage Editor : Glisser-déposer les assets dans la zone dédiée pour créer une palette de végétation. Gestion de la densité : Ajustement des paramètres de Paint Density pour contrôler la fréquence d’apparition de chaque type d’arbre. Optimisation : Désactivation des collisions si le gameplay ne nécessite pas d’interaction physique avec la végétation. Édition fine : Utilisation de l’outil Select pour supprimer ou déplacer manuellement des instances afin de créer des clairières ou des chemins spécifiques. Workflow de placement : Peindre directement sur le terrain pour créer des forêts denses tout en gardant la main sur la composition visuelle. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système PCG (Procedural Content Generation) et les Packed Level Actors, les fondamentaux du Foliage Editor restent identiques et essentiels pour :",
+    "tags": [
+      "Foliage",
+      "Level Design",
+      "Optimisation",
+      "Tutoriel"
+    ],
+    "title": "13. Maîtriser le Foliage Editor dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/maitriser-le-foliage-editor-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -1045,7 +1211,7 @@ var relearn_searchindex = [
       "Tessellation",
       "Shaders"
     ],
-    "title": "12 et 13. Créer un matériau de lave dynamique",
+    "title": "13. 12 et 13. Créer un matériau de lave dynamique",
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-lave-dynamique-unreal-engine/index.html"
   },
   {
@@ -1062,7 +1228,7 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/creer-boutique-marchand-intersect-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprenez à implémenter un système de défaite efficace en gérant les collisions entre votre vaisseau et les ennemis ou leurs projectiles dans GameMaker.\nRésumé des notions clés Gestion des collisions : Utilisation de l’événement Collision pour détecter les interactions entre le vaisseau du joueur et les objets ennemis (vaisseaux ou lasers). Destruction d’instances : Utilisation de la fonction instance_destroy() pour supprimer les objets impliqués dans la collision. Ciblage dynamique : Utilisation de other dans le code de collision pour identifier précisément l’objet qui entre en contact avec le joueur. Duplication d’événements : Optimisation du workflow en dupliquant les événements de collision pour les différents types d’ennemis et de projectiles afin de gagner du temps. Tests de gameplay : Importance de tester les différentes conditions de défaite (collision frontale vs projectile) pour valider la logique du jeu. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de GameMaker (GMS2/GMS2023+) aient évolué, les fondamentaux présentés ici restent le socle de tout jeu d’action :\nLa logique de collision : Le concept d’utiliser instance_destroy() sur other reste la méthode standard pour gérer les interactions destructibles. L’architecture événementielle : Le système d’événements de GameMaker est toujours basé sur cette structure, rendant la gestion des collisions extrêmement intuitive et performante. Bonnes pratiques de workflow : La duplication d’événements et la réutilisation de code sont des réflexes essentiels pour maintenir un projet propre, surtout lorsque le nombre d’ennemis augmente. Gestion des états : Bien que ce tutoriel se concentre sur la destruction, il pose les bases pour introduire plus tard des systèmes de “Game Over” ou de réapparition (respawn), piliers de la boucle de jeu. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprenez à implémenter un système de défaite efficace en gérant les collisions entre votre vaisseau et les ennemis ou leurs projectiles dans GameMaker.\nRésumé des notions clés Gestion des collisions : Utilisation de l’événement Collision pour détecter les interactions entre le vaisseau du joueur et les objets ennemis (vaisseaux ou lasers). Destruction d’instances : Utilisation de la fonction instance_destroy() pour supprimer les objets impliqués dans la collision. Ciblage dynamique : Utilisation de other dans le code de collision pour identifier précisément l’objet qui entre en contact avec le joueur. Duplication d’événements : Optimisation du workflow en dupliquant les événements de collision pour les différents types d’ennemis et de projectiles afin de gagner du temps. Tests de gameplay : Importance de tester les différentes conditions de défaite (collision frontale vs projectile) pour valider la logique du jeu. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de GameMaker (GMS2/GMS2023+) aient évolué, les fondamentaux présentés ici restent le socle de tout jeu d’action :",
     "tags": [
@@ -1073,6 +1239,19 @@ var relearn_searchindex = [
     ],
     "title": "13. Gérer les collisions et la défaite du joueur",
     "uri": "/game-maker-studio/shoot-them-up/gerer-collisions-defaite-joueur-gamemaker/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une étape cruciale du level design : la création d’un chemin de plateformes cohérent pour guider le joueur à travers votre environnement. En utilisant les assets du pack Infinity Blade: Ice Lands, nous allons transformer des piliers statiques en un parcours de plateforme dynamique et jouable.\nRésumé de l’épisode Sélection des assets : Utilisation des modèles SM_Ice_Fort_Pilar issus du pack Infinity Blade pour créer des points d’appui. Manipulation et Scale : Ajustement des échelles (Scale) des objets pour les rendre plus accessibles et adaptés à la taille du personnage. Organisation du projet : Utilisation du World Outliner pour créer des dossiers et maintenir une hiérarchie propre dans votre scène. Duplication efficace : Utilisation du raccourci Ctrl + W pour dupliquer rapidement les éléments et construire le chemin. Itération et Test : Importance de tester régulièrement les sauts en jeu pour ajuster la distance entre les plateformes et éviter les raccourcis non désirés par le joueur. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux du level design restent identiques dans les versions plus récentes (UE5) :\nLe “Greyboxing” (ou prototypage) : Même avec des assets finaux, la méthode consistant à placer des objets, tester le gameplay, puis ajuster, est la base de tout bon niveau. Gestion de l’Outliner : L’organisation par dossiers est une bonne pratique indispensable dès que votre scène commence à comporter plus d’une dizaine d’objets. Le “Player Feel” : Le réglage de la distance entre les plateformes doit toujours être dicté par les capacités de mouvement de votre personnage (vitesse, hauteur de saut, Air Control). Réutilisation des assets : Apprendre à varier l’échelle et la rotation d’un même asset permet de créer une grande diversité visuelle sans surcharger la mémoire de votre projet. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une étape cruciale du level design : la création d’un chemin de plateformes cohérent pour guider le joueur à travers votre environnement. En utilisant les assets du pack Infinity Blade: Ice Lands, nous allons transformer des piliers statiques en un parcours de plateforme dynamique et jouable.\nRésumé de l’épisode Sélection des assets : Utilisation des modèles SM_Ice_Fort_Pilar issus du pack Infinity Blade pour créer des points d’appui. Manipulation et Scale : Ajustement des échelles (Scale) des objets pour les rendre plus accessibles et adaptés à la taille du personnage. Organisation du projet : Utilisation du World Outliner pour créer des dossiers et maintenir une hiérarchie propre dans votre scène. Duplication efficace : Utilisation du raccourci Ctrl + W pour dupliquer rapidement les éléments et construire le chemin. Itération et Test : Importance de tester régulièrement les sauts en jeu pour ajuster la distance entre les plateformes et éviter les raccourcis non désirés par le joueur. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux du level design restent identiques dans les versions plus récentes (UE5) :",
+    "tags": [
+      "Level Design",
+      "Infinity Blade",
+      "Platforming",
+      "Workflow"
+    ],
+    "title": "14. Création de chemins de plateformes",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creation-chemins-plateformes-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -1104,7 +1283,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-5/jeu-horreur-kawaii/14-foliage-editor-feuillage-arbres-nature-paysage/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprendre à concevoir des menus fonctionnels est une étape cruciale pour transformer votre prototype en un véritable jeu vidéo. Dans ce guide, nous explorons comment créer des boutons personnalisés et gérer la navigation entre les différentes salles (rooms) de votre projet.\nRésumé des notions clés La création d’une interface utilisateur (UI) dans GameMaker Studio repose sur une méthodologie simple mais efficace :\nConception graphique : Utilisation d’outils externes (comme Paint.NET) pour créer des assets transparents au format PNG. Il est essentiel de travailler sur des calques séparés pour conserver la transparence lors de l’exportation. Importation et configuration : Importation des images en tant que Sprites. Réglage du masque de collision sur “Full Image” pour assurer une détection précise des clics. Création d’objets dédiés pour chaque bouton. Logique de navigation : Utilisation de l’événement Mouse Left Button pour déclencher des actions. Utilisation de la fonction room_goto (ou l’action “Go to room”) pour changer de niveau. Utilisation de la commande game_end() pour fermer l’application. Gestion des flux : Duplication de salles existantes pour créer rapidement des menus (Menu principal, Game Over) tout en conservant les éléments de décor. Transitions : Appel des menus de défaite directement dans les événements de collision du vaisseau joueur. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de GameMaker (GMS2/GMS2023+) aient introduit des systèmes plus avancés comme les Sequences ou les UI Layers, les principes fondamentaux présentés ici restent la base de tout développement :\nLa séparation des responsabilités : Créer un objet par bouton est toujours une excellente pratique pour maintenir un code propre et modulaire. La gestion des ressources : L’importance de l’exportation en PNG avec transparence est une règle d’or qui ne change pas, quel que soit le moteur utilisé. La logique événementielle : La structure “Événement souris -\u003e Action de changement de salle” demeure le standard pour les menus simples. Même si vous passez au GML (GameMaker Language) pur, la logique de room_goto() reste la méthode privilégiée pour naviguer dans votre jeu. L’optimisation du workflow : La technique de duplication de salles pour créer des menus est une astuce de productivité qui permet de gagner un temps précieux lors du prototypage. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à concevoir des menus fonctionnels est une étape cruciale pour transformer votre prototype en un véritable jeu vidéo. Dans ce guide, nous explorons comment créer des boutons personnalisés et gérer la navigation entre les différentes salles (rooms) de votre projet.\nRésumé des notions clés La création d’une interface utilisateur (UI) dans GameMaker Studio repose sur une méthodologie simple mais efficace :",
     "tags": [
@@ -1141,6 +1320,19 @@ var relearn_searchindex = [
     ],
     "title": "14. Créer une banque fonctionnelle",
     "uri": "/intersect-engine/creer-un-mmorpg/creer-banque-fonctionnelle-intersect-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une étape cruciale du level design : la gestion des limites de votre carte. Il arrive souvent que les joueurs, par curiosité ou par erreur, tentent de sortir des zones de jeu prévues, ce qui peut entraîner des bugs de collision ou des chutes dans le vide. Pour éviter cela, Unreal Engine 4 propose un outil simple et efficace : le Blocking Volume.\nRésumé de la manipulation Accès aux outils : Rendez-vous dans le panneau Modes, onglet Place, puis cherchez Blocking Volume. Mise en place : Glissez le volume sur votre scène et utilisez les outils de transformation (Scale) pour couvrir les zones sensibles. Optimisation : Utilisez les vues orthogonales (Top, Left, Front) pour ajuster précisément la taille et la position des volumes. Duplication : Utilisez le raccourci Ctrl + W pour dupliquer vos volumes et couvrir tout le périmètre de votre niveau rapidement. Rotation : N’hésitez pas à faire pivoter vos volumes de 90° pour épouser les angles de votre terrain. Test : Lancez le jeu pour vérifier qu’aucune zone ne permet de passer outre ces murs invisibles. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit de nouveaux outils comme les Mass Entity ou des systèmes de collision plus avancés, le Blocking Volume reste une méthode standard et incontournable pour plusieurs raisons :\nPerformance : Les volumes sont extrêmement légers pour le moteur. Ils ne nécessitent pas de maillage complexe et sont calculés très rapidement par le moteur physique. Simplicité : Pour un développeur solo ou une petite équipe, c’est la solution la plus rapide pour “sceller” un niveau sans avoir à modifier les assets 3D de l’environnement. Flexibilité : Ils permettent de créer des zones de “tuerie” ou de blocage invisibles qui s’adaptent parfaitement aux changements de géométrie de votre niveau en cours de développement. Workflow : Le principe de duplication (Ctrl + W) et d’ajustement via les vues orthogonales reste le même dans toutes les versions d’Unreal Engine, garantissant une maîtrise durable de cet outil. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une étape cruciale du level design : la gestion des limites de votre carte. Il arrive souvent que les joueurs, par curiosité ou par erreur, tentent de sortir des zones de jeu prévues, ce qui peut entraîner des bugs de collision ou des chutes dans le vide. Pour éviter cela, Unreal Engine 4 propose un outil simple et efficace : le Blocking Volume.\nRésumé de la manipulation Accès aux outils : Rendez-vous dans le panneau Modes, onglet Place, puis cherchez Blocking Volume. Mise en place : Glissez le volume sur votre scène et utilisez les outils de transformation (Scale) pour couvrir les zones sensibles. Optimisation : Utilisez les vues orthogonales (Top, Left, Front) pour ajuster précisément la taille et la position des volumes. Duplication : Utilisez le raccourci Ctrl + W pour dupliquer vos volumes et couvrir tout le périmètre de votre niveau rapidement. Rotation : N’hésitez pas à faire pivoter vos volumes de 90° pour épouser les angles de votre terrain. Test : Lancez le jeu pour vérifier qu’aucune zone ne permet de passer outre ces murs invisibles. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit de nouveaux outils comme les Mass Entity ou des systèmes de collision plus avancés, le Blocking Volume reste une méthode standard et incontournable pour plusieurs raisons :",
+    "tags": [
+      "Level Design",
+      "Blocking Volume",
+      "Collision",
+      "UE4"
+    ],
+    "title": "15. Sécuriser les limites de votre niveau avec les Blocking Volumes",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/securiser-limites-niveau-unreal-engine-blocking-volumes/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -1199,17 +1391,30 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/creer-systeme-recolte-ressources-intersect-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprendre à intégrer un système de score dynamique est une étape fondamentale pour tout développeur débutant sur GameMaker Studio.\nRésumé des notions clés Dans ce tutoriel, nous abordons la mise en place d’un système de score persistant à travers les différentes salles de votre jeu :\nCréation d’un objet contrôleur : Utilisation d’un objet invisible (sans sprite) dédié à la gestion du score, permettant de centraliser la logique sans encombrer vos autres objets. Variables globales (global.variable) : Comprendre la différence entre une variable locale (propre à un objet) et une variable globale, accessible par n’importe quel élément du jeu. Initialisation dans l’événement Create : Définition des valeurs de départ (ex: global.points = 0) dès le lancement de l’objet. Gestion des couleurs personnalisées : Utilisation de la fonction make_color_rgb pour créer des teintes sur mesure au-delà des constantes par défaut. Affichage dynamique : Utilisation de l’événement Draw combiné à la fonction draw_text pour projeter le score à l’écran à chaque frame. Configuration de la Room : Ne pas oublier de placer l’objet “score” dans votre Room pour que le code soit exécuté. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes de GameMaker (GMS2 et versions ultérieures) aient introduit des outils plus modernes comme les Sequences ou les GUI Layers, les concepts présentés ici restent le socle de la programmation de jeux 2D :\nLa puissance des variables globales : Elles restent indispensables pour stocker des données persistantes comme le score, le niveau du joueur ou les paramètres de sauvegarde. La séparation des responsabilités : Créer un objet “Game Manager” ou “Score Manager” invisible est toujours la meilleure pratique pour garder un projet propre et maintenable. Le pipeline de rendu : Comprendre que l’événement Draw est une boucle constante qui s’exécute à chaque image est crucial pour optimiser les performances de votre jeu. La manipulation des couleurs : La gestion RGB reste la norme pour personnaliser l’interface utilisateur (UI) et créer une identité visuelle cohérente. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à intégrer un système de score dynamique est une étape fondamentale pour tout développeur débutant sur GameMaker Studio.\nRésumé des notions clés Dans ce tutoriel, nous abordons la mise en place d’un système de score persistant à travers les différentes salles de votre jeu :",
     "tags": [
       "GameMaker",
       "Tutoriel",
       "Programmation",
-      "Gamedev"
+      "GameDev"
     ],
     "title": "15. Gérer et afficher un score global",
     "uri": "/game-maker-studio/shoot-them-up/gerer-afficher-score-global-gamemaker-studio/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans ce chapitre, nous abordons une étape cruciale pour la structure de votre jeu : la gestion des objectifs et des conditions d’échec. Apprendre à créer des zones invisibles qui déclenchent des événements spécifiques est une compétence fondamentale pour tout développeur Unreal Engine.\nRésumé du tutoriel Organisation : Création d’un dossier dédié Zones dans le Content Browser pour maintenir un projet propre. Création d’Acteurs : Utilisation de la classe Actor pour créer des objets interactifs (BP_Zone_Victoire). Composants de collision : Ajout d’un Box Collision pour définir la zone d’interaction invisible dans le jeu. Programmation visuelle : Utilisation de l’Event Graph avec le nœud ActorBeginOverlap pour détecter le passage du joueur. Commandes console : Utilisation du nœud Execute Console Command avec la commande quit pour tester la fin du niveau. Manipulation dans l’éditeur : Utilisation des outils de transformation (déplacement, mise à l’échelle) pour adapter la zone à votre level design. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux présentés ici restent le standard de l’industrie :\nLa puissance des Blueprints : La logique événementielle (Event Begin Overlap) est toujours la méthode privilégiée pour gérer les interactions simples sans écrire une seule ligne de C++. L’importance du nommage : La bonne pratique de renommer ses composants (Box_Victoire) est indispensable pour la maintenance de projets complexes. Le workflow de collision : Le système de Box Collision reste l’outil le plus performant pour créer des “Triggers” (déclencheurs) dans vos niveaux. Modularité : Créer des acteurs réutilisables permet de placer facilement des zones de victoire ou de défaite n’importe où dans vos futurs niveaux par simple glisser-déposer. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce chapitre, nous abordons une étape cruciale pour la structure de votre jeu : la gestion des objectifs et des conditions d’échec. Apprendre à créer des zones invisibles qui déclenchent des événements spécifiques est une compétence fondamentale pour tout développeur Unreal Engine.\nRésumé du tutoriel Organisation : Création d’un dossier dédié Zones dans le Content Browser pour maintenir un projet propre. Création d’Acteurs : Utilisation de la classe Actor pour créer des objets interactifs (BP_Zone_Victoire). Composants de collision : Ajout d’un Box Collision pour définir la zone d’interaction invisible dans le jeu. Programmation visuelle : Utilisation de l’Event Graph avec le nœud ActorBeginOverlap pour détecter le passage du joueur. Commandes console : Utilisation du nœud Execute Console Command avec la commande quit pour tester la fin du niveau. Manipulation dans l’éditeur : Utilisation des outils de transformation (déplacement, mise à l’échelle) pour adapter la zone à votre level design. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux présentés ici restent le standard de l’industrie :",
+    "tags": [
+      "Blueprints",
+      "GameDev",
+      "Collision",
+      "Trigger"
+    ],
+    "title": "16. Créer des zones de victoire et de défaite avec les Blueprints",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creer-zones-victoire-defaite-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2 \u003e Apprendre la création de jeux vidéo avec Construct 2",
@@ -1254,13 +1459,13 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-peinture-voiture-unreal-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprenez à dynamiser votre système de score en récompensant le joueur pour chaque ennemi détruit et à afficher le résultat final sur votre écran de Game Over.\nRésumé des notions clés Dans ce tutoriel, nous abordons deux aspects fondamentaux de la gestion de score dans GameMaker :\nIncrémentation dynamique : Utilisation de l’opérateur += pour ajouter des points à une variable globale (global.score) lors de la collision entre un laser et un ennemi. Différenciation des récompenses : Attribution de valeurs de points variables (25, 50, 75) selon le type d’ennemi éliminé pour enrichir le gameplay. Gestion des variables globales : Comprendre comment stocker une valeur persistante qui peut être récupérée même après un changement de room. Affichage sur l’écran de fin : Création d’un objet dédié (obj_score_go) pour capturer le score final et l’afficher via l’événement Draw sur la room de Game Over. Positionnement UI : Utilisation de la fonction draw_text pour placer précisément le score au-dessus des éléments d’interface comme les boutons “Rejouer” ou “Quitter”. Ce qui reste d’actualité aujourd’hui Bien que les versions de GameMaker aient évolué, les principes fondamentaux présentés ici restent le socle de tout jeu arcade :\nL’opérateur += : C’est une convention de programmation universelle en GML (GameMaker Language). Elle reste la méthode la plus propre et la plus efficace pour modifier une valeur existante sans alourdir votre code. La puissance des variables globales : L’utilisation de global. est toujours la méthode recommandée pour gérer des données qui doivent survivre au passage d’une room à une autre (comme le score, les vies ou les paramètres du joueur). La séparation des responsabilités : Créer un objet spécifique pour l’affichage du score (obj_score_go) est une bonne pratique de conception. Cela permet de garder votre logique d’interface propre et isolée de la logique de jeu pure, facilitant ainsi la maintenance et les modifications futures de votre UI. L’événement Draw : La gestion de l’affichage via l’événement Draw reste le standard pour dessiner du texte, des sprites ou des formes primitives à l’écran en temps réel. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprenez à dynamiser votre système de score en récompensant le joueur pour chaque ennemi détruit et à afficher le résultat final sur votre écran de Game Over.\nRésumé des notions clés Dans ce tutoriel, nous abordons deux aspects fondamentaux de la gestion de score dans GameMaker :",
     "tags": [
       "GameMaker",
       "Tutoriel",
-      "Gamedev",
+      "GameDev",
       "Programmation"
     ],
     "title": "16. Gérer le score et l'affichage Game Over",
@@ -1280,6 +1485,19 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/mise-en-place-cycle-jour-nuit-intersect-engine/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous allons apprendre à créer une “Kill Zone” (zone de défaite). L’objectif est simple : si le joueur tombe dans le vide ou touche une zone interdite, le niveau doit se réinitialiser instantanément pour lui permettre de recommencer son parcours.\nRésumé de la mise en place Création du Blueprint : Création d’un nouvel Actor nommé Zone_Defaite (sans accents pour éviter les problèmes de compatibilité). Collision : Ajout d’un composant Box Collision pour définir la zone de déclenchement. Logique de redémarrage : Utilisation de l’événement Event Actor Begin Overlap pour détecter l’entrée du joueur. Utilisation du node Open Level (pour les versions récentes) ou Restart Game (pour les versions 4.12 et antérieures). Sécurisation : Utilisation d’un Cast to ThirdPersonCharacter pour s’assurer que seul le joueur déclenche le redémarrage, et non un ennemi ou un autre objet. Intégration : Placement et mise à l’échelle des zones dans le niveau pour couvrir les zones de chute. Ce qui reste d’actualité aujourd’hui Nommage des assets : La règle d’or d’éviter les accents et caractères spéciaux dans vos noms de fichiers reste une pratique essentielle pour éviter des bugs obscurs lors de la compilation ou du packaging. Le “Cast” est indispensable : Vérifier l’identité de l’acteur qui déclenche une collision est une base fondamentale du Game Design pour éviter des comportements imprévus (ex: un ennemi qui fait redémarrer le niveau). Organisation du World Outliner : Regrouper vos éléments (zones de victoire, zones de défaite) dans des dossiers (Create New Folder) est toujours la meilleure méthode pour garder un projet propre et maintenable. Context Sensitive : Comprendre comment fonctionne le menu contextuel des Blueprints reste crucial pour découvrir les fonctions disponibles selon le contexte de votre objet. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous allons apprendre à créer une “Kill Zone” (zone de défaite). L’objectif est simple : si le joueur tombe dans le vide ou touche une zone interdite, le niveau doit se réinitialiser instantanément pour lui permettre de recommencer son parcours.\nRésumé de la mise en place Création du Blueprint : Création d’un nouvel Actor nommé Zone_Defaite (sans accents pour éviter les problèmes de compatibilité). Collision : Ajout d’un composant Box Collision pour définir la zone de déclenchement. Logique de redémarrage : Utilisation de l’événement Event Actor Begin Overlap pour détecter l’entrée du joueur. Utilisation du node Open Level (pour les versions récentes) ou Restart Game (pour les versions 4.12 et antérieures). Sécurisation : Utilisation d’un Cast to ThirdPersonCharacter pour s’assurer que seul le joueur déclenche le redémarrage, et non un ennemi ou un autre objet. Intégration : Placement et mise à l’échelle des zones dans le niveau pour couvrir les zones de chute. Ce qui reste d’actualité aujourd’hui Nommage des assets : La règle d’or d’éviter les accents et caractères spéciaux dans vos noms de fichiers reste une pratique essentielle pour éviter des bugs obscurs lors de la compilation ou du packaging. Le “Cast” est indispensable : Vérifier l’identité de l’acteur qui déclenche une collision est une base fondamentale du Game Design pour éviter des comportements imprévus (ex: un ennemi qui fait redémarrer le niveau). Organisation du World Outliner : Regrouper vos éléments (zones de victoire, zones de défaite) dans des dossiers (Create New Folder) est toujours la meilleure méthode pour garder un projet propre et maintenable. Context Sensitive : Comprendre comment fonctionne le menu contextuel des Blueprints reste crucial pour découvrir les fonctions disponibles selon le contexte de votre objet. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "tags": [
+      "Blueprint",
+      "GameDev",
+      "Collision",
+      "Level Design"
+    ],
+    "title": "17. Créer une zone de défaite (Kill Zone) dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creer-une-zone-de-defaite-unreal-engine-4/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Maîtriser les Matériaux dans Unreal Engine",
     "content": "Apprendre à diffuser du contenu vidéo directement sur des objets 3D dans Unreal Engine 4 ouvre des possibilités créatives infinies, de l’affichage d’écrans interactifs à la création de menus principaux dynamiques.\nRésumé des notions clés Pour intégrer une vidéo dans votre projet, le processus repose sur le Media Framework d’Unreal Engine. Voici les étapes essentielles :\nPréparation du fichier : Utilisez de préférence le format .mp4. Veillez à ce que le nom de votre fichier ne contienne ni espaces, ni accents, ni caractères spéciaux pour éviter tout conflit. File Media Source : C’est l’asset qui pointe vers le chemin d’accès de votre fichier vidéo sur votre disque dur. Media Player \u0026 Texture : Le Media Player est le moteur de lecture. Lors de sa création, Unreal génère automatiquement une Media Texture qui servira de lien entre votre vidéo et vos matériaux. Application sur un objet : Il suffit de glisser-déposer la Media Texture sur un objet (comme un plan) pour créer automatiquement un matériau dynamique. Automatisation via Blueprint : Pour lancer la vidéo au démarrage, utilisez le Level Blueprint avec le nœud Open Source relié à l’événement Event BeginPlay. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué (notamment avec l’arrivée d’UE5), les fondamentaux du Media Framework restent identiques. La gestion des textures vidéo via le Media Player demeure la méthode standard pour intégrer des contenus animés externes.\nLes bonnes pratiques mentionnées, comme l’optimisation du poids des fichiers et la vigilance sur l’utilisation des ressources (pour ne pas surcharger la mémoire vidéo), sont plus que jamais d’actualité dans le développement moderne. Que vous soyez sur UE4 ou UE5, la logique de “File Media Source” et le contrôle via Blueprint constituent toujours le socle technique indispensable pour tout développeur souhaitant intégrer de la vidéo dans ses environnements 3D.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à diffuser du contenu vidéo directement sur des objets 3D dans Unreal Engine 4 ouvre des possibilités créatives infinies, de l’affichage d’écrans interactifs à la création de menus principaux dynamiques.\nRésumé des notions clés Pour intégrer une vidéo dans votre projet, le processus repose sur le Media Framework d’Unreal Engine. Voici les étapes essentielles :",
@@ -1293,7 +1511,7 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/integrer-video-objet-unreal-engine-4/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprenez à donner vie à vos combats en ajoutant des effets d’explosion animés et en gérant leur cycle de vie pour un rendu professionnel.\nRésumé des notions clés Pour transformer un simple sprite statique en un effet visuel dynamique, voici les étapes essentielles abordées dans ce tutoriel :\nCréation d’animation par étapes : Utilisation de la fonction Set Length pour définir le nombre de frames d’un sprite. Transformation progressive : Utilisation de l’outil Scale pour modifier la taille des frames individuellement (en veillant à décocher “Apply to All Images”). Gestion du cycle de vie : Utilisation de l’événement Animation End pour déclencher une action une fois l’animation terminée. Nettoyage de la mémoire : Emploi de la fonction instance_destroy() pour supprimer l’objet explosion après son affichage, évitant ainsi les fuites de mémoire. Instanciation dynamique : Utilisation de instance_create(x, y, obj) pour faire apparaître l’effet visuel précisément à l’endroit de la collision. Ce qui reste d’actualité aujourd’hui Bien que les interfaces de Game Maker aient évolué vers des versions plus modernes (GMS2/GMS 2023+), les concepts fondamentaux présentés ici restent le socle de tout développement 2D :\nLa gestion des ressources : La logique de destruction d’instance (instance_destroy) est toujours la méthode standard pour gérer les effets éphémères (particules, explosions, impacts). La séparation des responsabilités : Le fait de créer un objet dédié à l’explosion plutôt que de gérer l’animation directement dans l’ennemi permet une meilleure modularité et facilite la réutilisation de l’effet sur différents types d’ennemis. L’optimisation : Comprendre comment ne pas laisser d’objets inutiles en mémoire est une compétence cruciale pour maintenir un framerate stable, quel que soit le moteur utilisé. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprenez à donner vie à vos combats en ajoutant des effets d’explosion animés et en gérant leur cycle de vie pour un rendu professionnel.\nRésumé des notions clés Pour transformer un simple sprite statique en un effet visuel dynamique, voici les étapes essentielles abordées dans ce tutoriel :",
     "tags": [
@@ -1321,6 +1539,19 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/creer-lumieres-dynamiques-animees-intersect-engine/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans ce chapitre, nous abordons un pilier fondamental du développement de jeux vidéo : la gestion des données. Qu’il s’agisse de points de vie, d’inventaire ou de score, tout repose sur l’utilisation des variables. Nous allons voir comment créer, configurer et rendre accessible une variable de type “Integer” au sein de votre personnage dans Unreal Engine 4.\nRésumé du chapitre Qu’est-ce qu’une variable ? Une boîte de stockage pour vos données (texte, nombres, états logiques). Les types de variables : Distinction entre les Integers (nombres entiers) pour les scores et les Floats (nombres à virgule) pour les mesures précises. Création dans le Blueprint : Utilisation du panneau “Variables” dans le ThirdPersonCharacter. Compilation : Étape indispensable pour initialiser la variable et définir sa valeur par défaut. Accessibilité : L’importance de l’icône “œil” (Editable) pour permettre aux autres acteurs du jeu de modifier votre score. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué (passant de la 4 à la 5), les concepts fondamentaux présentés ici restent strictement identiques :\nLa logique des types : La distinction entre Integer, Float, Boolean et String est universelle en programmation et au sein de l’Unreal Engine. Le workflow Blueprint : La création de variables via le panneau “My Blueprint” et la nécessité de compiler pour appliquer les changements sont toujours les bases du développement visuel. L’encapsulation : Le concept de rendre une variable “Editable” (ou “Public” dans d’autres contextes) pour permettre une communication entre différents Blueprints reste la méthode standard pour gérer les interactions entre objets (ex: un objet à ramasser qui modifie le score du joueur). La structure de données : Stocker le score sur le Character est une pratique courante pour les jeux simples, bien que pour des projets plus complexes, on puisse s’orienter vers des GameInstance ou des PlayerState pour une meilleure persistance. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce chapitre, nous abordons un pilier fondamental du développement de jeux vidéo : la gestion des données. Qu’il s’agisse de points de vie, d’inventaire ou de score, tout repose sur l’utilisation des variables. Nous allons voir comment créer, configurer et rendre accessible une variable de type “Integer” au sein de votre personnage dans Unreal Engine 4.\nRésumé du chapitre Qu’est-ce qu’une variable ? Une boîte de stockage pour vos données (texte, nombres, états logiques). Les types de variables : Distinction entre les Integers (nombres entiers) pour les scores et les Floats (nombres à virgule) pour les mesures précises. Création dans le Blueprint : Utilisation du panneau “Variables” dans le ThirdPersonCharacter. Compilation : Étape indispensable pour initialiser la variable et définir sa valeur par défaut. Accessibilité : L’importance de l’icône “œil” (Editable) pour permettre aux autres acteurs du jeu de modifier votre score. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué (passant de la 4 à la 5), les concepts fondamentaux présentés ici restent strictement identiques :",
+    "tags": [
+      "Unreal Engine 4",
+      "Blueprints",
+      "Variables",
+      "GameDev"
+    ],
+    "title": "18. Maîtriser les variables et le système de score dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/maitriser-variables-score-unreal-engine-4/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Apprendre à gérer les compétences magiques est une étape cruciale pour donner de la profondeur à votre RPG. Dans ce guide, nous explorons comment configurer un sort de soin fonctionnel au sein d’Intersect Engine.\nLes fondamentaux du système de sorts La création d’un sort dans Intersect Engine repose sur une structure logique allant de la définition technique à l’intégration dans le gameplay :\nLe Spell Editor : C’est ici que tout commence. Vous définissez le type de sort (Combat, Événement), son icône, sa description et, surtout, son comportement. Targeting (Ciblage) : Le choix du type de cible est déterminant. Pour un soin, le mode “Single Target, Includes Self” est idéal, car il permet de se soigner soi-même ou de cibler un allié. Gestion des coûts et délais : Mana Cost : Indispensable pour équilibrer vos classes. Cast Time : Ajoute une dimension tactique en rendant le lancement vulnérable aux interruptions. Cooldown : Empêche le spam des compétences et force le joueur à gérer ses ressources. Effets (HP Difference) : Une valeur positive soigne, tandis qu’une valeur négative inflige des dégâts. Vous pouvez également manipuler d’autres statistiques (défense, mana, etc.). Apprentissage via Items : Pour rendre le sort accessible, il doit être lié à un objet (parchemin) que le joueur pourra acheter ou looter, puis apprendre via son livre de sorts (Spellbook). Ce qui reste d’actualité aujourd’hui Bien que le moteur évolue, les principes fondamentaux présentés ici restent le socle de tout projet sur Intersect Engine :\nL’équilibrage par les classes : La réflexion sur les coûts en mana par rapport aux statistiques de base de vos classes (Guerrier vs Mage) est une constante du game design. La rigueur du test : Le moteur étant en développement constant, la règle d’or reste de redémarrer le serveur après chaque modification majeure des sorts pour éviter les comportements erratiques. La zone d’effet (Hit Radius) : Comprendre comment le rayon d’impact affecte non seulement vos alliés mais aussi vos ennemis est essentiel pour éviter des situations de jeu frustrantes (comme soigner un monstre par accident). La modularité : La possibilité de combiner des effets (soin + buff de défense) montre que la puissance d’Intersect réside dans votre capacité à imaginer des synergies complexes plutôt que de simples sorts linéaires. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à gérer les compétences magiques est une étape cruciale pour donner de la profondeur à votre RPG. Dans ce guide, nous explorons comment configurer un sort de soin fonctionnel au sein d’Intersect Engine.\nLes fondamentaux du système de sorts La création d’un sort dans Intersect Engine repose sur une structure logique allant de la définition technique à l’intégration dans le gameplay :",
@@ -1335,7 +1566,7 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/creer-sort-soin-intersect-engine/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprendre à gérer l’ambiance sonore est une étape cruciale pour donner vie à votre projet : découvrez comment implémenter les effets de tir, les explosions et la musique de fond dans Game Maker Studio.\nRésumé des notions clés Lecture audio de base : Utilisation de la fonction audio_play_sound(soundID, priority, loop) pour déclencher vos fichiers audio. Gestion des variables audio : Stocker le son dans une variable (ex: var snd = audio_play_sound(...)) permet de manipuler ses propriétés en temps réel. Ajustement du volume (Gain) : Utilisation de audio_sound_gain(soundID, volume, time) pour régler l’intensité sonore (de 0 à 1) et le temps de transition. Bouclage de musique : Activation du paramètre loop à true pour les musiques de fond afin qu’elles se répètent en continu. Bonnes pratiques : L’importance de commenter son code pour faciliter la relecture et la maintenance du projet. Ce qui reste d’actualité aujourd’hui Bien que les versions de Game Maker aient évolué, les principes fondamentaux de la gestion audio restent identiques. La fonction audio_play_sound demeure le standard pour déclencher des effets sonores. La capacité à manipuler le gain dynamiquement est une compétence essentielle pour créer des environnements sonores immersifs, notamment pour gérer la distance entre la caméra et la source sonore ou pour créer des fondus (fades) lors des transitions de scènes. Maîtriser ces fonctions de base vous offre une base solide pour intégrer des systèmes audio plus complexes, comme les groupes audio ou les effets de filtres, disponibles dans les versions les plus récentes du moteur.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à gérer l’ambiance sonore est une étape cruciale pour donner vie à votre projet : découvrez comment implémenter les effets de tir, les explosions et la musique de fond dans Game Maker Studio.\nRésumé des notions clés Lecture audio de base : Utilisation de la fonction audio_play_sound(soundID, priority, loop) pour déclencher vos fichiers audio. Gestion des variables audio : Stocker le son dans une variable (ex: var snd = audio_play_sound(...)) permet de manipuler ses propriétés en temps réel. Ajustement du volume (Gain) : Utilisation de audio_sound_gain(soundID, volume, time) pour régler l’intensité sonore (de 0 à 1) et le temps de transition. Bouclage de musique : Activation du paramètre loop à true pour les musiques de fond afin qu’elles se répètent en continu. Bonnes pratiques : L’importance de commenter son code pour faciliter la relecture et la maintenance du projet. Ce qui reste d’actualité aujourd’hui Bien que les versions de Game Maker aient évolué, les principes fondamentaux de la gestion audio restent identiques. La fonction audio_play_sound demeure le standard pour déclencher des effets sonores. La capacité à manipuler le gain dynamiquement est une compétence essentielle pour créer des environnements sonores immersifs, notamment pour gérer la distance entre la caméra et la source sonore ou pour créer des fondus (fades) lors des transitions de scènes. Maîtriser ces fonctions de base vous offre une base solide pour intégrer des systèmes audio plus complexes, comme les groupes audio ou les effets de filtres, disponibles dans les versions les plus récentes du moteur.",
     "tags": [
@@ -1361,7 +1592,21 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-materiaux-physiques-unreal-engine-4/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence \u003e Shoot Them Up (Shmup)",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une étape cruciale pour l’expérience utilisateur : l’affichage d’informations en temps réel. Que ce soit pour un score, une barre de vie ou un compteur de munitions, le système de HUD (Heads-Up Display) est indispensable. Nous allons voir comment créer une interface utilisateur simple à l’aide des Widget Blueprints dans Unreal Engine 4 et comment l’injecter dans votre viewport dès le lancement de la partie.\nRésumé des étapes clés Organisation : Création d’un dossier dédié HUD dans votre Content Browser pour garder le projet propre. Création du Widget : Utilisation de l’outil User Interface \u003e Widget Blueprint pour concevoir l’affichage. Design : Ajout de composants Text pour le libellé “Score” et la valeur numérique. Ancrage (Anchors) : Utilisation des ancres pour garantir que l’interface reste bien positionnée, quelle que soit la résolution d’écran du joueur. Programmation (Level Blueprint) : Utilisation de l’événement Event BeginPlay pour initialiser l’UI. Utilisation de la node Create Widget pour instancier votre classe HUD. Utilisation de la node Add to Viewport pour rendre le widget visible à l’écran. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué (notamment avec l’arrivée de Common UI ou UMG amélioré), les fondamentaux présentés ici restent la base absolue du développement UI :\nLe concept de Widget Blueprint : C’est toujours la méthode standard pour créer des interfaces 2D dans le moteur. L’importance des Ancres : La gestion du responsive design via les ancres est une compétence indispensable pour éviter que votre interface ne soit coupée ou mal placée sur différents formats d’écran (16:9, 21:9, etc.). Le cycle de vie : La logique Create Widget -\u003e Add to Viewport est toujours la procédure standard pour afficher une interface utilisateur au démarrage d’un niveau ou d’une partie. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une étape cruciale pour l’expérience utilisateur : l’affichage d’informations en temps réel. Que ce soit pour un score, une barre de vie ou un compteur de munitions, le système de HUD (Heads-Up Display) est indispensable. Nous allons voir comment créer une interface utilisateur simple à l’aide des Widget Blueprints dans Unreal Engine 4 et comment l’injecter dans votre viewport dès le lancement de la partie.",
+    "tags": [
+      "HUD",
+      "Widget Blueprint",
+      "UI",
+      "GameDev",
+      "Tutoriel"
+    ],
+    "title": "19. Créer et afficher un HUD avec les Widget Blueprints",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creer-afficher-hud-widget-blueprint-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio \u003e Création d'un Shoot 'em Up (Shmup)",
     "content": "Apprendre à créer un jeu est une étape gratifiante, mais savoir comment le partager avec le monde entier est l’aboutissement ultime de tout développeur. Dans ce guide, nous explorons les étapes essentielles pour configurer et exporter votre projet GameMaker Studio en un fichier exécutable prêt à être lancé.\nRésumé des notions clés L’exportation d’un jeu ne se limite pas à un simple clic ; elle demande une préparation minutieuse dans les paramètres globaux du projet :\nGlobal Game Settings : Le passage obligé pour définir l’identité de votre jeu (nom, version, auteur, copyright). Personnalisation visuelle : L’importance de l’icône (format .ico) et du splash screen pour donner une image professionnelle à votre production. Configuration graphique : Le choix du mode plein écran ou fenêtré dès le lancement. Types d’exportation : NSIS Installer : Idéal pour une installation propre avec contrat de licence et images personnalisées. Single Runtime Executable : La solution la plus simple et rapide pour un fichier unique. Format ZIP : Recommandé pour alléger le poids du fichier lors du partage en ligne. Validation finale : Vérification dans la console de GameMaker du message “Create Finished” pour confirmer la réussite de la compilation. Ce qui reste d’actualité aujourd’hui Bien que les versions de GameMaker aient évolué (passant de Studio à GameMaker 2023+), les principes fondamentaux abordés ici restent le socle de tout déploiement :\nLa gestion des métadonnées : La structure des Game Options est toujours le point central pour configurer les propriétés de votre fenêtre et les informations de versionnage. La flexibilité des formats : Que vous utilisiez les versions modernes ou anciennes, le choix entre un installateur (pour une expérience utilisateur classique) et un exécutable portable (pour la portabilité) reste une décision stratégique pour tout développeur indépendant. L’importance de la finition : L’utilisation d’icônes personnalisées et d’écrans de chargement (splash screens) demeure une règle d’or pour transformer un simple projet technique en un produit fini et crédible aux yeux des joueurs. ⬅️ Vidéo Précédente 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à créer un jeu est une étape gratifiante, mais savoir comment le partager avec le monde entier est l’aboutissement ultime de tout développeur. Dans ce guide, nous explorons les étapes essentielles pour configurer et exporter votre projet GameMaker Studio en un fichier exécutable prêt à être lancé.\nRésumé des notions clés L’exportation d’un jeu ne se limite pas à un simple clic ; elle demande une préparation minutieuse dans les paramètres globaux du projet :",
     "tags": [
@@ -1401,6 +1646,20 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/creer-sort-projectile-intersect-engine/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous passons à une étape cruciale du développement de votre jeu : la création d’objets interactifs. Nous allons apprendre à concevoir une pièce (ou “collectible”) en utilisant les Blueprints, à lui donner un aspect visuel attrayant via l’éditeur de matériaux, et à la rendre dynamique en la faisant tourner sur elle-même. Enfin, nous aborderons la gestion des collisions pour que le joueur puisse traverser l’objet sans être bloqué.\nRésumé de l’épisode Création de l’Actor : Utilisation d’une classe Actor nommée “Zone Pièce” pour définir notre objet. Modélisation simple : Ajout d’une composante Sphere et ajustement de son échelle pour simuler une pièce. Design visuel : Création d’un matériau simple avec une couleur dorée, une valeur métallique élevée et une rugosité ajustée. Animation procédurale : Utilisation du node Event Tick couplé à Add Actor Local Rotation pour faire pivoter la pièce en continu. Gestion des collisions : Modification des paramètres de collision de Block All vers Overlap All Dynamic pour permettre au joueur de traverser l’objet tout en déclenchant des événements. Ce qui reste d’actualité aujourd’hui Bien que cet épisode utilise Unreal Engine 4, les concepts fondamentaux restent identiques dans Unreal Engine 5 :\nLe système d’Actors : La structure de base des objets dans le monde reste inchangée. L’Event Tick : Bien qu’il faille l’utiliser avec parcimonie pour optimiser les performances (préférez les Timelines pour des animations fluides), le principe de rotation par frame reste une base solide pour débuter. Les collisions : La distinction entre “Block” (collision physique solide) et “Overlap” (détection de zone) est un pilier du gameplay dans tous les jeux Unreal. Matériaux : L’éditeur de matériaux (Material Editor) fonctionne sur les mêmes principes de nœuds, vous permettant de créer des shaders complexes très rapidement. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous passons à une étape cruciale du développement de votre jeu : la création d’objets interactifs. Nous allons apprendre à concevoir une pièce (ou “collectible”) en utilisant les Blueprints, à lui donner un aspect visuel attrayant via l’éditeur de matériaux, et à la rendre dynamique en la faisant tourner sur elle-même. Enfin, nous aborderons la gestion des collisions pour que le joueur puisse traverser l’objet sans être bloqué.",
+    "tags": [
+      "Blueprint",
+      "Actor",
+      "Matériaux",
+      "Collision",
+      "Rotation"
+    ],
+    "title": "20. Création et animation d''objets à ramasser",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creation-objets-ramasser-blueprint-ue4/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Apprendre à manipuler le système d’événements est une étape cruciale pour donner vie à votre MMORPG. Aujourd’hui, nous explorons comment créer une quête de type “FedEx” (livraison d’objet) en utilisant les outils de base d’Intersect Engine.\nRésumé des notions clés Pour mettre en place ce système de quête simple, voici les étapes fondamentales à suivre dans l’éditeur :\nGestion des Variables (Switches) : Utilisation des Player Switches dans le “Switch \u0026 Variable Editor” pour suivre l’état d’avancement de la quête (vrai/faux). Création des NPCs (Événements) : NPC Donneur : Utilisation d’une condition (Conditional Branch) pour vérifier si la quête est active. Si non, on donne l’objet au joueur et on bascule le switch sur “True”. NPC Récepteur : Vérification du switch sur “True”. Si le joueur possède l’objet, on le lui retire (Take Item), on lui octroie de l’expérience, et on réinitialise le switch pour permettre la répétition ou la fin de la quête. Logique de contrôle : Utilisation du Logic Flow pour gérer les embranchements conditionnels. Gestion des inventaires pleins via les retours de commandes Give/Take Item. Affichage de dialogues contextuels avec la commande Show Text. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine aient évolué, les principes fondamentaux présentés ici restent le socle de tout développement sur ce moteur :\nLa puissance des Switches : Le système de variables booléennes reste la méthode la plus fiable pour gérer la progression des joueurs dans une quête ou un scénario. L’Event Editor : La structure par “Trigger” (Action Button) et par “Commandes” (Logic Flow) est toujours le cœur battant de l’interactivité dans Intersect. Comprendre comment imbriquer des conditions est indispensable pour créer des quêtes complexes. L’importance de la planification : Comme souligné dans le tutoriel, la structure de vos quêtes doit être pensée en amont sur papier. La gestion des états (quand donner l’objet, quand le retirer, quand réinitialiser la quête) est ce qui différencie un monde vivant d’un monde statique. Modularité : La méthode consistant à créer des petits systèmes isolés (NPC donneur, NPC récepteur) permet de tester facilement vos fonctionnalités avant de les intégrer dans une boucle de jeu plus vaste. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprendre à manipuler le système d’événements est une étape cruciale pour donner vie à votre MMORPG. Aujourd’hui, nous explorons comment créer une quête de type “FedEx” (livraison d’objet) en utilisant les outils de base d’Intersect Engine.\nRésumé des notions clés Pour mettre en place ce système de quête simple, voici les étapes fondamentales à suivre dans l’éditeur :",
@@ -1416,7 +1675,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Maîtriser les Matériaux dans Unreal Engine",
-    "content": "Apprenez à optimiser votre flux de travail en créant votre propre bibliothèque de matériaux réutilisables grâce à l’outil de migration d’Unreal Engine 4.\nRésumé des notions clés La migration d’assets est une étape fondamentale pour gagner en productivité. Voici les points essentiels à retenir :\nL’importance d’une bibliothèque : Créer un projet dédié à vos matériaux permet de centraliser vos créations et de les réutiliser facilement dans vos futurs développements. Pourquoi éviter le copier-coller Windows : Ne déplacez jamais vos fichiers directement via l’explorateur de fichiers, car cela brise les liens de dépendance entre les assets. L’outil “Migrate” : C’est la méthode officielle et sécurisée. Unreal Engine identifie automatiquement toutes les dépendances (textures, matériaux parents, instances) pour garantir que l’asset migré reste fonctionnel. Procédure de migration : Sélectionnez vos assets dans l’Content Browser. Faites un clic droit \u003e Asset Actions \u003e Migrate. Validez la liste des dépendances proposée par le moteur. Sélectionnez le dossier Content du projet de destination. Polyvalence : Cette technique ne se limite pas aux matériaux ; elle fonctionne avec les Blueprints, les meshes 3D et tout autre type d’asset dans l’éditeur. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel se concentre sur Unreal Engine 4, les principes fondamentaux de gestion de projet restent identiques dans Unreal Engine 5. La structure du dossier Content et le fonctionnement du système de migration sont des piliers du moteur. Que vous travailliez sur des projets complexes ou des prototypes rapides, la capacité à isoler vos assets dans des bibliothèques modulaires est une compétence indispensable pour tout développeur. Cette méthode vous permet non seulement de gagner un temps précieux, mais aussi de maintenir une cohérence visuelle et technique à travers l’ensemble de vos productions.\n⬅️ Vidéo Précédente 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "content": "Apprenez à optimiser votre flux de travail en créant votre propre bibliothèque de matériaux réutilisables grâce à l’outil de migration d’Unreal Engine 4.\nRésumé des notions clés La migration d’assets est une étape fondamentale pour gagner en productivité. Voici les points essentiels à retenir :\nL’importance d’une bibliothèque : Créer un projet dédié à vos matériaux permet de centraliser vos créations et de les réutiliser facilement dans vos futurs développements. Pourquoi éviter le copier-coller Windows : Ne déplacez jamais vos fichiers directement via l’explorateur de fichiers, car cela brise les liens de dépendance entre les assets. L’outil “Migrate” : C’est la méthode officielle et sécurisée. Unreal Engine identifie automatiquement toutes les dépendances (textures, matériaux parents, instances) pour garantir que l’asset migré reste fonctionnel. Procédure de migration : Sélectionnez vos assets dans l’Content Browser. Faites un clic droit \u003e Asset Actions \u003e Migrate. Validez la liste des dépendances proposée par le moteur. Sélectionnez le dossier Content du projet de destination. Polyvalence : Cette technique ne se limite pas aux matériaux ; elle fonctionne avec les Blueprints, les meshes 3D et tout autre type d’asset dans l’éditeur. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel se concentre sur Unreal Engine 4, les principes fondamentaux de gestion de projet restent identiques dans Unreal Engine 5. La structure du dossier Content et le fonctionnement du système de migration sont des piliers du moteur. Que vous travailliez sur des projets complexes ou des prototypes rapides, la capacité à isoler vos assets dans des bibliothèques modulaires est une compétence indispensable pour tout développeur. Cette méthode vous permet non seulement de gagner un temps précieux, mais aussi de maintenir une cohérence visuelle et technique à travers l’ensemble de vos productions.\n⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Apprenez à optimiser votre flux de travail en créant votre propre bibliothèque de matériaux réutilisables grâce à l’outil de migration d’Unreal Engine 4.\nRésumé des notions clés La migration d’assets est une étape fondamentale pour gagner en productivité. Voici les points essentiels à retenir :",
     "tags": [
       "Unreal Engine 4",
@@ -1426,6 +1685,19 @@ var relearn_searchindex = [
     ],
     "title": "20. Comment migrer vos matériaux entre vos projets Unreal Engine 4",
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/migrer-materiaux-unreal-engine-bibliotheque-assets/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous passons à l’étape cruciale de l’interaction : transformer notre objet statique en un élément de gameplay fonctionnel. Nous allons apprendre à détecter la collision entre le joueur et la pièce, mettre à jour une variable de score et supprimer l’objet de la scène.\nRésumé des étapes clés Détection de collision : Utilisation de l’événement Event Actor Begin Overlap dans le Blueprint de la pièce. Cast vers le personnage : Utilisation du nœud Cast To ThirdPersonCharacter pour s’assurer que seule la collision avec le joueur déclenche l’action. Gestion du score : Récupération de la valeur actuelle via Get Score. Addition de la valeur (via Integer + Integer) pour permettre une flexibilité sur le gain de points. Mise à jour de la variable via Set Score. Feedback visuel : Utilisation temporaire de Print String pour vérifier le bon fonctionnement du compteur. Nettoyage : Utilisation de Destroy Actor pour supprimer la pièce de la scène une fois ramassée. Level Design : Astuces pour dupliquer et disposer les pièces dans le niveau tout en conservant les propriétés de taille personnalisées. Ce qui reste d’actualité aujourd’hui Bien que cet épisode utilise les bases d’Unreal Engine 4, les concepts abordés sont fondamentaux et toujours valides dans Unreal Engine 5 :\nLe Casting : Le Cast To reste la méthode la plus directe pour communiquer entre deux Blueprints, bien que pour des projets plus complexes, l’utilisation d’Interfaces soit recommandée pour éviter les dépendances directes. La logique de ramassage : Le pattern Overlap -\u003e Cast -\u003e Modify Variable -\u003e Destroy est le standard de l’industrie pour les objets à collecter (pièces, munitions, items). La gestion des variables : La manipulation des variables d’instance (comme le score stocké dans le Character) est une pratique immuable. Workflow de Level Design : La duplication d’acteurs dans le viewport reste la méthode la plus efficace pour peupler un niveau rapidement tout en conservant les modifications apportées aux instances (comme l’échelle ou les paramètres spécifiques). 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous passons à l’étape cruciale de l’interaction : transformer notre objet statique en un élément de gameplay fonctionnel. Nous allons apprendre à détecter la collision entre le joueur et la pièce, mettre à jour une variable de score et supprimer l’objet de la scène.\nRésumé des étapes clés Détection de collision : Utilisation de l’événement Event Actor Begin Overlap dans le Blueprint de la pièce. Cast vers le personnage : Utilisation du nœud Cast To ThirdPersonCharacter pour s’assurer que seule la collision avec le joueur déclenche l’action. Gestion du score : Récupération de la valeur actuelle via Get Score. Addition de la valeur (via Integer + Integer) pour permettre une flexibilité sur le gain de points. Mise à jour de la variable via Set Score. Feedback visuel : Utilisation temporaire de Print String pour vérifier le bon fonctionnement du compteur. Nettoyage : Utilisation de Destroy Actor pour supprimer la pièce de la scène une fois ramassée. Level Design : Astuces pour dupliquer et disposer les pièces dans le niveau tout en conservant les propriétés de taille personnalisées. Ce qui reste d’actualité aujourd’hui Bien que cet épisode utilise les bases d’Unreal Engine 4, les concepts abordés sont fondamentaux et toujours valides dans Unreal Engine 5 :",
+    "tags": [
+      "Blueprints",
+      "Gameplay",
+      "GameDev",
+      "Tutoriel"
+    ],
+    "title": "21. Implémenter le système de ramassage et de score",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/implanter-systeme-ramassage-score-unreal-engine/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
@@ -1442,6 +1714,20 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/gestion-droits-administration-moderation-intersect-engine/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous finalisons l’interface utilisateur de notre jeu en rendant le score dynamique. Jusqu’ici, bien que la logique de collecte des pièces fonctionne en arrière-plan, le joueur ne reçoit aucun retour visuel. Nous allons apprendre à utiliser les “Bindings” dans les Widget Blueprints pour lier la valeur de notre variable Score à un élément textuel de notre interface.\nRésumé de la mise en place Accès au Widget : Ouverture du HUD_Score dans le dossier HUD. Création du Binding : Utilisation du bouton “Bind” dans les détails du composant texte pour générer une fonction de mise à jour automatique. Logique de récupération : Utilisation d’un Cast To ThirdPersonCharacter pour accéder aux données du joueur. Utilisation de Get Player Character pour définir l’objet source du cast. Récupération de la variable Score via un Get. Conversion automatique : Unreal Engine gère nativement la conversion de l’entier (Integer) vers le format texte (Text) lors de la connexion au nœud Return Value. Test et itération : Vérification en jeu de la mise à jour du score lors de la collecte et ajustement du level design pour encourager l’exploration. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des systèmes comme les Common UI ou les Data Bindings plus avancés, la méthode présentée ici reste un pilier fondamental pour les débutants :\nLe Binding simple : C’est la méthode la plus rapide pour prototyper une interface. Elle est toujours parfaitement fonctionnelle pour des projets simples ou des besoins ponctuels. La communication entre classes : Le principe du Cast reste une notion incontournable pour faire dialoguer le HUD avec le Character, même si, pour des projets plus complexes, on privilégiera désormais les Event Dispatchers ou les Interface pour éviter les dépendances directes. Le cycle de vie des Widgets : Comprendre que le HUD interroge régulièrement les variables du joueur est essentiel pour optimiser les performances (attention toutefois à ne pas surcharger les bindings trop complexes dans des jeux gourmands). 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous finalisons l’interface utilisateur de notre jeu en rendant le score dynamique. Jusqu’ici, bien que la logique de collecte des pièces fonctionne en arrière-plan, le joueur ne reçoit aucun retour visuel. Nous allons apprendre à utiliser les “Bindings” dans les Widget Blueprints pour lier la valeur de notre variable Score à un élément textuel de notre interface.\nRésumé de la mise en place Accès au Widget : Ouverture du HUD_Score dans le dossier HUD. Création du Binding : Utilisation du bouton “Bind” dans les détails du composant texte pour générer une fonction de mise à jour automatique. Logique de récupération : Utilisation d’un Cast To ThirdPersonCharacter pour accéder aux données du joueur. Utilisation de Get Player Character pour définir l’objet source du cast. Récupération de la variable Score via un Get. Conversion automatique : Unreal Engine gère nativement la conversion de l’entier (Integer) vers le format texte (Text) lors de la connexion au nœud Return Value. Test et itération : Vérification en jeu de la mise à jour du score lors de la collecte et ajustement du level design pour encourager l’exploration. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des systèmes comme les Common UI ou les Data Bindings plus avancés, la méthode présentée ici reste un pilier fondamental pour les débutants :",
+    "tags": [
+      "Blueprints",
+      "HUD",
+      "UI",
+      "Widget",
+      "GameDev"
+    ],
+    "title": "22. Afficher le score du joueur dans l'interface (HUD)",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/afficher-score-temps-reel-unreal-engine-4/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Le passage à la version Beta 1 d’Intersect Engine marque un tournant majeur dans le développement de votre MMORPG 2D, introduisant des fonctionnalités essentielles pour enrichir l’expérience de jeu.\nRésumé des nouveautés de la Beta 1 Cette mise à jour majeure apporte des outils indispensables qui transforment la structure même de votre projet :\nÉditeur de quêtes dédié : Fini le recours complexe aux événements, vous disposez désormais d’un éditeur complet pour concevoir des quêtes complexes. Systèmes sociaux et économiques : Introduction du trading (échange entre joueurs), des groupes (parties) pour affronter des boss, et du système de craft basé sur la récolte de ressources. Interface utilisateur (UI) : Passage à une interface “Dark Mode” pour un meilleur confort visuel et une meilleure lisibilité des couleurs lors de la création. Outil de migration : Un utilitaire dédié permet de mettre à jour votre base de données existante vers la nouvelle version sans perdre votre progression. Guide de migration rapide Pour mettre à jour votre projet en toute sécurité, suivez ces étapes clés :\nSauvegarde : Copiez l’intégralité de votre dossier de projet actuel vers un dossier “Backup”. Nettoyage : Supprimez tous les fichiers des dossiers Server et Client/Editor, à l’exception du dossier Resources. Installation : Téléchargez la version Beta 1 et extrayez les nouveaux fichiers dans vos dossiers respectifs. Mise à jour des ressources : Appliquez le patch “Beta 1 upgrade resources” en écrasant les fichiers existants. Migration DB : Lancez le Intersect Migration Tool pour mettre à jour votre base de données vers la version 6. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine aient évolué, les principes fondamentaux présentés ici restent le socle de tout projet sur ce moteur :\nLa gestion des backups : La règle d’or reste de toujours sauvegarder ses ressources avant toute manipulation de version. L’importance des outils natifs : L’utilisation des éditeurs intégrés (Quêtes, Craft) est toujours préférable à la création de systèmes personnalisés via des événements, car ils sont optimisés pour la stabilité du serveur. La structure de projet : La séparation claire entre le client, l’éditeur et le serveur, ainsi que l’importance du dossier Resources, demeure la norme pour organiser correctement vos assets et bases de données. ⬅️ Vidéo Précédente Vidéo Suivante ➡️ 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Le passage à la version Beta 1 d’Intersect Engine marque un tournant majeur dans le développement de votre MMORPG 2D, introduisant des fonctionnalités essentielles pour enrichir l’expérience de jeu.\nRésumé des nouveautés de la Beta 1 Cette mise à jour majeure apporte des outils indispensables qui transforment la structure même de votre projet :",
@@ -1453,6 +1739,19 @@ var relearn_searchindex = [
     ],
     "title": "22. Guide de migration et nouveautés Beta 1",
     "uri": "/intersect-engine/creer-un-mmorpg/guide-migration-intersect-engine-beta-1/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "L’immersion dans un jeu vidéo passe inévitablement par l’audio. Dans cet épisode, nous allons apprendre à importer des ressources sonores dans Unreal Engine 4 et à les déclencher dynamiquement via les Blueprints pour ponctuer les moments clés de votre gameplay, comme la victoire ou la défaite.\nRésumé de l’épisode Importation des assets : Organisation du dossier “Son” et importation des fichiers audio via le Content Browser. Play Sound at Location : Utilisation de ce node pour spatialiser le son en fonction de la position du joueur (récupérée via Get Actor Location). Gestion du flux d’exécution : Utilisation du node DoOnce pour éviter que le son ne se déclenche en boucle lors d’une collision persistante. Ajout d’un Delay pour laisser le temps au son de se jouer avant de quitter le jeu ou de redémarrer le niveau. Test rapide : Astuce pour placer temporairement un trigger près du point de spawn afin de valider l’implémentation sans parcourir tout le niveau. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système MetaSounds, les fondamentaux abordés ici restent parfaitement valides :\nLa logique de déclenchement : Le principe de coupler un événement de collision (OnComponentBeginOverlap) à une action sonore est la base du sound design interactif. Spatialisation : La distinction entre Play Sound 2D (interface/musique) et Play Sound at Location (diégétique/monde) est une notion essentielle pour le mixage audio. Optimisation des Blueprints : L’utilisation de DoOnce est une pratique standard pour éviter les bugs de logique liés aux collisions multiples (très fréquent avec les triggers de fin de niveau). Workflow d’import : La gestion des dossiers et l’importation par glisser-déposer ou via l’interface restent identiques dans les versions actuelles du moteur. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "L’immersion dans un jeu vidéo passe inévitablement par l’audio. Dans cet épisode, nous allons apprendre à importer des ressources sonores dans Unreal Engine 4 et à les déclencher dynamiquement via les Blueprints pour ponctuer les moments clés de votre gameplay, comme la victoire ou la défaite.\nRésumé de l’épisode Importation des assets : Organisation du dossier “Son” et importation des fichiers audio via le Content Browser. Play Sound at Location : Utilisation de ce node pour spatialiser le son en fonction de la position du joueur (récupérée via Get Actor Location). Gestion du flux d’exécution : Utilisation du node DoOnce pour éviter que le son ne se déclenche en boucle lors d’une collision persistante. Ajout d’un Delay pour laisser le temps au son de se jouer avant de quitter le jeu ou de redémarrer le niveau. Test rapide : Astuce pour placer temporairement un trigger près du point de spawn afin de valider l’implémentation sans parcourir tout le niveau. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système MetaSounds, les fondamentaux abordés ici restent parfaitement valides :",
+    "tags": [
+      "Blueprint",
+      "Audio",
+      "Game Design",
+      "Tutoriel"
+    ],
+    "title": "23. Intégration sonore et gestion des événements audio",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/integration-sonore-unreal-engine-4-blueprints/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
@@ -1468,6 +1767,19 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/maitriser-systeme-crafting-intersect-engine/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous allons finaliser l’interaction de ramassage de nos pièces en ajoutant un retour audio immédiat. Au lieu d’un simple changement de score visuel, le joueur bénéficiera d’un feedback sonore spatialisé, renforçant ainsi le “game feel” de notre projet. Nous verrons comment utiliser la position de l’acteur lui-même pour déclencher ce son.\nRésumé des étapes clés Accès au Blueprint : Ouvrez le Blueprint ZonePièce pour modifier la logique existante. Insertion du nœud : Entre le Set Score et le Destroy Actor, insérez un nœud Play Sound at Location. Sélection du son : Choisissez votre asset audio (ex: “Pièce”) dans la bibliothèque. Spatialisation : Utilisez le nœud Get Actor Location avec la cible Self pour que le son soit émis précisément à l’emplacement de la pièce dans le monde. Compilation et test : Compilez le Blueprint et testez en jeu pour vérifier que le son se déclenche bien lors de la collision. Optimisation : Ajustez les délais (ex: temps d’attente de victoire) pour affiner le rythme de votre jeu. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux abordés ici restent des piliers du développement :\nLe Feedback Audio : La spatialisation des sons (Play Sound at Location) est toujours la méthode standard pour les effets ponctuels (SFX) dans l’UE5. La modularité des Blueprints : La logique d’insertion de nœuds entre deux actions reste la base de la programmation visuelle. L’utilisation de ‘Self’ : Comprendre que Self fait référence à l’instance de l’acteur qui exécute le code est crucial pour éviter les erreurs de positionnement dans des scènes complexes. Itération rapide : La capacité à modifier des variables (comme le temps d’attente de victoire) et à tester immédiatement est le cœur du workflow de développement sur Unreal. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous allons finaliser l’interaction de ramassage de nos pièces en ajoutant un retour audio immédiat. Au lieu d’un simple changement de score visuel, le joueur bénéficiera d’un feedback sonore spatialisé, renforçant ainsi le “game feel” de notre projet. Nous verrons comment utiliser la position de l’acteur lui-même pour déclencher ce son.\nRésumé des étapes clés Accès au Blueprint : Ouvrez le Blueprint ZonePièce pour modifier la logique existante. Insertion du nœud : Entre le Set Score et le Destroy Actor, insérez un nœud Play Sound at Location. Sélection du son : Choisissez votre asset audio (ex: “Pièce”) dans la bibliothèque. Spatialisation : Utilisez le nœud Get Actor Location avec la cible Self pour que le son soit émis précisément à l’emplacement de la pièce dans le monde. Compilation et test : Compilez le Blueprint et testez en jeu pour vérifier que le son se déclenche bien lors de la collision. Optimisation : Ajustez les délais (ex: temps d’attente de victoire) pour affiner le rythme de votre jeu. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux abordés ici restent des piliers du développement :",
+    "tags": [
+      "Blueprints",
+      "Audio",
+      "GameDev",
+      "Tutoriel"
+    ],
+    "title": "24. Ajouter des effets sonores lors du ramassage d''objets",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/ajouter-effets-sonores-ramassage-unreal-engine-4/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Créer un MMORPG de A à Z \u003e Intersect Engine",
     "content": "Créer un MMORPG demande de la structure, et le système de quêtes est le cœur battant de l’engagement de vos joueurs. Dans ce guide, nous explorons comment configurer vos premières missions avec l’éditeur intégré d’Intersect Engine pour donner vie à votre univers.\nRésumé des notions clés L’éditeur de quêtes d’Intersect Engine est un outil puissant qui permet de gérer la progression narrative et mécanique de votre jeu. Voici les points essentiels à retenir :\nConfiguration du Quest Log : Vous pouvez définir si une quête est visible avant acceptation, si elle reste dans le journal une fois terminée, et si elle est répétable ou abandonnable. Gestion des récompenses : Via l’éditeur d’événements de fin de quête, vous pouvez distribuer de l’expérience, de la monnaie ou des objets. Pensez à prévoir des messages d’erreur si l’inventaire du joueur est plein. Actions de quête : Utilisez les événements de début et de fin pour créer des mécaniques immersives (prêter un objet au début, le récupérer automatiquement à la fin). Pré-requis (Quest Requirements) : Vous pouvez restreindre l’accès à une quête selon le niveau du joueur, sa classe, ou d’autres conditions spécifiques. Types de tâches : L’éditeur supporte nativement le “Kill NPC” (tuer des monstres) et le “Gather Item” (récolter des objets), mais permet aussi des quêtes basées sur des événements personnalisés. Narration : Ne négligez pas la rédaction. Utilisez les champs de description (offre, progression, achèvement) pour tisser des liens entre vos PNJ et vos zones géographiques. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Intersect Engine évoluent (notamment avec le passage à la Beta 3.1 et au-delà), la logique fondamentale présentée ici reste le standard du moteur :\nLa séparation entre narration et logique : La structure “Offre / En cours / Terminé” est toujours la base de l’expérience utilisateur dans Intersect. L’importance des événements : Le système d’événements reste le pilier central pour créer des quêtes uniques qui sortent du simple “tuer 10 monstres”. L’équilibrage : La mise en garde sur les récompenses reste cruciale. Un bon système de quêtes doit être réfléchi sur papier avant d’être implémenté pour éviter de briser l’économie de votre jeu ou de créer des failles d’expérience (exploit). La modularité : La capacité de créer des pré-requis complexes (niveaux, classes) est une fonctionnalité pérenne qui permet de structurer la progression de vos joueurs sur le long terme. ⬅️ Vidéo Précédente 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Créer un MMORPG demande de la structure, et le système de quêtes est le cœur battant de l’engagement de vos joueurs. Dans ce guide, nous explorons comment configurer vos premières missions avec l’éditeur intégré d’Intersect Engine pour donner vie à votre univers.\nRésumé des notions clés L’éditeur de quêtes d’Intersect Engine est un outil puissant qui permet de gérer la progression narrative et mécanique de votre jeu. Voici les points essentiels à retenir :",
@@ -1481,12 +1793,376 @@ var relearn_searchindex = [
     "uri": "/intersect-engine/creer-un-mmorpg/maitriser-systeme-quetes-intersect-engine/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous allons donner vie à votre niveau en y intégrant une musique d’ambiance. Il ne s’agit pas seulement de lancer un son, mais de gérer sa boucle, son volume et surtout son interaction avec les événements de fin de partie (victoire ou défaite) pour éviter les superpositions sonores désagréables.\nRésumé des étapes clés Configuration du fichier audio : Activation de l’option “Looping” dans les détails du fichier Wave pour une lecture en continu. Utilisation des Sound Cues : Création d’un objet Sound Cue pour gérer plus finement les propriétés audio (effets, réverbération, logique de boucle). Implémentation via le Character Blueprint : Ajout d’un composant audio au personnage et lancement automatique via l’événement Event Begin Play. Gestion des interruptions : Utilisation du “Casting” (Cast to ThirdPersonCharacter) dans les Blueprints de zone de victoire et de défaite pour stopper la musique proprement lors du déclenchement d’un événement. Ce qui reste d’actualité aujourd’hui Bien que cet article se concentre sur Unreal Engine 4, les principes fondamentaux restent identiques dans Unreal Engine 5 :\nL’importance des Sound Cues : Bien que l’UE5 introduise le système MetaSounds (plus puissant et modulaire), les Sound Cues restent un outil rapide et efficace pour des besoins simples de bouclage et de contrôle de volume. La gestion des composants audio : Attacher le son au personnage ou à un acteur spécifique est toujours la méthode recommandée pour gérer la spatialisation et le cycle de vie du son. Le Casting : La communication entre les Blueprints (via le Casting) reste une base essentielle pour déclencher des actions globales (comme arrêter la musique) à partir d’événements locaux (comme une collision avec une zone de fin). Propreté du code : L’organisation des nœuds dans l’Event Graph reste cruciale pour maintenir un projet lisible, surtout lorsque vous commencez à gérer des interactions complexes entre le gameplay et l’audio. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous allons donner vie à votre niveau en y intégrant une musique d’ambiance. Il ne s’agit pas seulement de lancer un son, mais de gérer sa boucle, son volume et surtout son interaction avec les événements de fin de partie (victoire ou défaite) pour éviter les superpositions sonores désagréables.\nRésumé des étapes clés Configuration du fichier audio : Activation de l’option “Looping” dans les détails du fichier Wave pour une lecture en continu. Utilisation des Sound Cues : Création d’un objet Sound Cue pour gérer plus finement les propriétés audio (effets, réverbération, logique de boucle). Implémentation via le Character Blueprint : Ajout d’un composant audio au personnage et lancement automatique via l’événement Event Begin Play. Gestion des interruptions : Utilisation du “Casting” (Cast to ThirdPersonCharacter) dans les Blueprints de zone de victoire et de défaite pour stopper la musique proprement lors du déclenchement d’un événement. Ce qui reste d’actualité aujourd’hui Bien que cet article se concentre sur Unreal Engine 4, les principes fondamentaux restent identiques dans Unreal Engine 5 :",
+    "tags": [
+      "Unreal Engine 4",
+      "Audio",
+      "Blueprints",
+      "Game Design"
+    ],
+    "title": "25. Intégrer une musique d''ambiance dynamique dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/integrer-musique-ambiance-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous faisons une petite pause dans le développement pur sous Unreal Engine 4 pour nous concentrer sur l’aspect visuel de votre jeu. Un menu principal réussi commence par des assets graphiques cohérents et bien pensés. Nous allons voir comment concevoir un fond de menu et préparer les bases de nos futurs boutons en utilisant un outil simple et efficace : Paint.net.\nRésumé de la création des assets Définition du format : Choix de la résolution (1280x720, 1920x1080 ou 4K) selon vos besoins de rendu. Utilisation des dégradés : Maîtrise de l’outil dégradé (linéaire, radial, conique) pour créer une ambiance visuelle rapide. Gestion des calques : Importance de séparer le fond du texte pour faciliter les modifications ultérieures. Typographie : Intégration de polices personnalisées pour donner une identité forte au titre de votre jeu. Exportation : Rappel crucial d’exporter vos fichiers au format PNG (et non le format natif du logiciel) pour qu’ils soient lisibles par Unreal Engine, tout en aplatissant les calques. Ce qui reste d’actualité aujourd’hui Bien que les outils de création d’images évoluent, les principes fondamentaux abordés ici restent essentiels pour tout développeur débutant :\nLa préparation des ressources : Unreal Engine ne crée pas vos assets graphiques, il les importe. La préparation en amont est une étape incontournable du workflow. La compatibilité des formats : Le format PNG reste le standard pour l’UI dans Unreal Engine grâce à sa gestion de la transparence (alpha) et sa compatibilité native. La simplicité avant tout : Pour un prototype ou un premier projet, il vaut mieux un menu propre et lisible avec des dégradés bien choisis qu’une interface surchargée et mal optimisée. L’organisation des dossiers : Créer un dossier dédié aux “Images” ou “UI” dans votre projet est une bonne pratique de gestion de projet qui vous évitera bien des maux de tête lors de l’importation dans l’éditeur. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous faisons une petite pause dans le développement pur sous Unreal Engine 4 pour nous concentrer sur l’aspect visuel de votre jeu. Un menu principal réussi commence par des assets graphiques cohérents et bien pensés. Nous allons voir comment concevoir un fond de menu et préparer les bases de nos futurs boutons en utilisant un outil simple et efficace : Paint.net.\nRésumé de la création des assets Définition du format : Choix de la résolution (1280x720, 1920x1080 ou 4K) selon vos besoins de rendu. Utilisation des dégradés : Maîtrise de l’outil dégradé (linéaire, radial, conique) pour créer une ambiance visuelle rapide. Gestion des calques : Importance de séparer le fond du texte pour faciliter les modifications ultérieures. Typographie : Intégration de polices personnalisées pour donner une identité forte au titre de votre jeu. Exportation : Rappel crucial d’exporter vos fichiers au format PNG (et non le format natif du logiciel) pour qu’ils soient lisibles par Unreal Engine, tout en aplatissant les calques. Ce qui reste d’actualité aujourd’hui Bien que les outils de création d’images évoluent, les principes fondamentaux abordés ici restent essentiels pour tout développeur débutant :",
+    "tags": [
+      "UI",
+      "Graphisme",
+      "Menu",
+      "Paint.net",
+      "Assets"
+    ],
+    "title": "26. Création des assets graphiques pour votre menu principal",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creation-assets-graphiques-menu-principal-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous quittons temporairement l’éditeur Unreal Engine pour nous concentrer sur la préparation de vos assets graphiques. Une interface utilisateur (UI) propre repose sur une base solide : des boutons uniformes, bien alignés et exportés dans le bon format. Nous allons voir comment créer vos boutons de menu (Jouer, Quitter, Plein écran, Rejouer) avec une méthode de “marges” pour garantir une cohérence visuelle parfaite avant de les importer dans votre projet.\nRésumé de la procédure Création du canevas : Définition d’une taille standard (350x100 px) pour vos boutons. Gestion des calques : Utilisation d’un calque d’arrière-plan temporaire pour servir de guide d’alignement. Alignement précis : Création de marges colorées sur l’arrière-plan pour caler le texte de manière identique sur chaque bouton. Exportation propre : Désactivation de l’arrière-plan pour exporter en format PNG (gestion de la transparence). Workflow efficace : Utilisation de la fonction “Annuler” (Ctrl+Z) après l’aplatissement pour retrouver les guides et enchaîner la création des boutons suivants. Importation dans UE4 : Organisation des fichiers dans un dossier dédié (/Content/UI/Images) et importation groupée dans l’éditeur. Ce qui reste d’actualité aujourd’hui Bien que les outils de création graphique évoluent, les principes fondamentaux abordés ici restent essentiels pour tout développeur Unreal Engine :\nLa rigueur de l’alignement : Même avec des outils modernes comme Figma ou Adobe XD, la notion de “grille” et de “marges” est cruciale pour éviter que vos boutons ne “sautent” ou ne soient décalés lors du passage à l’état Hover (survol) ou Pressed (cliqué) dans l’UMG (Unreal Motion Graphics). L’importance du format PNG : La gestion de la couche Alpha (transparence) est toujours la norme pour les éléments d’interface non rectangulaires. Organisation des assets : Structurer son dossier Content dès le début du projet est une bonne pratique qui facilite grandement la maintenance et le packaging final de votre jeu. Workflow itératif : La méthode consistant à préparer ses assets en dehors du moteur pour les importer ensuite reste le standard pour optimiser les performances et la qualité visuelle de vos menus. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous quittons temporairement l’éditeur Unreal Engine pour nous concentrer sur la préparation de vos assets graphiques. Une interface utilisateur (UI) propre repose sur une base solide : des boutons uniformes, bien alignés et exportés dans le bon format. Nous allons voir comment créer vos boutons de menu (Jouer, Quitter, Plein écran, Rejouer) avec une méthode de “marges” pour garantir une cohérence visuelle parfaite avant de les importer dans votre projet.",
+    "tags": [
+      "UI",
+      "Interface",
+      "Graphisme",
+      "Workflow",
+      "Tutoriel"
+    ],
+    "title": "27. Création et préparation des assets graphiques pour vos menus",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creation-assets-graphiques-menus-ue4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une étape cruciale pour tout projet de jeu vidéo : la création du menu principal. Nous allons voir comment configurer une scène dédiée, concevoir une interface utilisateur (UI) avec le système UMG (Unreal Motion Graphics) et rendre les boutons interactifs pour naviguer dans votre jeu.\nRésumé des étapes clés Création de la Map Menu : Mise en place d’une nouvelle carte vide dédiée exclusivement à l’affichage du menu. Conception du Widget Blueprint : Utilisation de l’outil UMG pour ajouter une image de fond et des boutons (Jouer, Quitter, Plein écran). Gestion des ancres (Anchors) : Configuration des ancres pour assurer une mise en page responsive, quel que soit le format d’écran. Programmation du Level Blueprint : Affichage du widget au lancement de la scène via Create Widget et Add to Viewport. Activation du curseur : Utilisation du node Set Show Mouse Cursor pour permettre au joueur d’interagir avec les éléments de l’interface. Logique des boutons : Implémentation des événements OnClicked pour charger les niveaux (Open Level) ou quitter l’application (Execute Console Command). Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des améliorations dans l’éditeur UMG, les fondamentaux présentés ici restent parfaitement valides :\nLe workflow UMG : La création de widgets via le Content Browser et leur ajout au Viewport via le Level Blueprint est toujours la méthode standard pour les menus simples. Le Player Controller : La gestion du curseur de la souris via le Player Controller est une notion immuable dans l’architecture d’Unreal Engine. La modularité : L’utilisation de Execute Console Command pour des fonctions système comme “Quit” reste une solution rapide et efficace pour le prototypage. Bonnes pratiques : L’importance de bien nommer ses composants (ex: BTN_Jouer) et d’utiliser les ancres pour éviter les problèmes d’affichage sur différentes résolutions est une règle d’or qui ne change pas avec les versions du moteur. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une étape cruciale pour tout projet de jeu vidéo : la création du menu principal. Nous allons voir comment configurer une scène dédiée, concevoir une interface utilisateur (UI) avec le système UMG (Unreal Motion Graphics) et rendre les boutons interactifs pour naviguer dans votre jeu.\nRésumé des étapes clés Création de la Map Menu : Mise en place d’une nouvelle carte vide dédiée exclusivement à l’affichage du menu. Conception du Widget Blueprint : Utilisation de l’outil UMG pour ajouter une image de fond et des boutons (Jouer, Quitter, Plein écran). Gestion des ancres (Anchors) : Configuration des ancres pour assurer une mise en page responsive, quel que soit le format d’écran. Programmation du Level Blueprint : Affichage du widget au lancement de la scène via Create Widget et Add to Viewport. Activation du curseur : Utilisation du node Set Show Mouse Cursor pour permettre au joueur d’interagir avec les éléments de l’interface. Logique des boutons : Implémentation des événements OnClicked pour charger les niveaux (Open Level) ou quitter l’application (Execute Console Command). Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des améliorations dans l’éditeur UMG, les fondamentaux présentés ici restent parfaitement valides :",
+    "tags": [
+      "UI",
+      "UMG",
+      "Blueprint",
+      "Menu",
+      "GameDev"
+    ],
+    "title": "28. Création du Menu Principal et gestion de l''interface",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creation-menu-principal-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous allons apprendre à gérer l’affichage de notre jeu en permettant aux joueurs de basculer dynamiquement entre le mode “Plein écran” et le mode “Fenêtré”. Pour ce faire, nous utiliserons les Blueprints pour manipuler les variables d’état et les commandes de console intégrées à Unreal Engine 4.\nRésumé de la mise en place Gestion d’état : Création d’une variable booléenne PleinEcran (par défaut à true) pour suivre le mode d’affichage actuel. Logique de bascule : Utilisation d’un nœud Branch pour tester la valeur de la variable à chaque clic sur le bouton. Mode Fenêtré : Utilisation de la commande r.SetRes 1280x720w pour forcer une résolution spécifique en mode fenêtré. Mode Plein Écran dynamique : Récupération des résolutions supportées via Get Supported Fullscreen Resolutions. Extraction de la résolution maximale via le dernier index du tableau (Last Index). Utilisation du nœud Append pour construire dynamiquement la commande r.SetRes avec les valeurs X et Y récupérées, suivie du paramètre f pour le plein écran. Mise à jour de l’état : Utilisation du nœud Set pour inverser la valeur de la variable PleinEcran après chaque changement. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) proposent des nœuds plus modernes comme Set Game User Settings, la logique présentée ici reste fondamentale pour comprendre :\nLa gestion des états : L’utilisation de variables booléennes pour piloter l’interface utilisateur (UI). La manipulation de tableaux : Savoir récupérer la valeur maximale d’une liste (ici les résolutions) est une compétence clé en développement. La construction de chaînes de caractères : Le nœud Append est un outil indispensable pour formater des commandes ou des messages dynamiques. La console Unreal : La commande r.SetRes reste un outil de débogage et de configuration très puissant pour tester rapidement des résolutions sans passer par les menus de paramètres complexes. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous allons apprendre à gérer l’affichage de notre jeu en permettant aux joueurs de basculer dynamiquement entre le mode “Plein écran” et le mode “Fenêtré”. Pour ce faire, nous utiliserons les Blueprints pour manipuler les variables d’état et les commandes de console intégrées à Unreal Engine 4.\nRésumé de la mise en place Gestion d’état : Création d’une variable booléenne PleinEcran (par défaut à true) pour suivre le mode d’affichage actuel. Logique de bascule : Utilisation d’un nœud Branch pour tester la valeur de la variable à chaque clic sur le bouton. Mode Fenêtré : Utilisation de la commande r.SetRes 1280x720w pour forcer une résolution spécifique en mode fenêtré. Mode Plein Écran dynamique : Récupération des résolutions supportées via Get Supported Fullscreen Resolutions. Extraction de la résolution maximale via le dernier index du tableau (Last Index). Utilisation du nœud Append pour construire dynamiquement la commande r.SetRes avec les valeurs X et Y récupérées, suivie du paramètre f pour le plein écran. Mise à jour de l’état : Utilisation du nœud Set pour inverser la valeur de la variable PleinEcran après chaque changement. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) proposent des nœuds plus modernes comme Set Game User Settings, la logique présentée ici reste fondamentale pour comprendre :",
+    "tags": [
+      "Blueprints",
+      "UI",
+      "GameDev",
+      "Tutoriel"
+    ],
+    "title": "29. Créer un bouton de bascule Plein Écran / Fenêtré",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creer-bouton-bascule-plein-ecran-fenetre-ue4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous allons finaliser l’expérience utilisateur en ajoutant un écran de victoire. Lorsqu’un joueur atteint la zone de fin de niveau, il est crucial de lui offrir un retour visuel clair avec des options pour continuer à jouer ou quitter l’application. Nous allons voir comment créer ce Widget, le lier à notre zone de victoire et gérer les interactions à la souris.\nRésumé de l’implémentation Création du Widget : Création d’un nouveau Widget Blueprint nommé HUD_Victoire dans le dossier UI. Design : Mise en place d’une image de fond et de deux boutons (Rejouer et Quitter). Logique des boutons : Quitter : Utilisation de la commande Execute Console Command avec la commande quit. Rejouer : Utilisation de Open Level pour charger la scène du menu principal. Déclenchement : Modification du Blueprint Zone_Victoire pour remplacer la fermeture du jeu par l’affichage du widget. Interaction : Utilisation de Set Show Mouse Cursor via le Player Controller pour permettre au joueur de cliquer sur les boutons. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué (notamment avec l’arrivée d’UE5), les principes fondamentaux abordés ici restent le standard de l’industrie :\nLe système UMG (Unreal Motion Graphics) : La création de menus via des Widget Blueprints est toujours la méthode privilégiée pour les interfaces 2D. La gestion du Player Controller : La nécessité d’activer le curseur de la souris et de changer le mode d’entrée (Input Mode UI Only) reste une étape indispensable pour tout menu interactif. Modularité : La logique présentée ici est facilement réutilisable. Comme mentionné dans la vidéo, le processus pour un écran de “Défaite” est identique, ce qui permet de créer des systèmes de gestion d’état de jeu très rapidement. Commandes Console : L’utilisation de Execute Console Command pour quitter le jeu reste une méthode rapide et efficace pour les prototypes et les builds de développement. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous allons finaliser l’expérience utilisateur en ajoutant un écran de victoire. Lorsqu’un joueur atteint la zone de fin de niveau, il est crucial de lui offrir un retour visuel clair avec des options pour continuer à jouer ou quitter l’application. Nous allons voir comment créer ce Widget, le lier à notre zone de victoire et gérer les interactions à la souris.\nRésumé de l’implémentation Création du Widget : Création d’un nouveau Widget Blueprint nommé HUD_Victoire dans le dossier UI. Design : Mise en place d’une image de fond et de deux boutons (Rejouer et Quitter). Logique des boutons : Quitter : Utilisation de la commande Execute Console Command avec la commande quit. Rejouer : Utilisation de Open Level pour charger la scène du menu principal. Déclenchement : Modification du Blueprint Zone_Victoire pour remplacer la fermeture du jeu par l’affichage du widget. Interaction : Utilisation de Set Show Mouse Cursor via le Player Controller pour permettre au joueur de cliquer sur les boutons. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué (notamment avec l’arrivée d’UE5), les principes fondamentaux abordés ici restent le standard de l’industrie :",
+    "tags": [
+      "UI",
+      "Widget Blueprint",
+      "GameDev",
+      "Tutoriel"
+    ],
+    "title": "30. Créer un menu de victoire dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creer-menu-victoire-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous allons finaliser l’expérience utilisateur en cas d’échec dans votre jeu. Plutôt que de laisser le joueur face à un écran figé, nous allons implémenter un menu de “Game Over” fonctionnel. L’approche choisie ici est l’optimisation : au lieu de repartir de zéro, nous allons dupliquer notre interface de victoire pour y intégrer un message d’alerte tout en conservant les options de navigation essentielles (rejouer ou quitter).\nRésumé des étapes clés Duplication de l’UI : Utilisation du widget de victoire existant comme base pour créer le WBP_Defaite. Personnalisation visuelle : Ajout d’un élément Text centré affichant “Game Over” en rouge, avec une police agrandie pour un impact immédiat. Logique de déclenchement : Configuration du Blueprint pour instancier le widget lors de la collision avec une zone de défaite. Gestion du curseur : Utilisation de la fonction Set Show Mouse Cursor pour permettre au joueur d’interagir avec les boutons du menu. Correction de bug : Importance de cocher la case “Show Mouse Cursor” dans le nœud Set Show Mouse Cursor pour garantir l’affichage du pointeur à l’écran. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des outils comme Common UI, les principes fondamentaux abordés ici restent le socle du développement d’interfaces :\nRéutilisation des assets : La duplication et la modification de widgets existants restent une méthode efficace pour maintenir une cohérence visuelle tout en gagnant du temps. Gestion du Player Controller : La nécessité de basculer l’input du jeu vers l’UI (via Set Show Mouse Cursor et Set Input Mode UI Only) est une étape incontournable dans n’importe quelle version du moteur. Modularité : Séparer la logique de défaite dans un widget dédié permet de garder un code propre et facilement modifiable si vous décidez plus tard d’ajouter des animations ou des effets sonores spécifiques au Game Over. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous allons finaliser l’expérience utilisateur en cas d’échec dans votre jeu. Plutôt que de laisser le joueur face à un écran figé, nous allons implémenter un menu de “Game Over” fonctionnel. L’approche choisie ici est l’optimisation : au lieu de repartir de zéro, nous allons dupliquer notre interface de victoire pour y intégrer un message d’alerte tout en conservant les options de navigation essentielles (rejouer ou quitter).",
+    "tags": [
+      "UI",
+      "Widget Blueprint",
+      "Game Design",
+      "Tutoriel"
+    ],
+    "title": "31. Création d''un menu de défaite (Game Over) dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creation-menu-defaite-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une fonctionnalité essentielle pour tout projet : la gestion de la sortie du jeu. Que ce soit pour revenir au menu principal, quitter l’application ou fermer une session après une victoire ou une défaite, il est crucial de savoir comment fermer proprement votre build. Nous allons utiliser le Level Blueprint pour déclencher une commande système simple mais efficace.\nRésumé de la procédure Accès au Level Blueprint : Ouvrez votre carte, allez dans le menu Blueprints et sélectionnez Open Level Blueprint. Gestion de l’input : Utilisez l’événement Escape (ou une touche de test comme P) pour déclencher l’action. Commande système : Utilisez le nœud Execute Console Command avec la commande quit. Test et nettoyage : Testez votre commande avec une touche temporaire avant de supprimer le nœud de test pour la version finale. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux restent identiques :\nLa commande quit : Elle demeure la méthode standard pour fermer une application packagée via les Blueprints. Le Level Blueprint : Il reste l’endroit idéal pour gérer des entrées clavier globales qui ne dépendent pas d’un personnage spécifique. Bonnes pratiques : Il est toujours recommandé de tester vos commandes de sortie avec des touches alternatives pendant le développement, car la touche Escape est souvent réservée par l’éditeur pour arrêter la simulation (PIE - Play In Editor). Modularité : Pour des projets plus complexes, il est préférable de centraliser cette logique dans un GameInstance ou un PlayerController plutôt que dans le Level Blueprint afin de rendre la fonction disponible sur toutes les cartes du jeu. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une fonctionnalité essentielle pour tout projet : la gestion de la sortie du jeu. Que ce soit pour revenir au menu principal, quitter l’application ou fermer une session après une victoire ou une défaite, il est crucial de savoir comment fermer proprement votre build. Nous allons utiliser le Level Blueprint pour déclencher une commande système simple mais efficace.\nRésumé de la procédure Accès au Level Blueprint : Ouvrez votre carte, allez dans le menu Blueprints et sélectionnez Open Level Blueprint. Gestion de l’input : Utilisez l’événement Escape (ou une touche de test comme P) pour déclencher l’action. Commande système : Utilisez le nœud Execute Console Command avec la commande quit. Test et nettoyage : Testez votre commande avec une touche temporaire avant de supprimer le nœud de test pour la version finale. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux restent identiques :",
+    "tags": [
+      "Unreal Engine 4",
+      "Blueprints",
+      "Level Blueprint",
+      "Console Command"
+    ],
+    "title": "32. Implémenter une fonction Quitter le jeu dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/implementer-fonction-quitter-jeu-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons l’étape cruciale de la finalisation de votre projet sous Unreal Engine 4. Avant de distribuer votre jeu, il est indispensable de configurer correctement le point d’entrée de l’application et de personnaliser les éléments visuels qui apparaissent lors du lancement. Une bonne préparation garantit une expérience utilisateur professionnelle dès les premières secondes.\nRésumé des étapes clés Définition de la carte par défaut : Configuration du Game Default Map dans les Project Settings pour s’assurer que le jeu démarre sur le menu principal et non sur une map de test. Vérification des entrées (Inputs) : S’assurer que les contrôles (Z, S, Q, D ou autres) sont correctement mappés avant la compilation finale. Configuration des plateformes : Accès aux paramètres Windows pour définir les API graphiques (DirectX/OpenGL). Personnalisation du Splash Screen : Mise en place d’un écran de chargement personnalisé (format BMP, 600x200 px). Icône de l’exécutable : Création et intégration d’une icône personnalisée (format .ico, 250x250 px) pour identifier votre jeu dans la barre des tâches et sur le bureau. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des changements dans l’interface, les principes fondamentaux abordés ici restent immuables :\nLe point d’entrée : La gestion des Maps \u0026 Modes reste le passage obligé pour définir la scène de lancement de n’importe quel projet. Packaging et Branding : La personnalisation de l’icône et du splash screen est toujours une étape indispensable pour donner un aspect “fini” et professionnel à un produit, quel que soit le moteur utilisé. Gestion des assets : L’importance de respecter les formats et dimensions spécifiques pour les icônes système est une contrainte technique qui persiste sur Windows. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons l’étape cruciale de la finalisation de votre projet sous Unreal Engine 4. Avant de distribuer votre jeu, il est indispensable de configurer correctement le point d’entrée de l’application et de personnaliser les éléments visuels qui apparaissent lors du lancement. Une bonne préparation garantit une expérience utilisateur professionnelle dès les premières secondes.\nRésumé des étapes clés Définition de la carte par défaut : Configuration du Game Default Map dans les Project Settings pour s’assurer que le jeu démarre sur le menu principal et non sur une map de test. Vérification des entrées (Inputs) : S’assurer que les contrôles (Z, S, Q, D ou autres) sont correctement mappés avant la compilation finale. Configuration des plateformes : Accès aux paramètres Windows pour définir les API graphiques (DirectX/OpenGL). Personnalisation du Splash Screen : Mise en place d’un écran de chargement personnalisé (format BMP, 600x200 px). Icône de l’exécutable : Création et intégration d’une icône personnalisée (format .ico, 250x250 px) pour identifier votre jeu dans la barre des tâches et sur le bureau. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des changements dans l’interface, les principes fondamentaux abordés ici restent immuables :",
+    "tags": [
+      "Développement",
+      "Export",
+      "Configuration",
+      "Packaging"
+    ],
+    "title": "33. Finalisation et préparation à l''exportation de votre jeu",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/finalisation-et-preparation-exportation-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une étape cruciale souvent négligée par les développeurs débutants : le nettoyage et l’optimisation du poids de votre projet. Lorsque vous utilisez des packs d’assets volumineux (comme Infinity Blade), votre projet peut rapidement atteindre plusieurs gigaoctets alors que vous n’utilisez qu’une fraction de ces ressources.\nRésumé des étapes clés Sécurisation : Avant toute manipulation, créez une copie de sauvegarde via le Launcher Epic Games (clic droit sur le projet \u003e Clone). Analyse des dépendances : Utilisez la loupe dans le Content Browser pour identifier les assets réellement utilisés dans votre niveau. Nettoyage sélectif : Supprimez les dossiers inutilisés (Maps, effets, props non utilisés). Gestion des matériaux et textures : Identifiez les textures liées à vos matériaux actifs avant de supprimer les autres pour éviter de casser le rendu visuel. Vérification du Foliage : N’oubliez pas de vérifier les assets de végétation utilisés dans le Foliage Editor avant de purger le dossier correspondant. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux restent identiques dans Unreal Engine 5 :\nLa gestion du poids : Un projet “propre” est indispensable pour le déploiement (packaging). Un jeu trop lourd est plus long à compiler et à distribuer. La prudence avant tout : La fonction de clonage reste la meilleure assurance vie contre les erreurs de manipulation lors du nettoyage de fichiers. Le “Force Delete” : Cette option est toujours présente et nécessaire pour forcer la suppression d’assets, mais elle doit être utilisée avec une extrême vigilance pour ne pas corrompre les références de vos Blueprints ou niveaux. L’optimisation des assets : Le processus de vérification via les références (la petite loupe) est toujours la méthode standard pour s’assurer qu’un asset est bien orphelin avant de le supprimer définitivement. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une étape cruciale souvent négligée par les développeurs débutants : le nettoyage et l’optimisation du poids de votre projet. Lorsque vous utilisez des packs d’assets volumineux (comme Infinity Blade), votre projet peut rapidement atteindre plusieurs gigaoctets alors que vous n’utilisez qu’une fraction de ces ressources.\nRésumé des étapes clés Sécurisation : Avant toute manipulation, créez une copie de sauvegarde via le Launcher Epic Games (clic droit sur le projet \u003e Clone). Analyse des dépendances : Utilisez la loupe dans le Content Browser pour identifier les assets réellement utilisés dans votre niveau. Nettoyage sélectif : Supprimez les dossiers inutilisés (Maps, effets, props non utilisés). Gestion des matériaux et textures : Identifiez les textures liées à vos matériaux actifs avant de supprimer les autres pour éviter de casser le rendu visuel. Vérification du Foliage : N’oubliez pas de vérifier les assets de végétation utilisés dans le Foliage Editor avant de purger le dossier correspondant. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux restent identiques dans Unreal Engine 5 :",
+    "tags": [
+      "Optimisation",
+      "Workflow",
+      "Asset Management",
+      "Nettoyage"
+    ],
+    "title": "34. Optimisation et nettoyage de votre projet Unreal Engine",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/optimisation-nettoyage-projet-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons les étapes cruciales de finalisation d’un niveau avant l’exportation. Une fois le nettoyage de votre scène effectué, il est indispensable de configurer les volumes de gestion de rendu pour garantir une qualité visuelle cohérente et optimisée. Nous verrons comment manipuler le Post-Process Volume et le Lightmass Importance Volume pour préparer le calcul final des lumières.\nRésumé des étapes clés Post-Process Volume : Configuration de la zone d’effet pour les filtres globaux (teinte, brouillard, etc.) en s’assurant qu’il englobe toute la zone de jeu. Lightmass Importance Volume : Placement et redimensionnement de ce volume pour définir la zone où le moteur doit concentrer ses calculs de lumière indirecte et d’ombres. Gestion de la qualité (Build) : Explication des différents paliers de qualité (Preview, Medium, High, Production) pour le calcul des Lightmaps. Lancement du Build : Processus de compilation des lumières pour obtenir un rendu final détaillé et réaliste. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système Lumen pour l’illumination globale en temps réel, la compréhension du Lightmass reste fondamentale pour plusieurs raisons :\nProjets mobiles et VR : Le rendu “Baked” (précalculé) reste la solution la plus performante pour les plateformes à ressources limitées. Optimisation : Le Lightmass Importance Volume est toujours utilisé pour guider le moteur sur les zones prioritaires, même dans des workflows modernes. Post-Process : Le Post-Process Volume demeure l’outil standard pour gérer le look-and-feel d’un jeu, qu’il s’agisse de color grading, de bloom ou d’effets de lentille. Workflow de production : La distinction entre les paliers de qualité (Preview vs Production) reste une pratique standard pour itérer rapidement avant le rendu final. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons les étapes cruciales de finalisation d’un niveau avant l’exportation. Une fois le nettoyage de votre scène effectué, il est indispensable de configurer les volumes de gestion de rendu pour garantir une qualité visuelle cohérente et optimisée. Nous verrons comment manipuler le Post-Process Volume et le Lightmass Importance Volume pour préparer le calcul final des lumières.\nRésumé des étapes clés Post-Process Volume : Configuration de la zone d’effet pour les filtres globaux (teinte, brouillard, etc.) en s’assurant qu’il englobe toute la zone de jeu. Lightmass Importance Volume : Placement et redimensionnement de ce volume pour définir la zone où le moteur doit concentrer ses calculs de lumière indirecte et d’ombres. Gestion de la qualité (Build) : Explication des différents paliers de qualité (Preview, Medium, High, Production) pour le calcul des Lightmaps. Lancement du Build : Processus de compilation des lumières pour obtenir un rendu final détaillé et réaliste. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système Lumen pour l’illumination globale en temps réel, la compréhension du Lightmass reste fondamentale pour plusieurs raisons :",
+    "tags": [
+      "Lightmass",
+      "PostProcessVolume",
+      "Optimisation",
+      "Lighting",
+      "GameDev"
+    ],
+    "title": "35. Optimisation des volumes et calcul des lumières (Lightmass)",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/optimisation-volumes-lightmass-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Félicitations ! Vous avez parcouru le chemin nécessaire pour transformer votre projet de développement en une application autonome. L’étape ultime de la création d’un jeu est le “Packaging”, c’est-à-dire la compilation de vos assets et de votre logique en un exécutable distribuable. Dans cet article, nous allons voir comment préparer votre projet pour Windows.\nRésumé des étapes de packaging Accès au menu : Allez dans File \u003e Package Project \u003e Windows. Choix de l’architecture : Sélectionnez Windows (64-bit) pour les systèmes modernes. La version 32-bit est réservée aux machines très anciennes. Dossier de destination : Créez un dossier dédié (ex: “Exportation”) pour éviter de mélanger les fichiers de build avec vos fichiers sources. Suivi du processus : Utilisez le bouton Show Output Log en bas à droite pour surveiller la progression et diagnostiquer d’éventuelles erreurs de compilation. Finalisation : Une fois le processus terminé, localisez l’exécutable (.exe) dans le dossier généré pour lancer votre jeu en conditions réelles. Test de validation : Lancez l’exécutable pour vérifier que les fonctionnalités (menus, zones de défaite, plein écran) réagissent comme prévu. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les fondamentaux du packaging restent immuables :\nLa structure du dossier : Le moteur génère toujours un dossier contenant l’exécutable et les dossiers de dépendances (Engine, Content) nécessaires au lancement. Le rôle du Log : L’Output Log reste votre meilleur allié pour déboguer les échecs de packaging, souvent causés par des assets corrompus ou des références manquantes. L’importance du test “Joueur” : Rien ne remplace un test complet de l’exécutable final. Le comportement dans l’éditeur (PIE - Play In Editor) peut parfois différer d’une version packagée, notamment concernant les chemins d’accès aux fichiers ou les performances. Nettoyage : Il est toujours recommandé de supprimer les fichiers manifestes inutiles avant de distribuer votre build final pour alléger le poids de votre dossier. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Félicitations ! Vous avez parcouru le chemin nécessaire pour transformer votre projet de développement en une application autonome. L’étape ultime de la création d’un jeu est le “Packaging”, c’est-à-dire la compilation de vos assets et de votre logique en un exécutable distribuable. Dans cet article, nous allons voir comment préparer votre projet pour Windows.\nRésumé des étapes de packaging Accès au menu : Allez dans File \u003e Package Project \u003e Windows. Choix de l’architecture : Sélectionnez Windows (64-bit) pour les systèmes modernes. La version 32-bit est réservée aux machines très anciennes. Dossier de destination : Créez un dossier dédié (ex: “Exportation”) pour éviter de mélanger les fichiers de build avec vos fichiers sources. Suivi du processus : Utilisez le bouton Show Output Log en bas à droite pour surveiller la progression et diagnostiquer d’éventuelles erreurs de compilation. Finalisation : Une fois le processus terminé, localisez l’exécutable (.exe) dans le dossier généré pour lancer votre jeu en conditions réelles. Test de validation : Lancez l’exécutable pour vérifier que les fonctionnalités (menus, zones de défaite, plein écran) réagissent comme prévu. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les fondamentaux du packaging restent immuables :",
+    "tags": [
+      "Unreal Engine 4",
+      "Packaging",
+      "Exportation",
+      "GameDev"
+    ],
+    "title": "36. Exporter et packager votre projet Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/exporter-packager-projet-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Lors de l’exportation de vos projets sous Unreal Engine 4, il arrive fréquemment de rencontrer un bug frustrant : certains objets, comme les arbres, perdent leurs textures et s’affichent avec le matériau par défaut (le fameux damier gris). Ce problème, bien que connu depuis la version 4.8, peut être contourné facilement grâce à une manipulation simple des matériaux.\nRésumé de la procédure Identification : Localisez les meshes concernés dans votre Content Browser via l’outil de recherche (loupe). Accès au matériau : Ouvrez le Static Mesh, identifiez le matériau utilisé, puis localisez-le dans le Content Browser. Forcer la mise à jour : Ouvrez le matériau. Déconnectez le lien de la texture sur le nœud Base Color (clic droit \u003e Break Links). Cliquez sur Apply et Save. Reconnectez la texture au Base Color. Cliquez à nouveau sur Apply et Save. Itération : Répétez l’opération pour chaque matériau défectueux afin de forcer le moteur à rafraîchir les données de rendu. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine aient corrigé de nombreux bugs de rendu, la gestion des matériaux et des liens de textures reste un pilier fondamental du moteur. Cette méthode de “rafraîchissement forcé” (déconnecter/reconnecter) demeure une technique de dépannage efficace pour :\nLes problèmes de cache : Lorsque le moteur ne détecte pas correctement une modification de texture. Les migrations d’assets : Lors du transfert de projets entre différentes versions ou dossiers, où les références de matériaux peuvent parfois être corrompues. Le débogage rapide : C’est une solution “maison” qui évite de devoir re-importer l’intégralité de vos assets, vous faisant gagner un temps précieux dans votre workflow de production. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Lors de l’exportation de vos projets sous Unreal Engine 4, il arrive fréquemment de rencontrer un bug frustrant : certains objets, comme les arbres, perdent leurs textures et s’affichent avec le matériau par défaut (le fameux damier gris). Ce problème, bien que connu depuis la version 4.8, peut être contourné facilement grâce à une manipulation simple des matériaux.\nRésumé de la procédure Identification : Localisez les meshes concernés dans votre Content Browser via l’outil de recherche (loupe). Accès au matériau : Ouvrez le Static Mesh, identifiez le matériau utilisé, puis localisez-le dans le Content Browser. Forcer la mise à jour : Ouvrez le matériau. Déconnectez le lien de la texture sur le nœud Base Color (clic droit \u003e Break Links). Cliquez sur Apply et Save. Reconnectez la texture au Base Color. Cliquez à nouveau sur Apply et Save. Itération : Répétez l’opération pour chaque matériau défectueux afin de forcer le moteur à rafraîchir les données de rendu. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine aient corrigé de nombreux bugs de rendu, la gestion des matériaux et des liens de textures reste un pilier fondamental du moteur. Cette méthode de “rafraîchissement forcé” (déconnecter/reconnecter) demeure une technique de dépannage efficace pour :",
+    "tags": [
+      "Unreal Engine 4",
+      "Exportation",
+      "Matériaux",
+      "Debugging",
+      "Tutoriel"
+    ],
+    "title": "37. Résoudre le bug des textures manquantes lors de l''exportation",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/resoudre-bug-textures-manquantes-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une étape cruciale pour tout développeur indépendant : la mise en ligne de votre projet. Une fois votre jeu développé sous Unreal Engine 4, il est temps de le partager avec le monde. La plateforme incontournable pour cela est itch.io.\nRésumé de la procédure de création de compte Inscription : Rendez-vous sur le site officiel et cliquez sur “Register”. Identité : Choisissez un pseudonyme qui servira d’URL pour votre profil (ex: votre-nom.itch.io). Configuration : Lors de l’inscription, cochez bien l’option “I’m interested in distributing games on itch.io” pour accéder aux outils de publication. Validation : N’oubliez pas de consulter votre boîte mail pour valider votre adresse via le lien envoyé par la plateforme. Interface : Une fois connecté, explorez votre tableau de bord qui permet de gérer vos projets, vos statistiques (analytics), vos ventes et même de participer à des Game Jams. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes de distribution sur itch.io n’ont pas changé et restent une référence absolue pour les développeurs indépendants :\nAccessibilité : itch.io demeure la plateforme la plus flexible pour publier des prototypes, des jeux gratuits ou des projets commerciaux sans les barrières à l’entrée des stores majeurs (comme Steam ou Epic Games Store). Outils de gestion : Les fonctionnalités de suivi (Analytics) et de gestion de bundles sont toujours aussi puissantes pour comprendre l’engagement de votre communauté. Game Jams : La plateforme est toujours le cœur battant des Game Jams. Participer à ces événements reste le meilleur moyen de se constituer un portfolio et de tester ses compétences acquises sur Unreal Engine. Monétisation : Le système de “Payout” et la possibilité de définir des prix libres (pay-what-you-want) sont des outils toujours aussi pertinents pour les développeurs débutants souhaitant tester la viabilité commerciale de leurs créations. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une étape cruciale pour tout développeur indépendant : la mise en ligne de votre projet. Une fois votre jeu développé sous Unreal Engine 4, il est temps de le partager avec le monde. La plateforme incontournable pour cela est itch.io.\nRésumé de la procédure de création de compte Inscription : Rendez-vous sur le site officiel et cliquez sur “Register”. Identité : Choisissez un pseudonyme qui servira d’URL pour votre profil (ex: votre-nom.itch.io). Configuration : Lors de l’inscription, cochez bien l’option “I’m interested in distributing games on itch.io” pour accéder aux outils de publication. Validation : N’oubliez pas de consulter votre boîte mail pour valider votre adresse via le lien envoyé par la plateforme. Interface : Une fois connecté, explorez votre tableau de bord qui permet de gérer vos projets, vos statistiques (analytics), vos ventes et même de participer à des Game Jams. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes de distribution sur itch.io n’ont pas changé et restent une référence absolue pour les développeurs indépendants :",
+    "tags": [
+      "Unreal Engine 4",
+      "Itch.io",
+      "Publication",
+      "Indie Dev"
+    ],
+    "title": "38. Créer son compte sur itch.io pour publier ses jeux",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creer-compte-itch-io-publication-jeu-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous franchissons l’étape ultime du développement : la mise en ligne de votre projet. Après avoir finalisé votre build, il est temps de présenter votre travail au monde entier via la plateforme Itch.io. De la capture d’écran promotionnelle à la configuration de la page de votre projet, voici comment structurer votre publication pour attirer vos premiers joueurs.\nRésumé de la procédure de publication Capture d’écran : Réalisez un screenshot in-game, puis redimensionnez-le précisément en 315x250 pixels pour l’image de couverture (via Paint ou tout autre logiciel). Configuration Itch.io : Créez un nouveau projet, définissez l’URL, le titre, la classification (jeu) et le statut (Prototype, Released, etc.). Personnalisation : Utilisez l’outil “Edit Theme” pour ajuster les couleurs, ajouter une bannière et une image de fond afin de donner une identité visuelle à votre page. Compression : Compressez votre dossier d’exportation au format .zip (via Windows ou 7-Zip). Pensez à nommer votre fichier clairement (ex: MonJeu_x64.zip). Upload \u0026 Publication : Téléversez votre fichier, cochez la plateforme cible (Windows), configurez la visibilité sur “Public” et enregistrez pour rendre votre jeu accessible. Ce qui reste d’actualité aujourd’hui Bien que l’interface d’Itch.io puisse légèrement évoluer avec le temps, les fondamentaux de la publication restent identiques :\nLa présentation est clé : Une image de couverture soignée et une description claire sont indispensables pour capter l’attention des joueurs. Le format .zip : C’est toujours le standard pour distribuer des jeux PC sur les plateformes indépendantes. La gestion des versions : Utiliser des tags comme “Prototype” ou “In Development” est une excellente pratique pour gérer les attentes de votre communauté. Le SEO de base : L’utilisation de tags pertinents (ex: “3D Platformer”) reste le meilleur moyen pour que votre jeu soit découvert naturellement dans le moteur de recherche d’Itch.io. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous franchissons l’étape ultime du développement : la mise en ligne de votre projet. Après avoir finalisé votre build, il est temps de présenter votre travail au monde entier via la plateforme Itch.io. De la capture d’écran promotionnelle à la configuration de la page de votre projet, voici comment structurer votre publication pour attirer vos premiers joueurs.\nRésumé de la procédure de publication Capture d’écran : Réalisez un screenshot in-game, puis redimensionnez-le précisément en 315x250 pixels pour l’image de couverture (via Paint ou tout autre logiciel). Configuration Itch.io : Créez un nouveau projet, définissez l’URL, le titre, la classification (jeu) et le statut (Prototype, Released, etc.). Personnalisation : Utilisez l’outil “Edit Theme” pour ajuster les couleurs, ajouter une bannière et une image de fond afin de donner une identité visuelle à votre page. Compression : Compressez votre dossier d’exportation au format .zip (via Windows ou 7-Zip). Pensez à nommer votre fichier clairement (ex: MonJeu_x64.zip). Upload \u0026 Publication : Téléversez votre fichier, cochez la plateforme cible (Windows), configurez la visibilité sur “Public” et enregistrez pour rendre votre jeu accessible. Ce qui reste d’actualité aujourd’hui Bien que l’interface d’Itch.io puisse légèrement évoluer avec le temps, les fondamentaux de la publication restent identiques :",
+    "tags": [
+      "Itch.io",
+      "GameDev",
+      "Export",
+      "Publication",
+      "Tutoriel"
+    ],
+    "title": "39. Publier son jeu Unreal Engine sur Itch.io",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/publier-jeu-unreal-engine-itch-io/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans ce chapitre bonus, nous explorons les fondements de l’éclairage sous Unreal Engine 4. Si votre niveau utilise par défaut une Skylight et une Directional Light, il est essentiel de comprendre comment manipuler ces sources pour donner une ambiance unique à votre projet, qu’il s’agisse d’un environnement diurne éclatant ou d’une scène nocturne mystérieuse.\nAu programme de cet épisode : La Directional Light (Light Source) : Apprendre à modifier la couleur, l’intensité et l’angle de votre soleil pour transformer radicalement l’ambiance visuelle. Les effets atmosphériques : Découvrir les Light Shafts (rayons crépusculaires) pour ajouter du réalisme et de la profondeur à vos scènes. La Skylight : Comprendre son rôle dans l’éclairage global et comment la synchroniser avec votre ciel via la fonction “Refresh Material”. Manipulation manuelle : Utiliser les outils de rotation pour orienter vos sources lumineuses et observer l’impact immédiat sur les ombres portées. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système Lumen, les principes fondamentaux abordés ici restent le socle de tout éclairage :\nLa hiérarchie des lumières : La distinction entre une source directionnelle (soleil) et une source ambiante (ciel) est toujours la base de la composition d’une scène. L’importance du “Refresh” : La gestion des captures de ciel reste une technique classique pour maintenir une cohérence visuelle entre l’éclairage direct et l’ambiance globale. Le contrôle des propriétés : Les paramètres d’intensité et de teinte sont universels dans le moteur ; maîtriser ces réglages permet de gagner en autonomie, quel que soit le système d’illumination utilisé. L’optimisation : Comprendre comment orienter ses lumières pour créer des zones d’ombre et de lumière est une compétence artistique qui transcende les versions du moteur. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce chapitre bonus, nous explorons les fondements de l’éclairage sous Unreal Engine 4. Si votre niveau utilise par défaut une Skylight et une Directional Light, il est essentiel de comprendre comment manipuler ces sources pour donner une ambiance unique à votre projet, qu’il s’agisse d’un environnement diurne éclatant ou d’une scène nocturne mystérieuse.\nAu programme de cet épisode : La Directional Light (Light Source) : Apprendre à modifier la couleur, l’intensité et l’angle de votre soleil pour transformer radicalement l’ambiance visuelle. Les effets atmosphériques : Découvrir les Light Shafts (rayons crépusculaires) pour ajouter du réalisme et de la profondeur à vos scènes. La Skylight : Comprendre son rôle dans l’éclairage global et comment la synchroniser avec votre ciel via la fonction “Refresh Material”. Manipulation manuelle : Utiliser les outils de rotation pour orienter vos sources lumineuses et observer l’impact immédiat sur les ombres portées. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système Lumen, les principes fondamentaux abordés ici restent le socle de tout éclairage :",
+    "tags": [
+      "Lumière",
+      "Lighting",
+      "Directional Light",
+      "Skylight",
+      "GameDev"
+    ],
+    "title": "40. Maîtriser les bases de l''éclairage dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/maitriser-bases-eclairage-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous explorons les outils fondamentaux de l’éclairage dans Unreal Engine 4. Après avoir appréhendé la Directional Light (simulant le soleil), il est temps de passer aux sources de lumière localisées : la Point Light et la Spot Light. Comprendre comment ces sources interagissent avec votre environnement est crucial pour donner du volume, de la profondeur et une ambiance unique à vos scènes.\nRésumé des points clés Point Light : Une source de lumière omnidirectionnelle qui diffuse dans toutes les directions à partir d’un point central. Idéale pour simuler des ampoules, des bougies ou des feux. Réglages de la Point Light : Vous pouvez ajuster l’intensité, la couleur et surtout l’ Attenuation Radius pour contrôler la portée et la concentration de la lumière. Spot Light : Une source de lumière directionnelle limitée par un cône. Elle permet de cibler précisément des zones ou des objets spécifiques sans éclairer le reste de la scène. Réglages de la Spot Light : En plus des paramètres classiques, vous pouvez modifier l’ Outer Cone Angle pour élargir ou resserrer le faisceau lumineux. Expérimentation : N’hésitez pas à créer un projet de test pour manipuler ces paramètres et observer les changements en temps réel. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5+) aient introduit le système Lumen pour une gestion dynamique de la lumière globale, les bases de l’éclairage restent identiques. La gestion des Point Lights et Spot Lights demeure le socle indispensable pour :\nLe “Level Design” narratif : Guider le regard du joueur vers des points d’intérêt grâce à des spots. L’optimisation : Savoir utiliser des lumières statiques ou mobiles reste essentiel pour maintenir un framerate stable, même avec les nouvelles technologies. La création de Blueprints : La logique de placer une source lumineuse dans un composant (comme un gyrophare ou une lampe torche) est une compétence fondamentale qui n’a pas changé depuis l’UE4. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous explorons les outils fondamentaux de l’éclairage dans Unreal Engine 4. Après avoir appréhendé la Directional Light (simulant le soleil), il est temps de passer aux sources de lumière localisées : la Point Light et la Spot Light. Comprendre comment ces sources interagissent avec votre environnement est crucial pour donner du volume, de la profondeur et une ambiance unique à vos scènes.\nRésumé des points clés Point Light : Une source de lumière omnidirectionnelle qui diffuse dans toutes les directions à partir d’un point central. Idéale pour simuler des ampoules, des bougies ou des feux. Réglages de la Point Light : Vous pouvez ajuster l’intensité, la couleur et surtout l’ Attenuation Radius pour contrôler la portée et la concentration de la lumière. Spot Light : Une source de lumière directionnelle limitée par un cône. Elle permet de cibler précisément des zones ou des objets spécifiques sans éclairer le reste de la scène. Réglages de la Spot Light : En plus des paramètres classiques, vous pouvez modifier l’ Outer Cone Angle pour élargir ou resserrer le faisceau lumineux. Expérimentation : N’hésitez pas à créer un projet de test pour manipuler ces paramètres et observer les changements en temps réel. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5+) aient introduit le système Lumen pour une gestion dynamique de la lumière globale, les bases de l’éclairage restent identiques. La gestion des Point Lights et Spot Lights demeure le socle indispensable pour :",
+    "tags": [
+      "Lumière",
+      "Lighting",
+      "GameDev",
+      "Tutoriel"
+    ],
+    "title": "41. Maîtriser les sources lumineuses : Point Light et Spot Light",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/maitriser-point-light-spot-light-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous allons améliorer l’aspect visuel de nos pièces en intégrant un système d’éclairage dynamique. L’objectif est double : rendre nos objets plus attrayants visuellement et guider naturellement le joueur à travers le niveau en créant un chemin lumineux clair.\nRésumé de l’implémentation Accès au Blueprint : Navigation dans le dossier zone pour ouvrir le blueprint zone_pièce. Ajout de composant : Insertion d’un composant Point Light au sein de l’acteur. Configuration : Ajustement de la couleur (teinte orangée) et de l’intensité lumineuse (réglée à 1000) dans les détails du composant. Test en temps réel : Vérification immédiate dans le viewport du niveau pour valider l’impact visuel. Logique de jeu : Observation du comportement dynamique où la lumière disparaît logiquement lorsque la pièce est ramassée par le joueur. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux restent parfaitement transposables aux versions plus récentes (UE5) :\nModularité des Blueprints : Ajouter des composants aux classes d’acteurs est la base du développement modulaire. Toute modification apportée au blueprint parent se répercute instantanément sur toutes les instances placées dans le niveau. Guidage visuel (Level Design) : L’utilisation de la lumière pour diriger le regard du joueur est une technique de “Level Design” intemporelle. Optimisation : La gestion des lumières dynamiques sur des objets ramassables est une pratique standard pour renforcer le feedback visuel (le “game feel”) lors des interactions. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous allons améliorer l’aspect visuel de nos pièces en intégrant un système d’éclairage dynamique. L’objectif est double : rendre nos objets plus attrayants visuellement et guider naturellement le joueur à travers le niveau en créant un chemin lumineux clair.\nRésumé de l’implémentation Accès au Blueprint : Navigation dans le dossier zone pour ouvrir le blueprint zone_pièce. Ajout de composant : Insertion d’un composant Point Light au sein de l’acteur. Configuration : Ajustement de la couleur (teinte orangée) et de l’intensité lumineuse (réglée à 1000) dans les détails du composant. Test en temps réel : Vérification immédiate dans le viewport du niveau pour valider l’impact visuel. Logique de jeu : Observation du comportement dynamique où la lumière disparaît logiquement lorsque la pièce est ramassée par le joueur. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux restent parfaitement transposables aux versions plus récentes (UE5) :",
+    "tags": [
+      "Blueprint",
+      "Lighting",
+      "Game Design",
+      "Level Design"
+    ],
+    "title": "42. Éclairage dynamique et mise en valeur des objets",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/eclairage-dynamique-blueprint-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous terminons notre chapitre bonus consacré aux lumières en apprenant à créer un effet de “lumière scintillante”. Grâce aux Blueprints, nous allons automatiser le changement d’intensité et de couleur d’une source lumineuse pour donner vie à nos environnements.\nRésumé de la manipulation Pour réaliser cet effet, nous suivons ces étapes clés dans l’éditeur :\nCréation de l’acteur : Création d’un nouveau Blueprint de type Actor nommé BP_Lumiere. Ajout du composant : Insertion d’un composant Point Light dans le Blueprint. Logique dans l’Event Graph : Utilisation de l’événement Event Tick couplé à un Delay (0.2s) pour définir la fréquence de rafraîchissement. Utilisation du node Set Intensity pour varier la puissance lumineuse avec un Random Float in Range (0 à 8000). Ajout du node Set Light Color couplé à un Make Linear Color pour randomiser les composantes RVB (Rouge, Vert, Bleu) et créer un effet de changement de couleur dynamique. Flexibilité : Possibilité d’attacher ce système à d’autres objets ou même au personnage (pour simuler une lampe torche). Ce qui reste d’actualité aujourd’hui Bien que cet épisode utilise Unreal Engine 4, les principes fondamentaux restent parfaitement valables dans les versions récentes (UE5) :\nLa puissance des Blueprints : La logique de modification des propriétés des composants via les nodes Set reste la méthode standard pour créer des interactions dynamiques simples. L’Event Tick : Bien que l’utilisation du Tick soit à surveiller pour les performances sur des systèmes complexes, il demeure l’outil idéal pour des effets visuels rapides et légers comme celui-ci. Modularité : La capacité d’exposer des variables (comme l’intensité min/max) dans le Blueprint permet de réutiliser cet acteur dans n’importe quel niveau sans avoir à modifier le code à chaque fois. Propriétés des composants : La méthode consistant à inspecter le panneau “Details” d’un composant pour identifier les nodes Set correspondants est une compétence essentielle pour tout développeur Unreal. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous terminons notre chapitre bonus consacré aux lumières en apprenant à créer un effet de “lumière scintillante”. Grâce aux Blueprints, nous allons automatiser le changement d’intensité et de couleur d’une source lumineuse pour donner vie à nos environnements.\nRésumé de la manipulation Pour réaliser cet effet, nous suivons ces étapes clés dans l’éditeur :",
+    "tags": [
+      "Blueprint",
+      "Lumières",
+      "GameDev",
+      "Tutoriel"
+    ],
+    "title": "43. Créer une lumière scintillante dynamique",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creer-une-lumiere-scintillante-dynamique-ue4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous allons apprendre à implémenter un système de checkpoint efficace. L’objectif est simple : éviter que le joueur ne doive recommencer tout le niveau après une chute ou une erreur, en le téléportant à sa dernière position validée.\nRésumé de la mise en place Variable de suivi : Création d’une variable DernierCheckpoint de type Vector dans le FirstPersonCharacter. Initialisation : Utilisation de l’événement BeginPlay pour définir la position de départ du joueur comme premier checkpoint. Zone de défaite : Modification du Blueprint ZoneDeDefaite pour utiliser SetActorLocation vers la valeur de DernierCheckpoint au lieu de recharger le niveau. Création du Checkpoint : Création d’un acteur ZoneCheckpoint avec une BoxCollision. Logique de collision : Utilisation du CastToFirstPersonCharacter pour mettre à jour la variable DernierCheckpoint du joueur lors du passage dans la zone. Optionnel : Ajout d’un nœud DestroyActor après la mise à jour du checkpoint pour empêcher le joueur de revenir sur un ancien point de sauvegarde. Ce qui reste d’actualité aujourd’hui Bien que cet article traite d’Unreal Engine 4, les concepts fondamentaux restent parfaitement transposables à Unreal Engine 5 :\nGestion des variables : Le système de variables (Vector) et le Cast restent les piliers de la communication entre les Blueprints. Transform vs Location : La distinction entre SetActorLocation (position seule) et SetActorTransform (position, rotation et échelle) est toujours une notion clé pour gérer le réapparition du joueur avec son orientation initiale. Modularité : L’utilisation d’acteurs dédiés pour les zones (trigger volumes) est une pratique standard qui permet de garder un projet propre et facilement éditable dans le viewport. Persistence : La logique de destruction de l’acteur (DestroyActor) après activation est une technique classique pour gérer la progression linéaire dans les jeux de plateforme ou d’aventure. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous allons apprendre à implémenter un système de checkpoint efficace. L’objectif est simple : éviter que le joueur ne doive recommencer tout le niveau après une chute ou une erreur, en le téléportant à sa dernière position validée.\nRésumé de la mise en place Variable de suivi : Création d’une variable DernierCheckpoint de type Vector dans le FirstPersonCharacter. Initialisation : Utilisation de l’événement BeginPlay pour définir la position de départ du joueur comme premier checkpoint. Zone de défaite : Modification du Blueprint ZoneDeDefaite pour utiliser SetActorLocation vers la valeur de DernierCheckpoint au lieu de recharger le niveau. Création du Checkpoint : Création d’un acteur ZoneCheckpoint avec une BoxCollision. Logique de collision : Utilisation du CastToFirstPersonCharacter pour mettre à jour la variable DernierCheckpoint du joueur lors du passage dans la zone. Optionnel : Ajout d’un nœud DestroyActor après la mise à jour du checkpoint pour empêcher le joueur de revenir sur un ancien point de sauvegarde. Ce qui reste d’actualité aujourd’hui Bien que cet article traite d’Unreal Engine 4, les concepts fondamentaux restent parfaitement transposables à Unreal Engine 5 :",
+    "tags": [
+      "Blueprints",
+      "GameDev",
+      "Checkpoint",
+      "Gameplay"
+    ],
+    "title": "44. Créer un système de Checkpoint",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creer-systeme-checkpoint-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous faisons une pause dans la complexité technique pour préparer la structure de notre second niveau. L’objectif est de valider que nos systèmes de gameplay (checkpoints, zones de mort, collecte de pièces) sont modulaires et réutilisables. Nous en profitons également pour refactoriser l’affichage de notre interface utilisateur (UI) afin de la rendre globale et automatique.\nRésumé de l’épisode Modularité des assets : Création d’un second niveau en réutilisant les blueprints existants (pièces, checkpoints, zones de kill). Refactorisation de l’UI : Déplacement de la logique d’affichage du widget (Create Widget / Add to Viewport) du Level Blueprint vers le Character Blueprint. Avantage de l’approche : En plaçant l’UI dans le personnage, celle-ci s’initialise automatiquement à chaque chargement de niveau, évitant de dupliquer du code dans chaque Level Blueprint. Constat technique : Le score actuel est local au niveau. Le passage d’un niveau à l’autre réinitialise les variables, ce qui introduit la nécessité d’un système de persistance de données (GameInstance). Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux abordés restent des piliers du développement sous Unreal Engine 5 :\nLa centralisation de la logique : Déplacer la logique d’UI du Level Blueprint vers le Character ou le PlayerController est une bonne pratique. Le Level Blueprint doit être réservé aux événements spécifiques à un niveau donné, et non à la gestion globale du joueur. Réutilisabilité des Blueprints : La création de classes parentes ou de composants réutilisables pour les checkpoints et les objets à collecter est la base d’un workflow efficace. Cela permet de modifier le comportement de tous les objets d’un type donné en une seule fois. La gestion de l’état du jeu : La problématique soulevée ici — le fait que les variables soient réinitialisées lors du changement de niveau — est un problème classique. La solution, que nous aborderons bientôt, réside dans l’utilisation de la GameInstance, qui est la seule classe capable de survivre au changement de niveau. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous faisons une pause dans la complexité technique pour préparer la structure de notre second niveau. L’objectif est de valider que nos systèmes de gameplay (checkpoints, zones de mort, collecte de pièces) sont modulaires et réutilisables. Nous en profitons également pour refactoriser l’affichage de notre interface utilisateur (UI) afin de la rendre globale et automatique.\nRésumé de l’épisode Modularité des assets : Création d’un second niveau en réutilisant les blueprints existants (pièces, checkpoints, zones de kill). Refactorisation de l’UI : Déplacement de la logique d’affichage du widget (Create Widget / Add to Viewport) du Level Blueprint vers le Character Blueprint. Avantage de l’approche : En plaçant l’UI dans le personnage, celle-ci s’initialise automatiquement à chaque chargement de niveau, évitant de dupliquer du code dans chaque Level Blueprint. Constat technique : Le score actuel est local au niveau. Le passage d’un niveau à l’autre réinitialise les variables, ce qui introduit la nécessité d’un système de persistance de données (GameInstance). Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux abordés restent des piliers du développement sous Unreal Engine 5 :",
+    "tags": [
+      "GameDev",
+      "Blueprints",
+      "UI",
+      "LevelDesign",
+      "Optimisation"
+    ],
+    "title": "45. Préparation du second niveau et optimisation de l''UI",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/preparation-second-niveau-optimisation-ui-ue4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une problématique classique du développement de jeux vidéo : comment conserver des informations (comme le score du joueur) lorsqu’on change de niveau. Par défaut, Unreal Engine réinitialise les variables de votre personnage à chaque chargement de map. Pour pallier cela, nous allons utiliser la Game Instance.\nRésumé du fonctionnement La Game Instance est un objet global qui survit au changement de niveau. Voici les étapes clés pour mettre en place votre système de score persistant :\nCréation : Créez une nouvelle classe Blueprint basée sur GameInstance et nommez-la MyGameInstance. Configuration : Allez dans Edit \u003e Project Settings \u003e Maps \u0026 Modes et assignez votre MyGameInstance dans la section Game Instance Class. Stockage : Lors du passage à un nouveau niveau (via votre zone de collision), utilisez un Cast To MyGameInstance pour transférer le score actuel du joueur vers une variable de la Game Instance. Récupération : Au BeginPlay du niveau suivant, effectuez à nouveau un Cast vers la Game Instance pour récupérer la valeur stockée et mettre à jour le score du joueur. Cycle de vie : Le score transite du Joueur vers la Game Instance avant le changement de map, puis de la Game Instance vers le Joueur au démarrage du nouveau niveau. Ce qui reste d’actualité aujourd’hui Bien que cet épisode soit basé sur Unreal Engine 4, les concepts fondamentaux restent identiques dans Unreal Engine 5 :\nLa Game Instance est toujours la solution privilégiée pour les données temporaires qui doivent survivre au chargement de niveaux (score, état de santé, inventaire temporaire). Le “Cast” reste une méthode standard pour communiquer entre les classes, bien qu’il soit conseillé d’utiliser des Interfaces pour des projets plus complexes afin de réduire les dépendances. La limite de la Game Instance : Comme mentionné, elle est réinitialisée à la fermeture du jeu. Pour une persistance à long terme, il faudra toujours coupler ce système avec le SaveGame (système de sauvegarde sur disque), qui sera le sujet de notre prochaine leçon. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une problématique classique du développement de jeux vidéo : comment conserver des informations (comme le score du joueur) lorsqu’on change de niveau. Par défaut, Unreal Engine réinitialise les variables de votre personnage à chaque chargement de map. Pour pallier cela, nous allons utiliser la Game Instance.\nRésumé du fonctionnement La Game Instance est un objet global qui survit au changement de niveau. Voici les étapes clés pour mettre en place votre système de score persistant :",
+    "tags": [
+      "Blueprint",
+      "Game Instance",
+      "Développement",
+      "Tutoriel"
+    ],
+    "title": "46. Persistance des données entre les niveaux avec la Game Instance",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/persistance-donnees-game-instance-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous posons les bases techniques nécessaires à la mise en place d’un système de sauvegarde persistante. Avant de manipuler les données, il est indispensable de créer une interface utilisateur (UI) permettant au joueur d’interagir avec le système de sauvegarde. Nous allons voir comment créer un menu simple et gérer son affichage via le Blueprint de votre personnage.\nRésumé de la mise en place Création du Widget : Conception d’un menu basique contenant deux boutons (sans logique pour le moment). Logique d’affichage (Flip Flop) : Utilisation du node Flip Flop pour alterner entre l’ouverture et la fermeture du menu à chaque pression de la touche ‘P’. Gestion des variables : Stockage du widget dans une variable (W_Menu) pour pouvoir le manipuler (l’ajouter au viewport ou le supprimer) sans avoir à le recréer. Interaction souris : Utilisation du node Set Show Mouse Cursor pour permettre au joueur de cliquer sur les boutons, en ciblant correctement le Player Controller. Nettoyage : Utilisation de Remove from Parent pour libérer l’interface de l’écran. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux abordés ici restent des piliers du développement :\nLe pattern Flip Flop : C’est toujours la méthode la plus rapide et efficace pour créer des bascules (toggle) simples dans vos Blueprints. Gestion des Widgets : La promotion en variable (Promote to Variable) est une bonne pratique indispensable pour éviter les fuites de mémoire ou les erreurs de référence lors de la manipulation d’UI. Le Player Controller : La distinction entre le Character (le corps) et le Player Controller (l’input/la souris) est une règle d’or dans UE4 et UE5. Comprendre que le curseur appartient au contrôleur est essentiel pour éviter les bugs d’input. Débogage : Comme montré dans la vidéo, savoir lire les messages d’erreur du compilateur (notamment sur les cibles invalides) est la compétence la plus précieuse pour un développeur. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous posons les bases techniques nécessaires à la mise en place d’un système de sauvegarde persistante. Avant de manipuler les données, il est indispensable de créer une interface utilisateur (UI) permettant au joueur d’interagir avec le système de sauvegarde. Nous allons voir comment créer un menu simple et gérer son affichage via le Blueprint de votre personnage.\nRésumé de la mise en place Création du Widget : Conception d’un menu basique contenant deux boutons (sans logique pour le moment). Logique d’affichage (Flip Flop) : Utilisation du node Flip Flop pour alterner entre l’ouverture et la fermeture du menu à chaque pression de la touche ‘P’. Gestion des variables : Stockage du widget dans une variable (W_Menu) pour pouvoir le manipuler (l’ajouter au viewport ou le supprimer) sans avoir à le recréer. Interaction souris : Utilisation du node Set Show Mouse Cursor pour permettre au joueur de cliquer sur les boutons, en ciblant correctement le Player Controller. Nettoyage : Utilisation de Remove from Parent pour libérer l’interface de l’écran. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux abordés ici restent des piliers du développement :",
+    "tags": [
+      "UI",
+      "Widget",
+      "Blueprints",
+      "Sauvegarde",
+      "GameDev"
+    ],
+    "title": "47. Création d''un menu de sauvegarde et gestion de l''interface",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/creation-menu-sauvegarde-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons une étape cruciale pour tout jeu : la persistance des données. Contrairement à la GameInstance qui est réinitialisée à chaque fermeture du jeu, l’objet SaveGame permet d’écrire des informations directement sur le disque dur de l’utilisateur.\nRésumé des étapes clés Création de la classe SaveGame : Création d’un Blueprint de type SaveGame (nommé MySaveGame) pour stocker les variables persistantes. Définition des variables : Ajout de S_score (Integer) et S_niveau (Name) avec une nomenclature spécifique pour les distinguer des variables temporaires. Logique de sauvegarde : Utilisation du node Create Save Game Object pour instancier la classe. Récupération des données actuelles depuis le ThirdPersonCharacter (pour éviter les décalages de la GameInstance). Utilisation du node Save Game to Slot pour écrire les données sur le disque dans un emplacement nommé (“save”). Organisation : Utilisation des Reroute Nodes pour maintenir la lisibilité du graphe Blueprint. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux de la persistance des données restent identiques dans Unreal Engine 5 :\nLa distinction entre mémoire vive et disque : La GameInstance reste l’outil idéal pour le transfert de données entre niveaux, tandis que le SaveGame est indispensable pour la pérennité après fermeture de l’application. Le système de Slots : Le concept de “Slot” (nom de fichier de sauvegarde) est toujours la méthode standard pour gérer plusieurs profils de sauvegarde. La structure des données : La pratique consistant à préfixer ses variables de sauvegarde (ex: S_) est une excellente habitude de développement pour éviter les erreurs de logique dans des projets complexes. Conversion de types : La conversion automatique entre String et Name lors de la récupération du nom du niveau est une fonctionnalité native qui facilite grandement le workflow. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons une étape cruciale pour tout jeu : la persistance des données. Contrairement à la GameInstance qui est réinitialisée à chaque fermeture du jeu, l’objet SaveGame permet d’écrire des informations directement sur le disque dur de l’utilisateur.\nRésumé des étapes clés Création de la classe SaveGame : Création d’un Blueprint de type SaveGame (nommé MySaveGame) pour stocker les variables persistantes. Définition des variables : Ajout de S_score (Integer) et S_niveau (Name) avec une nomenclature spécifique pour les distinguer des variables temporaires. Logique de sauvegarde : Utilisation du node Create Save Game Object pour instancier la classe. Récupération des données actuelles depuis le ThirdPersonCharacter (pour éviter les décalages de la GameInstance). Utilisation du node Save Game to Slot pour écrire les données sur le disque dans un emplacement nommé (“save”). Organisation : Utilisation des Reroute Nodes pour maintenir la lisibilité du graphe Blueprint. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux de la persistance des données restent identiques dans Unreal Engine 5 :",
+    "tags": [
+      "Blueprints",
+      "SaveGame",
+      "GameDev",
+      "Tutoriel"
+    ],
+    "title": "48. Mise en place d''un système de sauvegarde persistant",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/mise-en-place-systeme-sauvegarde-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous finalisons notre système de sauvegarde en nous concentrant sur la logique de chargement. Après avoir appris à enregistrer les données, il est crucial de savoir comment les récupérer, les injecter dans la GameInstance pour assurer la persistance entre les niveaux, et enfin déclencher le chargement du bon niveau.\nRésumé de la procédure de chargement Load Game from Slot : Utilisation du nœud pour récupérer les données du fichier de sauvegarde spécifié. Cast to SaveGame : Vérification que les données chargées correspondent bien à votre classe SaveGame personnalisée. Récupération des variables : Extraction du score et du nom du niveau via les fonctions Get de votre objet de sauvegarde. Synchronisation avec la GameInstance : Injection des données chargées dans la GameInstance pour que le joueur puisse les récupérer dès le chargement du niveau. Open Level : Utilisation du nom du niveau stocké dans la sauvegarde pour téléporter le joueur au bon endroit. Bonne pratique : Utiliser des variables de type String pour le nom du slot afin de faciliter la maintenance du code. Ce qui reste d’actualité aujourd’hui Bien que le système de sauvegarde par menu soit une approche classique, les principes fondamentaux abordés ici restent le socle de tout système de persistance dans Unreal Engine :\nLa GameInstance comme pont : La GameInstance est l’objet qui survit au changement de niveau. Elle reste l’endroit idéal pour stocker temporairement les données avant qu’elles ne soient appliquées au joueur (Pawn) lors du BeginPlay d’un niveau. La structure de données : Le découplage entre l’objet SaveGame (qui stocke les données sur le disque) et la GameInstance (qui gère l’état du jeu en mémoire) est une architecture propre et robuste. Gestion des slots : L’utilisation de variables pour définir les noms des slots de sauvegarde est une règle d’or pour éviter les erreurs de frappe et faciliter le refactoring de votre projet. Limites du Open Level : Comme mentionné, le changement de niveau (Open Level) réinitialise l’état du monde. Comprendre que les données doivent être “poussées” dans la GameInstance avant ce changement est essentiel pour éviter la perte d’informations. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous finalisons notre système de sauvegarde en nous concentrant sur la logique de chargement. Après avoir appris à enregistrer les données, il est crucial de savoir comment les récupérer, les injecter dans la GameInstance pour assurer la persistance entre les niveaux, et enfin déclencher le chargement du bon niveau.\nRésumé de la procédure de chargement Load Game from Slot : Utilisation du nœud pour récupérer les données du fichier de sauvegarde spécifié. Cast to SaveGame : Vérification que les données chargées correspondent bien à votre classe SaveGame personnalisée. Récupération des variables : Extraction du score et du nom du niveau via les fonctions Get de votre objet de sauvegarde. Synchronisation avec la GameInstance : Injection des données chargées dans la GameInstance pour que le joueur puisse les récupérer dès le chargement du niveau. Open Level : Utilisation du nom du niveau stocké dans la sauvegarde pour téléporter le joueur au bon endroit. Bonne pratique : Utiliser des variables de type String pour le nom du slot afin de faciliter la maintenance du code. Ce qui reste d’actualité aujourd’hui Bien que le système de sauvegarde par menu soit une approche classique, les principes fondamentaux abordés ici restent le socle de tout système de persistance dans Unreal Engine :",
+    "tags": [
+      "Blueprints",
+      "SaveGame",
+      "GameInstance",
+      "Tutoriel"
+    ],
+    "title": "49. Implémenter le chargement de partie dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/implementer-chargement-partie-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4 \u003e Sommaire de la série",
+    "content": "Bienvenue dans cet ultime épisode de notre série dédiée à la découverte d’Unreal Engine 4. Après avoir parcouru ensemble le chemin complet, de l’installation du moteur jusqu’à la publication de votre premier projet sur itch.io, il est temps de faire le point sur le parcours accompli.\nRécapitulatif de votre progression Au cours de cette formation, nous avons couvert les étapes fondamentales pour transformer une idée en un projet jouable :\nConfiguration initiale : Création du compte, téléchargement et installation propre du moteur via le launcher. Prise en main de l’interface : Apprivoiser l’éditeur, naviguer dans le viewport et comprendre la hiérarchie des outils. Conception de niveau : Utilisation des outils de base pour construire votre premier environnement de jeu. Itération et réflexes : Apprentissage par la répétition pour transformer les manipulations complexes en automatismes. Publication : Exportation et mise en ligne de votre création sur la plateforme itch.io pour partager votre travail avec la communauté. Ce qui reste d’actualité aujourd’hui Même si Unreal Engine a évolué vers des versions plus récentes, les fondamentaux abordés dans ce cours restent le socle indispensable de tout développeur :\nLa logique de workflow : La structure des dossiers, l’organisation des assets et la gestion des niveaux sont des concepts universels dans l’écosystème Unreal. L’importance de la pratique : Le développement de jeux est une discipline qui demande de la répétition. Les réflexes acquis sur l’interface de l’UE4 sont directement transférables aux versions supérieures. La communauté et l’entraide : Le développement est un voyage solitaire qui gagne à être partagé. N’hésitez jamais à poser vos questions, à consulter la documentation officielle et à échanger avec d’autres développeurs pour débloquer des situations complexes. La finalisation de projet : Savoir “finir” un jeu (packaging, export, publication) est une compétence aussi importante que le design lui-même. J’espère que ce cours vous a donné la confiance nécessaire pour poursuivre vos propres projets. Continuez à expérimenter, à casser des choses et à apprendre de vos erreurs. Bon courage pour vos futures créations !\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Bienvenue dans cet ultime épisode de notre série dédiée à la découverte d’Unreal Engine 4. Après avoir parcouru ensemble le chemin complet, de l’installation du moteur jusqu’à la publication de votre premier projet sur itch.io, il est temps de faire le point sur le parcours accompli.\nRécapitulatif de votre progression Au cours de cette formation, nous avons couvert les étapes fondamentales pour transformer une idée en un projet jouable :",
+    "tags": [
+      "Unreal Engine 4",
+      "GameDev",
+      "Tutoriel",
+      "Débutant",
+      "Conclusion"
+    ],
+    "title": "50. Conclusion : Bilan de votre apprentissage sur Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/conclusion-apprentissage-unreal-engine-4/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
     "content": "",
     "description": "",
     "tags": [],
     "title": "Tag :: 2D",
     "uri": "/tags/2d/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Actor",
+    "uri": "/tags/actor/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Animation",
+    "uri": "/tags/animation/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1505,12 +2181,138 @@ var relearn_searchindex = [
     "uri": "/categories/archive/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Asset Management",
+    "uri": "/tags/asset-management/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Assets",
+    "uri": "/tags/assets/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Audio",
+    "uri": "/tags/audio/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Blocking Volume",
+    "uri": "/tags/blocking-volume/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Blueprint",
+    "uri": "/tags/blueprint/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Blueprints",
+    "uri": "/tags/blueprints/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: BSP",
+    "uri": "/tags/bsp/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo",
     "content": "",
     "description": "",
     "tags": [],
     "title": "Categories",
     "uri": "/categories/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Checkpoint",
+    "uri": "/tags/checkpoint/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Collision",
+    "uri": "/tags/collision/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Conclusion",
+    "uri": "/tags/conclusion/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Configuration",
+    "uri": "/tags/configuration/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Console Command",
+    "uri": "/tags/console-command/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Construct 2",
+    "uri": "/tags/construct-2/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Content Browser",
+    "uri": "/tags/content-browser/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e GameMaker Studio",
+    "content": "Cette archive contient une série de tutoriels pédagogiques conçus pour vous guider dans la conception et le développement complet d’un jeu de type Shoot ’em Up (Shmup) sous GameMaker.\nNotions clés abordées Gestion du défilement (Scrolling) : Mise en place d’un scrolling vertical ou horizontal fluide pour le décor. Système de tir et de projectiles : Création d’objets projectiles, gestion de leur vitesse, des trajectoires et de la destruction automatique hors écran (déallocation de mémoire). Intelligence Artificielle simple : Programmation des comportements des ennemis : patterns de déplacement, vagues d’apparitions et gestion des collisions. Système de score et UI : Mise en place d’un compteur de points en temps réel et d’une barre de vie simple. Gestion des collisions : Optimisation des masques de collision pour une expérience de jeu précise et réactive. Ce qui reste d’actualité aujourd’hui Bien que les outils aient évolué, la logique mathématique et structurelle derrière un Shmup reste une constante dans le développement 2D. La gestion des vecteurs de mouvement, l’optimisation des objets dans une “room” et la création de patterns d’ennemis sont des compétences fondamentales qui transcendent les versions du logiciel. Maîtriser ces concepts sur cette archive vous donnera une longueur d’avance pour comprendre n’importe quel moteur 2D moderne. Les principes de “game feel” et de fluidité de tir enseignés ici sont toujours les piliers de ce genre intemporel.\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Cette archive contient une série de tutoriels pédagogiques conçus pour vous guider dans la conception et le développement complet d’un jeu de type Shoot ’em Up (Shmup) sous GameMaker.\nNotions clés abordées Gestion du défilement (Scrolling) : Mise en place d’un scrolling vertical ou horizontal fluide pour le décor. Système de tir et de projectiles : Création d’objets projectiles, gestion de leur vitesse, des trajectoires et de la destruction automatique hors écran (déallocation de mémoire). Intelligence Artificielle simple : Programmation des comportements des ennemis : patterns de déplacement, vagues d’apparitions et gestion des collisions. Système de score et UI : Mise en place d’un compteur de points en temps réel et d’une barre de vie simple. Gestion des collisions : Optimisation des masques de collision pour une expérience de jeu précise et réactive. Ce qui reste d’actualité aujourd’hui Bien que les outils aient évolué, la logique mathématique et structurelle derrière un Shmup reste une constante dans le développement 2D. La gestion des vecteurs de mouvement, l’optimisation des objets dans une “room” et la création de patterns d’ennemis sont des compétences fondamentales qui transcendent les versions du logiciel. Maîtriser ces concepts sur cette archive vous donnera une longueur d’avance pour comprendre n’importe quel moteur 2D moderne. Les principes de “game feel” et de fluidité de tir enseignés ici sont toujours les piliers de ce genre intemporel.",
+    "tags": [
+      "GameMaker",
+      "Shmup",
+      "2D",
+      "Tutoriel",
+      "GameDev"
+    ],
+    "title": "Création d'un Shoot 'em Up (Shmup)",
+    "uri": "/game-maker-studio/shoot-them-up/index.html"
   },
   {
     "breadcrumb": "",
@@ -1521,17 +2323,106 @@ var relearn_searchindex = [
     "uri": "/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo",
-    "content": "Cette archive regroupe des tutoriels pédagogiques essentiels pour appréhender les bases du moteur GameMaker Studio et réaliser vos premiers projets de jeux en 2D.\nNotions clés abordées Interface et Workflow : Navigation dans l’environnement de développement et organisation de l’arborescence du projet (Assets, Sprites, Objects). Système d’Objets et d’Événements : Compréhension du fonctionnement “Step-by-Step” de GameMaker : gestion des événements (Create, Step, Draw) pour structurer la logique du jeu. GML (GameMaker Language) : Introduction aux bases du langage de script propre au moteur pour manipuler les variables, les collisions et les entrées clavier. Gestion des Sprites et Animation : Importation de ressources graphiques et mise en place des séquences d’animation via l’éditeur intégré. Rooms et Instances : Organisation des niveaux de jeu, gestion des layers (calques) et placement des instances d’objets dans l’espace de jeu. Ce qui reste d’actualité aujourd’hui GameMaker Studio demeure une référence incontournable pour la scène indépendante. Si les versions récentes ont largement modernisé l’interface, la philosophie profonde du moteur reste intacte. La manière de gérer les collisions, la hiérarchie des objets et l’utilisation du GML sont des compétences pérennes : une fois ces bases acquises, le passage aux dernières itérations du logiciel se fait sans aucune friction. Ce contenu reste donc une rampe de lancement parfaite pour quiconque souhaite comprendre la logique de programmation orientée “jeu 2D” avant de s’attaquer à des projets plus ambitieux.\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
-    "description": "Cette archive regroupe des tutoriels pédagogiques essentiels pour appréhender les bases du moteur GameMaker Studio et réaliser vos premiers projets de jeux en 2D.\nNotions clés abordées Interface et Workflow : Navigation dans l’environnement de développement et organisation de l’arborescence du projet (Assets, Sprites, Objects). Système d’Objets et d’Événements : Compréhension du fonctionnement “Step-by-Step” de GameMaker : gestion des événements (Create, Step, Draw) pour structurer la logique du jeu. GML (GameMaker Language) : Introduction aux bases du langage de script propre au moteur pour manipuler les variables, les collisions et les entrées clavier. Gestion des Sprites et Animation : Importation de ressources graphiques et mise en place des séquences d’animation via l’éditeur intégré. Rooms et Instances : Organisation des niveaux de jeu, gestion des layers (calques) et placement des instances d’objets dans l’espace de jeu. Ce qui reste d’actualité aujourd’hui GameMaker Studio demeure une référence incontournable pour la scène indépendante. Si les versions récentes ont largement modernisé l’interface, la philosophie profonde du moteur reste intacte. La manière de gérer les collisions, la hiérarchie des objets et l’utilisation du GML sont des compétences pérennes : une fois ces bases acquises, le passage aux dernières itérations du logiciel se fait sans aucune friction. Ce contenu reste donc une rampe de lancement parfaite pour quiconque souhaite comprendre la logique de programmation orientée “jeu 2D” avant de s’attaquer à des projets plus ambitieux.",
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Debugging",
+    "uri": "/tags/debugging/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Débutant",
+    "uri": "/tags/d%C3%A9butant/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Développement",
+    "uri": "/tags/d%C3%A9veloppement/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2",
+    "content": "Cette archive contient une série de tutoriels pédagogiques dédiés à la conception et à la réalisation technique d’un jeu de tir en vue de dessus (Top-Down Shooter) avec Construct 2.\nNotions clés abordées Gestion des déplacements : Implémentation du comportement “8-Direction” pour le joueur et rotation fluide vers le curseur de la souris. Système de tir dynamique : Création et instanciation de projectiles, gestion de leur vitesse et destruction après un délai ou une collision. Logique d’IA simple : Programmation de comportements de poursuite basiques pour les ennemis afin de créer des ennemis réactifs. Gestion des collisions : Utilisation des masques de collision pour les projectiles, les murs et les entités vivantes. Variables globales : Suivi des points de vie (HP) du joueur et des ennemis pour gérer les dégâts et la fin de partie (Game Over). Ce qui reste d’actualité aujourd’hui La structure d’un “Top-Down Shooter” est un exercice classique qui permet de maîtriser les fondamentaux du game design. Les principes abordés ici — la synchronisation entre le joueur et le curseur, la gestion des systèmes de projectiles et l’optimisation des objets — sont des concepts qui restent inchangés, que vous utilisiez Construct, Godot, Unity ou Unreal. Comprendre comment structurer la boucle de jeu et gérer les interactions en temps réel reste la compétence la plus précieuse pour tout développeur. Cette archive vous offre une base méthodologique solide pour aborder n’importe quel projet d’action 2D avec assurance et efficacité.\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Cette archive contient une série de tutoriels pédagogiques dédiés à la conception et à la réalisation technique d’un jeu de tir en vue de dessus (Top-Down Shooter) avec Construct 2.\nNotions clés abordées Gestion des déplacements : Implémentation du comportement “8-Direction” pour le joueur et rotation fluide vers le curseur de la souris. Système de tir dynamique : Création et instanciation de projectiles, gestion de leur vitesse et destruction après un délai ou une collision. Logique d’IA simple : Programmation de comportements de poursuite basiques pour les ennemis afin de créer des ennemis réactifs. Gestion des collisions : Utilisation des masques de collision pour les projectiles, les murs et les entités vivantes. Variables globales : Suivi des points de vie (HP) du joueur et des ennemis pour gérer les dégâts et la fin de partie (Game Over). Ce qui reste d’actualité aujourd’hui La structure d’un “Top-Down Shooter” est un exercice classique qui permet de maîtriser les fondamentaux du game design. Les principes abordés ici — la synchronisation entre le joueur et le curseur, la gestion des systèmes de projectiles et l’optimisation des objets — sont des concepts qui restent inchangés, que vous utilisiez Construct, Godot, Unity ou Unreal. Comprendre comment structurer la boucle de jeu et gérer les interactions en temps réel reste la compétence la plus précieuse pour tout développeur. Cette archive vous offre une base méthodologique solide pour aborder n’importe quel projet d’action 2D avec assurance et efficacité.",
     "tags": [
-      "GameMaker",
-      "2D",
-      "Indie Dev",
-      "Gamedev"
+      "Construct 2",
+      "Top-Down Shooter",
+      "No-Code",
+      "Tutoriel",
+      "GameDev"
     ],
-    "title": "Découverte de GameMaker Studio : Le moteur 2D par excellence",
-    "uri": "/game-maker-studio/index.html"
+    "title": "Développement d'un Top-Down Shooter",
+    "uri": "/construct-2/tuto-top-down-shooter/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Développement De Jeux",
+    "uri": "/categories/d%C3%A9veloppement-de-jeux/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Développement Unreal Engine",
+    "uri": "/categories/d%C3%A9veloppement-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Directional Light",
+    "uri": "/tags/directional-light/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Editor",
+    "uri": "/tags/editor/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Export",
+    "uri": "/tags/export/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Exportation",
+    "uri": "/tags/exportation/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Foliage",
+    "uri": "/tags/foliage/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Game Design",
+    "uri": "/tags/game-design/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1546,8 +2437,24 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Gamedev",
+    "title": "Tag :: Game Instance",
+    "uri": "/tags/game-instance/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: GameDev",
     "uri": "/tags/gamedev/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: GameInstance",
+    "uri": "/tags/gameinstance/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1558,12 +2465,145 @@ var relearn_searchindex = [
     "uri": "/tags/gamemaker/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo",
+    "content": "Cette archive regroupe des tutoriels pédagogiques essentiels pour appréhender les bases du moteur GameMaker Studio et réaliser vos premiers projets de jeux en 2D.\nNotions clés abordées Interface et Workflow : Navigation dans l’environnement de développement et organisation de l’arborescence du projet (Assets, Sprites, Objects). Système d’Objets et d’Événements : Compréhension du fonctionnement “Step-by-Step” de GameMaker : gestion des événements (Create, Step, Draw) pour structurer la logique du jeu. GML (GameMaker Language) : Introduction aux bases du langage de script propre au moteur pour manipuler les variables, les collisions et les entrées clavier. Gestion des Sprites et Animation : Importation de ressources graphiques et mise en place des séquences d’animation via l’éditeur intégré. Rooms et Instances : Organisation des niveaux de jeu, gestion des layers (calques) et placement des instances d’objets dans l’espace de jeu. Ce qui reste d’actualité aujourd’hui GameMaker Studio demeure une référence incontournable pour la scène indépendante. Si les versions récentes ont largement modernisé l’interface, la philosophie profonde du moteur reste intacte. La manière de gérer les collisions, la hiérarchie des objets et l’utilisation du GML sont des compétences pérennes : une fois ces bases acquises, le passage aux dernières itérations du logiciel se fait sans aucune friction. Ce contenu reste donc une rampe de lancement parfaite pour quiconque souhaite comprendre la logique de programmation orientée “jeu 2D” avant de s’attaquer à des projets plus ambitieux.\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Cette archive regroupe des tutoriels pédagogiques essentiels pour appréhender les bases du moteur GameMaker Studio et réaliser vos premiers projets de jeux en 2D.\nNotions clés abordées Interface et Workflow : Navigation dans l’environnement de développement et organisation de l’arborescence du projet (Assets, Sprites, Objects). Système d’Objets et d’Événements : Compréhension du fonctionnement “Step-by-Step” de GameMaker : gestion des événements (Create, Step, Draw) pour structurer la logique du jeu. GML (GameMaker Language) : Introduction aux bases du langage de script propre au moteur pour manipuler les variables, les collisions et les entrées clavier. Gestion des Sprites et Animation : Importation de ressources graphiques et mise en place des séquences d’animation via l’éditeur intégré. Rooms et Instances : Organisation des niveaux de jeu, gestion des layers (calques) et placement des instances d’objets dans l’espace de jeu. Ce qui reste d’actualité aujourd’hui GameMaker Studio demeure une référence incontournable pour la scène indépendante. Si les versions récentes ont largement modernisé l’interface, la philosophie profonde du moteur reste intacte. La manière de gérer les collisions, la hiérarchie des objets et l’utilisation du GML sont des compétences pérennes : une fois ces bases acquises, le passage aux dernières itérations du logiciel se fait sans aucune friction. Ce contenu reste donc une rampe de lancement parfaite pour quiconque souhaite comprendre la logique de programmation orientée “jeu 2D” avant de s’attaquer à des projets plus ambitieux.",
+    "tags": [
+      "GameMaker",
+      "2D",
+      "Indie Dev",
+      "GameDev"
+    ],
+    "title": "GameMaker Studio",
+    "uri": "/game-maker-studio/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Gameplay",
+    "uri": "/tags/gameplay/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Graphisme",
+    "uri": "/tags/graphisme/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: HUD",
+    "uri": "/tags/hud/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
     "content": "",
     "description": "",
     "tags": [],
     "title": "Tag :: Indie Dev",
     "uri": "/tags/indie-dev/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Infinity Blade",
+    "uri": "/tags/infinity-blade/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Input",
+    "uri": "/tags/input/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Interface",
+    "uri": "/tags/interface/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Itch.io",
+    "uri": "/tags/itch.io/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Landscape",
+    "uri": "/tags/landscape/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Level Blueprint",
+    "uri": "/tags/level-blueprint/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Level Design",
+    "uri": "/tags/level-design/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: LevelDesign",
+    "uri": "/tags/leveldesign/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Lighting",
+    "uri": "/tags/lighting/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Lightmass",
+    "uri": "/tags/lightmass/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Lumière",
+    "uri": "/tags/lumi%C3%A8re/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Lumières",
+    "uri": "/tags/lumi%C3%A8res/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
@@ -1583,6 +2623,14 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Marketplace",
+    "uri": "/tags/marketplace/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Matériaux",
     "uri": "/tags/mat%C3%A9riaux/index.html"
   },
@@ -1591,8 +2639,160 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Menu",
+    "uri": "/tags/menu/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Nettoyage",
+    "uri": "/tags/nettoyage/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: No-Code",
+    "uri": "/tags/no-code/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Nodes",
+    "uri": "/tags/nodes/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Optimisation",
+    "uri": "/tags/optimisation/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Packaging",
+    "uri": "/tags/packaging/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Paint.net",
+    "uri": "/tags/paint.net/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Platforming",
+    "uri": "/tags/platforming/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: PostProcessVolume",
+    "uri": "/tags/postprocessvolume/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Publication",
+    "uri": "/tags/publication/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Rotation",
+    "uri": "/tags/rotation/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Sauvegarde",
+    "uri": "/tags/sauvegarde/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: SaveGame",
+    "uri": "/tags/savegame/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Sculpting",
+    "uri": "/tags/sculpting/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Shaders",
     "uri": "/tags/shaders/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Shmup",
+    "uri": "/tags/shmup/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Skeletal Mesh",
+    "uri": "/tags/skeletal-mesh/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Skylight",
+    "uri": "/tags/skylight/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "Voici une proposition pour votre introduction :\n« Bienvenue dans cette série consacrée à la maîtrise d’Unreal Engine 4, conçue pour vous guider pas à pas dans l’univers du développement de jeux vidéo. À travers ces tutoriels, nous explorerons les fondamentaux du moteur, du prototypage rapide jusqu’aux techniques de rendu avancées. Cet index central vous permettra de naviguer facilement entre les différentes étapes de votre apprentissage et de retrouver rapidement les ressources nécessaires à vos projets. »\nListe des épisodes Épisode 1 Épisode 2 Épisode 3 Épisode 4 Épisode 5 Épisode 6 Épisode 7 Épisode 8 Épisode 9 Épisode 10 Épisode 11 Épisode 12 Épisode 13 Épisode 14 Épisode 15 Épisode 16 Épisode 17 Épisode 18 Épisode 19 Épisode 20 Épisode 21 Épisode 22 Épisode 23 Épisode 24 Épisode 25 Épisode 26 Épisode 27 Épisode 28 Épisode 29 Épisode 30 Épisode 31 Épisode 32 Épisode 33 Épisode 34 Épisode 35 Épisode 36 Épisode 37 Épisode 38 Épisode 39 Épisode 40 Épisode 41 Épisode 42 Épisode 43 Épisode 44 Épisode 45 Épisode 46 Épisode 47 Épisode 48 Épisode 49 Épisode 50",
+    "description": "Voici une proposition pour votre introduction :\n« Bienvenue dans cette série consacrée à la maîtrise d’Unreal Engine 4, conçue pour vous guider pas à pas dans l’univers du développement de jeux vidéo. À travers ces tutoriels, nous explorerons les fondamentaux du moteur, du prototypage rapide jusqu’aux techniques de rendu avancées. Cet index central vous permettra de naviguer facilement entre les différentes étapes de votre apprentissage et de retrouver rapidement les ressources nécessaires à vos projets. »",
+    "tags": [],
+    "title": "Sommaire de la série",
+    "uri": "/unreal-engine-4/creer-jeu-plateformes/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Static Mesh",
+    "uri": "/tags/static-mesh/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo",
@@ -1607,6 +2807,14 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Templates",
+    "uri": "/tags/templates/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Texturing",
     "uri": "/tags/texturing/index.html"
   },
@@ -1615,8 +2823,54 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Top-Down Shooter",
+    "uri": "/tags/top-down-shooter/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Trigger",
+    "uri": "/tags/trigger/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Tutoriel",
     "uri": "/tags/tutoriel/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo",
+    "content": "Cette archive regroupe des tutoriels pédagogiques visant à explorer le moteur Construct 2, une solution de référence pour créer des jeux 2D sans avoir à écrire de code.\nNotions clés abordées Le Système d’Événements : Découverte de la programmation visuelle basée sur les conditions et les actions, le cœur battant de Construct 2. Gestion des Comportements (Behaviors) : Utilisation des comportements pré-programmés (Platformer, 8-Direction, Bullet) pour ajouter des mécaniques de jeu en quelques clics. Organisation des Calques (Layers) : Gestion du parallaxe, de la profondeur visuelle et des interfaces utilisateurs (UI). Importation de ressources : Gestion des sprites, des animations et des sons au sein de l’éditeur. Architecture de scène : Placement des instances, utilisation des familles d’objets pour simplifier la logique de groupe. Ce qui reste d’actualité aujourd’hui Si Construct 2 a laissé place à des itérations plus récentes, sa philosophie de conception reste un modèle d’ergonomie dans l’industrie du jeu vidéo indépendant. La logique de programmation par feuilles d’événements est le précurseur direct des systèmes modernes de “Visual Scripting” que l’on retrouve dans Unreal Engine ou Unity. En apprenant à structurer vos pensées logiques sur Construct 2, vous acquérez des bases de structuration de gameplay qui sont universelles. Cette archive reste donc un excellent point d’entrée pour comprendre le prototypage rapide, une étape cruciale pour tout développeur souhaitant valider ses idées de jeu en un temps record.\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Cette archive regroupe des tutoriels pédagogiques visant à explorer le moteur Construct 2, une solution de référence pour créer des jeux 2D sans avoir à écrire de code.\nNotions clés abordées Le Système d’Événements : Découverte de la programmation visuelle basée sur les conditions et les actions, le cœur battant de Construct 2. Gestion des Comportements (Behaviors) : Utilisation des comportements pré-programmés (Platformer, 8-Direction, Bullet) pour ajouter des mécaniques de jeu en quelques clics. Organisation des Calques (Layers) : Gestion du parallaxe, de la profondeur visuelle et des interfaces utilisateurs (UI). Importation de ressources : Gestion des sprites, des animations et des sons au sein de l’éditeur. Architecture de scène : Placement des instances, utilisation des familles d’objets pour simplifier la logique de groupe. Ce qui reste d’actualité aujourd’hui Si Construct 2 a laissé place à des itérations plus récentes, sa philosophie de conception reste un modèle d’ergonomie dans l’industrie du jeu vidéo indépendant. La logique de programmation par feuilles d’événements est le précurseur direct des systèmes modernes de “Visual Scripting” que l’on retrouve dans Unreal Engine ou Unity. En apprenant à structurer vos pensées logiques sur Construct 2, vous acquérez des bases de structuration de gameplay qui sont universelles. Cette archive reste donc un excellent point d’entrée pour comprendre le prototypage rapide, une étape cruciale pour tout développeur souhaitant valider ses idées de jeu en un temps record.",
+    "tags": [
+      "Construct 2",
+      "2D",
+      "No-Code",
+      "Tutoriel",
+      "GameDev"
+    ],
+    "title": "Tutoriels Construct 2",
+    "uri": "/construct-2/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Tutoriels Unreal Engine",
+    "uri": "/categories/tutoriels-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Tutoriels Unreal Engine 4",
+    "uri": "/categories/tutoriels-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo",
@@ -1636,16 +2890,96 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Unreal Engine",
-    "uri": "/tags/unreal-engine/index.html"
+    "title": "Tag :: UE4",
+    "uri": "/tags/ue4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Animation",
-    "uri": "/tags/animation/index.html"
+    "title": "Tag :: UI",
+    "uri": "/tags/ui/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: UMG",
+    "uri": "/tags/umg/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Unreal Engine",
+    "uri": "/categories/unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Unreal Engine",
+    "uri": "/tags/unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Unreal Engine 4",
+    "uri": "/categories/unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Unreal Engine 4",
+    "uri": "/tags/unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Variables",
+    "uri": "/tags/variables/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Viewport",
+    "uri": "/tags/viewport/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Widget",
+    "uri": "/tags/widget/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Widget Blueprint",
+    "uri": "/tags/widget-blueprint/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Workflow",
+    "uri": "/tags/workflow/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2",
@@ -1669,14 +3003,6 @@ var relearn_searchindex = [
     "uri": "/tags/archive/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Audio",
-    "uri": "/tags/audio/index.html"
-  },
-  {
     "breadcrumb": "Créer un jeu vidéo \u003e Categories",
     "content": "",
     "description": "",
@@ -1697,24 +3023,8 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Collision",
-    "uri": "/tags/collision/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
     "title": "Tag :: Collisions",
     "uri": "/tags/collisions/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Construct 2",
-    "uri": "/tags/construct-2/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1779,22 +3089,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Hébergement",
     "uri": "/tags/h%C3%A9bergement/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: HUD",
-    "uri": "/tags/hud/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Level Design",
-    "uri": "/tags/level-design/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -1873,14 +3167,6 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Variables",
-    "uri": "/tags/variables/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
     "title": "Tag :: Variables Globales",
     "uri": "/tags/variables-globales/index.html"
   },
@@ -1929,22 +3215,6 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Blueprint",
-    "uri": "/tags/blueprint/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Blueprints",
-    "uri": "/tags/blueprints/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
     "title": "Tag :: Build",
     "uri": "/tags/build/index.html"
   },
@@ -1971,14 +3241,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Fab",
     "uri": "/tags/fab/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Game Design",
-    "uri": "/tags/game-design/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2084,14 +3346,6 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Landscape",
-    "uri": "/tags/landscape/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
     "title": "Tag :: Material Editor",
     "uri": "/tags/material-editor/index.html"
   },
@@ -2136,14 +3390,6 @@ var relearn_searchindex = [
     "uri": "/tags/scripting/index.html"
   },
   {
-    "breadcrumb": "Créer un jeu vidéo \u003e Découverte de GameMaker Studio : Le moteur 2D par excellence",
-    "content": "Bienvenue dans la série de tutoriels consacrée à Shoot Them Up développée sur Game Maker Studio.",
-    "description": "Bienvenue dans la série de tutoriels consacrée à Shoot Them Up développée sur Game Maker Studio.",
-    "tags": [],
-    "title": "Shoot Them Up (Shmup)",
-    "uri": "/game-maker-studio/shoot-them-up/index.html"
-  },
-  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
     "content": "",
     "description": "",
@@ -2164,40 +3410,8 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: UI",
-    "uri": "/tags/ui/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Unreal Engine 4",
-    "uri": "/tags/unreal-engine-4/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Asset Management",
-    "uri": "/tags/asset-management/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
     "title": "Tag :: Comportements",
     "uri": "/tags/comportements/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Construct 2",
-    "content": "Bienvenue dans la série de tutoriels consacrée à Tuto Top Down Shooter développée sur Construct 2.",
-    "description": "Bienvenue dans la série de tutoriels consacrée à Tuto Top Down Shooter développée sur Construct 2.",
-    "tags": [],
-    "title": "Créer un jeu de tir en vue de dessus avec Construct 2",
-    "uri": "/construct-2/tuto-top-down-shooter/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2238,22 +3452,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Evenements",
     "uri": "/tags/evenements/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Export",
-    "uri": "/tags/export/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Exportation",
-    "uri": "/tags/exportation/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2316,22 +3514,6 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Interface",
-    "uri": "/tags/interface/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: LevelDesign",
-    "uri": "/tags/leveldesign/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
     "title": "Tag :: Linux",
     "uri": "/tags/linux/index.html"
   },
@@ -2350,14 +3532,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Materiaux",
     "uri": "/tags/materiaux/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Menu",
-    "uri": "/tags/menu/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2390,14 +3564,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Munitions",
     "uri": "/tags/munitions/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Optimisation",
-    "uri": "/tags/optimisation/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2516,14 +3682,6 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Tag :: Top-Down Shooter",
-    "uri": "/tags/top-down-shooter/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
     "title": "Tag :: Ubuntu",
     "uri": "/tags/ubuntu/index.html"
   },
@@ -2542,13 +3700,5 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: WizWig",
     "uri": "/tags/wizwig/index.html"
-  },
-  {
-    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Tag :: Workflow",
-    "uri": "/tags/workflow/index.html"
   }
 ]

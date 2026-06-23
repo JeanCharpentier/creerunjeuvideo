@@ -18,5 +18,7 @@
     "18": "maitriser-materiaux-physiques-unreal-engine-4",
     "19": "maitriser-les-masques-et-linear-interpolate-unreal-engine",
     "20": "migrer-materiaux-unreal-engine-bibliotheque-assets",
-    "9": "creer-materiau-glace-tessellation-unreal-engine"
+    "9": "creer-materiau-glace-tessellation-unreal-engine",
+    "21": "creer-systeme-ramassage-score-unreal-engine",
+    "22": "afficher-score-temps-reel-unreal-engine-hud-blueprint"
 }

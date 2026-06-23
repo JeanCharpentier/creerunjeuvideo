@@ -6,7 +6,7 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/construct-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1. Création d&#39;un personnage de plateforme</title>
@@ -161,6 +161,20 @@
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/12-systeme-pieges-ligne-vue/index.html</guid>
       <description>Cette page est une archive pédagogique du douzième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2, traitant de la mise en place d’éléments dynamiques.&#xA;Notions clés abordées Conception de pièges dynamiques : Création d’obstacles interactifs qui apparaissent et disparaissent, ajoutant du défi au level design. Comportement “Line of Sight” (Ligne de vue) : Utilisation du comportement de détection visuelle pour déclencher des actions. Configuration des paramètres de portée (range) et de cône de vision (cone of view). Interaction IA : Utilisation de la ligne de vue pour faire réagir les ennemis (ex: un monstre qui se déplace vers le joueur uniquement lorsqu’il est repéré). Personnalisation des comportements : Ajustement des réglages pour adapter la détection selon le placement du joueur (au-dessus, sur les côtés, etc.). Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur historique, les concepts abordés ici sont les piliers de l’intelligence artificielle en 2D :</description>
+    </item>
+    <item>
+      <title>Développement d&#39;un Top-Down Shooter</title>
+      <link>http://localhost:1313/construct-2/tuto-top-down-shooter/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/tuto-top-down-shooter/index.html</guid>
+      <description>Cette archive contient une série de tutoriels pédagogiques dédiés à la conception et à la réalisation technique d’un jeu de tir en vue de dessus (Top-Down Shooter) avec Construct 2.&#xA;Notions clés abordées Gestion des déplacements : Implémentation du comportement “8-Direction” pour le joueur et rotation fluide vers le curseur de la souris. Système de tir dynamique : Création et instanciation de projectiles, gestion de leur vitesse et destruction après un délai ou une collision. Logique d’IA simple : Programmation de comportements de poursuite basiques pour les ennemis afin de créer des ennemis réactifs. Gestion des collisions : Utilisation des masques de collision pour les projectiles, les murs et les entités vivantes. Variables globales : Suivi des points de vie (HP) du joueur et des ennemis pour gérer les dégâts et la fin de partie (Game Over). Ce qui reste d’actualité aujourd’hui La structure d’un “Top-Down Shooter” est un exercice classique qui permet de maîtriser les fondamentaux du game design. Les principes abordés ici — la synchronisation entre le joueur et le curseur, la gestion des systèmes de projectiles et l’optimisation des objets — sont des concepts qui restent inchangés, que vous utilisiez Construct, Godot, Unity ou Unreal. Comprendre comment structurer la boucle de jeu et gérer les interactions en temps réel reste la compétence la plus précieuse pour tout développeur. Cette archive vous offre une base méthodologique solide pour aborder n’importe quel projet d’action 2D avec assurance et efficacité.</description>
+    </item>
+    <item>
+      <title>Tutoriels Construct 2</title>
+      <link>http://localhost:1313/construct-2/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/index.html</guid>
+      <description>Cette archive regroupe des tutoriels pédagogiques visant à explorer le moteur Construct 2, une solution de référence pour créer des jeux 2D sans avoir à écrire de code.&#xA;Notions clés abordées Le Système d’Événements : Découverte de la programmation visuelle basée sur les conditions et les actions, le cœur battant de Construct 2. Gestion des Comportements (Behaviors) : Utilisation des comportements pré-programmés (Platformer, 8-Direction, Bullet) pour ajouter des mécaniques de jeu en quelques clics. Organisation des Calques (Layers) : Gestion du parallaxe, de la profondeur visuelle et des interfaces utilisateurs (UI). Importation de ressources : Gestion des sprites, des animations et des sons au sein de l’éditeur. Architecture de scène : Placement des instances, utilisation des familles d’objets pour simplifier la logique de groupe. Ce qui reste d’actualité aujourd’hui Si Construct 2 a laissé place à des itérations plus récentes, sa philosophie de conception reste un modèle d’ergonomie dans l’industrie du jeu vidéo indépendant. La logique de programmation par feuilles d’événements est le précurseur direct des systèmes modernes de “Visual Scripting” que l’on retrouve dans Unreal Engine ou Unity. En apprenant à structurer vos pensées logiques sur Construct 2, vous acquérez des bases de structuration de gameplay qui sont universelles. Cette archive reste donc un excellent point d’entrée pour comprendre le prototypage rapide, une étape cruciale pour tout développeur souhaitant valider ses idées de jeu en un temps record.</description>
     </item>
     <item>
       <title>Apprendre la création de jeux vidéo avec Construct 2</title>

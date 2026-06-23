@@ -9,13 +9,6 @@
     <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tutoriels Construct 2</title>
-      <link>http://localhost:1313/construct-2/index.html</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/construct-2/index.html</guid>
-      <description>This is a new chapter.</description>
-    </item>
-    <item>
       <title>Créer un MMORPG de A à Z</title>
       <link>http://localhost:1313/intersect-engine/index.html</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
@@ -23,11 +16,18 @@
       <description>Bienvenue dans cette série de guides et de tutoriels dédiés à Intersect Engine, l’une des solutions open-source les plus accessibles et puissantes pour donner vie à vos projets de MMORPG 2D.&#xA;Que vous soyez nostalgique de l’époque des créateurs de jeux en ligne amateurs (comme la grande époque de Mirage Source ou Eclipse) ou un développeur cherchant une base réseau ultra-solide sans réinventer la roue, Intersect est l’outil parfait pour matérialiser votre univers.</description>
     </item>
     <item>
-      <title>Découverte de GameMaker Studio : Le moteur 2D par excellence</title>
+      <title>GameMaker Studio</title>
       <link>http://localhost:1313/game-maker-studio/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/index.html</guid>
       <description>Cette archive regroupe des tutoriels pédagogiques essentiels pour appréhender les bases du moteur GameMaker Studio et réaliser vos premiers projets de jeux en 2D.&#xA;Notions clés abordées Interface et Workflow : Navigation dans l’environnement de développement et organisation de l’arborescence du projet (Assets, Sprites, Objects). Système d’Objets et d’Événements : Compréhension du fonctionnement “Step-by-Step” de GameMaker : gestion des événements (Create, Step, Draw) pour structurer la logique du jeu. GML (GameMaker Language) : Introduction aux bases du langage de script propre au moteur pour manipuler les variables, les collisions et les entrées clavier. Gestion des Sprites et Animation : Importation de ressources graphiques et mise en place des séquences d’animation via l’éditeur intégré. Rooms et Instances : Organisation des niveaux de jeu, gestion des layers (calques) et placement des instances d’objets dans l’espace de jeu. Ce qui reste d’actualité aujourd’hui GameMaker Studio demeure une référence incontournable pour la scène indépendante. Si les versions récentes ont largement modernisé l’interface, la philosophie profonde du moteur reste intacte. La manière de gérer les collisions, la hiérarchie des objets et l’utilisation du GML sont des compétences pérennes : une fois ces bases acquises, le passage aux dernières itérations du logiciel se fait sans aucune friction. Ce contenu reste donc une rampe de lancement parfaite pour quiconque souhaite comprendre la logique de programmation orientée “jeu 2D” avant de s’attaquer à des projets plus ambitieux.</description>
+    </item>
+    <item>
+      <title>Tutoriels Construct 2</title>
+      <link>http://localhost:1313/construct-2/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/index.html</guid>
+      <description>Cette archive regroupe des tutoriels pédagogiques visant à explorer le moteur Construct 2, une solution de référence pour créer des jeux 2D sans avoir à écrire de code.&#xA;Notions clés abordées Le Système d’Événements : Découverte de la programmation visuelle basée sur les conditions et les actions, le cœur battant de Construct 2. Gestion des Comportements (Behaviors) : Utilisation des comportements pré-programmés (Platformer, 8-Direction, Bullet) pour ajouter des mécaniques de jeu en quelques clics. Organisation des Calques (Layers) : Gestion du parallaxe, de la profondeur visuelle et des interfaces utilisateurs (UI). Importation de ressources : Gestion des sprites, des animations et des sons au sein de l’éditeur. Architecture de scène : Placement des instances, utilisation des familles d’objets pour simplifier la logique de groupe. Ce qui reste d’actualité aujourd’hui Si Construct 2 a laissé place à des itérations plus récentes, sa philosophie de conception reste un modèle d’ergonomie dans l’industrie du jeu vidéo indépendant. La logique de programmation par feuilles d’événements est le précurseur direct des systèmes modernes de “Visual Scripting” que l’on retrouve dans Unreal Engine ou Unity. En apprenant à structurer vos pensées logiques sur Construct 2, vous acquérez des bases de structuration de gameplay qui sont universelles. Cette archive reste donc un excellent point d’entrée pour comprendre le prototypage rapide, une étape cruciale pour tout développeur souhaitant valider ses idées de jeu en un temps record.</description>
     </item>
     <item>
       <title>Tutoriels Unreal Engine 4</title>

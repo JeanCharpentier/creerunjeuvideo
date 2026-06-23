@@ -6,7 +6,7 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/variables/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4. Gérer les Dégâts et Introduire les Variables d&#39;Instance</title>
@@ -35,6 +35,13 @@
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/construct-2/tuto-jeu-plateforme/7-gestion-vie-score/index.html</guid>
       <description>Note : Cet article est une archive pédagogique du septième épisode de ma série sur la création d’un jeu de plateforme avec Construct 2.&#xA;Points clés abordés Variables globales : Utilisation de variables pour suivre l’état du joueur (Score et Vie). Gestion des pièces : * Détection de collision entre le joueur et l’objet Pièce. Destruction de la pièce après contact. Incrémentation de la variable globale Score et mise à jour de l’affichage textuel (HUD). IA d’ennemi et dégâts : Système de “double collision” : saut sur l’ennemi (destruction) vs contact latéral (perte de vie). Soustraction d’une valeur à la variable Vie lors d’un contact non létal. Condition de défaite (Game Over) : Vérification de la valeur de la variable Vie après chaque impact. Si Vie &lt;= 0, déclenchement de l’action Restart Layout. Logique des variables dans Construct 2 La gestion des données est au cœur de cet épisode. Voici la structure logique recommandée pour vos événements :</description>
+    </item>
+    <item>
+      <title>18. Maîtriser les variables et le système de score dans Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/maitriser-variables-score-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/maitriser-variables-score-unreal-engine-4/index.html</guid>
+      <description>Dans ce chapitre, nous abordons un pilier fondamental du développement de jeux vidéo : la gestion des données. Qu’il s’agisse de points de vie, d’inventaire ou de score, tout repose sur l’utilisation des variables. Nous allons voir comment créer, configurer et rendre accessible une variable de type “Integer” au sein de votre personnage dans Unreal Engine 4.&#xA;Résumé du chapitre Qu’est-ce qu’une variable ? Une boîte de stockage pour vos données (texte, nombres, états logiques). Les types de variables : Distinction entre les Integers (nombres entiers) pour les scores et les Floats (nombres à virgule) pour les mesures précises. Création dans le Blueprint : Utilisation du panneau “Variables” dans le ThirdPersonCharacter. Compilation : Étape indispensable pour initialiser la variable et définir sa valeur par défaut. Accessibilité : L’importance de l’icône “œil” (Editable) pour permettre aux autres acteurs du jeu de modifier votre score. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué (passant de la 4 à la 5), les concepts fondamentaux présentés ici restent strictement identiques :</description>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/audio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1. Les Fondations et le Ghost</title>
@@ -154,6 +154,27 @@
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/integrer-sons-musique-game-maker-studio/index.html</guid>
       <description>Apprendre à gérer l’ambiance sonore est une étape cruciale pour donner vie à votre projet : découvrez comment implémenter les effets de tir, les explosions et la musique de fond dans Game Maker Studio.&#xA;Résumé des notions clés Lecture audio de base : Utilisation de la fonction audio_play_sound(soundID, priority, loop) pour déclencher vos fichiers audio. Gestion des variables audio : Stocker le son dans une variable (ex: var snd = audio_play_sound(...)) permet de manipuler ses propriétés en temps réel. Ajustement du volume (Gain) : Utilisation de audio_sound_gain(soundID, volume, time) pour régler l’intensité sonore (de 0 à 1) et le temps de transition. Bouclage de musique : Activation du paramètre loop à true pour les musiques de fond afin qu’elles se répètent en continu. Bonnes pratiques : L’importance de commenter son code pour faciliter la relecture et la maintenance du projet. Ce qui reste d’actualité aujourd’hui Bien que les versions de Game Maker aient évolué, les principes fondamentaux de la gestion audio restent identiques. La fonction audio_play_sound demeure le standard pour déclencher des effets sonores. La capacité à manipuler le gain dynamiquement est une compétence essentielle pour créer des environnements sonores immersifs, notamment pour gérer la distance entre la caméra et la source sonore ou pour créer des fondus (fades) lors des transitions de scènes. Maîtriser ces fonctions de base vous offre une base solide pour intégrer des systèmes audio plus complexes, comme les groupes audio ou les effets de filtres, disponibles dans les versions les plus récentes du moteur.</description>
+    </item>
+    <item>
+      <title>23. Intégration sonore et gestion des événements audio</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/integration-sonore-unreal-engine-4-blueprints/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/integration-sonore-unreal-engine-4-blueprints/index.html</guid>
+      <description>L’immersion dans un jeu vidéo passe inévitablement par l’audio. Dans cet épisode, nous allons apprendre à importer des ressources sonores dans Unreal Engine 4 et à les déclencher dynamiquement via les Blueprints pour ponctuer les moments clés de votre gameplay, comme la victoire ou la défaite.&#xA;Résumé de l’épisode Importation des assets : Organisation du dossier “Son” et importation des fichiers audio via le Content Browser. Play Sound at Location : Utilisation de ce node pour spatialiser le son en fonction de la position du joueur (récupérée via Get Actor Location). Gestion du flux d’exécution : Utilisation du node DoOnce pour éviter que le son ne se déclenche en boucle lors d’une collision persistante. Ajout d’un Delay pour laisser le temps au son de se jouer avant de quitter le jeu ou de redémarrer le niveau. Test rapide : Astuce pour placer temporairement un trigger près du point de spawn afin de valider l’implémentation sans parcourir tout le niveau. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit le système MetaSounds, les fondamentaux abordés ici restent parfaitement valides :</description>
+    </item>
+    <item>
+      <title>24. Ajouter des effets sonores lors du ramassage d&#39;&#39;objets</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/ajouter-effets-sonores-ramassage-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/ajouter-effets-sonores-ramassage-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous allons finaliser l’interaction de ramassage de nos pièces en ajoutant un retour audio immédiat. Au lieu d’un simple changement de score visuel, le joueur bénéficiera d’un feedback sonore spatialisé, renforçant ainsi le “game feel” de notre projet. Nous verrons comment utiliser la position de l’acteur lui-même pour déclencher ce son.&#xA;Résumé des étapes clés Accès au Blueprint : Ouvrez le Blueprint ZonePièce pour modifier la logique existante. Insertion du nœud : Entre le Set Score et le Destroy Actor, insérez un nœud Play Sound at Location. Sélection du son : Choisissez votre asset audio (ex: “Pièce”) dans la bibliothèque. Spatialisation : Utilisez le nœud Get Actor Location avec la cible Self pour que le son soit émis précisément à l’emplacement de la pièce dans le monde. Compilation et test : Compilez le Blueprint et testez en jeu pour vérifier que le son se déclenche bien lors de la collision. Optimisation : Ajustez les délais (ex: temps d’attente de victoire) pour affiner le rythme de votre jeu. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux abordés ici restent des piliers du développement :</description>
+    </item>
+    <item>
+      <title>25. Intégrer une musique d&#39;&#39;ambiance dynamique dans Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/integrer-musique-ambiance-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/integrer-musique-ambiance-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous allons donner vie à votre niveau en y intégrant une musique d’ambiance. Il ne s’agit pas seulement de lancer un son, mais de gérer sa boucle, son volume et surtout son interaction avec les événements de fin de partie (victoire ou défaite) pour éviter les superpositions sonores désagréables.&#xA;Résumé des étapes clés Configuration du fichier audio : Activation de l’option “Looping” dans les détails du fichier Wave pour une lecture en continu. Utilisation des Sound Cues : Création d’un objet Sound Cue pour gérer plus finement les propriétés audio (effets, réverbération, logique de boucle). Implémentation via le Character Blueprint : Ajout d’un composant audio au personnage et lancement automatique via l’événement Event Begin Play. Gestion des interruptions : Utilisation du “Casting” (Cast to ThirdPersonCharacter) dans les Blueprints de zone de victoire et de défaite pour stopper la musique proprement lors du déclenchement d’un événement. Ce qui reste d’actualité aujourd’hui Bien que cet article se concentre sur Unreal Engine 4, les principes fondamentaux restent identiques dans Unreal Engine 5 :</description>
     </item>
   </channel>
 </rss>

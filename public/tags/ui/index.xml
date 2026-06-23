@@ -6,7 +6,7 @@
     <description></description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5. Munitions, Rechargement et HUD Statique</title>
@@ -21,6 +21,76 @@
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/creer-menus-interactifs-gamemaker-studio/index.html</guid>
       <description>Apprendre à concevoir des menus fonctionnels est une étape cruciale pour transformer votre prototype en un véritable jeu vidéo. Dans ce guide, nous explorons comment créer des boutons personnalisés et gérer la navigation entre les différentes salles (rooms) de votre projet.&#xA;Résumé des notions clés La création d’une interface utilisateur (UI) dans GameMaker Studio repose sur une méthodologie simple mais efficace :</description>
+    </item>
+    <item>
+      <title>19. Créer et afficher un HUD avec les Widget Blueprints</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creer-afficher-hud-widget-blueprint-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creer-afficher-hud-widget-blueprint-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous abordons une étape cruciale pour l’expérience utilisateur : l’affichage d’informations en temps réel. Que ce soit pour un score, une barre de vie ou un compteur de munitions, le système de HUD (Heads-Up Display) est indispensable. Nous allons voir comment créer une interface utilisateur simple à l’aide des Widget Blueprints dans Unreal Engine 4 et comment l’injecter dans votre viewport dès le lancement de la partie.</description>
+    </item>
+    <item>
+      <title>22. Afficher le score du joueur dans l&#39;interface (HUD)</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/afficher-score-temps-reel-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/afficher-score-temps-reel-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous finalisons l’interface utilisateur de notre jeu en rendant le score dynamique. Jusqu’ici, bien que la logique de collecte des pièces fonctionne en arrière-plan, le joueur ne reçoit aucun retour visuel. Nous allons apprendre à utiliser les “Bindings” dans les Widget Blueprints pour lier la valeur de notre variable Score à un élément textuel de notre interface.&#xA;Résumé de la mise en place Accès au Widget : Ouverture du HUD_Score dans le dossier HUD. Création du Binding : Utilisation du bouton “Bind” dans les détails du composant texte pour générer une fonction de mise à jour automatique. Logique de récupération : Utilisation d’un Cast To ThirdPersonCharacter pour accéder aux données du joueur. Utilisation de Get Player Character pour définir l’objet source du cast. Récupération de la variable Score via un Get. Conversion automatique : Unreal Engine gère nativement la conversion de l’entier (Integer) vers le format texte (Text) lors de la connexion au nœud Return Value. Test et itération : Vérification en jeu de la mise à jour du score lors de la collecte et ajustement du level design pour encourager l’exploration. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des systèmes comme les Common UI ou les Data Bindings plus avancés, la méthode présentée ici reste un pilier fondamental pour les débutants :</description>
+    </item>
+    <item>
+      <title>26. Création des assets graphiques pour votre menu principal</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-assets-graphiques-menu-principal-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-assets-graphiques-menu-principal-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous faisons une petite pause dans le développement pur sous Unreal Engine 4 pour nous concentrer sur l’aspect visuel de votre jeu. Un menu principal réussi commence par des assets graphiques cohérents et bien pensés. Nous allons voir comment concevoir un fond de menu et préparer les bases de nos futurs boutons en utilisant un outil simple et efficace : Paint.net.&#xA;Résumé de la création des assets Définition du format : Choix de la résolution (1280x720, 1920x1080 ou 4K) selon vos besoins de rendu. Utilisation des dégradés : Maîtrise de l’outil dégradé (linéaire, radial, conique) pour créer une ambiance visuelle rapide. Gestion des calques : Importance de séparer le fond du texte pour faciliter les modifications ultérieures. Typographie : Intégration de polices personnalisées pour donner une identité forte au titre de votre jeu. Exportation : Rappel crucial d’exporter vos fichiers au format PNG (et non le format natif du logiciel) pour qu’ils soient lisibles par Unreal Engine, tout en aplatissant les calques. Ce qui reste d’actualité aujourd’hui Bien que les outils de création d’images évoluent, les principes fondamentaux abordés ici restent essentiels pour tout développeur débutant :</description>
+    </item>
+    <item>
+      <title>27. Création et préparation des assets graphiques pour vos menus</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-assets-graphiques-menus-ue4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-assets-graphiques-menus-ue4/index.html</guid>
+      <description>Dans cet épisode, nous quittons temporairement l’éditeur Unreal Engine pour nous concentrer sur la préparation de vos assets graphiques. Une interface utilisateur (UI) propre repose sur une base solide : des boutons uniformes, bien alignés et exportés dans le bon format. Nous allons voir comment créer vos boutons de menu (Jouer, Quitter, Plein écran, Rejouer) avec une méthode de “marges” pour garantir une cohérence visuelle parfaite avant de les importer dans votre projet.</description>
+    </item>
+    <item>
+      <title>28. Création du Menu Principal et gestion de l&#39;&#39;interface</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-menu-principal-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-menu-principal-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous abordons une étape cruciale pour tout projet de jeu vidéo : la création du menu principal. Nous allons voir comment configurer une scène dédiée, concevoir une interface utilisateur (UI) avec le système UMG (Unreal Motion Graphics) et rendre les boutons interactifs pour naviguer dans votre jeu.&#xA;Résumé des étapes clés Création de la Map Menu : Mise en place d’une nouvelle carte vide dédiée exclusivement à l’affichage du menu. Conception du Widget Blueprint : Utilisation de l’outil UMG pour ajouter une image de fond et des boutons (Jouer, Quitter, Plein écran). Gestion des ancres (Anchors) : Configuration des ancres pour assurer une mise en page responsive, quel que soit le format d’écran. Programmation du Level Blueprint : Affichage du widget au lancement de la scène via Create Widget et Add to Viewport. Activation du curseur : Utilisation du node Set Show Mouse Cursor pour permettre au joueur d’interagir avec les éléments de l’interface. Logique des boutons : Implémentation des événements OnClicked pour charger les niveaux (Open Level) ou quitter l’application (Execute Console Command). Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des améliorations dans l’éditeur UMG, les fondamentaux présentés ici restent parfaitement valides :</description>
+    </item>
+    <item>
+      <title>29. Créer un bouton de bascule Plein Écran / Fenêtré</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creer-bouton-bascule-plein-ecran-fenetre-ue4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creer-bouton-bascule-plein-ecran-fenetre-ue4/index.html</guid>
+      <description>Dans cet épisode, nous allons apprendre à gérer l’affichage de notre jeu en permettant aux joueurs de basculer dynamiquement entre le mode “Plein écran” et le mode “Fenêtré”. Pour ce faire, nous utiliserons les Blueprints pour manipuler les variables d’état et les commandes de console intégrées à Unreal Engine 4.&#xA;Résumé de la mise en place Gestion d’état : Création d’une variable booléenne PleinEcran (par défaut à true) pour suivre le mode d’affichage actuel. Logique de bascule : Utilisation d’un nœud Branch pour tester la valeur de la variable à chaque clic sur le bouton. Mode Fenêtré : Utilisation de la commande r.SetRes 1280x720w pour forcer une résolution spécifique en mode fenêtré. Mode Plein Écran dynamique : Récupération des résolutions supportées via Get Supported Fullscreen Resolutions. Extraction de la résolution maximale via le dernier index du tableau (Last Index). Utilisation du nœud Append pour construire dynamiquement la commande r.SetRes avec les valeurs X et Y récupérées, suivie du paramètre f pour le plein écran. Mise à jour de l’état : Utilisation du nœud Set pour inverser la valeur de la variable PleinEcran après chaque changement. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) proposent des nœuds plus modernes comme Set Game User Settings, la logique présentée ici reste fondamentale pour comprendre :</description>
+    </item>
+    <item>
+      <title>30. Créer un menu de victoire dans Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creer-menu-victoire-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creer-menu-victoire-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous allons finaliser l’expérience utilisateur en ajoutant un écran de victoire. Lorsqu’un joueur atteint la zone de fin de niveau, il est crucial de lui offrir un retour visuel clair avec des options pour continuer à jouer ou quitter l’application. Nous allons voir comment créer ce Widget, le lier à notre zone de victoire et gérer les interactions à la souris.&#xA;Résumé de l’implémentation Création du Widget : Création d’un nouveau Widget Blueprint nommé HUD_Victoire dans le dossier UI. Design : Mise en place d’une image de fond et de deux boutons (Rejouer et Quitter). Logique des boutons : Quitter : Utilisation de la commande Execute Console Command avec la commande quit. Rejouer : Utilisation de Open Level pour charger la scène du menu principal. Déclenchement : Modification du Blueprint Zone_Victoire pour remplacer la fermeture du jeu par l’affichage du widget. Interaction : Utilisation de Set Show Mouse Cursor via le Player Controller pour permettre au joueur de cliquer sur les boutons. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué (notamment avec l’arrivée d’UE5), les principes fondamentaux abordés ici restent le standard de l’industrie :</description>
+    </item>
+    <item>
+      <title>31. Création d&#39;&#39;un menu de défaite (Game Over) dans Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-menu-defaite-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-menu-defaite-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous allons finaliser l’expérience utilisateur en cas d’échec dans votre jeu. Plutôt que de laisser le joueur face à un écran figé, nous allons implémenter un menu de “Game Over” fonctionnel. L’approche choisie ici est l’optimisation : au lieu de repartir de zéro, nous allons dupliquer notre interface de victoire pour y intégrer un message d’alerte tout en conservant les options de navigation essentielles (rejouer ou quitter).</description>
+    </item>
+    <item>
+      <title>45. Préparation du second niveau et optimisation de l&#39;&#39;UI</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/preparation-second-niveau-optimisation-ui-ue4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/preparation-second-niveau-optimisation-ui-ue4/index.html</guid>
+      <description>Dans cet épisode, nous faisons une pause dans la complexité technique pour préparer la structure de notre second niveau. L’objectif est de valider que nos systèmes de gameplay (checkpoints, zones de mort, collecte de pièces) sont modulaires et réutilisables. Nous en profitons également pour refactoriser l’affichage de notre interface utilisateur (UI) afin de la rendre globale et automatique.&#xA;Résumé de l’épisode Modularité des assets : Création d’un second niveau en réutilisant les blueprints existants (pièces, checkpoints, zones de kill). Refactorisation de l’UI : Déplacement de la logique d’affichage du widget (Create Widget / Add to Viewport) du Level Blueprint vers le Character Blueprint. Avantage de l’approche : En plaçant l’UI dans le personnage, celle-ci s’initialise automatiquement à chaque chargement de niveau, évitant de dupliquer du code dans chaque Level Blueprint. Constat technique : Le score actuel est local au niveau. Le passage d’un niveau à l’autre réinitialise les variables, ce qui introduit la nécessité d’un système de persistance de données (GameInstance). Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux abordés restent des piliers du développement sous Unreal Engine 5 :</description>
+    </item>
+    <item>
+      <title>47. Création d&#39;&#39;un menu de sauvegarde et gestion de l&#39;&#39;interface</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-menu-sauvegarde-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-menu-sauvegarde-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous posons les bases techniques nécessaires à la mise en place d’un système de sauvegarde persistante. Avant de manipuler les données, il est indispensable de créer une interface utilisateur (UI) permettant au joueur d’interagir avec le système de sauvegarde. Nous allons voir comment créer un menu simple et gérer son affichage via le Blueprint de votre personnage.&#xA;Résumé de la mise en place Création du Widget : Conception d’un menu basique contenant deux boutons (sans logique pour le moment). Logique d’affichage (Flip Flop) : Utilisation du node Flip Flop pour alterner entre l’ouverture et la fermeture du menu à chaque pression de la touche ‘P’. Gestion des variables : Stockage du widget dans une variable (W_Menu) pour pouvoir le manipuler (l’ajouter au viewport ou le supprimer) sans avoir à le recréer. Interaction souris : Utilisation du node Set Show Mouse Cursor pour permettre au joueur de cliquer sur les boutons, en ciblant correctement le Player Controller. Nettoyage : Utilisation de Remove from Parent pour libérer l’interface de l’écran. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué, les principes fondamentaux abordés ici restent des piliers du développement :</description>
     </item>
   </channel>
 </rss>

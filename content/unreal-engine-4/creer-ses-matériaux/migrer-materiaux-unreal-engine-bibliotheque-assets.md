@@ -2,6 +2,7 @@
 title: "20. Comment migrer vos matériaux entre vos projets Unreal Engine 4"
 weight: 20
 prev_url: "/unreal-engine-4/creer-ses-matériaux/maitriser-les-masques-et-linear-interpolate-unreal-engine/"
+next_url: "/unreal-engine-4/creer-ses-matériaux/creer-systeme-ramassage-score-unreal-engine/"
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Tutoriel', 'Workflow', 'Materiaux']

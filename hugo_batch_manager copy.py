@@ -2,39 +2,53 @@ import os
 import re
 import json
 import argparse
+import time
+import unicodedata
 from pathlib import Path
 import whisper
 from google import genai
 from google.genai import types
+from google.genai.errors import ClientError  # Import pour intercepter la 429
 
 # =====================================================================
 # CONFIGURATION GÉNÉRALE
 # =====================================================================
-GEMINI_MODEL = "gemini-2.5-flash" 
-BASE_CONTENT_DIR = "./content"
+GEMINI_MODEL = "gemini-3.1-flash-lite" 
+BASE_CONTENT_DIR = "./content"  # Racine de ton dossier de contenu Hugo
 INDEX_FILE_NAME = ".series_index.json"
 SUPPORTED_EXTENSIONS = {".mp4", ".mkv", ".avi", ".mov", ".mp3", ".m4a"}
 # =====================================================================
 
 def extract_episode_number(filename):
-    """
-    Extrait le premier nombre trouvé dans le nom du fichier pour déterminer l'épisode.
-    Exemples : "tuto_01.mp4" -> 1, "05-menu.mp4" -> 5, "episode3.mp4" -> 3
-    """
+    """Extrait le premier nombre trouvé dans le nom du fichier pour déterminer l'épisode."""
     match = re.search(r'\d+', filename)
     if match:
         return int(match.group())
     return None
 
+def sanitize_tag_line(line):
+    """Nettoie en profondeur la ligne des tags pour Hugo (retrait accents, apostrophes)."""
+    if not line.startswith("tags:"):
+        return line
+    prefix, tags_part = line.split("tags:", 1)
+    tags_part = tags_part.replace("\\'", "'").replace('\\"', '"')
+    tags_part = tags_part.replace("'", " ").replace('"', " ")
+    tags_part = "".join(
+        c for c in unicodedata.normalize('NFKD', tags_part)
+        if not unicodedata.combining(c)
+    )
+    raw_tags = [t.strip() for t in tags_part.replace("[", "").replace("]", "").split(",") if t.strip()]
+    clean_tags_list = [f"'{t}'" for t in raw_tags]
+    return f"tags: [{', '.join(clean_tags_list)}]"
+
 def transcribe_video(video_path, whisper_model):
-    """Transcrit la vidéo directement via l'instance Whisper partagée"""
+    """Transcrit la vidéo directement via l'instance Whisper partagée."""
     print(f"\n🎬 [Whisper] Analyse et transcription : {video_path.name}...")
     result = whisper_model.transcribe(str(video_path), language="fr")
     return result["text"]
 
 def generate_hugo_article(transcript, episode_num, engine, series_slug, category):
-    """Demande à l'IA de générer l'article brut selon tes directives strictes"""
-    print(f"✍️  [Gemini] Génération de l'article ({category}) pour l'épisode {episode_num}...")
+    """Demande à l'IA de générer l'article brut avec gestion résiliente des quotas (429)."""
     client = genai.Client()
     
     system_instruction = (
@@ -55,39 +69,46 @@ def generate_hugo_article(transcript, episode_num, engine, series_slug, category
     
     prompt = f"Voici la transcription brute de l'épisode {episode_num} :\n\"\"\"\n{transcript}\n\"\"\""
     
-    response = client.models.generate_content(
-        model=GEMINI_MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            system_instruction=system_instruction,
-            temperature=0.3
-        )
-    )
-    return response.text
+    # Boucle infinie de tentative de requête pour absorber le "Resource Exhausted"
+    while True:
+        try:
+            print(f"✍️  [Gemini] Requête API pour l'épisode {episode_num}...")
+            response = client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    system_instruction=system_instruction,
+                    temperature=0.3
+                )
+            )
+            return response.text
+        except ClientError as e:
+            if e.code == 429:
+                print("\n🛑 [QUOTA EXCÉDÉ] Gemini signale une surcharge ou fin de quota journalier.")
+                print("⏳ Le script se met en sommeil pendant 65 secondes avant de retenter l'envoi...")
+                time.sleep(65)
+            else:
+                # Si c'est une autre erreur client (400, 403, etc.), on la lève pour ne pas boucler à l'infini
+                raise e
 
 def create_chapter_index_if_missing(target_dir, series_name, engine_name):
-    """Crée la page d'accueil de chapitre (_index.md) propre à l'architecture Hugo"""
+    """Crée la page d'accueil de chapitre (_index.md) propre à l'architecture Hugo."""
     index_path = target_dir / "_index.md"
     if index_path.exists():
         return
-        
     print(f"📁 Nouvelle série détectée ! Création de la page chapitre : {index_path.name}")
     clean_title = series_name.replace("-", " ").title()
-    
     chapter_content = f"""---
 title: "{clean_title} ({engine_name})"
 archetype: "chapter"
 ---
-
 Bienvenue dans la série de tutoriels consacrée à **{clean_title}** développée sur **{engine_name}**. 
-
-Vous trouverez ci-dessous l'ensemble des chapitres, classés par ordre de progression. Utilisez les boutons de navigation pour passer d'un épisode à l'autre.
 """
     with open(index_path, "w", encoding="utf-8") as f:
         f.write(chapter_content)
 
 def load_index(index_path):
-    """Charge l'index local de la série"""
+    """Charge l'index local de la série."""
     if index_path.exists():
         with open(index_path, "r", encoding="utf-8") as f:
             try:
@@ -97,15 +118,14 @@ def load_index(index_path):
     return {}
 
 def save_index(index, index_path):
-    """Sauvegarde l'index de la série"""
+    """Sauvegarde l'index de la série."""
     with open(index_path, "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=4)
 
 def rewrite_front_matter_links(file_path, base_url_path, ep_num, prev_slug, next_slug):
-    """Nettoie le fichier et injecte le titre formaté, le weight et le maillage sans plantage regex"""
+    """Nettoie le fichier et injecte le titre formaté, le weight, le maillage et assainit les tags."""
     if not file_path.exists():
         return
-        
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
         
@@ -119,12 +139,20 @@ def rewrite_front_matter_links(file_path, base_url_path, ep_num, prev_slug, next
         if line.startswith("title:"):
             raw_title = line.replace("title:", "", 1).strip()
             clean_title = raw_title.strip('"').strip("'")
+            while True:
+                parts = clean_title.split(".", 1)
+                if len(parts) > 1 and parts[0].strip().isdigit():
+                    clean_title = parts[1].strip()
+                else:
+                    break
             clean_title = clean_title.split(":", 1)[-1].split("-", 1)[-1].strip()
             break
 
     lines = content.splitlines()
     filtered_lines = []
     for line in lines:
+        if line.startswith("tags:"):
+            line = sanitize_tag_line(line)
         if any(line.startswith(k) for k in ["title:", "weight:", "prev_url:", "next_url:"]):
             continue
         filtered_lines.append(line)
@@ -147,7 +175,7 @@ def rewrite_front_matter_links(file_path, base_url_path, ep_num, prev_slug, next
         f.write(updated_content)
 
 def main():
-    parser = argparse.ArgumentParser(description="Pipeline Batch Hugo - Traitement de dossiers complets")
+    parser = argparse.ArgumentParser(description="Pipeline Batch Hugo - Résilience Quotas & Reprise de tâche")
     parser.add_argument("--dir", required=True, help="Dossier contenant toutes les vidéos à traiter")
     parser.add_argument("--engine", required=True, help="Moteur ou langage (ex: 'GDevelop 5')")
     parser.add_argument("--series", required=True, help="Nom de la série/dossier cible (ex: 'sweet-void')")
@@ -159,52 +187,60 @@ def main():
         print(f"❌ Dossier source introuvable ou invalide : {source_dir}")
         return
 
-    # 1. Collecte et tri des vidéos par numéro d'épisode
+    # 1. Collecte et tri des vidéos
     video_tasks = []
-    print(f"🔍 Scan du dossier : {source_dir}")
     for file in source_dir.iterdir():
         if file.is_file() and file.suffix.lower() in SUPPORTED_EXTENSIONS:
             ep_num = extract_episode_number(file.name)
             if ep_num is not None:
                 video_tasks.append((ep_num, file))
-            else:
-                print(f"⚠️ Ignoré (aucun numéro d'épisode détecté dans le nom) : {file.name}")
 
     if not video_tasks:
-        print("❌ Aucune vidéo valide avec un numéro d'épisode n'a été trouvée.")
+        print("❌ Aucune vidéo valide trouvée.")
         return
 
-    # Tri absolu par numéro d'épisode (1, 2, 3...) pour garantir la cohérence du maillage
     video_tasks.sort(key=lambda x: x[0])
-    print(f"📦 {len(video_tasks)} vidéos prêtes à être traitées en série.")
-
-    # 2. Chargement UNIQUE du modèle Whisper en mémoire pour toute la session
-    print("🧠 Chargement du modèle Whisper (cette étape peut prendre une minute)...")
-    whisper_model = whisper.load_model("base")
 
     # Configuration des chemins cibles
-    engine_slug = re.sub(r'[^a-zA-Z0-9]', '-', args.engine.lower())
-    engine_slug = re.sub(r'-+', '-', engine_slug).strip('-')
+    engine_slug = re.sub(r'[^a-zA-Z0-9]', '-', args.engine.lower()).strip('-')
     target_dir = Path(BASE_CONTENT_DIR) / engine_slug / args.series
     base_url_path = f"/{engine_slug}/{args.series}"
     index_path = target_dir / INDEX_FILE_NAME
 
-    # Assurer la structure de base
     target_dir.mkdir(parents=True, exist_ok=True)
     create_chapter_index_if_missing(target_dir, args.series, args.engine)
     series_index = load_index(index_path)
 
-    # 3. Boucle de traitement principale
+    # FILTRAGE : On retire les épisodes qui possèdent déjà un fichier markdown valide dans le dossier
+    tasks_to_process = []
     for ep_num, video_path in video_tasks:
+        existing_slug = series_index.get(ep_num)
+        if existing_slug and (target_dir / f"{existing_slug}.md").exists():
+            print(f"⏭️  [Reprise] Épisode {ep_num} déjà traité ({existing_slug}.md). Passage au suivant.")
+            continue
+        tasks_to_process.append((ep_num, video_path))
+
+    if not tasks_to_process:
+        print("✅ Tous les épisodes de ce dossier ont déjà été générés !")
+        return
+
+    print(f"📦 {len(tasks_to_process)} vidéos restent à traiter sur les {len(video_tasks)} initiales.")
+
+    # 2. Chargement unique de Whisper
+    print("🧠 Chargement du modèle Whisper...")
+    whisper_model = whisper.load_model("base")
+
+    # 3. Boucle de traitement principale
+    for i, (ep_num, video_path) in enumerate(tasks_to_process):
         print(f"\n🚀 --- TRAITEMENT ÉPISODE {ep_num} ({video_path.name}) ---")
         
         # Étape A : Transcription
         transcript = transcribe_video(video_path, whisper_model)
         
-        # Étape B : Rédaction IA
+        # Étape B : Rédaction IA (Gère les erreurs 429 de manière transparente)
         raw_article = generate_hugo_article(transcript, ep_num, args.engine, args.series, args.category)
         
-        # Étape C : Extraction Slug (Méthode safe sans regex)
+        # Étape C : Extraction Slug
         current_slug = None
         clean_markdown = raw_article
         for line in raw_article.splitlines():
@@ -212,11 +248,10 @@ def main():
                 current_slug = line.split("SEO_SLUG:", 1)[-1].strip().strip('"').strip("'")
                 clean_markdown = raw_article.replace(line, "").strip()
                 break
-                
         if not current_slug:
             current_slug = f"episode-{ep_num}"
 
-        # Étape D : Enregistrement de l'épisode et mise à jour de l'index
+        # Étape D : Enregistrement
         series_index[ep_num] = current_slug
         save_index(series_index, index_path)
 
@@ -224,15 +259,22 @@ def main():
         with open(current_file_path, "w", encoding="utf-8") as f:
             f.write(clean_markdown)
 
-        # Étape E : Recalcul et rafraîchissement immédiat du maillage pour TOUTE la série traitée jusqu'ici
-        print(f"🔗 Consolidation du maillage SEO et des poids (weight)...")
+        # Étape E : Rafraîchissement global du maillage
+        print(f"🔗 Consolidation du maillage SEO, des tags et des poids (weight)...")
         for active_ep, slug in series_index.items():
             file_path = target_dir / f"{slug}.md"
             prev_slug = series_index.get(active_ep - 1, "index")
             next_slug = series_index.get(active_ep + 1, None)
             rewrite_front_matter_links(file_path, base_url_path, active_ep, prev_slug, next_slug)
 
-    print(f"\n🎉 [BATCH TERMINÉ] Félicitations, les {len(video_tasks)} vidéos ont été traitées et rangées dans {target_dir} !")
+        print(f"💾 Épisode {ep_num} traité et sauvegardé avec succès.")
+
+        # Pause standard de sécurité pour lisser le flux si d'autres vidéos arrivent
+        if i < len(tasks_to_process) - 1:
+            print("⏳ Pause de sécurité de 10 secondes entre les traitements...")
+            time.sleep(10)
+
+    print(f"\n🎉 [BATCH TERMINÉ] Traitement fini avec succès.")
 
 if __name__ == "__main__":
     main()
