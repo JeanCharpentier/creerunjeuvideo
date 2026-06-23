@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: 3D</title>
+      <link>http://localhost:1313/tags/3d/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/3d/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: 3D Platformer</title>
       <link>http://localhost:1313/tags/3d-platformer/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -27,6 +34,20 @@
       <link>http://localhost:1313/tags/actor/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/actor/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: AdMob</title>
+      <link>http://localhost:1313/tags/admob/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/admob/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Android</title>
+      <link>http://localhost:1313/tags/android/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/android/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -100,6 +121,13 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: C&#43;&#43;</title>
+      <link>http://localhost:1313/tags/c&#43;&#43;/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/c&#43;&#43;/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Cascade</title>
       <link>http://localhost:1313/tags/cascade/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -107,10 +135,24 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Character Design</title>
+      <link>http://localhost:1313/tags/character-design/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/character-design/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Checkpoint</title>
       <link>http://localhost:1313/tags/checkpoint/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/checkpoint/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: CodeWorks</title>
+      <link>http://localhost:1313/tags/codeworks/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/codeworks/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -177,10 +219,24 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Déploiement</title>
+      <link>http://localhost:1313/tags/d%C3%A9ploiement/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/d%C3%A9ploiement/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Développement</title>
       <link>http://localhost:1313/tags/d%C3%A9veloppement/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/d%C3%A9veloppement/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Développement Mobile</title>
+      <link>http://localhost:1313/tags/d%C3%A9veloppement-mobile/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/d%C3%A9veloppement-mobile/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -212,6 +268,13 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Firebase</title>
+      <link>http://localhost:1313/tags/firebase/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/firebase/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Foliage</title>
       <link>http://localhost:1313/tags/foliage/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -237,6 +300,13 @@
       <link>http://localhost:1313/tags/game-instance/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/game-instance/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Game Logic</title>
+      <link>http://localhost:1313/tags/game-logic/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/game-logic/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -268,6 +338,34 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: GIMP</title>
+      <link>http://localhost:1313/tags/gimp/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gimp/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Google Play</title>
+      <link>http://localhost:1313/tags/google-play/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/google-play/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Google Play Services</title>
+      <link>http://localhost:1313/tags/google-play-services/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/google-play-services/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Google Play Store</title>
+      <link>http://localhost:1313/tags/google-play-store/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/google-play-store/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Graphisme</title>
       <link>http://localhost:1313/tags/graphisme/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -279,6 +377,13 @@
       <link>http://localhost:1313/tags/hud/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/hud/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Importation</title>
+      <link>http://localhost:1313/tags/importation/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/importation/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -317,10 +422,24 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Keystore</title>
+      <link>http://localhost:1313/tags/keystore/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keystore/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Landscape</title>
       <link>http://localhost:1313/tags/landscape/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/landscape/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Leaderboard</title>
+      <link>http://localhost:1313/tags/leaderboard/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/leaderboard/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -359,6 +478,20 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Logique</title>
+      <link>http://localhost:1313/tags/logique/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/logique/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Low Poly</title>
+      <link>http://localhost:1313/tags/low-poly/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/low-poly/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Lumière</title>
       <link>http://localhost:1313/tags/lumi%C3%A8re/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -380,6 +513,13 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Materials</title>
+      <link>http://localhost:1313/tags/materials/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/materials/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Matériaux</title>
       <link>http://localhost:1313/tags/mat%C3%A9riaux/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -391,6 +531,41 @@
       <link>http://localhost:1313/tags/menu/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/menu/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Mobile</title>
+      <link>http://localhost:1313/tags/mobile/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mobile/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Mobile Development</title>
+      <link>http://localhost:1313/tags/mobile-development/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mobile-development/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Mobile Game</title>
+      <link>http://localhost:1313/tags/mobile-game/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mobile-game/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Modélisation</title>
+      <link>http://localhost:1313/tags/mod%C3%A9lisation/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mod%C3%A9lisation/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Modélisation 3D</title>
+      <link>http://localhost:1313/tags/mod%C3%A9lisation-3d/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mod%C3%A9lisation-3d/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -450,6 +625,13 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Performance</title>
+      <link>http://localhost:1313/tags/performance/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/performance/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Pièges</title>
       <link>http://localhost:1313/tags/pi%C3%A8ges/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -492,6 +674,13 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Progression</title>
+      <link>http://localhost:1313/tags/progression/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/progression/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Publication</title>
       <link>http://localhost:1313/tags/publication/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -527,6 +716,20 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: SDK</title>
+      <link>http://localhost:1313/tags/sdk/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sdk/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Setup</title>
+      <link>http://localhost:1313/tags/setup/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/setup/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Shaders</title>
       <link>http://localhost:1313/tags/shaders/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -559,6 +762,13 @@
       <link>http://localhost:1313/tags/skylight/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/skylight/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Spawner</title>
+      <link>http://localhost:1313/tags/spawner/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spawner/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -660,6 +870,13 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: UV Mapping</title>
+      <link>http://localhost:1313/tags/uv-mapping/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/uv-mapping/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Variables</title>
       <link>http://localhost:1313/tags/variables/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -685,6 +902,13 @@
       <link>http://localhost:1313/tags/viewport/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/viewport/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Visual Studio</title>
+      <link>http://localhost:1313/tags/visual-studio/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/visual-studio/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -734,13 +958,6 @@
       <link>http://localhost:1313/tags/debug/index.html</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/debug/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Déploiement</title>
-      <link>http://localhost:1313/tags/d%C3%A9ploiement/index.html</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/d%C3%A9ploiement/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -958,13 +1175,6 @@
       <link>http://localhost:1313/tags/material-editor/index.html</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/material-editor/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Materials</title>
-      <link>http://localhost:1313/tags/materials/index.html</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/materials/index.html</guid>
       <description></description>
     </item>
     <item>

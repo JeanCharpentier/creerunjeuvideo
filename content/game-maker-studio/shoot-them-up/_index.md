@@ -1,5 +1,5 @@
 ---
-title: "Création d'un Shoot 'em Up (Shmup)"
+title: "Série: Création d'un Shoot 'em Up (Shmup)"
 date: 2026-06-17
 categories: ["Archive"]
 tags: ['GameMaker', 'Shmup', '2D', 'Tutoriel', 'Gamedev']

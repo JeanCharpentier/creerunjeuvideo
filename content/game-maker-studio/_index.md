@@ -1,5 +1,5 @@
 ---
-title: "GameMaker Studio"
+title: "Tutoriels GameMaker Studio"
 date: 2026-06-17
 categories: ["Archive"]
 tags: ['GameMaker', '2D', 'Indie Dev', 'Gamedev']

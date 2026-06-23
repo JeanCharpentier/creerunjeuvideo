@@ -37,6 +37,13 @@
       <description>Apprenez à donner vie à vos combats en ajoutant des effets d’explosion animés et en gérant leur cycle de vie pour un rendu professionnel.&#xA;Résumé des notions clés Pour transformer un simple sprite statique en un effet visuel dynamique, voici les étapes essentielles abordées dans ce tutoriel :</description>
     </item>
     <item>
+      <title>29. Remplacer le personnage par défaut dans Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/remplacer-personnage-par-defaut-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/remplacer-personnage-par-defaut-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous abordons une étape cruciale pour personnaliser votre projet : le remplacement du mannequin par défaut d’Unreal Engine 4 par un modèle personnalisé. Que vous choisissiez un personnage masculin ou féminin, l’objectif est d’intégrer votre propre asset tout en conservant la compatibilité avec le système d’animation existant.&#xA;Résumé de l’épisode Importation des assets : Création d’un dossier dédié, importation du fichier FBX (mesh + squelette) en utilisant le squelette par défaut (SK_Mannequin). Configuration de l’import : Activation des options Import Mesh et Skeletal Mesh, tout en s’assurant que les textures et matériaux sont bien importés. Intégration au Blueprint : Remplacement du mesh dans le ThirdPersonCharacter via le panneau Details. Correction des proportions (Retargeting) : Ajustement de la taille du personnage via les options de “Retargeting” dans l’éditeur de squelette pour éviter l’effet de déformation (personnage étiré). Optimisation : Utilisation de la fonction Recursively Set Translation Retargeting pour appliquer rapidement les réglages à tous les os du squelette. Ce qui reste d’actualité aujourd’hui Bien que cet article se concentre sur Unreal Engine 4, les principes fondamentaux restent identiques dans les versions plus récentes (UE5) :</description>
+    </item>
+    <item>
       <title>Maîtriser les Morph Targets (Shape Keys) dans Unreal Engine 4</title>
       <link>http://localhost:1313/unreal-engine-4/maitriser-morph-targets-shape-keys-unreal-engine-4/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
