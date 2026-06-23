@@ -36,5 +36,12 @@
       <guid>http://localhost:1313/game-maker-studio/shoot-them-up/animer-effets-visuels-game-maker-explosions/index.html</guid>
       <description>Apprenez à donner vie à vos combats en ajoutant des effets d’explosion animés et en gérant leur cycle de vie pour un rendu professionnel.&#xA;Résumé des notions clés Pour transformer un simple sprite statique en un effet visuel dynamique, voici les étapes essentielles abordées dans ce tutoriel :</description>
     </item>
+    <item>
+      <title>Maîtriser les Morph Targets (Shape Keys) dans Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/maitriser-morph-targets-shape-keys-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/maitriser-morph-targets-shape-keys-unreal-engine-4/index.html</guid>
+      <description>Dans cet article, nous explorons comment créer des déformations complexes sur vos modèles 3D en utilisant les Shape Keys de Blender, pour ensuite les animer dans Unreal Engine 4 via les Morph Targets. Cette technique est idéale pour les expressions faciales, les transformations d’objets ou les animations organiques.&#xA;Résumé du processus Blender (Shape Keys) : Création de la forme de base (Basis) et des variantes de formes (Key 1, Key 2…). Utilisation du mode Object pour définir les clés et du mode Edit pour sculpter les déformations. Exportation : Export au format FBX en s’assurant de bien sélectionner l’objet. Importation Unreal Engine : Import en tant que Skeletal Mesh (même sans squelette). Il est crucial de cocher l’option Import Morph Targets dans les paramètres d’importation. Implémentation : Utilisation d’une Timeline dans le Blueprint de l’acteur pour piloter la valeur (de 0 à 1) de la Morph Target via le nœud Set Morph Target. Matériaux : Ne pas oublier de cocher l’option “Use With Morph Targets” dans les détails du matériau pour éviter les artefacts visuels lors de la déformation. Ce qui reste d’actualité aujourd’hui Bien que cet article se base sur une version spécifique d’Unreal Engine 4 (la 4.19), les principes fondamentaux restent parfaitement valables pour les versions actuelles d’Unreal Engine 5 :</description>
+    </item>
   </channel>
 </rss>

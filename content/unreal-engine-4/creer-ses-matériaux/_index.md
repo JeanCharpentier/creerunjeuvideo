@@ -1,5 +1,6 @@
 ---
-title: "Maîtriser les Matériaux dans Unreal Engine"
+title: "Série: Maîtriser les Matériaux dans Unreal Engine"
+weight: 2
 date: 2026-06-17
 categories: ["Archive"]
 tags: ['Unreal Engine', 'Shaders', 'Matériaux', 'Texturing']

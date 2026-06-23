@@ -2217,6 +2217,14 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Blender",
+    "uri": "/tags/blender/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Blocking Volume",
     "uri": "/tags/blocking-volume/index.html"
   },
@@ -2243,6 +2251,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: BSP",
     "uri": "/tags/bsp/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Cascade",
+    "uri": "/tags/cascade/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo",
@@ -2323,12 +2339,86 @@ var relearn_searchindex = [
     "uri": "/game-maker-studio/shoot-them-up/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "Dans cet article, nous explorons une technique fondamentale pour les débutants en Level Design sur Unreal Engine 4 : l’utilisation des BSP (Binary Space Partitioning). Ces outils intégrés permettent de prototyper rapidement des environnements, des maisons ou des structures complexes directement dans l’éditeur, sans avoir recours à un logiciel de modélisation externe comme Blender au préalable.\nRésumé du tutoriel Préparation des matériaux : Création de matériaux simples (couleurs unies) pour distinguer les éléments de votre structure. Utilisation des brosses (BSP) : Utilisation des outils de base (Box) pour créer les murs et le sol. Mode “Hollow” : Activation de l’option Hollow pour creuser l’intérieur d’un bloc et créer une pièce habitable. Opérations booléennes : Utilisation du mode Subtractive pour percer des ouvertures (portes, fenêtres) ou créer des formes de toit complexes. Conversion en Static Mesh : Une fois la forme finale obtenue, transformation de l’assemblage de brosses en un seul objet Static Mesh optimisé via le panneau Details. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des outils de modélisation beaucoup plus avancés (comme le Modeling Mode), la technique des BSP reste pertinente pour plusieurs raisons :\nPrototypage rapide (Greyboxing) : Pour tester le gameplay et les échelles d’un niveau, les BSP restent le moyen le plus rapide de “bloquer” un espace avant de passer à la modélisation finale. Flexibilité : La capacité de modifier une forme géométrique en temps réel dans l’éditeur sans avoir à réimporter des fichiers FBX est un gain de temps précieux lors des phases de recherche. Apprentissage : Comprendre comment les volumes s’additionnent et se soustraient est une base essentielle pour tout concepteur de niveaux, quel que soit le moteur utilisé. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet article, nous explorons une technique fondamentale pour les débutants en Level Design sur Unreal Engine 4 : l’utilisation des BSP (Binary Space Partitioning). Ces outils intégrés permettent de prototyper rapidement des environnements, des maisons ou des structures complexes directement dans l’éditeur, sans avoir recours à un logiciel de modélisation externe comme Blender au préalable.\nRésumé du tutoriel Préparation des matériaux : Création de matériaux simples (couleurs unies) pour distinguer les éléments de votre structure. Utilisation des brosses (BSP) : Utilisation des outils de base (Box) pour créer les murs et le sol. Mode “Hollow” : Activation de l’option Hollow pour creuser l’intérieur d’un bloc et créer une pièce habitable. Opérations booléennes : Utilisation du mode Subtractive pour percer des ouvertures (portes, fenêtres) ou créer des formes de toit complexes. Conversion en Static Mesh : Une fois la forme finale obtenue, transformation de l’assemblage de brosses en un seul objet Static Mesh optimisé via le panneau Details. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient introduit des outils de modélisation beaucoup plus avancés (comme le Modeling Mode), la technique des BSP reste pertinente pour plusieurs raisons :",
+    "tags": [
+      "Tutoriel",
+      "BSP",
+      "Level Design",
+      "Static Mesh"
+    ],
+    "title": "Créer des décors architecturaux avec les BSP dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-decors-bsp-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "Dans ce tutoriel, nous allons voir comment mettre en place un système de cycle jour/nuit simple et efficace dans Unreal Engine 4. Ce guide répond à une problématique courante : comment automatiser la rotation du soleil pour simuler le passage du temps dans votre environnement.\nRésumé du processus Utilisation des Timelines : Création d’une Timeline dans le Level Blueprint pour gérer la variation de valeur sur 24 secondes (symbolisant 24 heures). Configuration de la courbe : Utilisation d’une piste Float allant de 0 à 360 degrés pour piloter la rotation. Manipulation de la lumière : Liaison de la Timeline à la rotation de la Directional Light (Light Source). Mise à jour du ciel : Appel de la fonction Update Sun Direction sur le BP_Sky_Sphere pour synchroniser les textures du ciel avec la position du soleil. Paramétrage technique : Passage de la lumière en mode Movable et désactivation des ombres statiques (Cast Static Shadows) pour permettre un rendu dynamique fluide. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise des méthodes fondamentales d’Unreal Engine 4, ces concepts restent parfaitement valides dans les versions plus récentes (UE5) pour des projets légers :\nLe système de Timeline : C’est toujours l’outil le plus intuitif pour créer des animations basées sur le temps directement dans les Blueprints sans passer par le Sequencer. La gestion des Sky Spheres : La logique de rafraîchissement du ciel (Update Sun Direction) est la base du système de ciel procédural classique. L’importance du mode “Movable” : Comprendre la différence entre les lumières statiques et dynamiques est crucial pour tout développeur, quel que soit le moteur, afin d’optimiser les performances. Flexibilité : La méthode de division utilisée pour ralentir la vitesse du cycle montre comment manipuler mathématiquement vos variables pour ajuster le “gameplay” de votre environnement. Note : Pour des projets plus avancés, il est recommandé d’utiliser le système “Ultra Dynamic Sky” ou le “Sun Sky” intégré nativement dans les versions récentes pour une gestion plus réaliste de l’atmosphère.\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce tutoriel, nous allons voir comment mettre en place un système de cycle jour/nuit simple et efficace dans Unreal Engine 4. Ce guide répond à une problématique courante : comment automatiser la rotation du soleil pour simuler le passage du temps dans votre environnement.\nRésumé du processus Utilisation des Timelines : Création d’une Timeline dans le Level Blueprint pour gérer la variation de valeur sur 24 secondes (symbolisant 24 heures). Configuration de la courbe : Utilisation d’une piste Float allant de 0 à 360 degrés pour piloter la rotation. Manipulation de la lumière : Liaison de la Timeline à la rotation de la Directional Light (Light Source). Mise à jour du ciel : Appel de la fonction Update Sun Direction sur le BP_Sky_Sphere pour synchroniser les textures du ciel avec la position du soleil. Paramétrage technique : Passage de la lumière en mode Movable et désactivation des ombres statiques (Cast Static Shadows) pour permettre un rendu dynamique fluide. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise des méthodes fondamentales d’Unreal Engine 4, ces concepts restent parfaitement valides dans les versions plus récentes (UE5) pour des projets légers :",
+    "tags": [
+      "Unreal Engine 4",
+      "Blueprints",
+      "Cycle Jour-Nuit",
+      "Level Design"
+    ],
+    "title": "Créer un cycle jour/nuit dynamique dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-cycle-jour-nuit-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "Le “Bullet Time”, popularisé par des titres cultes comme Max Payne ou la saga Matrix, est un outil puissant pour dynamiser vos séquences d’action. En ralentissant le temps, vous offrez au joueur une sensation de contrôle accrue et une mise en scène cinématographique immédiate. Dans ce tutoriel, nous allons voir comment implémenter cet effet simplement dans Unreal Engine 4 en utilisant les Blueprints et la commande console slomo.\nRésumé de la mise en place Pour réaliser cet effet, nous suivons une logique simple basée sur les événements d’entrée :\nConfiguration de l’Input : Création d’un Action Mapping dans les Project Settings pour assigner une touche (ex: ‘F’) à l’action “BulletTime”. Variable de contrôle : Création d’une variable de type Float nommée GameSpeed dans votre Character Blueprint. Logique de Blueprint : À l’appui sur la touche : On définit GameSpeed sur une valeur faible (ex: 0.2 pour un ralentissement, 0 pour un arrêt total). Au relâchement : On réinitialise GameSpeed à 1.0 (vitesse normale). Exécution : Utilisation du node Execute Console Command avec la commande slomo concaténée à la valeur de GameSpeed. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise Unreal Engine 4, les principes fondamentaux restent parfaitement valables pour les versions actuelles (UE5) :\nLa commande slomo : Elle reste la méthode la plus rapide et efficace pour manipuler l’échelle de temps globale du moteur (GlobalTimeDilation). Modularité : L’utilisation d’une variable GameSpeed permet d’évoluer facilement vers des systèmes plus complexes, comme une jauge d’endurance qui se vide pendant l’utilisation du ralenti. Flexibilité : Cette méthode permet non seulement de ralentir le temps, mais aussi de l’accélérer (en mettant une valeur supérieure à 1) ou de le figer totalement, offrant une grande liberté créative pour vos mécaniques de jeu. Performance : Cette approche est extrêmement légère en termes de ressources, car elle s’appuie sur une fonctionnalité native du moteur plutôt que sur des calculs complexes par objet. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Le “Bullet Time”, popularisé par des titres cultes comme Max Payne ou la saga Matrix, est un outil puissant pour dynamiser vos séquences d’action. En ralentissant le temps, vous offrez au joueur une sensation de contrôle accrue et une mise en scène cinématographique immédiate. Dans ce tutoriel, nous allons voir comment implémenter cet effet simplement dans Unreal Engine 4 en utilisant les Blueprints et la commande console slomo.\nRésumé de la mise en place Pour réaliser cet effet, nous suivons une logique simple basée sur les événements d’entrée :",
+    "tags": [
+      "Unreal Engine 4",
+      "Blueprint",
+      "Gameplay",
+      "Tutoriel"
+    ],
+    "title": "Créer un effet de Bullet Time (Slow Motion) dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-effet-bullet-time-unreal-engine-4/index.html"
+  },
+  {
     "breadcrumb": "",
     "content": "",
     "description": "",
     "tags": [],
     "title": "Créer un jeu vidéo",
     "uri": "/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "Dans ce tutoriel, nous allons concevoir un système de piège dynamique pour vos niveaux : une plaque de pression qui, lorsqu’elle est activée par le joueur, fait surgir des pics du sol. Ce mécanisme est idéal pour ajouter du challenge et de la tension à votre gameplay.\nRésumé du processus de création Configuration de l’Acteur : Création d’un Blueprint Master (BPM_Pic) composé d’une plaque extérieure (le socle) et d’une plaque intérieure (le bouton). Gestion des collisions : Utilisation d’une Box Collision pour détecter le joueur et configuration des collisions des meshes pour permettre l’interaction. Génération procédurale : Utilisation du Construction Script avec des boucles For Loop pour instancier les pics de manière propre et optimisée via Instanced Static Mesh. Animation avec Timelines : Utilisation de deux Timelines distinctes : une pour l’enfoncement de la plaque et une pour la montée des pics. Interaction physique : Mise en place d’un système de Ragdoll sur le personnage lorsqu’il entre en contact avec les pics pour un effet de mort immédiat et réaliste. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise les bases d’Unreal Engine 4, les concepts fondamentaux restent parfaitement applicables dans les versions récentes (UE5) :\nL’utilisation des Timelines : Elles restent l’outil le plus simple et efficace pour gérer des animations simples dans les Blueprints sans passer par le système d’animation complexe. Instanced Static Meshes : C’est toujours la méthode recommandée pour optimiser les performances lorsque vous devez afficher de nombreux objets identiques (comme des pics ou des éléments de décor). La logique de “Construction Script” : La génération procédurale d’objets dans l’éditeur reste une pratique indispensable pour gagner du temps lors du level design. Modularité : L’approche “Master Blueprint” permet toujours de créer des variantes de pièges rapidement en modifiant simplement les variables exposées (nombre de pics, vitesse, délai). 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce tutoriel, nous allons concevoir un système de piège dynamique pour vos niveaux : une plaque de pression qui, lorsqu’elle est activée par le joueur, fait surgir des pics du sol. Ce mécanisme est idéal pour ajouter du challenge et de la tension à votre gameplay.\nRésumé du processus de création Configuration de l’Acteur : Création d’un Blueprint Master (BPM_Pic) composé d’une plaque extérieure (le socle) et d’une plaque intérieure (le bouton). Gestion des collisions : Utilisation d’une Box Collision pour détecter le joueur et configuration des collisions des meshes pour permettre l’interaction. Génération procédurale : Utilisation du Construction Script avec des boucles For Loop pour instancier les pics de manière propre et optimisée via Instanced Static Mesh. Animation avec Timelines : Utilisation de deux Timelines distinctes : une pour l’enfoncement de la plaque et une pour la montée des pics. Interaction physique : Mise en place d’un système de Ragdoll sur le personnage lorsqu’il entre en contact avec les pics pour un effet de mort immédiat et réaliste. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise les bases d’Unreal Engine 4, les concepts fondamentaux restent parfaitement applicables dans les versions récentes (UE5) :",
+    "tags": [
+      "Unreal Engine 4",
+      "Blueprints",
+      "GameDev",
+      "Pièges",
+      "Level Design"
+    ],
+    "title": "Créer un piège à pics avec plaque de pression dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-piege-pics-plaque-pression-ue4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "Dans ce tutoriel, nous explorons la création d’un système de piège “trappe” modulaire sous Unreal Engine 4. L’objectif est de mettre en place une mécanique de plateforme qui s’effondre sous le poids du joueur lorsqu’il s’en approche, tout en conservant une structure flexible pour vos futurs niveaux.\nRésumé de la mise en place Création d’un Blueprint Master (BPM_Trap) : Utilisation d’un acteur parent pour centraliser la logique et permettre une réutilisation facile. Hiérarchie des composants : Utilisation d’un support fixe et d’une plaque mobile (Static Meshes), couplés à une Box Collision pour la détection. Physique et Contraintes : Utilisation du composant Physics Constraint pour définir un point de pivot réaliste entre le support et la trappe. Logique de déclenchement : Utilisation du nœud OnComponentBeginOverlap pour activer le Simulate Physics sur la plaque uniquement lorsque le joueur entre dans la zone. Modularité : Création de “Child Blueprints” pour varier les tailles et les formes des pièges sans dupliquer le code. Ce qui reste d’actualité aujourd’hui Bien que cet article se base sur une version plus ancienne d’Unreal Engine, les principes fondamentaux restent parfaitement valables pour les versions actuelles (UE5) :\nL’approche orientée “Master Blueprint” : La hiérarchie Parent/Enfant est toujours la meilleure pratique pour maintenir un projet propre et éviter la répétition de code. La gestion des collisions : Le découplage entre la zone de détection (Box Collision) et l’objet physique reste la méthode standard pour créer des déclencheurs (triggers) efficaces. Physics Constraints : C’est toujours l’outil privilégié pour créer des articulations (portes, trappes, ponts suspendus) sans avoir recours à des animations complexes. Optimisation : L’utilisation de Cast To pour vérifier l’acteur qui déclenche le piège est une base indispensable pour éviter que des objets inanimés ou des ennemis ne déclenchent inutilement les mécanismes. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce tutoriel, nous explorons la création d’un système de piège “trappe” modulaire sous Unreal Engine 4. L’objectif est de mettre en place une mécanique de plateforme qui s’effondre sous le poids du joueur lorsqu’il s’en approche, tout en conservant une structure flexible pour vos futurs niveaux.\nRésumé de la mise en place Création d’un Blueprint Master (BPM_Trap) : Utilisation d’un acteur parent pour centraliser la logique et permettre une réutilisation facile. Hiérarchie des composants : Utilisation d’un support fixe et d’une plaque mobile (Static Meshes), couplés à une Box Collision pour la détection. Physique et Contraintes : Utilisation du composant Physics Constraint pour définir un point de pivot réaliste entre le support et la trappe. Logique de déclenchement : Utilisation du nœud OnComponentBeginOverlap pour activer le Simulate Physics sur la plaque uniquement lorsque le joueur entre dans la zone. Modularité : Création de “Child Blueprints” pour varier les tailles et les formes des pièges sans dupliquer le code. Ce qui reste d’actualité aujourd’hui Bien que cet article se base sur une version plus ancienne d’Unreal Engine, les principes fondamentaux restent parfaitement valables pour les versions actuelles (UE5) :",
+    "tags": [
+      "Unreal Engine 4",
+      "Blueprint",
+      "Game Design",
+      "Tutoriel"
+    ],
+    "title": "Créer un système de piège à trappe automatique dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/creer-systeme-trappe-automatique-ue4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Cycle Jour-Nuit",
+    "uri": "/tags/cycle-jour-nuit/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2345,6 +2435,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Débutant",
     "uri": "/tags/d%C3%A9butant/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Développement",
+    "uri": "/categories/d%C3%A9veloppement/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2461,6 +2559,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Game Instance",
     "uri": "/tags/game-instance/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: GameDev",
+    "uri": "/categories/gamedev/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2629,6 +2735,19 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "La génération procédurale est un pilier fondamental pour créer des mondes vastes et dynamiques. Cependant, le véritable défi ne réside pas dans l’aléatoire pur, mais dans sa maîtrise. Comment garantir qu’un joueur puisse retrouver les mêmes éléments s’il revient sur ses pas ? Comment générer des milliers d’objets sans faire s’effondrer les performances de votre jeu ?\nDans cet article, nous explorons l’utilisation des Seeds (graines) et des Instanced Static Meshes pour créer des environnements optimisés et cohérents sous Unreal Engine 4.\nPoints clés de la génération contrôlée Le concept de Seed (Graine) : Utiliser un nombre entier comme base pour initialiser un flux aléatoire (Random Stream). Cela permet de reproduire exactement la même séquence de nombres “aléatoires” à chaque exécution. Construction Script : Utiliser le Construction Script plutôt que le Begin Play pour générer vos éléments dès l’édition dans le viewport, permettant un retour visuel immédiat. Optimisation avec Instanced Static Meshes : Au lieu de spawner des milliers d’acteurs individuels (très coûteux en ressources), utilisez les Instanced Static Meshes. Unreal ne calculera qu’un seul mesh et se contentera de dupliquer ses données de transformation (position, rotation, échelle). Contrôle spatial : En utilisant la position (Actor Location) comme base pour générer votre Seed, vous pouvez créer un monde infini où chaque “tuile” générée est unique mais déterministe. Ce qui reste d’actualité aujourd’hui Bien que cet article se base sur une approche classique sous Unreal Engine 4, les principes fondamentaux restent parfaitement valables pour les versions plus récentes (UE5) :\nL’importance du déterminisme : Que vous utilisiez des Blueprints ou le système PCG (Procedural Content Generation) d’Unreal Engine 5, la notion de Seed reste le standard pour assurer la cohérence des mondes générés. La gestion des performances : L’instanciation reste la méthode reine pour le rendu de grandes quantités d’objets (arbres, rochers, herbes). Le passage aux Nanite Instances dans UE5 n’a fait que renforcer cette logique d’optimisation. Le flux de travail : La séparation entre la logique de génération (le script) et les données de rendu (les instances) est une bonne pratique d’architecture logicielle qui facilite le débogage et l’itération rapide. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "La génération procédurale est un pilier fondamental pour créer des mondes vastes et dynamiques. Cependant, le véritable défi ne réside pas dans l’aléatoire pur, mais dans sa maîtrise. Comment garantir qu’un joueur puisse retrouver les mêmes éléments s’il revient sur ses pas ? Comment générer des milliers d’objets sans faire s’effondrer les performances de votre jeu ?\nDans cet article, nous explorons l’utilisation des Seeds (graines) et des Instanced Static Meshes pour créer des environnements optimisés et cohérents sous Unreal Engine 4.",
+    "tags": [
+      "Unreal Engine 4",
+      "Procedural Generation",
+      "Blueprints",
+      "Optimization"
+    ],
+    "title": "Maîtriser la génération procédurale dans Unreal Engine 4 : Le guide du Seed",
+    "uri": "/unreal-engine-4/maitriser-generation-procedurale-unreal-engine-seed/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
     "content": "Cette archive regroupe une série de tutoriels didactiques essentiels pour comprendre et créer des systèmes de matériaux complexes au sein d’Unreal Engine.\nNotions clés abordées Éditeur de Matériaux (Material Editor) : Apprentissage de l’interface nodale pour la construction de shaders personnalisés. Canaux de sortie (Main Attributes) : Utilisation pratique des entrées Base Color, Metallic, Roughness et Normal map. Matériaux Instanciés (Material Instances) : Méthodologie pour optimiser les performances et permettre des variations visuelles sans dupliquer les shaders. Fonctions de Matériaux : Création de blocs logiques réutilisables pour simplifier les réseaux de nœuds complexes. Texture Sampling : Gestion des coordonnées UV et des paramètres de filtrage pour une qualité de rendu optimale. Ce qui reste d’actualité aujourd’hui La logique de rendu physique (PBR - Physically Based Rendering) enseignée dans ces tutoriels est toujours le standard absolu de l’industrie. Même avec l’arrivée des fonctionnalités de pointe comme Lumen ou les shaders de type “Nanite-ready”, la structure de base d’un matériau Unreal n’a pas varié. Comprendre comment mélanger des textures, utiliser des masques de rugosité et manipuler les instances reste une compétence indispensable pour tout artiste technique. Ces fondamentaux vous permettront de créer des surfaces crédibles dans n’importe quel environnement de jeu moderne, quel que soit le moteur utilisé.\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Cette archive regroupe une série de tutoriels didactiques essentiels pour comprendre et créer des systèmes de matériaux complexes au sein d’Unreal Engine.\nNotions clés abordées Éditeur de Matériaux (Material Editor) : Apprentissage de l’interface nodale pour la construction de shaders personnalisés. Canaux de sortie (Main Attributes) : Utilisation pratique des entrées Base Color, Metallic, Roughness et Normal map. Matériaux Instanciés (Material Instances) : Méthodologie pour optimiser les performances et permettre des variations visuelles sans dupliquer les shaders. Fonctions de Matériaux : Création de blocs logiques réutilisables pour simplifier les réseaux de nœuds complexes. Texture Sampling : Gestion des coordonnées UV et des paramètres de filtrage pour une qualité de rendu optimale. Ce qui reste d’actualité aujourd’hui La logique de rendu physique (PBR - Physically Based Rendering) enseignée dans ces tutoriels est toujours le standard absolu de l’industrie. Même avec l’arrivée des fonctionnalités de pointe comme Lumen ou les shaders de type “Nanite-ready”, la structure de base d’un matériau Unreal n’a pas varié. Comprendre comment mélanger des textures, utiliser des masques de rugosité et manipuler les instances reste une compétence indispensable pour tout artiste technique. Ces fondamentaux vous permettront de créer des surfaces crédibles dans n’importe quel environnement de jeu moderne, quel que soit le moteur utilisé.",
     "tags": [
@@ -2639,6 +2758,20 @@ var relearn_searchindex = [
     ],
     "title": "Maîtriser les Matériaux dans Unreal Engine",
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "Dans cet article, nous explorons comment créer des déformations complexes sur vos modèles 3D en utilisant les Shape Keys de Blender, pour ensuite les animer dans Unreal Engine 4 via les Morph Targets. Cette technique est idéale pour les expressions faciales, les transformations d’objets ou les animations organiques.\nRésumé du processus Blender (Shape Keys) : Création de la forme de base (Basis) et des variantes de formes (Key 1, Key 2…). Utilisation du mode Object pour définir les clés et du mode Edit pour sculpter les déformations. Exportation : Export au format FBX en s’assurant de bien sélectionner l’objet. Importation Unreal Engine : Import en tant que Skeletal Mesh (même sans squelette). Il est crucial de cocher l’option Import Morph Targets dans les paramètres d’importation. Implémentation : Utilisation d’une Timeline dans le Blueprint de l’acteur pour piloter la valeur (de 0 à 1) de la Morph Target via le nœud Set Morph Target. Matériaux : Ne pas oublier de cocher l’option “Use With Morph Targets” dans les détails du matériau pour éviter les artefacts visuels lors de la déformation. Ce qui reste d’actualité aujourd’hui Bien que cet article se base sur une version spécifique d’Unreal Engine 4 (la 4.19), les principes fondamentaux restent parfaitement valables pour les versions actuelles d’Unreal Engine 5 :\nCompatibilité des formats : Le workflow Blender vers Unreal via FBX reste le standard industriel pour le transfert de données de maillage avec morphing. Gestion des noms : La nomenclature est toujours capitale. Unreal Engine identifie les Morph Targets par leur nom exact défini dans Blender ; toute erreur de casse ou d’orthographe empêchera l’animation de fonctionner. Performance : Les Morph Targets sont toujours une solution très performante pour des animations locales sans avoir besoin de créer des chaînes d’os complexes (rigging). Le piège du Material : L’option “Use With Morph Targets” dans l’éditeur de matériaux est une étape souvent oubliée qui reste nécessaire pour que le shader calcule correctement les normales lors de la déformation du mesh. Stabilité : Le bug de “scintillement” (flickering) mentionné dans la vidéo était spécifique aux versions 4.17/4.18. Aujourd’hui, les versions modernes d’Unreal gèrent nativement et de manière stable les Morph Targets complexes. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet article, nous explorons comment créer des déformations complexes sur vos modèles 3D en utilisant les Shape Keys de Blender, pour ensuite les animer dans Unreal Engine 4 via les Morph Targets. Cette technique est idéale pour les expressions faciales, les transformations d’objets ou les animations organiques.\nRésumé du processus Blender (Shape Keys) : Création de la forme de base (Basis) et des variantes de formes (Key 1, Key 2…). Utilisation du mode Object pour définir les clés et du mode Edit pour sculpter les déformations. Exportation : Export au format FBX en s’assurant de bien sélectionner l’objet. Importation Unreal Engine : Import en tant que Skeletal Mesh (même sans squelette). Il est crucial de cocher l’option Import Morph Targets dans les paramètres d’importation. Implémentation : Utilisation d’une Timeline dans le Blueprint de l’acteur pour piloter la valeur (de 0 à 1) de la Morph Target via le nœud Set Morph Target. Matériaux : Ne pas oublier de cocher l’option “Use With Morph Targets” dans les détails du matériau pour éviter les artefacts visuels lors de la déformation. Ce qui reste d’actualité aujourd’hui Bien que cet article se base sur une version spécifique d’Unreal Engine 4 (la 4.19), les principes fondamentaux restent parfaitement valables pour les versions actuelles d’Unreal Engine 5 :",
+    "tags": [
+      "Blender",
+      "Animation",
+      "Morph Targets",
+      "Shape Keys",
+      "Tutoriel"
+    ],
+    "title": "Maîtriser les Morph Targets (Shape Keys) dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/maitriser-morph-targets-shape-keys-unreal-engine-4/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2663,6 +2796,28 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Menu",
     "uri": "/tags/menu/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "Travailler en équipe sur un projet Unreal Engine 4 nécessite une gestion rigoureuse des fichiers pour éviter les conflits et les pertes de données. Dans ce tutoriel, nous allons voir comment configurer un système de contrôle de version (Versioning) avec Subversion (SVN) et TortoiseSVN, afin de synchroniser votre projet entre plusieurs collaborateurs.\nRésumé de la procédure Installation : Téléchargez et installez TortoiseSVN sur votre machine Windows. Préparation du dossier : Créez un dossier vide, effectuez un “SVN Checkout” en renseignant l’URL de votre dépôt (repository). Intégration du projet : Copiez les fichiers essentiels de votre projet (Config/, Content/, .uproject, et Source/ si C++) dans ce dossier. Ajout au serveur : Utilisez le menu contextuel TortoiseSVN (Add) pour préparer les fichiers, puis Commit pour les envoyer sur le serveur. Connexion dans UE4 : Dans l’éditeur Unreal, allez dans Source Control \u003e Connect to Source Control, sélectionnez “Subversion”, renseignez vos identifiants et l’URL du dépôt. Workflow quotidien : Utilisez le bouton “Source Control” dans l’éditeur pour faire des Submit (envoi) et des Checkout (récupération des modifications des autres). Ce qui reste d’actualité aujourd’hui Bien que les outils de versioning aient évolué (avec une montée en puissance de Git via LFS ou Perforce pour les gros projets AAA), les principes fondamentaux expliqués ici restent parfaitement valables pour Unreal Engine :\nLe contrôle de version est indispensable : Même en solo, avoir un historique de ses modifications permet de revenir en arrière en cas de corruption de projet. Exclusion des fichiers temporaires : Il est toujours crucial de ne pas versionner les dossiers Intermediate, Saved et DerivedDataCache, car ils sont générés automatiquement et alourdiraient inutilement votre dépôt. Communication via les messages de commit : La règle d’or reste la même : rédigez des messages explicites lors de vos soumissions pour que vos collaborateurs comprennent les changements effectués. Verrouillage des fichiers : Le concept de “Checkout” dans Unreal Engine permet de marquer un fichier comme étant en cours de modification, évitant ainsi que deux personnes ne travaillent sur le même Blueprint simultanément, ce qui est une limitation majeure des fichiers binaires dans les moteurs de jeu. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Travailler en équipe sur un projet Unreal Engine 4 nécessite une gestion rigoureuse des fichiers pour éviter les conflits et les pertes de données. Dans ce tutoriel, nous allons voir comment configurer un système de contrôle de version (Versioning) avec Subversion (SVN) et TortoiseSVN, afin de synchroniser votre projet entre plusieurs collaborateurs.\nRésumé de la procédure Installation : Téléchargez et installez TortoiseSVN sur votre machine Windows. Préparation du dossier : Créez un dossier vide, effectuez un “SVN Checkout” en renseignant l’URL de votre dépôt (repository). Intégration du projet : Copiez les fichiers essentiels de votre projet (Config/, Content/, .uproject, et Source/ si C++) dans ce dossier. Ajout au serveur : Utilisez le menu contextuel TortoiseSVN (Add) pour préparer les fichiers, puis Commit pour les envoyer sur le serveur. Connexion dans UE4 : Dans l’éditeur Unreal, allez dans Source Control \u003e Connect to Source Control, sélectionnez “Subversion”, renseignez vos identifiants et l’URL du dépôt. Workflow quotidien : Utilisez le bouton “Source Control” dans l’éditeur pour faire des Submit (envoi) et des Checkout (récupération des modifications des autres). Ce qui reste d’actualité aujourd’hui Bien que les outils de versioning aient évolué (avec une montée en puissance de Git via LFS ou Perforce pour les gros projets AAA), les principes fondamentaux expliqués ici restent parfaitement valables pour Unreal Engine :",
+    "tags": [
+      "Unreal Engine 4",
+      "SVN",
+      "TortoiseSVN",
+      "Version Control",
+      "GameDev"
+    ],
+    "title": "Mise en place du contrôle de version (SVN) sur Unreal Engine 4",
+    "uri": "/unreal-engine-4/mise-en-place-controle-version-svn-unreal-engine-4/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Morph Targets",
+    "uri": "/tags/morph-targets/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2697,6 +2852,27 @@ var relearn_searchindex = [
     "uri": "/tags/optimisation/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "Dans cet article, nous explorons l’utilisation des Structures dans Unreal Engine 4. Si vous avez déjà eu l’impression de vous perdre dans une multitude de variables pour gérer des objets similaires (comme dans un jeu de type clicker), cet outil est fait pour vous. Les structures permettent de regrouper plusieurs variables sous une seule entité, simplifiant ainsi la gestion de vos données et rendant vos Blueprints beaucoup plus lisibles et maintenables.\nRésumé des points clés Qu’est-ce qu’une structure ? C’est un objet personnalisé qui contient un ensemble de variables de types variés (float, string, bool, etc.). Pourquoi les utiliser ? Elles évitent la multiplication inutile de variables individuelles et facilitent la mise à jour globale de vos données. Création : Il suffit d’un clic droit dans votre Content Browser \u003e Blueprint \u003e Structure. Utilisation : Vous pouvez créer des tableaux de structures pour gérer des listes d’objets (ex: une liste de vaisseaux avec leurs coûts et propriétés). Manipulation : L’utilisation des nœuds “Break” et “Make” (ou le “Split Struct Pin”) permet d’accéder facilement aux données contenues dans la structure. Limitation : Il est actuellement complexe d’intégrer directement des références d’objets (comme des champs de texte d’un widget) au sein d’une structure. Ce qui reste d’actualité aujourd’hui Bien que cet article se base sur une version antérieure d’Unreal Engine, les principes fondamentaux des structures restent un pilier du développement sous UE4 et UE5 :\nArchitecture de données : Le concept de “Data-Driven Design” reste la norme. Utiliser des structures est la première étape vers l’utilisation des Data Tables, qui permettent de gérer des milliers d’objets via des fichiers CSV ou JSON. Maintenance : La structure permet toujours de modifier une propriété (ex: ajouter un champ “Poids” ou “Rareté”) sur tous vos objets simultanément en une seule modification, ce qui reste le meilleur moyen d’éviter la dette technique. Organisation : La séparation entre la donnée (la structure) et l’affichage (le widget) est une bonne pratique d’architecture logicielle qui facilite le débogage. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet article, nous explorons l’utilisation des Structures dans Unreal Engine 4. Si vous avez déjà eu l’impression de vous perdre dans une multitude de variables pour gérer des objets similaires (comme dans un jeu de type clicker), cet outil est fait pour vous. Les structures permettent de regrouper plusieurs variables sous une seule entité, simplifiant ainsi la gestion de vos données et rendant vos Blueprints beaucoup plus lisibles et maintenables.",
+    "tags": [
+      "Unreal Engine 4",
+      "Blueprints",
+      "Optimisation",
+      "GameDev"
+    ],
+    "title": "Optimisez vos Blueprints avec les Structures dans Unreal Engine 4",
+    "uri": "/unreal-engine-4/optimiser-blueprints-unreal-engine-4-structures/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Optimization",
+    "uri": "/tags/optimization/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
     "content": "",
     "description": "",
@@ -2713,6 +2889,27 @@ var relearn_searchindex = [
     "uri": "/tags/paint.net/index.html"
   },
   {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tutoriels Unreal Engine 4",
+    "content": "Travailler sur un moteur de jeu demande une aisance totale avec ses outils. Si vous utilisez un clavier AZERTY, la configuration par défaut d’Unreal Engine 4 (basée sur le QWERTY) peut rapidement devenir un frein à votre productivité. Dans ce tutoriel, nous allons voir comment remapper les touches de navigation du viewport pour retrouver vos réflexes habituels.\nRésumé de la manipulation Accès aux réglages : Allez dans Edit \u003e Editor Preferences. Recherche : Tapez “Keyboard Shortcuts” dans la barre de recherche. Catégorie : Déroulez la section Viewport Navigation. Mapping : Modifiez les touches Forward, Backward, Left, Right ainsi que les fonctions d’élévation (Up/Down) et de zoom. Gestion des conflits : Unreal Engine vous avertira si une touche est déjà utilisée ; vous pourrez alors choisir de l’écraser (Override) ou d’annuler. Test : Maintenez le clic droit dans le viewport pour activer la navigation et valider vos nouveaux raccourcis. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient évolué, la gestion des raccourcis clavier reste une pierre angulaire de l’expérience utilisateur.\nPersonnalisation : La flexibilité offerte par le menu Editor Preferences est toujours présente et constitue la méthode standard pour adapter l’interface à n’importe quel layout de clavier (AZERTY, Dvorak, etc.). Workflow : Le principe de maintenir le clic droit pour naviguer dans le viewport est resté inchangé, garantissant que vos habitudes acquises sur UE4 seront immédiatement transposables sur les versions plus récentes. Productivité : Apprendre à configurer son environnement dès le début est un gain de temps précieux qui évite la fatigue liée aux changements de langue système (Alt+Maj) en plein développement. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Travailler sur un moteur de jeu demande une aisance totale avec ses outils. Si vous utilisez un clavier AZERTY, la configuration par défaut d’Unreal Engine 4 (basée sur le QWERTY) peut rapidement devenir un frein à votre productivité. Dans ce tutoriel, nous allons voir comment remapper les touches de navigation du viewport pour retrouver vos réflexes habituels.\nRésumé de la manipulation Accès aux réglages : Allez dans Edit \u003e Editor Preferences. Recherche : Tapez “Keyboard Shortcuts” dans la barre de recherche. Catégorie : Déroulez la section Viewport Navigation. Mapping : Modifiez les touches Forward, Backward, Left, Right ainsi que les fonctions d’élévation (Up/Down) et de zoom. Gestion des conflits : Unreal Engine vous avertira si une touche est déjà utilisée ; vous pourrez alors choisir de l’écraser (Override) ou d’annuler. Test : Maintenez le clic droit dans le viewport pour activer la navigation et valider vos nouveaux raccourcis. Ce qui reste d’actualité aujourd’hui Bien que les versions récentes d’Unreal Engine (UE5) aient évolué, la gestion des raccourcis clavier reste une pierre angulaire de l’expérience utilisateur.",
+    "tags": [
+      "Unreal Engine 4",
+      "Configuration",
+      "Viewport",
+      "Productivité"
+    ],
+    "title": "Passer son viewport Unreal Engine 4 en AZERTY",
+    "uri": "/unreal-engine-4/passer-son-viewport-unreal-engine-4-en-azerty/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Pièges",
+    "uri": "/tags/pi%C3%A8ges/index.html"
+  },
+  {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
     "content": "",
     "description": "",
@@ -2725,8 +2922,32 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Post-Process",
+    "uri": "/tags/post-process/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: PostProcessVolume",
     "uri": "/tags/postprocessvolume/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Procedural Generation",
+    "uri": "/tags/procedural-generation/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Productivité",
+    "uri": "/tags/productivit%C3%A9/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",
@@ -2781,6 +3002,14 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Shape Keys",
+    "uri": "/tags/shape-keys/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Shmup",
     "uri": "/tags/shmup/index.html"
   },
@@ -2805,8 +3034,24 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Spline",
+    "uri": "/tags/spline/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Static Mesh",
     "uri": "/tags/static-mesh/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: SVN",
+    "uri": "/tags/svn/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo",
@@ -2845,6 +3090,14 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: TortoiseSVN",
+    "uri": "/tags/tortoisesvn/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Trigger",
     "uri": "/tags/trigger/index.html"
   },
@@ -2855,6 +3108,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Tutoriel",
     "uri": "/tags/tutoriel/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Tutoriels",
+    "uri": "/categories/tutoriels/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo",
@@ -2962,6 +3223,22 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Variables",
     "uri": "/tags/variables/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Version Control",
+    "uri": "/tags/version-control/index.html"
+  },
+  {
+    "breadcrumb": "Créer un jeu vidéo \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: VFX",
+    "uri": "/tags/vfx/index.html"
   },
   {
     "breadcrumb": "Créer un jeu vidéo \u003e Tags",

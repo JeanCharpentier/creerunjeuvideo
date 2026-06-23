@@ -50,5 +50,12 @@
       <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/preparation-second-niveau-optimisation-ui-ue4/index.html</guid>
       <description>Dans cet épisode, nous faisons une pause dans la complexité technique pour préparer la structure de notre second niveau. L’objectif est de valider que nos systèmes de gameplay (checkpoints, zones de mort, collecte de pièces) sont modulaires et réutilisables. Nous en profitons également pour refactoriser l’affichage de notre interface utilisateur (UI) afin de la rendre globale et automatique.&#xA;Résumé de l’épisode Modularité des assets : Création d’un second niveau en réutilisant les blueprints existants (pièces, checkpoints, zones de kill). Refactorisation de l’UI : Déplacement de la logique d’affichage du widget (Create Widget / Add to Viewport) du Level Blueprint vers le Character Blueprint. Avantage de l’approche : En plaçant l’UI dans le personnage, celle-ci s’initialise automatiquement à chaque chargement de niveau, évitant de dupliquer du code dans chaque Level Blueprint. Constat technique : Le score actuel est local au niveau. Le passage d’un niveau à l’autre réinitialise les variables, ce qui introduit la nécessité d’un système de persistance de données (GameInstance). Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux abordés restent des piliers du développement sous Unreal Engine 5 :</description>
     </item>
+    <item>
+      <title>Optimisez vos Blueprints avec les Structures dans Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/optimiser-blueprints-unreal-engine-4-structures/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/optimiser-blueprints-unreal-engine-4-structures/index.html</guid>
+      <description>Dans cet article, nous explorons l’utilisation des Structures dans Unreal Engine 4. Si vous avez déjà eu l’impression de vous perdre dans une multitude de variables pour gérer des objets similaires (comme dans un jeu de type clicker), cet outil est fait pour vous. Les structures permettent de regrouper plusieurs variables sous une seule entité, simplifiant ainsi la gestion de vos données et rendant vos Blueprints beaucoup plus lisibles et maintenables.</description>
+    </item>
   </channel>
 </rss>

@@ -1,5 +1,6 @@
 ---
-title: "Développement d'un jeu de plateforme 3D sur Unreal Engine 4"
+title: "Série: Développement d'un jeu de plateforme 3D sur Unreal Engine 4"
+weight: 1
 date: 2026-06-17
 categories: ["Archive"]
 tags: ['Unreal Engine 4', '3D Platformer', 'Débutant', 'Tutoriel', 'Gamedev']
