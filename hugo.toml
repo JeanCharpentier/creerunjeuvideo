@@ -4,6 +4,8 @@ title = 'Créer un jeu vidéo'
 
 theme = 'hugo-theme-relearn'
 
+enableRobotsTXT = true
+
 [params]
   themeVariant = ['relearn-dark', 'relearn-light']
 

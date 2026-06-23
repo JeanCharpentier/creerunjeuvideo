@@ -226,7 +226,7 @@
       <description>Dans ce tutoriel, nous explorons la création d’un système de piège “trappe” modulaire sous Unreal Engine 4. L’objectif est de mettre en place une mécanique de plateforme qui s’effondre sous le poids du joueur lorsqu’il s’en approche, tout en conservant une structure flexible pour vos futurs niveaux.&#xA;Résumé de la mise en place Création d’un Blueprint Master (BPM_Trap) : Utilisation d’un acteur parent pour centraliser la logique et permettre une réutilisation facile. Hiérarchie des composants : Utilisation d’un support fixe et d’une plaque mobile (Static Meshes), couplés à une Box Collision pour la détection. Physique et Contraintes : Utilisation du composant Physics Constraint pour définir un point de pivot réaliste entre le support et la trappe. Logique de déclenchement : Utilisation du nœud OnComponentBeginOverlap pour activer le Simulate Physics sur la plaque uniquement lorsque le joueur entre dans la zone. Modularité : Création de “Child Blueprints” pour varier les tailles et les formes des pièges sans dupliquer le code. Ce qui reste d’actualité aujourd’hui Bien que cet article se base sur une version plus ancienne d’Unreal Engine, les principes fondamentaux restent parfaitement valables pour les versions actuelles (UE5) :</description>
     </item>
     <item>
-      <title>Créer un Système de Build complet dans Unreal Engine 5</title>
+      <title>Série: Créer un Système de Build complet dans Unreal Engine 5</title>
       <link>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</guid>
