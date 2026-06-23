@@ -219,7 +219,7 @@
       <description>Dans cet épisode, nous allons améliorer l’aspect visuel de nos pièces en intégrant un système d’éclairage dynamique. L’objectif est double : rendre nos objets plus attrayants visuellement et guider naturellement le joueur à travers le niveau en créant un chemin lumineux clair.&#xA;Résumé de l’implémentation Accès au Blueprint : Navigation dans le dossier zone pour ouvrir le blueprint zone_pièce. Ajout de composant : Insertion d’un composant Point Light au sein de l’acteur. Configuration : Ajustement de la couleur (teinte orangée) et de l’intensité lumineuse (réglée à 1000) dans les détails du composant. Test en temps réel : Vérification immédiate dans le viewport du niveau pour valider l’impact visuel. Logique de jeu : Observation du comportement dynamique où la lumière disparaît logiquement lorsque la pièce est ramassée par le joueur. Ce qui reste d’actualité aujourd’hui Bien que cet épisode se concentre sur Unreal Engine 4, les principes fondamentaux restent parfaitement transposables aux versions plus récentes (UE5) :</description>
     </item>
     <item>
-      <title>Série : Créer un Système de Build complet dans Unreal Engine 5</title>
+      <title>Créer un Système de Build complet dans Unreal Engine 5</title>
       <link>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</guid>

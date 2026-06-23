@@ -695,6 +695,13 @@
       <description>Cette archive contient une série de tutoriels pédagogiques conçus pour vous guider dans la conception et le développement complet d’un jeu de type Shoot ’em Up (Shmup) sous GameMaker.&#xA;Notions clés abordées Gestion du défilement (Scrolling) : Mise en place d’un scrolling vertical ou horizontal fluide pour le décor. Système de tir et de projectiles : Création d’objets projectiles, gestion de leur vitesse, des trajectoires et de la destruction automatique hors écran (déallocation de mémoire). Intelligence Artificielle simple : Programmation des comportements des ennemis : patterns de déplacement, vagues d’apparitions et gestion des collisions. Système de score et UI : Mise en place d’un compteur de points en temps réel et d’une barre de vie simple. Gestion des collisions : Optimisation des masques de collision pour une expérience de jeu précise et réactive. Ce qui reste d’actualité aujourd’hui Bien que les outils aient évolué, la logique mathématique et structurelle derrière un Shmup reste une constante dans le développement 2D. La gestion des vecteurs de mouvement, l’optimisation des objets dans une “room” et la création de patterns d’ennemis sont des compétences fondamentales qui transcendent les versions du logiciel. Maîtriser ces concepts sur cette archive vous donnera une longueur d’avance pour comprendre n’importe quel moteur 2D moderne. Les principes de “game feel” et de fluidité de tir enseignés ici sont toujours les piliers de ce genre intemporel.</description>
     </item>
     <item>
+      <title>Développement d&#39;un jeu de plateforme 3D sur Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/index.html</guid>
+      <description>Cette archive contient une série de tutoriels pédagogiques conçus pour accompagner les grands débutants dans la création de leur premier jeu de plateforme en 3D avec Unreal Engine 4.&#xA;Notions clés abordées Introduction à l’interface : Prise en main de l’éditeur, navigation dans le viewport et manipulation des acteurs 3D dans l’espace. Blueprints (Visual Scripting) : Apprentissage de la logique de programmation sans code pour créer les interactions du personnage. Mouvement et Character Controller : Mise en place du saut, de la gestion de la gravité et des déplacements fluides du personnage dans un environnement 3D. Conception de niveaux (Level Design) : Utilisation des outils de géométrie, placement des plateformes et création de zones de jeu. Gestion des colliders et triggers : Programmation d’objets interactifs (pièces à ramasser, zones de checkpoint, zones mortelles). Ce qui reste d’actualité aujourd’hui Bien que l’industrie soit passée à Unreal Engine 5, les fondamentaux enseignés dans cette série restent le socle de toute production 3D. Le système de Blueprints, qui est le cœur de cet apprentissage, est resté quasi identique. La compréhension de la hiérarchie des composants d’un personnage, la gestion des collisions et la logique de programmation visuelle sont des compétences strictement transférables. En maîtrisant ces bases sur UE4, vous aurez une compréhension intuitive et solide pour migrer vers les moteurs les plus récents et créer des jeux complexes avec confiance.</description>
+    </item>
+    <item>
       <title>Développement d&#39;un Top-Down Shooter</title>
       <link>http://localhost:1313/construct-2/tuto-top-down-shooter/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -723,18 +730,18 @@
       <description>Une série complète pour débuter la création de jeux vidéo 2D, du prototypage à la publication.</description>
     </item>
     <item>
+      <title>Créer un Système de Build complet dans Unreal Engine 5</title>
+      <link>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</guid>
+      <description>Bienvenue sur la page d’accueil de notre série de tutoriels consacrée à la création d’un système de construction modulaire (style Fortnite ou Valheim) de A à Z.&#xA;Cette série, issue de mes archives et mise au goût du jour pour Unreal Engine 5, vous guidera à travers l’élaboration complète des mécaniques de placement, de sélection et de destruction de structures. Que vous soyez débutant ou développeur intermédiaire, vous y découvrirez des algorithmes robustes et une logique de programmation transposables à n’importe quel projet de jeu de survie ou de gestion.</description>
+    </item>
+    <item>
       <title>Mise à niveau Unreal Engine 5 : Adapter son Projet au Nouveau Système d&#39;Enhanced Input</title>
       <link>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</link>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</guid>
       <description>Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.&#xA;Dans cet épisode de transition indispensable pour la reprise de notre mini-série, nous découvrons comment moderniser la gestion des entrées utilisateur. L’ancien système d’Inputs d’Unreal Engine 4 (Action/Axis Mappings) étant obsolète, nous apprenons à configurer le puissant framework Enhanced Input d’Unreal Engine 5.</description>
-    </item>
-    <item>
-      <title>Série : Créer un Système de Build complet dans Unreal Engine 5</title>
-      <link>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</guid>
-      <description>Bienvenue sur la page d’accueil de notre série de tutoriels consacrée à la création d’un système de construction modulaire (style Fortnite ou Valheim) de A à Z.&#xA;Cette série, issue de mes archives et mise au goût du jour pour Unreal Engine 5, vous guidera à travers l’élaboration complète des mécaniques de placement, de sélection et de destruction de structures. Que vous soyez débutant ou développeur intermédiaire, vous y découvrirez des algorithmes robustes et une logique de programmation transposables à n’importe quel projet de jeu de survie ou de gestion.</description>
     </item>
   </channel>
 </rss>

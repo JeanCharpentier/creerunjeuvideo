@@ -629,6 +629,10 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/3d-platformer/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/actor/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -722,6 +726,10 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/d%C3%A9veloppement/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -933,10 +941,6 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/index.html</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/static-mesh/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -1145,6 +1149,14 @@
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/enhanced-input/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
@@ -1170,14 +1182,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/index.html</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/index.html</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url>
   <url>
