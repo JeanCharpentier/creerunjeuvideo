@@ -10,7 +10,7 @@ date: 2026-06-24
 ---
 
 ### Pourquoi ce site ?
-Nous sommes le 26 décembre 1999, j'ai 16 ans, et aujourd'hui mes parents s'apprêtent à ouvrir une porte vers un autre univers. Ils m'achètent une Dreamcast *(meilleure console EVER! Tu n'es pas d'accord ? On en discute en live sur **[Twitch](https://www.twitch.tv/levieuxankh)**)* et j'ai enfin ma première console de jeux vidéo.
+Nous sommes le 26 décembre 1999, j'ai 16 ans, et aujourd'hui mes parents s'apprêtent à ouvrir une porte vers un autre univers. Ils m'achètent une Dreamcast *(meilleure console EVER! Tu n'es pas d'accord ? On en discute en live sur **[Twitch](https://www.twitch.tv/levieuxankh)** et j'ai enfin ma première console de jeux vidéo.
 
 Quelques mois plus tard, nous achetons d'occasion un PC. Premier reflexe, installer Fallout. Deuxième reflexe, le connecter à Internet. C'est la révolution, l'ensemble des savoirs de l'humanité à portée de clic.
 
@@ -21,7 +21,7 @@ Et c'est à partir de ce moment que j'ai voulu partager mes découvertes et conn
 
 En 2009 je me lance sur mes deux premiers tutoriels *(disparus aujourd'hui)*, sur Blender 3D.
 
-Et aujourd'hui, ce sont plus de 500 vidéos en français qui sont disponibles sur ce site pour répondre à cette question que je me suis posée il y a 20 ans : **Comment on fabrique un jeu vidéo ?**.
+Et aujourd'hui, ce sont plus de 500 vidéos en français qui sont disponibles sur ce site et ma **[chaîne Youtube](https://www.youtube.com/@creerunjeuvideo)** pour répondre à cette question que je me suis posée il y a 20 ans : **Comment on fabrique un jeu vidéo ?**.
 
 ### La méthode :
 * **Des explications claires:** Tu ne fais pas que recopier un tuto, tu apprends en même temps.
