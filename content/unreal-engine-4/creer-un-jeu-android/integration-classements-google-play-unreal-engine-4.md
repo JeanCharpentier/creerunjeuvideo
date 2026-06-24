@@ -8,7 +8,7 @@ tags: ['Android', 'Google Play Services', 'Leaderboard', 'Mobile', 'Blueprints']
 
 Dans cet épisode, nous allons franchir une étape cruciale pour la rétention de vos joueurs : l'intégration des classements (Leaderboards) via les services Google Play. Apprendre à configurer ces outils permet non seulement de créer une compétition saine entre vos joueurs, mais aussi d'ajouter une rejouabilité infinie à vos projets.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "gaL-CpfAp_Q" >}}
 
 ### Résumé de la mise en place
 *   **Configuration Console Google Play :** Création du classement, définition du format (chiffres), choix de l'ordre (score le plus élevé) et activation de la protection contre la falsification.

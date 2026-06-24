@@ -8,7 +8,7 @@ tags: ['Unreal Engine 4', 'Android', 'Packaging', 'Google Play', 'Mobile']
 
 Dans cet épisode, nous abordons une étape cruciale pour tout développeur mobile : la préparation de votre projet Unreal Engine 4 pour une mise en ligne sur le Google Play Store. Avant de configurer les services Google Play (leaderboards, succès), il est impératif de s'assurer que votre build fonctionne parfaitement sur un appareil réel.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "fOtUoY_BYXQ" >}}
 
 ### Résumé des étapes clés
 *   **Vérification matérielle :** Connectez votre appareil Android (tablette ou smartphone) et testez le lancement du jeu via l'éditeur pour valider l'absence d'erreurs dans l'Output Log.

@@ -8,7 +8,7 @@ tags: ['Blueprints', 'GameDev', 'Tutoriel', 'Gameplay']
 
 Dans cet épisode, nous passons à la phase de programmation de notre "BP_Tronc". L'objectif est de donner vie à cet obstacle en le faisant tourner sur lui-même tout en le faisant avancer vers le joueur. Nous aborderons également l'optimisation des références et la configuration précise des collisions pour garantir une expérience de jeu fluide.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "k4l0ZzyRPpY" >}}
 
 ### Résumé des étapes clés
 *   **Initialisation propre :** Utilisation du `Event Begin Play` pour caster le joueur et stocker sa référence dans une variable dédiée. Cela évite de répéter l'opération à chaque frame.

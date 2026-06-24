@@ -8,7 +8,7 @@ tags: ['Android', 'SDK', 'CodeWorks', 'Développement Mobile']
 
 Dans cet épisode, nous abordons une étape cruciale pour tout développeur souhaitant porter ses projets sur mobile : la configuration de l'environnement Android. Pour qu'Unreal Engine puisse compiler vos jeux vers des appareils Android, il ne suffit pas d'avoir le moteur ; il faut installer le kit de développement logiciel (SDK) et les outils associés.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "51T5BGRho6M" >}}
 
 ### Résumé de la procédure d'installation
 *   **Localisation des outils :** Accédez au répertoire d'installation d'Unreal Engine (généralement dans `C:\Program Files\Epic Games\UE_4.xx\Engine\Extras\AndroidWorks`).

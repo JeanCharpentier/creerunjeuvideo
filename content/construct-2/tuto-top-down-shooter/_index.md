@@ -1,5 +1,5 @@
 ---
-title: "Développement d'un Top-Down Shooter"
+title: "Série: Développement d'un Top-Down Shooter"
 date: 2026-06-17
 categories: ["Archive"]
 tags: ['Construct 2', 'Top-Down Shooter', 'No-code', 'Tutoriel', 'Gamedev']

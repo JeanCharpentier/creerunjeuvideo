@@ -8,7 +8,7 @@ tags: ['Blueprint', 'GameDev', 'Spawner', 'Tutoriel']
 
 Dans cet épisode, nous allons automatiser l'apparition de nos obstacles. Plutôt que de placer manuellement chaque tronc dans le niveau, nous allons créer un "Spawner" (générateur) dédié. Ce système nous permettra de contrôler précisément le rythme et la position des objets, garantissant ainsi une expérience de jeu équitable pour tous les joueurs, essentielle pour un système de classement (leaderboard).
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "XS97TG91xvQ" >}}
 
 ### Résumé de la mise en place
 *   **Création du Blueprint Spawner :** Création d'un nouvel acteur nommé `BP_Spawner`. Cet objet sera invisible en jeu, mais servira de point d'ancrage logique.

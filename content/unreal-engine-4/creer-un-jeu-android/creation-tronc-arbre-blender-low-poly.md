@@ -8,7 +8,7 @@ tags: ['Blender', 'Modélisation', 'Low Poly', 'Tutoriel']
 
 Dans cet épisode, nous abordons une étape cruciale de la création d'assets pour vos jeux vidéo : la modélisation d'un objet simple, ici un tronc d'arbre, en utilisant les outils de base de Blender. L'objectif est de comprendre le workflow "Low Poly" pour optimiser les performances de votre moteur de jeu.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "vKQ96bAisPk" >}}
 
 ### Résumé de la manipulation
 *   **Ajout d'objet :** Utilisation du raccourci `Shift + A` pour ajouter un cylindre.

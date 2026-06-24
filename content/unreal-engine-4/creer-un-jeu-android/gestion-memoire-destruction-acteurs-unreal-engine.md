@@ -8,7 +8,7 @@ tags: ['Blueprint', 'Optimisation', 'Performance', 'GameDev']
 
 Dans cet épisode, nous abordons une étape cruciale pour la survie de votre projet : l'optimisation de la mémoire. Lorsqu'on génère des objets en continu (comme des ennemis ou des obstacles), il est impératif de nettoyer ceux qui ne sont plus visibles par le joueur. Si vous ne le faites pas, ces acteurs continueront de consommer des ressources processeur et mémoire, menant inévitablement à une chute de framerate, particulièrement sur mobile.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "lfoHehq7aEA" >}}
 
 ### Résumé de la mise en place
 Pour gérer proprement la disparition de nos "Tromps" (obstacles), nous avons mis en place une zone de nettoyage invisible :

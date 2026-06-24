@@ -8,7 +8,7 @@ tags: ['Unreal Engine 4', 'Blender', 'Modélisation 3D', 'Workflow']
 
 Dans cet épisode, nous posons les bases de la création d'assets 3D destinés à Unreal Engine 4 en utilisant Blender. Avant de plonger dans la modélisation pure, il est crucial de maîtriser l'interface et les outils de navigation de base pour gagner en efficacité.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "JR0i_hCAMIA" >}}
 
 ### Résumé de l'épisode
 *   **Navigation 3D :** Utilisation du clic molette pour orbiter autour de l'objet et de la molette pour zoomer/dézoomer.

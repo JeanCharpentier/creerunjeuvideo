@@ -8,7 +8,7 @@ tags: ['Unreal Engine 4', 'Landscape', 'Materials', 'Blueprint', 'GameDev']
 
 Dans cet épisode, nous abordons une étape cruciale pour donner vie à votre environnement : l'habillage de votre terrain. Si un matériau simple suffit pour des objets basiques, le Landscape demande une approche plus dynamique. Nous allons voir comment importer des matériaux complexes via une astuce de copier-coller de nœuds Blueprint et comment configurer le "Layer Painting" pour gérer automatiquement les textures selon l'inclinaison et l'altitude.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "BDMOlOq9nno" >}}
 
 ### Résumé de l'épisode
 *   **Création de base :** Mise en place d'un matériau simple via un `Vector Parameter` pour tester l'application sur le Landscape.

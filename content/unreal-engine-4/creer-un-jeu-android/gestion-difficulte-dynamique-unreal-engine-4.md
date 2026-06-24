@@ -8,7 +8,7 @@ tags: ['GameDev', 'Blueprints', 'Gameplay', 'Progression']
 
 Dans cet épisode, nous allons aborder un aspect crucial de l'expérience utilisateur : la courbe de progression. Pour éviter que votre jeu ne devienne monotone, nous allons implémenter un système de difficulté dynamique qui s'ajuste automatiquement à chaque fin de boucle d'apparition d'ennemis (ou d'objets).
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "9y-iQ9VgWxs" >}}
 
 ### Résumé de la mise en place
 *   **Variable de difficulté :** Création d'une variable de type `Float` dans le `Character` pour stocker le niveau de difficulté actuel.

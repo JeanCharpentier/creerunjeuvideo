@@ -1,48 +1,25 @@
 ---
-title: "Sommaire de la série"
-weight: 0
+title: "Série: Création d'un jeu d'arcade Android : De la modélisation à la publication"
+date: 2026-06-17
+weight: 3
+categories: ["Archive"]
+tags: ['Unreal Engine 4', 'Android', 'Mobile Dev', '3D', 'Tutoriel', 'Gamedev']
 ---
 
-Voici une proposition pour votre introduction :
+Cette archive contient une série complète de tutoriels pédagogiques vous guidant à travers tout le cycle de développement d'un jeu d'arcade optimisé pour Android avec Unreal Engine 4.
 
-« Bienvenue dans cette série consacrée à la création de sites web performants avec le générateur de sites statiques Hugo, appliquée ici à l'univers de l'Unreal Engine 4. À travers ces tutoriels, nous explorerons comment structurer et documenter efficacement vos projets de développement de jeux vidéo. Que vous soyez débutant ou utilisateur expérimenté, ce guide vous accompagnera pas à pas dans la mise en place d'une plateforme technique dédiée à votre expertise. »
+### Notions clés abordées
 
-# Liste des épisodes
+* **Modélisation et Intégration 3D :** Workflow d'importation de assets optimisés pour le mobile depuis un logiciel tiers vers Unreal Engine.
+* **Optimisation Mobile :** Paramétrage des textures, gestion des matériaux complexes et réduction du nombre de draw calls pour garantir un framerate constant.
+* **Input tactile :** Configuration des contrôles tactiles (joysticks virtuels, gestion des événements de clic) pour une expérience mobile intuitive.
+* **Architecture de jeu d'arcade :** Système de scoring, gestion des parties rapides, écrans de game over et persistance des données.
+* **Déploiement Android :** Configuration du SDK/NDK, création des certificats de signature et processus de build pour générer un fichier APK/AAB prêt pour le Google Play Store.
 
-- [Épisode 1](./creer-publier-jeu-android-unreal-engine-4/)
-- [Épisode 2](./installation-visual-studio-unreal-engine-4/)
-- [Épisode 3](./configuration-android-codeworks-unreal-engine-4/)
-- [Épisode 4](./creation-deploiement-projet-android-ue4/)
-- [Épisode 5](./optimisation-mobile-unreal-engine-guide/)
-- [Épisode 6](./introduction-blender-unreal-engine-4/)
-- [Épisode 7](./creation-tronc-arbre-blender-low-poly/)
-- [Épisode 8](./le-depliage-uv-automatique-avec-smart-uv-project/)
-- [Épisode 9](./maitriser-le-depliage-uv-manuel-seams-blender-ue4/)
-- [Épisode 10](./creation-textures-gimp-unreal-engine-4/)
-- [Épisode 11](./preparation-importation-assets-unreal-engine-4/)
-- [Épisode 12](./importer-configurer-assets-3d-unreal-engine-4/)
-- [Épisode 13](./creation-blueprint-tronc-collisions-ue4/)
-- [Épisode 14](./programmation-tronc-rotation-mouvement-collisions-ue4/)
-- [Épisode 15](./creation-spawner-obstacles-unreal-engine-4/)
-- [Épisode 16](./creer-boucle-infinie-spawn-unreal-engine/)
-- [Épisode 17](./gestion-collisions-blueprints-unreal-engine/)
-- [Épisode 18](./gestion-score-collision-unreal-engine-4/)
-- [Épisode 19](./gestion-difficulte-dynamique-unreal-engine-4/)
-- [Épisode 20](./gestion-memoire-destruction-acteurs-unreal-engine/)
-- [Épisode 21](./creer-interface-utilisateur-widget-score-unreal-engine-4/)
-- [Épisode 22](./creation-menu-principal-unreal-engine-4/)
-- [Épisode 23](./creation-ecran-game-over-unreal-engine-4/)
-- [Épisode 24](./nettoyage-et-organisation-scene-unreal-engine-4/)
-- [Épisode 25](./creation-sculpture-terrain-landscape-ue4/)
-- [Épisode 26](./creation-materiaux-complexes-landscape-unreal-engine-4/)
-- [Épisode 27](./utiliser-outil-foliage-unreal-engine-4/)
-- [Épisode 29](./remplacer-personnage-par-defaut-unreal-engine-4/)
-- [Épisode 30](./preparer-ecosysteme-google-publication-android-ue4/)
-- [Épisode 31](./preparer-jeu-unreal-engine-4-google-play-store/)
-- [Épisode 32](./signature-application-android-unreal-engine-keystore/)
-- [Épisode 33](./configuration-firebase-google-play-unreal-engine/)
-- [Épisode 34](./preparer-packager-projet-unreal-engine-google-play/)
-- [Épisode 35](./deployer-version-alpha-google-play-unreal-engine-4/)
-- [Épisode 36](./integration-google-play-services-unreal-engine-4/)
-- [Épisode 38](./mise-en-place-test-google-play-services-unreal-engine-4/)
-- [Épisode 39](./integration-classements-google-play-unreal-engine-4/)
+
+
+### Ce qui reste d'actualité aujourd'hui
+
+Si les outils de déploiement d'Unreal Engine ont été affinés, la méthodologie de création d'un jeu mobile reste identique. La contrainte de performance (optimisation des ressources), la pensée "mobile-first" concernant l'interface utilisateur (UI/UX) et la logique de publication sur les stores sont des acquis immuables. Apprendre à gérer un projet de A à Z, de l'asset 3D jusqu'à la signature du fichier de publication, est une expertise rare et précieuse. Cette archive vous donne la méthodologie rigoureuse indispensable pour passer du prototype à l'application téléchargeable sur les plateformes mobiles modernes.
+
+{{< footer >}}

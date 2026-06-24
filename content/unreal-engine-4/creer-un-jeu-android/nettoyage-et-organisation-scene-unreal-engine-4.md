@@ -8,7 +8,7 @@ tags: ['Level Design', 'Optimisation', 'Workflow', 'Lighting']
 
 Dans cet épisode, nous passons à une étape cruciale pour tout développeur : le nettoyage et l'organisation de votre environnement de travail. Avant de passer à la création de terrains complexes ou à l'ajout d'effets visuels avancés, il est essentiel de repartir sur une base propre pour éviter la confusion et optimiser les performances de votre projet.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "1IL53_nV9oc" >}}
 
 ### Au programme de cet épisode :
 *   **Nettoyage de la scène :** Suppression des éléments de test (plateformes, piliers, murs) pour libérer de l'espace.

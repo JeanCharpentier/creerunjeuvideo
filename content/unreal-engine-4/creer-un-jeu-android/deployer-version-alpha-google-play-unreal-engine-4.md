@@ -8,7 +8,7 @@ tags: ['Android', 'Google Play', 'Déploiement', 'Mobile', 'Tutoriel']
 
 Dans cet épisode, nous franchissons une étape cruciale de votre projet : le déploiement de votre build Alpha sur la Google Play Console. Préparer son jeu pour la distribution mobile demande de la rigueur, notamment dans la gestion des fichiers APK/OBB et la conformité aux exigences de Google.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "0m-J-KU5HdE" >}}
 
 ### Résumé des étapes de déploiement
 *   **Configuration de la signature :** Désactivation de la signature automatique par Google Play pour privilégier la gestion via les outils du GDK.

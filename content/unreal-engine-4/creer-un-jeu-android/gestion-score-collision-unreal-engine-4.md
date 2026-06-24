@@ -8,7 +8,7 @@ tags: ['Blueprints', 'Game Logic', 'Collision', 'Gameplay']
 
 Dans cet épisode, nous allons structurer la logique de score de notre jeu. Jusqu'ici, nous savions détecter une collision pour le "Game Over", mais il est temps d'ajouter une mécanique de points gratifiante sans pour autant permettre au joueur de "tricher" en accumulant des points à l'infini lors d'un seul passage.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "yZbrNqECy9U" >}}
 
 ### Résumé de la mise en place
 *   **Extension de la logique de collision :** Utilisation de branches (`Branch`) successives pour tester quel composant est touché (Box Game Over vs Box Points).

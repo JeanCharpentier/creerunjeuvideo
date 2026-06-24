@@ -8,7 +8,7 @@ tags: ['Unreal Engine 4', 'Visual Studio', 'C++', 'Setup']
 
 Bienvenue dans ce deuxième volet de notre série dédiée à la configuration de votre environnement de travail pour Unreal Engine 4. Avant de plonger dans le développement de vos jeux, il est impératif de préparer votre machine pour compiler le code source et gérer les exportations vers diverses plateformes.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "Pf1xQ7BSDCs" >}}
 
 Dans cet épisode, nous nous concentrons sur l'installation de **Visual Studio Community**, l'outil indispensable pour piloter le C++ au sein d'Unreal Engine.
 

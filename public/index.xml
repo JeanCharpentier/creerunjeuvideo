@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Créer un jeu vidéo</title>
+    <title>Accueil :: Créer un jeu vidéo</title>
     <link>http://localhost:1313/index.html</link>
-    <description></description>
+    <description>Apprendre à créer des jeux vidéo pour le fun. Parce que tout le monde peut créer des jeux vidéo.&#xA;▶ Mes réseaux | 📺 La Chaîne YouTube&#xA;Pourquoi ce site ? Nous sommes le 26 décembre 1999, j’ai 16 ans, et aujourd’hui mes parents s’apprêtent à ouvrir une porte vers un autre univers. Ils m’achètent une Dreamcast (meilleure console EVER! Tu n’es pas d’accord ? On en discute en live sur Twitch) et j’ai enfin ma première console de jeux vidéo.</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>

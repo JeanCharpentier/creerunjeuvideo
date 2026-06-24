@@ -8,7 +8,7 @@ tags: ['UI', 'Widget', 'Menu', 'Blueprint', 'GameDev']
 
 Dans ce nouvel épisode de notre série sur Unreal Engine 4, nous allons mettre en place la porte d'entrée de votre jeu : le menu principal. L'objectif est de créer une interface utilisateur (UI) fonctionnelle permettant de lancer la partie et de préparer l'accès futur à un système de classement (leaderboard).
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "xB54I9Oi-6w" >}}
 
 ### Résumé des étapes clés
 *   **Organisation des niveaux :** Renommage de votre carte de jeu actuelle en `Main Map` et création d'un nouveau niveau dédié au `Menu Principal`.

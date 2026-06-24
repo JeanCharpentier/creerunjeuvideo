@@ -8,7 +8,7 @@ tags: ['Unreal Engine 4', 'GIMP', 'Texturing', 'UV Mapping', 'Workflow']
 
 Dans cet épisode, nous abordons une étape cruciale du pipeline de création 3D : le passage de votre dépliage UV à une texture concrète. Une fois votre modèle exporté depuis Blender, il est temps de donner vie à votre asset en utilisant un logiciel d'édition d'image. Ici, nous utilisons GIMP pour peindre nos textures en nous appuyant sur notre layout UV comme guide de référence.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "OHVbD3MLZRg" >}}
 
 ### Résumé de l'épisode
 *   **Préparation du fichier :** Importation du layout UV (Clean ou Smart) dans GIMP. Il est primordial de conserver la cohérence entre le fichier FBX exporté et le layout utilisé pour éviter les artefacts visuels.

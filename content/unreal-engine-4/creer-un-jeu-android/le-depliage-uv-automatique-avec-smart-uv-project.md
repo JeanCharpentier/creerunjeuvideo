@@ -8,7 +8,7 @@ tags: ['Blender', 'UV Mapping', 'Texturing', 'Workflow']
 
 Dans cet épisode, nous abordons une étape cruciale du pipeline de création 3D : le dépliage UV. Pour texturer un modèle, il est indispensable de "déplier" sa surface 3D sur un plan 2D. Nous allons nous concentrer sur la méthode la plus rapide et accessible pour les débutants : le **Smart UV Project**.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "hV9k2IR6wc0" >}}
 
 ### Résumé de la méthode Smart UV Project
 *   **Configuration de l'interface :** Utilisation du layout "UV Editing" dans Blender pour visualiser simultanément le modèle 3D et la carte UV.

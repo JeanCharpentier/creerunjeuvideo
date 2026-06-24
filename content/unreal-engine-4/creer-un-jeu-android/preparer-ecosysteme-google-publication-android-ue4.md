@@ -8,7 +8,7 @@ tags: ['Android', 'Google Play', 'AdMob', 'Firebase', 'Mobile']
 
 Publier un jeu sur le Google Play Store est une étape charnière pour tout développeur Unreal Engine 4. Avant même de toucher aux paramètres de packaging dans l'éditeur, il est indispensable de mettre en place votre infrastructure de services Google. Dans cet épisode, nous passons en revue les trois piliers indispensables pour gérer, analyser et monétiser vos applications Android.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "dhgLXpUdZ4k" >}}
 
 ### Résumé des étapes clés
 *   **Google Play Console :** La plateforme centrale pour publier vos jeux. Le coût est de 25 € (paiement unique à vie), permettant de publier un nombre illimité d'applications.

@@ -8,7 +8,7 @@ tags: ['Foliage', 'Level Design', 'Optimisation', 'Tutoriel']
 
 Dans cet épisode, nous abordons une étape cruciale du level design : l'habillage de votre terrain. Si placer des objets manuellement fonctionne pour quelques éléments, cela devient vite ingérable sur de grandes surfaces. Nous allons découvrir comment utiliser l'outil **Foliage** (feuillage) pour automatiser et optimiser la création de vos forêts et zones végétalisées.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "VQl_z_M6088" >}}
 
 ### Résumé de l'épisode
 *   **Placement manuel vs Foliage :** Pourquoi éviter le placement manuel pour les grandes zones.

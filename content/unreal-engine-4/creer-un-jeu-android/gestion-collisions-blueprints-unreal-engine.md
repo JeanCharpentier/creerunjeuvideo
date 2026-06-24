@@ -8,7 +8,7 @@ tags: ['Unreal Engine 4', 'Blueprints', 'Collision', 'GameDev']
 
 Dans cet épisode, nous abordons une étape cruciale pour l'interactivité de votre jeu : la gestion des collisions. Nous allons apprendre à faire en sorte que votre personnage puisse "ressentir" les objets qu'il touche, qu'il s'agisse de collecter des points ou de déclencher un Game Over.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "a9iGvXzS9FQ" >}}
 
 ### Au programme de cet épisode :
 *   **Utilisation de l'Event Hit** : Apprendre à capturer l'événement de collision dans le `SideScrollerCharacter`.

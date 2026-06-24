@@ -121,6 +121,13 @@
       <description>Dans cet épisode, nous abordons une étape cruciale du level design : l’habillage de votre terrain. Si placer des objets manuellement fonctionne pour quelques éléments, cela devient vite ingérable sur de grandes surfaces. Nous allons découvrir comment utiliser l’outil Foliage (feuillage) pour automatiser et optimiser la création de vos forêts et zones végétalisées.&#xA;Résumé de l’épisode Placement manuel vs Foliage : Pourquoi éviter le placement manuel pour les grandes zones. Configuration de l’outil Foliage : Glisser-déposer vos assets (arbres) dans l’éditeur. Réglages de densité et de taille : Apprendre à gérer la répartition aléatoire et l’échelle (Scaling uniforme vs libre). Outils de manipulation : Utiliser le mode “Select” pour déplacer, supprimer ou ajuster des arbres individuellement ou par groupe (Lasso). Optimisation des matériaux : Ajuster les paramètres Metallic et Roughness pour éviter que vos arbres ne paraissent “plastiques” ou trop brillants sous la lumière. Ce qui reste d’actualité aujourd’hui Bien que les versions d’Unreal Engine aient évolué (notamment avec l’arrivée de Nanite et Lumen dans l’UE5), les principes fondamentaux présentés ici restent la base du métier :</description>
     </item>
     <item>
+      <title>28. Création de chemins de terre et intégration du décor dans Unreal Engine 4</title>
+      <link>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/creation-chemins-terre-unreal-engine-4/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/creation-chemins-terre-unreal-engine-4/index.html</guid>
+      <description>Dans cet épisode, nous abordons une étape cruciale pour renforcer le réalisme de votre environnement : le “storytelling” par le décor. Plutôt que de laisser un terrain vierge, nous allons utiliser des éléments de gameplay (ici, des troncs d’arbres) pour justifier la création de chemins de terre. En utilisant ces objets comme guides visuels, nous allons peindre des textures de sol pour simuler le passage répété de véhicules ou de rondins, apportant ainsi une cohérence narrative à votre niveau.</description>
+    </item>
+    <item>
       <title>42. Éclairage dynamique et mise en valeur des objets</title>
       <link>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/eclairage-dynamique-blueprint-unreal-engine-4/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>

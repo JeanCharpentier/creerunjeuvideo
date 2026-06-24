@@ -8,7 +8,7 @@ tags: ['Unreal Engine 4', 'Android', 'Firebase', 'Google Play', 'AdMob']
 
 Dans cet épisode, nous abordons une étape cruciale et souvent redoutée par les développeurs : la mise en place de l'infrastructure backend et de la distribution pour Android. Pour que votre jeu puisse intégrer des fonctionnalités avancées comme les services Google Play (classements, succès) ou la monétisation via AdMob, une configuration rigoureuse est nécessaire entre Firebase, la Google Play Console et votre projet Unreal Engine.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "2aqjI9vkooY" >}}
 
 ### Résumé des étapes clés
 *   **Firebase :** Création du projet, enregistrement de l'application Android via le nom de package (Package Name) récupéré dans les *Project Settings* d'Unreal Engine.

@@ -8,7 +8,7 @@ tags: ['Android', 'Google Play Store', 'Keystore', 'Déploiement']
 
 Dans cet épisode, nous abordons une étape cruciale pour tout développeur souhaitant publier son jeu sur le Google Play Store : la signature de l'application. Pour qu'un projet Unreal Engine soit reconnu et accepté par Google, il doit être signé numériquement via un fichier "Keystore".
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "VIe0vEJY6pY" >}}
 
 ### Résumé de la procédure
 *   **Utilisation de l'invite de commande (CMD) :** Accès via `Windows + R` puis `cmd`.

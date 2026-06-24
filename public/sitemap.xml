@@ -97,6 +97,10 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/3-animations-gestion-etats-personnage/index.html</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -649,6 +653,10 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/creation-chemins-terre-unreal-engine-4/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-menu-principal-unreal-engine-4/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -717,6 +725,10 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/personnalisation-icones-deploiement-google-play-unreal-engine-4/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/resoudre-bug-textures-manquantes-unreal-engine-4/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -779,10 +791,6 @@
   <url>
     <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/conclusion-apprentissage-unreal-engine-4/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/index.html</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/tags/2d/index.html</loc>
@@ -953,10 +961,6 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/construct-2/tuto-top-down-shooter/index.html</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/categories/d%C3%A9veloppement-de-jeu/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -1101,6 +1105,10 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/categories/level-design/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/level-design/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -1162,6 +1170,10 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/mobile/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/mobile-dev/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -1285,6 +1297,10 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/construct-2/tuto-top-down-shooter/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/setup/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -1309,10 +1325,6 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/index.html</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/spawner/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -1334,6 +1346,10 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/templates/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/terrain/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -1445,10 +1461,6 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/index.html</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/archive/index.html</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -1522,6 +1534,10 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/score/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/index.html</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
   <url>

@@ -8,7 +8,7 @@ tags: ['GameDev', 'UE4', 'Blueprints', 'UI', 'Widget']
 
 Dans cet épisode, nous allons finaliser l'expérience utilisateur en créant un écran de "Game Over" fonctionnel. Lorsqu'un joueur perd, il est crucial de lui offrir un retour visuel clair, d'afficher son score final et de lui proposer une option pour retourner au menu principal ou attendre une redirection automatique.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "zC8pPbEwh2s" >}}
 
 ### Résumé de la mise en place
 *   **Création du Widget :** Conception d'un nouveau `User Widget` (WBP_GameOver) avec un texte de défaite, l'affichage dynamique du score et un bouton de retour.

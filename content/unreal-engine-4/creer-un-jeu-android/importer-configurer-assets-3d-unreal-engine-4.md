@@ -8,7 +8,7 @@ tags: ['Unreal Engine 4', 'Tutoriel', '3D', 'Assets', 'Matériaux']
 
 Dans cet épisode, nous abordons une étape cruciale de votre pipeline de production : l'importation de vos modèles 3D (FBX) et la configuration de leurs matériaux dans Unreal Engine 4. Contrairement à d'autres moteurs, Unreal demande une gestion rigoureuse de vos fichiers pour optimiser les performances et la clarté de votre projet.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "R4LCUUsyBlU" >}}
 
 ### Résumé de l'épisode
 *   **Organisation du projet :** Création d'une structure de dossiers propre (ex: `Décor`, `Tron`) à la racine `Content` pour éviter de polluer les dossiers du template.

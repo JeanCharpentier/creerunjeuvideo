@@ -8,7 +8,7 @@ tags: ['Unreal Engine', 'Optimisation', 'Mobile', 'Performance', 'GameDev']
 
 Développer pour mobile et tablette impose des contraintes matérielles bien plus strictes que sur PC. Pour garantir une expérience fluide sur iOS et Android, chaque ressource compte. Dans cet épisode, nous explorons les piliers de l'optimisation sous Unreal Engine : de la gestion des maillages 3D à la structure de vos textures.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "VTPi_djAOfM" >}}
 
 ### Résumé des points clés
 *   **Optimisation 3D :** Réduisez le nombre de polygones dès la conception. Utilisez les **LOD (Levels of Detail)** pour alléger le rendu des objets éloignés.

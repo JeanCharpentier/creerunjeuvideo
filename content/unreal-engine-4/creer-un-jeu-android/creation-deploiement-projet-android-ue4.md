@@ -8,7 +8,7 @@ tags: ['Android', 'Mobile', 'Déploiement', 'Tutoriel']
 
 Dans cet épisode, nous passons à la pratique. Une fois votre environnement de développement et le SDK Android correctement configurés, il est temps de créer votre premier projet Unreal Engine 4 et de le déployer sur votre appareil mobile.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "6kp9TRyOZpk" >}}
 
 ### Résumé des étapes clés
 *   **Lancement du projet :** Utilisation du Epic Games Launcher pour ouvrir la version 4.17.2 (ou ultérieure).

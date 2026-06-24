@@ -8,7 +8,7 @@ tags: ['Landscape', 'Level Design', 'Sculpting', 'UE4']
 
 Dans cet épisode, nous abordons une étape cruciale pour donner vie à vos environnements : l'utilisation de l'outil **Landscape** dans Unreal Engine 4. Fini les plateaux vides, nous allons apprendre à générer un terrain, le dimensionner correctement et utiliser les outils de sculpture pour créer du relief.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "3mW86Soez9g" >}}
 
 ### Résumé de la manipulation
 *   **Initialisation :** Accès à l'outil *Landscape* et configuration de la taille (sections et composants) pour éviter de générer un terrain trop lourd inutilement.

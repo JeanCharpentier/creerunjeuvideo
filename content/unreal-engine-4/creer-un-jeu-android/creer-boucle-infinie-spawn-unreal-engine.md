@@ -8,7 +8,7 @@ tags: ['Blueprints', 'GameDev', 'Spawner', 'Logique']
 
 Dans ce seizième épisode, nous allons aborder une problématique essentielle pour tout jeu de type "Runner" ou jeu d'arcade : comment faire en sorte que notre système de spawn ne s'arrête jamais ? Nous allons transformer notre séquence limitée en une boucle infinie grâce à la logique conditionnelle dans les Blueprints.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "Zhb1ntycKnw" >}}
 
 ### Résumé de la mise en place
 Pour automatiser le cycle de spawn de nos troncs, nous avons suivi ces étapes clés :

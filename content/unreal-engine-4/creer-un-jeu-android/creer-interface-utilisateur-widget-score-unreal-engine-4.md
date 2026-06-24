@@ -8,7 +8,7 @@ tags: ['UI', 'Widget', 'Blueprint', 'HUD', 'GameDev']
 
 Dans cet épisode, nous quittons la console de débogage pour offrir à nos joueurs une interface visuelle propre. Nous allons apprendre à créer un **Widget Blueprint** pour afficher le score en temps réel à l'écran, une étape essentielle pour transformer votre prototype en un véritable jeu.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "NNNohmNoano" >}}
 
 ### Résumé de la mise en place
 *   **Création du Widget :** Utilisation du menu *User Interface > Widget Blueprint* (nommé `WD_Score` par convention).

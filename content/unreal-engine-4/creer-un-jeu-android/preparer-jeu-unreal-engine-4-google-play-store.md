@@ -8,7 +8,7 @@ tags: ['Unreal Engine 4', 'Android', 'Google Play', 'Mobile Game', 'Tutoriel']
 
 Dans cet épisode, nous franchissons une étape cruciale : la préparation de votre projet Unreal Engine 4 pour une publication sur le Google Play Store. Une fois votre jeu jouable, il est temps de configurer les paramètres de déploiement, d'intégrer les services Google Play (leaderboards, succès) et d'optimiser votre APK pour la distribution.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "9iQ8IvQnH0Q" >}}
 
 ### Résumé des étapes de configuration
 *   **Configuration initiale :** Accédez à `Edit > Project Settings > Platforms > Android` et utilisez le bouton "Configure Now" pour générer les fichiers de configuration nécessaires.

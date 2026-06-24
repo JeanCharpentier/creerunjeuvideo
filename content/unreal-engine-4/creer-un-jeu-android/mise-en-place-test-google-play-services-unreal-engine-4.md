@@ -8,7 +8,7 @@ tags: ['Android', 'Google Play Services', 'Blueprint', 'Mobile Development']
 
 Dans cet épisode, nous abordons une étape cruciale du développement mobile sous Unreal Engine 4 : la vérification de l'intégration des Google Play Services. Après avoir configuré les paramètres complexes, il est temps de tester si votre application communique correctement avec les serveurs de Google.
 
-{{< youtube-rgpd "" >}}
+{{< youtube-rgpd "yXUE5p4Y8z4" >}}
 
 ### Résumé de l'épisode
 *   **Workflow de test :** Explication sur la nécessité de recompiler l'APK pour tester les services, tout en précisant qu'il n'est pas nécessaire de réuploader sur la console Google Play à chaque modification interne.

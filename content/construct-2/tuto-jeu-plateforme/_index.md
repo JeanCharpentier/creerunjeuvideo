@@ -1,5 +1,5 @@
 ---
-title: "Apprendre la création de jeux vidéo avec Construct 2"
+title: "Série: Apprendre la création de jeux vidéo avec Construct 2"
 date: 2026-06-13
 description: "Une série complète pour débuter la création de jeux vidéo 2D, du prototypage à la publication."
 categories: ["Archive"]
