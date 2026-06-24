@@ -8,6 +8,6 @@ enableRobotsTXT = true
 
 [params]
   themeVariant = ['relearn-dark', 'relearn-light']
-
+  custom_css = ["css/custom.css"]
 [outputs]
   home = ["HTML", "RSS"] # Active la barre de recherche intégrée de Relearn
