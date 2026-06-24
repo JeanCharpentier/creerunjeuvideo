@@ -1,0 +1,18 @@
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    // Liste des CSS secondaires à passer en non-bloquant
+    const cssFiles = [
+      '/css/custom.css',
+      '/css/format-html.min.css',
+      '/js/libs/perfect-scrollbar/perfect-scrollbar.min.css',
+      '/js/libs/auto-complete/auto-complete.min.css'
+    ];
+    
+    cssFiles.forEach(src => {
+      let link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.href = src + (window.location.search || '');
+      document.head.appendChild(link);
+    });
+  });
+</script>
