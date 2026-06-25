@@ -1,10 +1,8 @@
-+++
-date = '2026-06-12T15:18:15+02:00'
-draft = false
-title = 'Mentions Legales'
-[params]
-    hidden = true
-+++
+---
+title: 'Mentions Legales'
+date: '2026-06-12T15:18:15+02:00'
+type: "docs"
+---
 
 # Mentions Légales
 

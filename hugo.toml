@@ -17,3 +17,4 @@ defaultContentLanguage = "fr"
 [params]
   BookTheme = "dark"
   BookSection = "*"
+  disableKinds = ["taxonomy", "term"]

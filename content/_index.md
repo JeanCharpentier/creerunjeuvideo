@@ -1,6 +1,7 @@
 ---
 title: "Accueil"
 date: 2026-06-24
+type: "docs"
 ---
 > ## Apprendre à créer des jeux vidéo pour le fun.
 > Parce que tout le monde peut créer des jeux vidéo.

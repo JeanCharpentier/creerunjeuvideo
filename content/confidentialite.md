@@ -1,10 +1,8 @@
-+++
-date = '2026-06-12T15:18:15+02:00'
-draft = false
-title = 'Politique de confidentialité'
-[params]
-    hidden = true
-+++
+---
+title: 'Politique de confidentialité'
+date: '2026-06-12T15:18:15+02:00'
+type: "docs"
+---
 
 # Politique de Confidentialité
 
