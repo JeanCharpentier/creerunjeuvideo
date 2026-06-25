@@ -8,5 +8,15 @@ enableRobotsTXT = true
 
 [params]
   themeVariant = ['relearn-dark', 'relearn-light']
+
+  # 1. Désactive perfect-scrollbar sur mobile (utilise le défilement natif ultra-rapide)
+  disableScrollbar = true
+
+  # 2. Force le comportement "swap" pour éviter que les icônes FontAwesome bloquent le rendu
+  disableFontAwesomeDisplaySwap = false
+
+  # 3. Supprime la police Roboto Flex locale pour utiliser les polices système (gain immédiat de 237 Ko)
+  disableFonts = true
+  
 [outputs]
   home = ["HTML", "RSS"] # Active la barre de recherche intégrée de Relearn
