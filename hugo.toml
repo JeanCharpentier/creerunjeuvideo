@@ -8,23 +8,9 @@ enableRobotsTXT = true
 
 [params]
   themeVariant = ['relearn-dark', 'relearn-light']
-
-  # 1. Désactive perfect-scrollbar sur mobile (utilise le défilement natif ultra-rapide)
-  disableInlineScrollbar = true
-
-  # 2. Force le comportement "swap" pour éviter que les icônes FontAwesome bloquent le rendu
-  disableFontAwesomeDisplaySwap = false
-
-  # 3. Supprime la police Roboto Flex locale pour utiliser les polices système (gain immédiat de 237 Ko)
-  disableFonts = true
+  disableFonts = true                  # On oublie définitivement Roboto Flex
+  disableInlineScrollbar = true        # On force le défilement natif du téléphone
+  disableSearch = true
 
 [outputs]
   home = ["HTML", "RSS"] # Active la barre de recherche intégrée de Relearn
-
-  [unstable_building_options]
-  # Si ton thème utilise les pipes standards d'Hugo
-  minify = true
-
-[assets]
-  # Force Hugo à regrouper les fichiers CSS s'ils passent par les ressources natives
-  bundle = true
