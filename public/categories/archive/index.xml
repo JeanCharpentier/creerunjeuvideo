@@ -611,6 +611,13 @@
       <description>Créer un MMORPG demande de la structure, et le système de quêtes est le cœur battant de l’engagement de vos joueurs. Dans ce guide, nous explorons comment configurer vos premières missions avec l’éditeur intégré d’Intersect Engine pour donner vie à votre univers.&#xA;Résumé des notions clés L’éditeur de quêtes d’Intersect Engine est un outil puissant qui permet de gérer la progression narrative et mécanique de votre jeu. Voici les points essentiels à retenir :</description>
     </item>
     <item>
+      <title>Créer un menu contrôlé à la manette sur Construct 2</title>
+      <link>http://localhost:1313/construct-2/creer-menu-manette-construct-2/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/construct-2/creer-menu-manette-construct-2/index.html</guid>
+      <description>Dans ce tutoriel, nous allons voir comment concevoir un menu interactif et esthétique pour vos jeux sur Construct 2, en remplaçant la traditionnelle navigation à la souris par une gestion complète à la manette (Gamepad). L’objectif est de créer une interface fluide où les boutons réagissent visuellement à la sélection.&#xA;Résumé des étapes clés Variables et Fonctions : Utilisation d’une variable globale bouton pour suivre l’index de l’élément sélectionné et d’une fonction CH_bouton pour centraliser la logique de navigation (incrémentation/décrémentation). Gestion du Gamepad : Utilisation de l’objet Gamepad pour détecter les pressions sur le D-Pad (haut/bas) et le bouton de validation (A). Boucle Every Tick : Mise en place d’une vérification constante pour appliquer un effet visuel (agrandissement via Set Scale) sur le bouton actif. Optimisation : Réinitialisation de la taille des boutons à chaque appel de fonction pour éviter les conflits d’affichage sans multiplier les lignes d’événements. Navigation : Utilisation de la condition On Button Pressed couplée à des sous-événements pour rediriger le joueur vers les différents Layouts (Aventure, Options, etc.). Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur plus ancien, les principes fondamentaux abordés ici restent parfaitement transposables dans Construct 3 ou d’autres moteurs 2D :</description>
+    </item>
+    <item>
       <title>Série: Création d&#39;un Shoot &#39;em Up (Shmup)</title>
       <link>http://localhost:1313/game-maker-studio/shoot-them-up/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>

@@ -254,6 +254,13 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: Effets Visuels</title>
+      <link>http://localhost:1313/tags/effets-visuels/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/effets-visuels/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Export</title>
       <link>http://localhost:1313/tags/export/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -279,6 +286,13 @@
       <link>http://localhost:1313/tags/foliage/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/foliage/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Forge</title>
+      <link>http://localhost:1313/tags/forge/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/forge/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -328,6 +342,13 @@
       <link>http://localhost:1313/tags/gamemaker/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/gamemaker/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Gamepad</title>
+      <link>http://localhost:1313/tags/gamepad/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gamepad/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -419,6 +440,13 @@
       <link>http://localhost:1313/tags/itch.io/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/itch.io/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Java</title>
+      <link>http://localhost:1313/tags/java/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/java/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -527,10 +555,24 @@
       <description></description>
     </item>
     <item>
+      <title>Tag :: MCreator</title>
+      <link>http://localhost:1313/tags/mcreator/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mcreator/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: Menu</title>
       <link>http://localhost:1313/tags/menu/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/menu/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Minecraft</title>
+      <link>http://localhost:1313/tags/minecraft/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/minecraft/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -559,6 +601,13 @@
       <link>http://localhost:1313/tags/mobile-game/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/mobile-game/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Modding</title>
+      <link>http://localhost:1313/tags/modding/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/modding/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -923,6 +972,13 @@
       <link>http://localhost:1313/tags/visual-studio/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/visual-studio/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Webcam</title>
+      <link>http://localhost:1313/tags/webcam/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/webcam/index.html</guid>
       <description></description>
     </item>
     <item>

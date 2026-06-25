@@ -1,7 +1,7 @@
 ---
 title: "Intégrer votre webcam comme fond animé dans Construct 2"
 date: 2026-06-17
-categories: ["Tutoriels"]
+categories: ["Archive"]
 tags: ["Construct 2", "Webcam", "GameDev", "Effets Visuels"]
 ---
 

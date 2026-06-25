@@ -16,6 +16,13 @@
       <description>Bienvenue dans cette série de guides et de tutoriels dédiés à Intersect Engine, l’une des solutions open-source les plus accessibles et puissantes pour donner vie à vos projets de MMORPG 2D.&#xA;Que vous soyez nostalgique de l’époque des créateurs de jeux en ligne amateurs (comme la grande époque de Mirage Source ou Eclipse) ou un développeur cherchant une base réseau ultra-solide sans réinventer la roue, Intersect est l’outil parfait pour matérialiser votre univers.</description>
     </item>
     <item>
+      <title>Minecrafts</title>
+      <link>http://localhost:1313/minecraft/index.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/minecraft/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tutoriels Construct 2</title>
       <link>http://localhost:1313/construct-2/index.html</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>

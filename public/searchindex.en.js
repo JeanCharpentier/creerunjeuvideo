@@ -27,6 +27,19 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-jeu-plateformes/introduction-unreal-engine-4-debutant/index.html"
   },
   {
+    "breadcrumb": "Accueil \u003e Minecrafts \u003e Sommaire de la série",
+    "content": "Le modding Minecraft est une porte d’entrée fascinante vers le développement de jeux vidéo. Cependant, l’apprentissage du Java peut être un frein majeur pour les débutants. Dans cet article, nous explorons l’utilisation de MCreator, un outil puissant qui permet de créer des contenus personnalisés pour Minecraft sans écrire une seule ligne de code.\nCe que permet MCreator Accessibilité : Création de blocs, items, biomes, dimensions et recettes via une interface graphique intuitive. Rapidité : Idéal pour prototyper des idées ou personnaliser son expérience de jeu sans passer par la décompilation complexe du code source. Compatibilité : Les mods générés sont compatibles avec le multijoueur, à condition d’installer Forge sur votre serveur. Évolutivité : Un excellent point de départ pour comprendre la logique de jeu avant de passer, éventuellement, à la programmation Java pure pour des projets plus complexes. Ce qui reste d’actualité aujourd’hui Bien que les versions de Minecraft et de MCreator aient considérablement évolué depuis l’époque de la 1.6.2, les principes fondamentaux restent pertinents :\nLa philosophie “No-Code” : MCreator est devenu un standard industriel pour les créateurs de contenu indépendant, offrant aujourd’hui des fonctionnalités bien plus poussées (systèmes d’événements, procédures visuelles, support des dernières versions de Minecraft). L’importance de Forge : Le modding repose toujours sur des API comme Forge (ou Fabric) pour permettre aux mods de communiquer avec le moteur du jeu. Le workflow de développement : L’installation et la configuration initiale restent des étapes cruciales. Bien que le processus soit devenu beaucoup plus automatisé, la patience lors de la première compilation reste de mise. La limite de l’outil : Comme souligné dans l’introduction, MCreator est un outil formidable pour débuter, mais pour des mécaniques de jeu extrêmement complexes ou une optimisation poussée, la maîtrise du Java reste le “Graal” du développeur Minecraft. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Le modding Minecraft est une porte d’entrée fascinante vers le développement de jeux vidéo. Cependant, l’apprentissage du Java peut être un frein majeur pour les débutants. Dans cet article, nous explorons l’utilisation de MCreator, un outil puissant qui permet de créer des contenus personnalisés pour Minecraft sans écrire une seule ligne de code.\nCe que permet MCreator Accessibilité : Création de blocs, items, biomes, dimensions et recettes via une interface graphique intuitive. Rapidité : Idéal pour prototyper des idées ou personnaliser son expérience de jeu sans passer par la décompilation complexe du code source. Compatibilité : Les mods générés sont compatibles avec le multijoueur, à condition d’installer Forge sur votre serveur. Évolutivité : Un excellent point de départ pour comprendre la logique de jeu avant de passer, éventuellement, à la programmation Java pure pour des projets plus complexes. Ce qui reste d’actualité aujourd’hui Bien que les versions de Minecraft et de MCreator aient considérablement évolué depuis l’époque de la 1.6.2, les principes fondamentaux restent pertinents :",
+    "tags": [
+      "Minecraft",
+      "Modding",
+      "MCreator",
+      "Développement"
+    ],
+    "title": "1. Introduction au modding Minecraft sans programmation avec MCreator",
+    "uri": "/minecraft/modding-minecraft/introduction-modding-minecraft-mcreator/index.html"
+  },
+  {
     "breadcrumb": "Accueil \u003e Tutoriels Unreal Engine 4",
     "content": "Cette archive contient une série de tutoriels pédagogiques conçus pour accompagner les grands débutants dans la création de leur premier jeu de plateforme en 3D avec Unreal Engine 4.\nNotions clés abordées Introduction à l’interface : Prise en main de l’éditeur, navigation dans le viewport et manipulation des acteurs 3D dans l’espace. Blueprints (Visual Scripting) : Apprentissage de la logique de programmation sans code pour créer les interactions du personnage. Mouvement et Character Controller : Mise en place du saut, de la gestion de la gravité et des déplacements fluides du personnage dans un environnement 3D. Conception de niveaux (Level Design) : Utilisation des outils de géométrie, placement des plateformes et création de zones de jeu. Gestion des colliders et triggers : Programmation d’objets interactifs (pièces à ramasser, zones de checkpoint, zones mortelles). Ce qui reste d’actualité aujourd’hui Bien que l’industrie soit passée à Unreal Engine 5, les fondamentaux enseignés dans cette série restent le socle de toute production 3D. Le système de Blueprints, qui est le cœur de cet apprentissage, est resté quasi identique. La compréhension de la hiérarchie des composants d’un personnage, la gestion des collisions et la logique de programmation visuelle sont des compétences strictement transférables. En maîtrisant ces bases sur UE4, vous aurez une compréhension intuitive et solide pour migrer vers les moteurs les plus récents et créer des jeux complexes avec confiance.\n📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Cette archive contient une série de tutoriels pédagogiques conçus pour accompagner les grands débutants dans la création de leur premier jeu de plateforme en 3D avec Unreal Engine 4.\nNotions clés abordées Introduction à l’interface : Prise en main de l’éditeur, navigation dans le viewport et manipulation des acteurs 3D dans l’espace. Blueprints (Visual Scripting) : Apprentissage de la logique de programmation sans code pour créer les interactions du personnage. Mouvement et Character Controller : Mise en place du saut, de la gestion de la gravité et des déplacements fluides du personnage dans un environnement 3D. Conception de niveaux (Level Design) : Utilisation des outils de géométrie, placement des plateformes et création de zones de jeu. Gestion des colliders et triggers : Programmation d’objets interactifs (pièces à ramasser, zones de checkpoint, zones mortelles). Ce qui reste d’actualité aujourd’hui Bien que l’industrie soit passée à Unreal Engine 5, les fondamentaux enseignés dans cette série restent le socle de toute production 3D. Le système de Blueprints, qui est le cœur de cet apprentissage, est resté quasi identique. La compréhension de la hiérarchie des composants d’un personnage, la gestion des collisions et la logique de programmation visuelle sont des compétences strictement transférables. En maîtrisant ces bases sur UE4, vous aurez une compréhension intuitive et solide pour migrer vers les moteurs les plus récents et créer des jeux complexes avec confiance.",
@@ -158,6 +171,20 @@ var relearn_searchindex = [
     ],
     "title": "1. Introduction et premiers pas",
     "uri": "/construct-2/tuto-top-down-shooter/creer-jeu-html5-construct-2-introduction-premiers-pas/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Minecrafts \u003e Sommaire de la série",
+    "content": "Bienvenue dans ce guide dédié à l’installation de MCreator, l’outil incontournable pour créer vos propres mods Minecraft sans avoir besoin d’être un expert en programmation. Dans cet épisode, nous allons configurer la version 1.3.4.\nRésumé des étapes d’installation Pour réussir l’installation de MCreator et éviter les erreurs courantes, voici la marche à suivre :\nSauvegarde : Si vous utilisez une version précédente (1.3.3), sauvegardez impérativement votre dossier pour ne pas perdre vos mods en cours. Téléchargement : Récupérez l’archive de MCreator sur le site officiel. Java JDK : Téléchargez et installez le Java Development Kit 7 (JDK) depuis le site d’Oracle. Variables d’environnement : Configurez les variables Path dans Windows pour que le système reconnaisse les outils Java (nécessaire pour la compilation). Décompression : Extrayez les fichiers de MCreator dans un dossier dédié (ex: C:\\MCreator). Initialisation : Lancez le logiciel et soyez patient, la première configuration peut prendre entre 20 et 60 minutes selon votre processeur. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel traite d’une version ancienne de MCreator, les principes fondamentaux du modding restent les mêmes :\nLa dépendance au JDK : MCreator a toujours besoin d’un kit de développement Java pour compiler le code source de vos mods. La configuration des variables d’environnement reste une étape technique cruciale pour les outils de développement. L’importance de l’environnement propre : Comme mentionné, il est toujours recommandé d’avoir une installation de Minecraft “Vanilla” (propre) pour éviter les conflits lors de la décompilation/recompilation des fichiers du jeu. La patience lors du premier lancement : Le processus de “Setup” (téléchargement des bibliothèques Forge/Minecraft et mise en place du workspace) est toujours une étape longue, car le logiciel doit préparer tout l’environnement de développement en arrière-plan. Sauvegardes : La règle d’or du GameDev ne change pas : sauvegardez toujours vos projets avant de mettre à jour vos outils de développement. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Bienvenue dans ce guide dédié à l’installation de MCreator, l’outil incontournable pour créer vos propres mods Minecraft sans avoir besoin d’être un expert en programmation. Dans cet épisode, nous allons configurer la version 1.3.4.\nRésumé des étapes d’installation Pour réussir l’installation de MCreator et éviter les erreurs courantes, voici la marche à suivre :",
+    "tags": [
+      "MCreator",
+      "Modding",
+      "Tutoriel",
+      "Java",
+      "GameDev"
+    ],
+    "title": "2. [Tutoriel : Installation complète de MCreator]",
+    "uri": "/minecraft/modding-minecraft/installation-mcreator-tutoriel-debutant/index.html"
   },
   {
     "breadcrumb": "Accueil \u003e Tutoriels Unreal Engine 4 \u003e Série: Création d'un jeu d'arcade Android : De la modélisation à la publication",
@@ -314,6 +341,19 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-un-jeu-android/configuration-android-codeworks-unreal-engine-4/index.html"
   },
   {
+    "breadcrumb": "Accueil \u003e Minecrafts \u003e Sommaire de la série",
+    "content": "Bienvenue dans ce troisième volet de notre série dédiée au modding Minecraft. Aujourd’hui, nous passons à la pratique avec MCreator, l’outil incontournable pour créer du contenu sans avoir besoin de maîtriser le code Java complexe. Nous allons apprendre à intégrer un nouveau minerai, la “Yelonite”, de sa texture jusqu’à sa génération automatique dans vos mondes.\nRésumé des étapes de création Pour ajouter un minerai fonctionnel, voici la marche à suivre dans MCreator :\nPréparation des ressources : Créez une texture en 16x16 pixels au format PNG. Importation : Utilisez le menu “Tools” pour importer votre texture en tant que “Block”. Configuration du bloc : Nommez votre identifiant (sans espaces ni accents). Définissez la dureté (ex: 6 pour une résistance équivalente au fer). Choisissez le son associé (ex: gravier) et le niveau d’outil requis pour le minage. Génération du monde : Activez l’option “World Generation” pour définir les couches (Y) et la fréquence d’apparition du minerai. Test en jeu : Utilisez le bouton “Play” pour lancer une instance de test et vérifier que votre bloc apparaît bien dans l’inventaire créatif et se génère naturellement. Ce qui reste d’actualité aujourd’hui Bien que les versions de MCreator évoluent rapidement, les fondamentaux présentés dans cet épisode restent la base du modding moderne :\nLa structure des assets : Le format 16x16 reste le standard pour conserver l’esthétique “Vanilla” de Minecraft. La logique de minage : La gestion des outils (Harvest Level) et de la dureté est toujours le cœur du système de progression dans n’importe quel mod d’ajout de minerais. L’importance de la génération procédurale : Comprendre comment régler la fréquence et les couches de spawn est essentiel pour l’équilibrage de votre mod, peu importe la version du jeu. Le workflow de test : L’utilisation du mode créatif et des commandes /gamemode pour tester rapidement ses créations en conditions réelles est une pratique que tout développeur de mods continue d’utiliser quotidiennement. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Bienvenue dans ce troisième volet de notre série dédiée au modding Minecraft. Aujourd’hui, nous passons à la pratique avec MCreator, l’outil incontournable pour créer du contenu sans avoir besoin de maîtriser le code Java complexe. Nous allons apprendre à intégrer un nouveau minerai, la “Yelonite”, de sa texture jusqu’à sa génération automatique dans vos mondes.\nRésumé des étapes de création Pour ajouter un minerai fonctionnel, voici la marche à suivre dans MCreator :",
+    "tags": [
+      "Minecraft",
+      "MCreator",
+      "Modding",
+      "Tutoriel"
+    ],
+    "title": "3. Créer votre premier minerai personnalisé avec MCreator",
+    "uri": "/minecraft/modding-minecraft/creer-minerai-mcreator-minecraft/index.html"
+  },
+  {
     "breadcrumb": "Accueil \u003e Tutoriels Unreal Engine 4 \u003e Série: Développement d'un jeu de plateforme 3D sur Unreal Engine 4",
     "content": "Bienvenue dans ce troisième chapitre de notre série dédiée à la maîtrise d’Unreal Engine 4. Après avoir installé l’environnement, il est temps de passer à l’action en créant votre tout premier projet. Que vous souhaitiez concevoir un jeu de plateforme, un FPS ou une simulation, tout commence par le choix du bon template.\nRésumé des étapes de création Pour bien débuter, voici la marche à suivre dans le Launcher Epic Games :\nLancement : Ouvrez le Launcher, allez dans l’onglet “Bibliothèque” et lancez la version 4.12 (ou supérieure). Sélection du mode : Choisissez entre “Blueprint” (programmation visuelle par nœuds) ou “C++” (programmation textuelle). Choix du Template : Sélectionnez le modèle adapté à votre projet (Third Person, First Person, Top Down, etc.). Paramétrage : Target Hardware : Desktop/Console ou Mobile/Tablet. Qualité : Maximum Quality ou Scalable 3D/2D. Starter Content : À cocher si vous souhaitez disposer d’objets, lumières et matériaux de base pour prototyper rapidement. Nommage : Donnez un nom explicite à votre projet (sans espaces ni caractères spéciaux). Ce qui reste d’actualité aujourd’hui Bien que cet article se base sur une version ancienne (4.12), les fondamentaux de l’interface d’Unreal Engine restent extrêmement stables :\nLa structure des Templates : Le concept de “Third Person Template” est toujours la porte d’entrée idéale pour comprendre la gestion des caméras, des inputs et du Character Movement Component. Le choix Blueprint vs C++ : Cette distinction est toujours au cœur de l’architecture d’Unreal Engine 5. Apprendre à manipuler les Blueprints reste la compétence numéro 1 pour prototyper rapidement. Le Starter Content : L’utilisation de bibliothèques d’assets de base pour tester ses mécaniques de jeu avant de passer à la modélisation finale est une pratique standard dans l’industrie. L’importance du nommage : La gestion des chemins de fichiers et des noms de projets sans espaces reste une règle d’or pour éviter les erreurs de compilation ou de packaging, peu importe la version du moteur. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Bienvenue dans ce troisième chapitre de notre série dédiée à la maîtrise d’Unreal Engine 4. Après avoir installé l’environnement, il est temps de passer à l’action en créant votre tout premier projet. Que vous souhaitiez concevoir un jeu de plateforme, un FPS ou une simulation, tout commence par le choix du bon template.\nRésumé des étapes de création Pour bien débuter, voici la marche à suivre dans le Launcher Epic Games :",
@@ -442,6 +482,19 @@ var relearn_searchindex = [
     ],
     "title": "3. Maîtriser les Matériaux Dynamiques et les Instances",
     "uri": "/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-materiaux-dynamiques-instances-unreal-engine/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Minecrafts \u003e Sommaire de la série",
+    "content": "Bienvenue dans ce quatrième volet de notre série dédiée à la création de mods Minecraft. Après avoir généré votre premier bloc de minerai, il est temps de transformer cette matière brute en un matériau utilisable : le lingot. Dans ce tutoriel, nous allons apprendre à importer une texture d’item et à configurer sa recette de cuisson dans MCreator.\nRésumé des étapes clés Importation de texture : Utilisation de l’outil “Import external texture” pour intégrer le visuel du lingot. Configuration de l’item : Paramétrage du nom interne (sans espaces ni accents), choix de l’onglet créatif et définition de la taille du stack (64). Gestion des propriétés : Ajustement des options avancées (enchantements, durabilité, probabilité de spawn dans les coffres). Recette de cuisson : Liaison du minerai brut au lingot via le four (Smelting recipe). Test en jeu : Vérification du fonctionnement du lingot dans un environnement de test via le mode créatif. Ce qui reste d’actualité aujourd’hui Bien que les versions de MCreator évoluent rapidement, les fondamentaux abordés ici restent le socle du modding accessible :\nLa structure des assets : La distinction entre un bloc et un item est toujours primordiale dans le moteur de jeu. Le workflow de compilation : Le processus “Création -\u003e Configuration -\u003e Recette -\u003e Compilation” demeure le standard pour tout débutant souhaitant créer du contenu sans coder. L’importance de l’organisation : Ranger ses items dans des onglets créatifs spécifiques (comme “Materials”) est une bonne pratique qui facilite la gestion de vos mods à mesure qu’ils s’étoffent. La logique de cuisson : Le système de “Smelting” reste le moyen le plus intuitif pour introduire une progression technologique dans Minecraft, même dans les versions les plus récentes. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Bienvenue dans ce quatrième volet de notre série dédiée à la création de mods Minecraft. Après avoir généré votre premier bloc de minerai, il est temps de transformer cette matière brute en un matériau utilisable : le lingot. Dans ce tutoriel, nous allons apprendre à importer une texture d’item et à configurer sa recette de cuisson dans MCreator.\nRésumé des étapes clés Importation de texture : Utilisation de l’outil “Import external texture” pour intégrer le visuel du lingot. Configuration de l’item : Paramétrage du nom interne (sans espaces ni accents), choix de l’onglet créatif et définition de la taille du stack (64). Gestion des propriétés : Ajustement des options avancées (enchantements, durabilité, probabilité de spawn dans les coffres). Recette de cuisson : Liaison du minerai brut au lingot via le four (Smelting recipe). Test en jeu : Vérification du fonctionnement du lingot dans un environnement de test via le mode créatif. Ce qui reste d’actualité aujourd’hui Bien que les versions de MCreator évoluent rapidement, les fondamentaux abordés ici restent le socle du modding accessible :",
+    "tags": [
+      "MCreator",
+      "Modding",
+      "Tutoriel",
+      "GameDev"
+    ],
+    "title": "4. Création d''un lingot personnalisé avec MCreator",
+    "uri": "/minecraft/modding-minecraft/creation-lingot-mcreator-minecraft/index.html"
   },
   {
     "breadcrumb": "Accueil \u003e Tutoriels Unreal Engine 4 \u003e Série: Création d'un jeu d'arcade Android : De la modélisation à la publication",
@@ -583,6 +636,19 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-jeu-plateformes/configuration-raccourcis-clavier-azerty-unreal-engine-4/index.html"
   },
   {
+    "breadcrumb": "Accueil \u003e Minecrafts \u003e Sommaire de la série",
+    "content": "Bienvenue dans ce cinquième volet de notre série dédiée à la création de mods Minecraft via le logiciel MCreator. Après avoir appris à intégrer des minerais et des lingots, il est temps de passer à l’action en forgeant votre propre équipement. Dans ce tutoriel, nous allons créer une épée en “Yelonite” de toutes pièces.\nRésumé des étapes de création Importation des assets : Utilisation de l’outil Import External Textures pour charger le visuel de l’épée. Configuration de l’outil : Création d’un nouvel élément de type “Tool” avec un identifiant unique. Paramétrage technique : Réglage des statistiques (dégâts, durabilité, efficacité et enchantabilité). Recette de craft : Définition de la recette dans l’établi (un bâton et deux lingots de Yelonite). Compilation et test : Lancement de l’environnement de test pour vérifier le comportement en jeu. Débogage : Utilisation de la combinaison F3 + H pour afficher la durabilité réelle des objets en jeu et ajustement des valeurs via l’éditeur de mod. Ce qui reste d’actualité aujourd’hui Bien que les versions de MCreator aient évolué depuis la réalisation de cette vidéo, les fondamentaux du modding restent identiques :\nLa logique de création : Le workflow “Texture \u003e Item \u003e Recette \u003e Test” est toujours la base de tout mod sur MCreator. L’importance des statistiques : Comprendre que les dégâts de base de Minecraft s’ajoutent à la valeur définie dans le logiciel reste crucial pour équilibrer vos armes. Le debug F3+H : Cette commande est toujours indispensable pour les développeurs de mods afin de vérifier la durabilité et les ID des objets en temps réel. Itération rapide : La méthode consistant à tester, modifier, puis recompiler reste la meilleure façon d’apprendre et d’ajuster le “game feel” de vos créations. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Bienvenue dans ce cinquième volet de notre série dédiée à la création de mods Minecraft via le logiciel MCreator. Après avoir appris à intégrer des minerais et des lingots, il est temps de passer à l’action en forgeant votre propre équipement. Dans ce tutoriel, nous allons créer une épée en “Yelonite” de toutes pièces.\nRésumé des étapes de création Importation des assets : Utilisation de l’outil Import External Textures pour charger le visuel de l’épée. Configuration de l’outil : Création d’un nouvel élément de type “Tool” avec un identifiant unique. Paramétrage technique : Réglage des statistiques (dégâts, durabilité, efficacité et enchantabilité). Recette de craft : Définition de la recette dans l’établi (un bâton et deux lingots de Yelonite). Compilation et test : Lancement de l’environnement de test pour vérifier le comportement en jeu. Débogage : Utilisation de la combinaison F3 + H pour afficher la durabilité réelle des objets en jeu et ajustement des valeurs via l’éditeur de mod. Ce qui reste d’actualité aujourd’hui Bien que les versions de MCreator aient évolué depuis la réalisation de cette vidéo, les fondamentaux du modding restent identiques :",
+    "tags": [
+      "Minecraft",
+      "MCreator",
+      "Modding",
+      "Développement"
+    ],
+    "title": "5. Création d''une épée personnalisée avec MCreator",
+    "uri": "/minecraft/modding-minecraft/creation-epee-mcreator-minecraft/index.html"
+  },
+  {
     "breadcrumb": "Accueil \u003e Tutoriels Unreal Engine 4 \u003e Série: Création d'un jeu d'arcade Android : De la modélisation à la publication",
     "content": "Développer pour mobile et tablette impose des contraintes matérielles bien plus strictes que sur PC. Pour garantir une expérience fluide sur iOS et Android, chaque ressource compte. Dans cet épisode, nous explorons les piliers de l’optimisation sous Unreal Engine : de la gestion des maillages 3D à la structure de vos textures.\nRésumé des points clés Optimisation 3D : Réduisez le nombre de polygones dès la conception. Utilisez les LOD (Levels of Detail) pour alléger le rendu des objets éloignés. Instanciation : Privilégiez les Instanced Static Meshes pour les éléments répétitifs (végétation, décors) afin de réduire la charge processeur. Culling : Limitez la distance de vue et utilisez le brouillard (fog) ou des scripts de masquage pour ne pas calculer ce qui est hors champ. Programmation : Évitez les calculs lourds dans l’Event Tick. Mettez à jour vos variables (score, UI) uniquement lors d’un changement d’état. UV Mapping : Ne superposez jamais vos UVs, sous peine d’artefacts visuels majeurs sur mobile. Textures : Utilisez des dimensions en puissance de 2 (ex: 512x512, 1024x512). C’est obligatoire sur iOS et fortement recommandé sur Android pour éviter des calculs de redimensionnement coûteux. Ce qui reste d’actualité aujourd’hui Bien que les processeurs mobiles soient de plus en plus puissants, les principes fondamentaux de cet article restent le socle de tout projet performant :\nLa gestion de la mémoire : Les limites de poids des applications (IPA/APK) imposent toujours une gestion stricte de la résolution des textures. Le coût du “Draw Call” : L’utilisation des Instanced Static Meshes reste la méthode reine pour maintenir un framerate stable sur des scènes denses. La discipline du code : Le CPU mobile reste le goulot d’étranglement principal. La règle d’or “ne pas tout mettre dans le Tick” est plus que jamais d’actualité pour préserver l’autonomie de la batterie et éviter la surchauffe. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Développer pour mobile et tablette impose des contraintes matérielles bien plus strictes que sur PC. Pour garantir une expérience fluide sur iOS et Android, chaque ressource compte. Dans cet épisode, nous explorons les piliers de l’optimisation sous Unreal Engine : de la gestion des maillages 3D à la structure de vos textures.\nRésumé des points clés Optimisation 3D : Réduisez le nombre de polygones dès la conception. Utilisez les LOD (Levels of Detail) pour alléger le rendu des objets éloignés. Instanciation : Privilégiez les Instanced Static Meshes pour les éléments répétitifs (végétation, décors) afin de réduire la charge processeur. Culling : Limitez la distance de vue et utilisez le brouillard (fog) ou des scripts de masquage pour ne pas calculer ce qui est hors champ. Programmation : Évitez les calculs lourds dans l’Event Tick. Mettez à jour vos variables (score, UI) uniquement lors d’un changement d’état. UV Mapping : Ne superposez jamais vos UVs, sous peine d’artefacts visuels majeurs sur mobile. Textures : Utilisez des dimensions en puissance de 2 (ex: 512x512, 1024x512). C’est obligatoire sur iOS et fortement recommandé sur Android pour éviter des calculs de redimensionnement coûteux. Ce qui reste d’actualité aujourd’hui Bien que les processeurs mobiles soient de plus en plus puissants, les principes fondamentaux de cet article restent le socle de tout projet performant :",
@@ -685,6 +751,19 @@ var relearn_searchindex = [
     ],
     "title": "5. Munitions, Rechargement et HUD Statique",
     "uri": "/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Minecrafts \u003e Sommaire de la série",
+    "content": "Dans cet épisode, nous abordons l’étape cruciale de la création de contenu : le passage du projet à la réalité. Une fois vos blocs et items créés dans MCreator, il est temps de les compiler pour pouvoir les tester en jeu ou les partager avec vos amis. Nous verrons comment préparer votre environnement avec Forge et exporter votre travail proprement.\nRésumé des étapes clés Préparation de l’environnement : Installation de l’API Forge via des outils simplifiés (comme l’était autrefois PiPex) pour créer un profil dédié dans le Launcher Minecraft. Nettoyage : Suppression des anciens mods de test dans le dossier .minecraft/mods pour éviter les conflits. Exportation dans MCreator : Utilisation de la fonction “Export to Zip File”. Configuration du mod : Choix du nom, de la version (ex: 0.1), de la description et de l’icône du mod. Sélection des éléments : Filtrage des éléments à inclure (exclure les tests inutiles comme “The French Baguette”). Compilation : Lancement de la recompilation et récupération du fichier .zip final. Installation finale : Déplacement du fichier dans le dossier mods et vérification dans le menu du jeu. Ce qui reste d’actualité aujourd’hui Bien que les outils comme PiPex soient obsolètes et que les versions de Minecraft aient évolué, les principes fondamentaux du modding restent les mêmes :\nL’importance de Forge (ou Fabric/NeoForge) : L’utilisation d’une API de chargement de mods est toujours indispensable pour injecter votre code dans le jeu. La gestion des dossiers : Le dossier /mods reste l’emplacement standard où Minecraft va chercher les fichiers .jar (ou .zip) pour les charger au démarrage. La compatibilité des textures : Le problème soulevé concernant les “Texture Packs” (aujourd’hui appelés Resource Packs) est toujours une réalité. Créer des textures cohérentes avec le style de base de Minecraft reste un défi majeur pour tout moddeur. Le cycle de développement : La méthode de versioning (0.1 pour une version alpha, 1.0 pour une version stable) est une bonne pratique qui n’a pas pris une ride. MCreator : L’outil a énormément évolué et est devenu bien plus puissant, mais la logique d’exportation reste très proche de ce qui est décrit ici : une interface simplifiée pour transformer des éléments visuels en code Java compilé. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans cet épisode, nous abordons l’étape cruciale de la création de contenu : le passage du projet à la réalité. Une fois vos blocs et items créés dans MCreator, il est temps de les compiler pour pouvoir les tester en jeu ou les partager avec vos amis. Nous verrons comment préparer votre environnement avec Forge et exporter votre travail proprement.\nRésumé des étapes clés Préparation de l’environnement : Installation de l’API Forge via des outils simplifiés (comme l’était autrefois PiPex) pour créer un profil dédié dans le Launcher Minecraft. Nettoyage : Suppression des anciens mods de test dans le dossier .minecraft/mods pour éviter les conflits. Exportation dans MCreator : Utilisation de la fonction “Export to Zip File”. Configuration du mod : Choix du nom, de la version (ex: 0.1), de la description et de l’icône du mod. Sélection des éléments : Filtrage des éléments à inclure (exclure les tests inutiles comme “The French Baguette”). Compilation : Lancement de la recompilation et récupération du fichier .zip final. Installation finale : Déplacement du fichier dans le dossier mods et vérification dans le menu du jeu. Ce qui reste d’actualité aujourd’hui Bien que les outils comme PiPex soient obsolètes et que les versions de Minecraft aient évolué, les principes fondamentaux du modding restent les mêmes :",
+    "tags": [
+      "Minecraft",
+      "MCreator",
+      "Forge",
+      "Tutoriel"
+    ],
+    "title": "6. [Exporter et installer son premier mod Minecraft]",
+    "uri": "/minecraft/modding-minecraft/exporter-installer-mod-minecraft-mcreator/index.html"
   },
   {
     "breadcrumb": "Accueil \u003e Tutoriels Unreal Engine 4 \u003e Série: Création d'un jeu d'arcade Android : De la modélisation à la publication",
@@ -2996,6 +3075,20 @@ var relearn_searchindex = [
     "uri": "/unreal-engine-4/creer-effet-bullet-time-unreal-engine-4/index.html"
   },
   {
+    "breadcrumb": "Accueil \u003e Tutoriels Construct 2",
+    "content": "Dans ce tutoriel, nous allons voir comment concevoir un menu interactif et esthétique pour vos jeux sur Construct 2, en remplaçant la traditionnelle navigation à la souris par une gestion complète à la manette (Gamepad). L’objectif est de créer une interface fluide où les boutons réagissent visuellement à la sélection.\nRésumé des étapes clés Variables et Fonctions : Utilisation d’une variable globale bouton pour suivre l’index de l’élément sélectionné et d’une fonction CH_bouton pour centraliser la logique de navigation (incrémentation/décrémentation). Gestion du Gamepad : Utilisation de l’objet Gamepad pour détecter les pressions sur le D-Pad (haut/bas) et le bouton de validation (A). Boucle Every Tick : Mise en place d’une vérification constante pour appliquer un effet visuel (agrandissement via Set Scale) sur le bouton actif. Optimisation : Réinitialisation de la taille des boutons à chaque appel de fonction pour éviter les conflits d’affichage sans multiplier les lignes d’événements. Navigation : Utilisation de la condition On Button Pressed couplée à des sous-événements pour rediriger le joueur vers les différents Layouts (Aventure, Options, etc.). Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur plus ancien, les principes fondamentaux abordés ici restent parfaitement transposables dans Construct 3 ou d’autres moteurs 2D :\nLa logique d’indexation : Le système de variable globale pour indexer des éléments d’un menu est une pratique standard qui évite de coder des comportements spécifiques pour chaque bouton. La modularité des fonctions : Utiliser des fonctions pour gérer les entrées permet de garder une feuille d’événements propre et facile à déboguer. L’expérience utilisateur (UX) : L’idée de donner un feedback visuel (agrandissement, changement de couleur) lors de la navigation à la manette est indispensable pour le confort du joueur sur console ou PC. Gestion des entrées : La distinction entre le D-Pad et les joysticks analogiques est un point crucial que tout développeur doit maîtriser pour assurer la compatibilité avec différents contrôleurs. 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Dans ce tutoriel, nous allons voir comment concevoir un menu interactif et esthétique pour vos jeux sur Construct 2, en remplaçant la traditionnelle navigation à la souris par une gestion complète à la manette (Gamepad). L’objectif est de créer une interface fluide où les boutons réagissent visuellement à la sélection.\nRésumé des étapes clés Variables et Fonctions : Utilisation d’une variable globale bouton pour suivre l’index de l’élément sélectionné et d’une fonction CH_bouton pour centraliser la logique de navigation (incrémentation/décrémentation). Gestion du Gamepad : Utilisation de l’objet Gamepad pour détecter les pressions sur le D-Pad (haut/bas) et le bouton de validation (A). Boucle Every Tick : Mise en place d’une vérification constante pour appliquer un effet visuel (agrandissement via Set Scale) sur le bouton actif. Optimisation : Réinitialisation de la taille des boutons à chaque appel de fonction pour éviter les conflits d’affichage sans multiplier les lignes d’événements. Navigation : Utilisation de la condition On Button Pressed couplée à des sous-événements pour rediriger le joueur vers les différents Layouts (Aventure, Options, etc.). Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur plus ancien, les principes fondamentaux abordés ici restent parfaitement transposables dans Construct 3 ou d’autres moteurs 2D :",
+    "tags": [
+      "Construct 2",
+      "Tutoriel",
+      "GameDev",
+      "UI",
+      "Gamepad"
+    ],
+    "title": "Créer un menu contrôlé à la manette sur Construct 2",
+    "uri": "/construct-2/creer-menu-manette-construct-2/index.html"
+  },
+  {
     "breadcrumb": "Accueil \u003e Tutoriels Unreal Engine 4",
     "content": "Dans ce tutoriel, nous allons concevoir un système de piège dynamique pour vos niveaux : une plaque de pression qui, lorsqu’elle est activée par le joueur, fait surgir des pics du sol. Ce mécanisme est idéal pour ajouter du challenge et de la tension à votre gameplay.\nRésumé du processus de création Configuration de l’Acteur : Création d’un Blueprint Master (BPM_Pic) composé d’une plaque extérieure (le socle) et d’une plaque intérieure (le bouton). Gestion des collisions : Utilisation d’une Box Collision pour détecter le joueur et configuration des collisions des meshes pour permettre l’interaction. Génération procédurale : Utilisation du Construction Script avec des boucles For Loop pour instancier les pics de manière propre et optimisée via Instanced Static Mesh. Animation avec Timelines : Utilisation de deux Timelines distinctes : une pour l’enfoncement de la plaque et une pour la montée des pics. Interaction physique : Mise en place d’un système de Ragdoll sur le personnage lorsqu’il entre en contact avec les pics pour un effet de mort immédiat et réaliste. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise les bases d’Unreal Engine 4, les concepts fondamentaux restent parfaitement applicables dans les versions récentes (UE5) :\nL’utilisation des Timelines : Elles restent l’outil le plus simple et efficace pour gérer des animations simples dans les Blueprints sans passer par le système d’animation complexe. Instanced Static Meshes : C’est toujours la méthode recommandée pour optimiser les performances lorsque vous devez afficher de nombreux objets identiques (comme des pics ou des éléments de décor). La logique de “Construction Script” : La génération procédurale d’objets dans l’éditeur reste une pratique indispensable pour gagner du temps lors du level design. Modularité : L’approche “Master Blueprint” permet toujours de créer des variantes de pièges rapidement en modifiant simplement les variables exposées (nombre de pics, vitesse, délai). 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
     "description": "Dans ce tutoriel, nous allons concevoir un système de piège dynamique pour vos niveaux : une plaque de pression qui, lorsqu’elle est activée par le joueur, fait surgir des pics du sol. Ce mécanisme est idéal pour ajouter du challenge et de la tension à votre gameplay.\nRésumé du processus de création Configuration de l’Acteur : Création d’un Blueprint Master (BPM_Pic) composé d’une plaque extérieure (le socle) et d’une plaque intérieure (le bouton). Gestion des collisions : Utilisation d’une Box Collision pour détecter le joueur et configuration des collisions des meshes pour permettre l’interaction. Génération procédurale : Utilisation du Construction Script avec des boucles For Loop pour instancier les pics de manière propre et optimisée via Instanced Static Mesh. Animation avec Timelines : Utilisation de deux Timelines distinctes : une pour l’enfoncement de la plaque et une pour la montée des pics. Interaction physique : Mise en place d’un système de Ragdoll sur le personnage lorsqu’il entre en contact avec les pics pour un effet de mort immédiat et réaliste. Ce qui reste d’actualité aujourd’hui Bien que ce tutoriel utilise les bases d’Unreal Engine 4, les concepts fondamentaux restent parfaitement applicables dans les versions récentes (UE5) :",
@@ -3139,6 +3232,14 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: Effets Visuels",
+    "uri": "/tags/effets-visuels/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Export",
     "uri": "/tags/export/index.html"
   },
@@ -3165,6 +3266,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Foliage",
     "uri": "/tags/foliage/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Forge",
+    "uri": "/tags/forge/index.html"
   },
   {
     "breadcrumb": "Accueil \u003e Tags",
@@ -3229,6 +3338,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: GameMaker",
     "uri": "/tags/gamemaker/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Gamepad",
+    "uri": "/tags/gamepad/index.html"
   },
   {
     "breadcrumb": "Accueil \u003e Tags",
@@ -3319,6 +3436,19 @@ var relearn_searchindex = [
     "uri": "/tags/input/index.html"
   },
   {
+    "breadcrumb": "Accueil \u003e Tutoriels Construct 2",
+    "content": "Vous souhaitez donner une touche unique et interactive à votre jeu de plateforme ? Pourquoi ne pas utiliser votre propre webcam pour générer un fond animé en temps réel ? Dans ce tutoriel, nous allons voir comment utiliser l’objet User Media de Construct 2 pour capturer votre flux vidéo et y appliquer des effets graphiques dynamiques.\nRésumé des étapes clés Préparation : Ajoutez l’objet User Media sur votre calque de fond et configurez ses dimensions pour couvrir l’écran. Fixation : Utilisez le comportement Pin pour ancrer l’image de la webcam à votre interface ou à un point fixe du niveau. Logique : Utilisez l’événement On start of layout pour vérifier si le navigateur supporte la webcam (Support UserMedia) et demander l’autorisation d’accès (Request camera). Gestion des erreurs : Prévoyez une condition inversée pour détruire l’objet si l’utilisateur refuse l’accès ou si le matériel n’est pas détecté, afin de conserver votre fond statique de secours. Personnalisation : Appliquez des effets (comme Dot Screen, Polar Invert ou Black and White) via l’onglet “Effects” pour transformer votre flux vidéo en un arrière-plan stylisé. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur plus ancien, les principes fondamentaux de ce tutoriel restent très pertinents pour les développeurs web :\nL’API MediaDevices : Le fonctionnement sous-jacent (l’accès à la caméra via le navigateur) repose sur les standards du Web qui sont toujours utilisés dans les moteurs modernes comme Construct 3 ou Phaser. Gestion des permissions : La nécessité de demander explicitement l’autorisation à l’utilisateur est une règle de sécurité devenue encore plus stricte sur les navigateurs actuels. Optimisation : L’astuce consistant à garder un fond statique de secours est une excellente pratique de “fallback” pour garantir que votre jeu reste jouable même si le matériel de l’utilisateur est défaillant ou si les permissions sont bloquées. Expérimentation visuelle : L’utilisation de shaders (effets) sur un flux vidéo en direct reste une méthode très efficace et peu coûteuse en ressources pour créer des ambiances visuelles uniques (rétro, psychédélique, noir et blanc). 📺 Ma Chaîne YouTube S'abonner à la chaîne 📦 Ressources Téléchargements 🌐 Communauté 💻 GitHub 🦋 Bluesky 💼 LinkedIn 👾 Chaîne Twitch © 2026 - Créé avec ❤️ sous Hugo \u0026 Relearn. Mentions légales Confidentialité (RGPD)",
+    "description": "Vous souhaitez donner une touche unique et interactive à votre jeu de plateforme ? Pourquoi ne pas utiliser votre propre webcam pour générer un fond animé en temps réel ? Dans ce tutoriel, nous allons voir comment utiliser l’objet User Media de Construct 2 pour capturer votre flux vidéo et y appliquer des effets graphiques dynamiques.\nRésumé des étapes clés Préparation : Ajoutez l’objet User Media sur votre calque de fond et configurez ses dimensions pour couvrir l’écran. Fixation : Utilisez le comportement Pin pour ancrer l’image de la webcam à votre interface ou à un point fixe du niveau. Logique : Utilisez l’événement On start of layout pour vérifier si le navigateur supporte la webcam (Support UserMedia) et demander l’autorisation d’accès (Request camera). Gestion des erreurs : Prévoyez une condition inversée pour détruire l’objet si l’utilisateur refuse l’accès ou si le matériel n’est pas détecté, afin de conserver votre fond statique de secours. Personnalisation : Appliquez des effets (comme Dot Screen, Polar Invert ou Black and White) via l’onglet “Effects” pour transformer votre flux vidéo en un arrière-plan stylisé. Ce qui reste d’actualité aujourd’hui Bien que Construct 2 soit un moteur plus ancien, les principes fondamentaux de ce tutoriel restent très pertinents pour les développeurs web :",
+    "tags": [
+      "Construct 2",
+      "Webcam",
+      "GameDev",
+      "Effets Visuels"
+    ],
+    "title": "Intégrer votre webcam comme fond animé dans Construct 2",
+    "uri": "/construct-2/integrer-webcam-fond-anime-construct-2/index.html"
+  },
+  {
     "breadcrumb": "Accueil \u003e Tags",
     "content": "",
     "description": "",
@@ -3333,6 +3463,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Itch.io",
     "uri": "/tags/itch.io/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Java",
+    "uri": "/tags/java/index.html"
   },
   {
     "breadcrumb": "Accueil \u003e Tags",
@@ -3494,8 +3632,40 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
+    "title": "Tag :: MCreator",
+    "uri": "/tags/mcreator/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
     "title": "Tag :: Menu",
     "uri": "/tags/menu/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Minecraft",
+    "uri": "/categories/minecraft/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Minecraft",
+    "uri": "/tags/minecraft/index.html"
+  },
+  {
+    "breadcrumb": "Accueil",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Minecrafts",
+    "uri": "/minecraft/index.html"
   },
   {
     "breadcrumb": "Accueil \u003e Tutoriels Unreal Engine 4",
@@ -3542,6 +3712,22 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Mobile Game",
     "uri": "/tags/mobile-game/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Categories",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Category :: Modding",
+    "uri": "/categories/modding/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Modding",
+    "uri": "/tags/modding/index.html"
   },
   {
     "breadcrumb": "Accueil \u003e Tags",
@@ -3846,6 +4032,14 @@ var relearn_searchindex = [
     "uri": "/tags/skylight/index.html"
   },
   {
+    "breadcrumb": "Accueil \u003e Minecrafts",
+    "content": "Voici une proposition pour votre introduction :\n« Bienvenue dans cette série consacrée à la création d’un moteur de jeu inspiré de l’univers de Minecraft. À travers ces articles, nous explorerons les défis techniques liés au rendu de mondes voxel, de la génération procédurale à l’optimisation des performances graphiques. Préparez-vous à plonger dans les rouages du développement bas niveau pour bâtir votre propre moteur bloc par bloc. »\nListe des épisodes Épisode 1 Épisode 2 Épisode 3 Épisode 4 Épisode 5 Épisode 6",
+    "description": "Voici une proposition pour votre introduction :\n« Bienvenue dans cette série consacrée à la création d’un moteur de jeu inspiré de l’univers de Minecraft. À travers ces articles, nous explorerons les défis techniques liés au rendu de mondes voxel, de la génération procédurale à l’optimisation des performances graphiques. Préparez-vous à plonger dans les rouages du développement bas niveau pour bâtir votre propre moteur bloc par bloc. »\nListe des épisodes Épisode 1 Épisode 2 Épisode 3 Épisode 4 Épisode 5 Épisode 6",
+    "tags": [],
+    "title": "Sommaire de la série",
+    "uri": "/minecraft/modding-minecraft/index.html"
+  },
+  {
     "breadcrumb": "Accueil \u003e Tags",
     "content": "",
     "description": "",
@@ -4108,6 +4302,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Tag :: Visual Studio",
     "uri": "/tags/visual-studio/index.html"
+  },
+  {
+    "breadcrumb": "Accueil \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Webcam",
+    "uri": "/tags/webcam/index.html"
   },
   {
     "breadcrumb": "Accueil \u003e Tags",

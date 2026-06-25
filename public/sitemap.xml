@@ -9,11 +9,19 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/minecraft/modding-minecraft/introduction-modding-minecraft-mcreator/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/1-creation-personnage-plateforme-c2/index.html</loc>
+    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/index.html</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -57,6 +65,14 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/minecraft/modding-minecraft/installation-mcreator-tutoriel-debutant/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/construct-2/tuto-top-down-shooter/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -90,6 +106,10 @@
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/configuration-android-codeworks-unreal-engine-4/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/minecraft/modding-minecraft/creer-minerai-mcreator-minecraft/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -127,6 +147,10 @@
   <url>
     <loc>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-materiaux-dynamiques-instances-unreal-engine/index.html</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/minecraft/modding-minecraft/creation-lingot-mcreator-minecraft/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/creation-deploiement-projet-android-ue4/index.html</loc>
@@ -169,6 +193,10 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/minecraft/modding-minecraft/creation-epee-mcreator-minecraft/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/optimisation-mobile-unreal-engine-guide/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -195,6 +223,10 @@
   <url>
     <loc>http://localhost:1313/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/minecraft/modding-minecraft/exporter-installer-mod-minecraft-mcreator/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/introduction-blender-unreal-engine-4/index.html</loc>
@@ -929,6 +961,10 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/construct-2/creer-menu-manette-construct-2/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/unreal-engine-4/creer-piege-pics-plaque-pression-ue4/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -993,6 +1029,10 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/effets-visuels/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/export/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -1006,6 +1046,10 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/foliage/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/forge/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -1038,6 +1082,10 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/gamemaker/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/gamepad/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -1085,11 +1133,23 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/construct-2/integrer-webcam-fond-anime-construct-2/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/interface/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/minecraft/modding-minecraft/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/itch.io/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/java/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -1165,7 +1225,19 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/mcreator/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/menu/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/minecraft/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/minecraft/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -1186,6 +1258,18 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/mobile-game/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/modding/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/modding/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/minecraft/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -1298,10 +1382,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/game-maker-studio/shoot-them-up/index.html</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/construct-2/tuto-top-down-shooter/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -1453,6 +1533,10 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/webcam/index.html</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/widget/index.html</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -1538,10 +1622,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/score/index.html</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/construct-2/tuto-jeu-plateforme/index.html</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url>
   <url>

@@ -1,0 +1,13 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+
+{{/* On ne laisse QUE le CSS principal du thème en synchrone */}}
+<link href="{{ "css/theme.min.css" | relURL }}?{{ now.Unix }}" rel="stylesheet">
+
+{{/* On force TOUT le reste (scrollbar, format-html) à charger en arrière-plan sans bloquer */}}
+<link href="{{ "css/format-html.min.css" | relURL }}" rel="stylesheet" media="print" onload="this.media='all'">
+<link href="{{ "js/libs/perfect-scrollbar/perfect-scrollbar.min.css" | relURL }}" rel="stylesheet" media="print" onload="this.media='all'">
+
+{{/* Variante de couleur obligatoire pour Relearn (à ajuster avec le nom de ta variante si besoin) */}}
+<link href="{{ "css/variant-relearn-light.min.css" | relURL }}" rel="stylesheet">

@@ -10,7 +10,7 @@ enableRobotsTXT = true
   themeVariant = ['relearn-dark', 'relearn-light']
   disableFonts = true                  # On oublie définitivement Roboto Flex
   disableInlineScrollbar = true        # On force le défilement natif du téléphone
-  disableSearch = true
+  
 
 [outputs]
   home = ["HTML", "RSS"] # Active la barre de recherche intégrée de Relearn

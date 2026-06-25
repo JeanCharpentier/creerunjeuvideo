@@ -36,29 +36,29 @@ Résumé des notions clés Gestion des Packs de Vie (Health Packs) Création du 
     <meta itemprop="wordCount" content="660">
     <meta itemprop="keywords" content="Construct 2,Game Dev,Tutoriel,HTML5,Variables,Evenements,Optimisation,Menu,Export">
     <title>6. Gérer la Vie, Créer un Menu et Optimiser son Jeu :: Créer un jeu vidéo</title>
-    <link href="/images/favicon.png?1782399696" rel="icon" type="image/png">
-    <link href="/images/favicon-light.png?1782399696" rel="icon" type="image/png" media="(prefers-color-scheme: light")>
-    <link href="/images/favicon-dark.png?1782399696" rel="icon" type="image/png" media="(prefers-color-scheme: dark")>
-    <link href="/css/auto-complete/auto-complete.min.css?1782399696" rel="stylesheet">
-    <script src="/js/auto-complete/auto-complete.min.js?1782399696" defer></script>
-    <script src="/js/search-lunr.js?1782399696" defer></script>
-    <script src="/js/search.js?1782399696" defer></script>
+    <link href="/images/favicon.png?1782401126" rel="icon" type="image/png">
+    <link href="/images/favicon-light.png?1782401126" rel="icon" type="image/png" media="(prefers-color-scheme: light")>
+    <link href="/images/favicon-dark.png?1782401126" rel="icon" type="image/png" media="(prefers-color-scheme: dark")>
+    <link href="/css/auto-complete/auto-complete.min.css?1782401126" rel="stylesheet">
+    <script src="/js/auto-complete/auto-complete.min.js?1782401126" defer></script>
+    <script src="/js/search-lunr.js?1782401126" defer></script>
+    <script src="/js/search.js?1782401126" defer></script>
     <script>
       window.relearn = window.relearn || {};
-      window.relearn.index_js_url="/searchindex.en.js?1782399696";
+      window.relearn.index_js_url="/searchindex.en.js?1782401126";
     </script>
-    <script src="/js/lunr/lunr.min.js?1782399696" defer></script>
-    <script src="/js/lunr/lunr.stemmer.support.min.js?1782399696" defer></script>
-    <script src="/js/lunr/lunr.multi.min.js?1782399696" defer></script>
-    <script src="/js/lunr/lunr.fr.min.js?1782399696" defer></script>
+    <script src="/js/lunr/lunr.min.js?1782401126" defer></script>
+    <script src="/js/lunr/lunr.stemmer.support.min.js?1782401126" defer></script>
+    <script src="/js/lunr/lunr.multi.min.js?1782401126" defer></script>
+    <script src="/js/lunr/lunr.fr.min.js?1782401126" defer></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.contentLangs=['fr'];
     </script>
-    <link href="/fonts/fontawesome/css/all.min.css?1782399696" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/all.min.css?1782399696" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1782399696" rel="stylesheet">
-    <link href="/css/theme.css?1782399696" rel="stylesheet">
-    <link href="/css/format-html.css?1782399696" rel="stylesheet" id="R-format-style">
+    <link href="/fonts/fontawesome/css/all.min.css?1782401126" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/all.min.css?1782401126" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1782401126" rel="stylesheet">
+    <link href="/css/theme.css?1782401126" rel="stylesheet">
+    <link href="/css/format-html.css?1782401126" rel="stylesheet" id="R-format-style">
     <script>
       window.relearn = window.relearn || {};
       // configuration
@@ -107,7 +107,6 @@ Résumé des notions clés Gestion des Packs de Vie (Health Packs) Création du 
       window.relearn.initVariant();
       window.relearn.markVariant();
     </script>
-    <link href="/css/custom.css?1782399696" rel="stylesheet">
   </head>
   <body class="mobile-support html" data-origin="/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/index.html">
     <div id="R-body" class="default-animation">
@@ -144,7 +143,7 @@ Résumé des notions clés Gestion des Packs de Vie (Health Packs) Création du 
 <span class="btn cstyle button link noborder notitle interactive"><a href="/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html" title="5. Munitions, Rechargement et HUD Statique (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a></span>
             </div>
             <div class="topbar-button topbar-button-next default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
-<span class="btn cstyle button link noborder notitle interactive"><a href="/construct-2/tuto-jeu-plateforme/index.html" title="Série: Apprendre la création de jeux vidéo avec Construct 2 (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a></span>
+<span class="btn cstyle button link noborder notitle interactive"><a href="/construct-2/creer-menu-manette-construct-2/index.html" title="Créer un menu contrôlé à la manette sur Construct 2 (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a></span>
             </div>
             <div class="topbar-button topbar-button-more default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
 <span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button></span>
@@ -351,7 +350,9 @@ Résumé des notions clés Gestion des Packs de Vie (Health Packs) Création du 
         <div class="R-sidebarmenu R-shortcutmenu-main default-animation">
           <ul class="enlarge morespace collapsible-menu">
             <li class="" data-nav-id="/intersect-engine/index.html"><a class="padding default-animation" href="/intersect-engine/index.html">Créer un MMORPG de A à Z</a><ul id="R-subsections-3f037921b34bc00fb411f9b09ca8ea3e" class="collapsible-menu"></ul></li>
+            <li class="" data-nav-id="/minecraft/index.html"><a class="padding default-animation" href="/minecraft/index.html">Minecrafts</a><ul id="R-subsections-23e9b6229958cd945dad38c50d5f7b03" class="collapsible-menu"></ul></li>
             <li class="parent " data-nav-id="/construct-2/index.html"><a class="padding default-animation" href="/construct-2/index.html">Tutoriels Construct 2</a><ul id="R-subsections-cce4b606b0538b1d55c0d58eee48e27a" class="collapsible-menu">
+            <li class="alwaysopen " data-nav-id="/construct-2/tuto-jeu-plateforme/index.html"><a class="padding default-animation" href="/construct-2/tuto-jeu-plateforme/index.html">Série: Apprendre la création de jeux vidéo avec Construct 2</a><ul id="R-subsections-04245fa432d33ae3fbfe91743dc8faa4" class="collapsible-menu"></ul></li>
             <li class="parent alwaysopen " data-nav-id="/construct-2/tuto-top-down-shooter/index.html"><a class="padding default-animation" href="/construct-2/tuto-top-down-shooter/index.html">Série: Développement d&#39;un Top-Down Shooter</a><ul id="R-subsections-37e043fea5b63060a6790b06fcb190c5" class="collapsible-menu">
             <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/creer-jeu-html5-construct-2-introduction-premiers-pas/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/creer-jeu-html5-construct-2-introduction-premiers-pas/index.html">1. Introduction et premiers pas</a></li>
             <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/tutoriel-construct-2-visee-tirs-balles/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/tutoriel-construct-2-visee-tirs-balles/index.html">2. Visée à la Souris et Tirs de Balles</a></li>
@@ -359,7 +360,8 @@ Résumé des notions clés Gestion des Packs de Vie (Health Packs) Création du 
             <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables-instance/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables-instance/index.html">4. Gérer les Dégâts et Introduire les Variables d&#39;Instance</a></li>
             <li class="" data-nav-id="/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement-hud-statique/index.html">5. Munitions, Rechargement et HUD Statique</a></li>
             <li class="active " data-nav-id="/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/index.html"><a class="padding" href="/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/index.html">6. Gérer la Vie, Créer un Menu et Optimiser son Jeu</a></li></ul></li>
-            <li class="alwaysopen " data-nav-id="/construct-2/tuto-jeu-plateforme/index.html"><a class="padding default-animation" href="/construct-2/tuto-jeu-plateforme/index.html">Série: Apprendre la création de jeux vidéo avec Construct 2</a><ul id="R-subsections-04245fa432d33ae3fbfe91743dc8faa4" class="collapsible-menu"></ul></li></ul></li>
+            <li class="" data-nav-id="/construct-2/creer-menu-manette-construct-2/index.html"><a class="padding" href="/construct-2/creer-menu-manette-construct-2/index.html">Créer un menu contrôlé à la manette sur Construct 2</a></li>
+            <li class="" data-nav-id="/construct-2/integrer-webcam-fond-anime-construct-2/index.html"><a class="padding" href="/construct-2/integrer-webcam-fond-anime-construct-2/index.html">Intégrer votre webcam comme fond animé dans Construct 2</a></li></ul></li>
             <li class="" data-nav-id="/game-maker-studio/index.html"><a class="padding default-animation" href="/game-maker-studio/index.html">Tutoriels GameMaker Studio</a><ul id="R-subsections-69c440621b5787956f904504d42ac826" class="collapsible-menu"></ul></li>
             <li class="" data-nav-id="/unreal-engine-4/index.html"><a class="padding default-animation" href="/unreal-engine-4/index.html">Tutoriels Unreal Engine 4</a><ul id="R-subsections-4125e1051f1aca21a53dba04a447cbb0" class="collapsible-menu"></ul></li>
             <li class="" data-nav-id="/unreal-engine-5/index.html"><a class="padding default-animation" href="/unreal-engine-5/index.html">Tutoriels Unreal Engine 5</a><ul id="R-subsections-7ba934a6d645a707dda7263d6f637014" class="collapsible-menu"></ul></li>
@@ -395,8 +397,8 @@ Résumé des notions clés Gestion des Packs de Vie (Health Packs) Création du 
 <div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
       </div>
     </aside>
-    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1782399696" defer></script>
-    <script src="/js/theme.js?1782399696" defer></script>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1782401126" defer></script>
+    <script src="/js/theme.js?1782401126" defer></script>
     <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
   </body>
 </html>
