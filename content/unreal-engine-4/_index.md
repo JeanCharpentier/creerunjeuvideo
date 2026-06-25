@@ -3,6 +3,7 @@ title: "Tutoriels Unreal Engine 4"
 date: 2026-06-17
 categories: ["Archive"]
 tags: ['Unreal Engine', 'Game Development', 'Archivage', 'Tutoriel']
+bookCollapseSection: true
 ---
 
 Cette archive regroupe des tutoriels fondamentaux dédiés à l'apprentissage du moteur Unreal Engine 4 pour le développement de jeux vidéo.

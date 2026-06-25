@@ -1,16 +1,19 @@
-baseURL = 'https://creerunjeuvideo.fr/'
-languageCode = 'fr-fr'
-title = 'Créer un jeu vidéo'
+baseURL = 'https://www.creerunjeuvideo.fr/'
+theme = "hugo-book"
+defaultContentLanguage = "fr"
 
-theme = 'hugo-theme-relearn'
+# 1. On active explicitement la gestion des langues
+[languages]
+  [languages.fr]
+    label = "Français"
+    title = "Créer un jeu vidéo"
+    weight = 1
 
-enableRobotsTXT = true
+# 2. Sécurité pour les taxonomies (tes catégories qui plantent)
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [params]
-  themeVariant = ['relearn-dark', 'relearn-light']
-  disableFonts = true                  # On oublie définitivement Roboto Flex
-  disableInlineScrollbar = true        # On force le défilement natif du téléphone
-  
-
-[outputs]
-  home = ["HTML", "RSS"] # Active la barre de recherche intégrée de Relearn
+  BookTheme = "dark"
+  BookSection = "*"

@@ -3,6 +3,7 @@ title: "Tutoriels Construct 2"
 date: 2026-06-17
 categories: ["Archive"]
 tags: ['Construct 2', '2D', 'No-code', 'Tutoriel', 'Gamedev']
+bookCollapseSection: true
 ---
 
 Cette archive regroupe des tutoriels pédagogiques visant à explorer le moteur Construct 2, une solution de référence pour créer des jeux 2D sans avoir à écrire de code.

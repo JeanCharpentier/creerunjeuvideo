@@ -4,6 +4,7 @@ date: 2026-06-17
 weight: 3
 categories: ["Archive"]
 tags: ['Unreal Engine 4', 'Android', 'Mobile Dev', '3D', 'Tutoriel', 'Gamedev']
+bookCollapseSection: true
 ---
 
 Cette archive contient une série complète de tutoriels pédagogiques vous guidant à travers tout le cycle de développement d'un jeu d'arcade optimisé pour Android avec Unreal Engine 4.

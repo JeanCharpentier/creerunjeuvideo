@@ -2,6 +2,7 @@
 title: "Créer un MMORPG de A à Z"
 archetype: "chapter"
 weight: 1
+bookCollapseSection: true
 ---
 
 Bienvenue dans cette série de guides et de tutoriels dédiés à **Intersect Engine**, l'une des solutions open-source les plus accessibles et puissantes pour donner vie à vos projets de **MMORPG 2D**. 

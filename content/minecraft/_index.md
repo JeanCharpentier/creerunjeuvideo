@@ -3,6 +3,7 @@ title: "Modding Minecraft"
 date: 2026-06-17
 categories: ["Archive"]
 tags: ['Minecraft', 'Modding', 'Java', 'Forge', 'Tutoriel', 'Gamedev']
+bookCollapseSection: true
 ---
 
 Cette archive contient une série de tutoriels pédagogiques conçus pour les débutants souhaitant découvrir l'univers du modding Minecraft. De la mise en place de l'environnement de développement à l'ajout de contenu personnalisé, ces leçons explorent les rouages techniques du jeu.

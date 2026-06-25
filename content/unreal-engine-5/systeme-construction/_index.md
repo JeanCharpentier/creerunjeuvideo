@@ -9,6 +9,7 @@ tags:
 
 prev_url: ""
 next_url: "/unreal-engine-5/systeme-construction/cours-1/index.html"
+bookCollapseSection: true
 
 ---
 

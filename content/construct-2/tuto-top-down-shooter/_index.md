@@ -4,6 +4,7 @@ date: 2026-06-17
 weight: 2
 categories: ["Archive"]
 tags: ['Construct 2', 'Top-Down Shooter', 'No-code', 'Tutoriel', 'Gamedev']
+bookCollapseSection: true
 ---
 
 Cette archive contient une série de tutoriels pédagogiques dédiés à la conception et à la réalisation technique d'un jeu de tir en vue de dessus (Top-Down Shooter) avec Construct 2.

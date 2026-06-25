@@ -1,7 +1,9 @@
 ---
 title: "Tutoriels Unreal Engine 5"
-description: "Devenez développeur de jeux vidéo indépendant avec mes cours et tutoriels gratuits sur Unreal Engine 5. Apprenez le Blueprint, l'IA, le Level Design et compilez votre premier jeu."
-layout: "section-hub"
+date: 2026-06-17
+categories: ["Archive"]
+tags: ['Unreal Engine', 'Game Development', 'Archivage', 'Tutoriel']
+bookCollapseSection: true
 ---
 
 # Devenir Développeur de Jeux Vidéo avec Unreal Engine 5 : Le Guide Complet

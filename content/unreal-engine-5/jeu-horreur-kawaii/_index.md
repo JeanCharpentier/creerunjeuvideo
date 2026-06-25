@@ -6,6 +6,7 @@ description: "Retrouvez le guide complet et le résumé des 16 vidéos de la sé
 
 prev_url: ""
 next_url: ""
+bookCollapseSection: true
 ---
 
 Bienvenue dans l'index de la série de cours **Kawaii Slender**. Ce chapitre complet vous guide pas à pas à travers l'apprentissage d'Unreal Engine 5 en prenant pour cas d'usage pratique la création d'un jeu de survie/horreur complet. De l'installation des outils de développement à la compilation finale de votre jeu exécutable, découvrez le résumé des compétences clés acquises tout au long des 16 vidéos de la formation.

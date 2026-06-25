@@ -3,6 +3,7 @@ title: "Tutoriels GameMaker Studio"
 date: 2026-06-17
 categories: ["Archive"]
 tags: ['GameMaker', '2D', 'Indie Dev', 'Gamedev']
+bookCollapseSection: true
 ---
 
 Cette archive regroupe des tutoriels pédagogiques essentiels pour appréhender les bases du moteur GameMaker Studio et réaliser vos premiers projets de jeux en 2D.

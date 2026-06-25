@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ["Archive"]
 tags: ['Unreal Engine', 'Shaders', 'Matériaux', 'Texturing']
+bookCollapseSection: true
 ---
 
 Cette archive regroupe une série de tutoriels didactiques essentiels pour comprendre et créer des systèmes de matériaux complexes au sein d'Unreal Engine.
