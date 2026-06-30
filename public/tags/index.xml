@@ -616,7 +616,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Low-Poly</title>
+				<title>Low Poly</title>
 				<link>http://localhost:1313/tags/low-poly/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/low-poly/</guid>
@@ -739,6 +739,13 @@
 				<link>http://localhost:1313/tags/morph-targets/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/morph-targets/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Multiplayer</title>
+				<link>http://localhost:1313/tags/multiplayer/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/multiplayer/</guid>
 				<description></description>
 			</item>
 			<item>
