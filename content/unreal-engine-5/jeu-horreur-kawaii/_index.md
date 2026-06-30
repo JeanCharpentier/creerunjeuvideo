@@ -1,6 +1,7 @@
 ---
 title: "Série: Création d'un Slender-like (Kawaii Slender) sur Unreal Engine 5"
 date: 2026-06-12
+weight: 2
 layout: "chapter-home"
 description: "Retrouvez le guide complet et le résumé des 16 vidéos de la série consacrée à la création de A à Z d'un jeu d'horreur de type Slender-like sous Unreal Engine 5."
 
