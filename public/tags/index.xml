@@ -455,6 +455,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Horreur</title>
+				<link>http://localhost:1313/tags/horreur/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/horreur/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>HUD</title>
 				<link>http://localhost:1313/tags/hud/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -504,6 +511,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Interactivité</title>
+				<link>http://localhost:1313/tags/interactivit%C3%A9/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/interactivit%C3%A9/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Interface</title>
 				<link>http://localhost:1313/tags/interface/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -529,6 +543,13 @@
 				<link>http://localhost:1313/tags/jumpscare/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/jumpscare/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Kawaii</title>
+				<link>http://localhost:1313/tags/kawaii/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/kawaii/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -609,6 +630,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Live Coding</title>
+				<link>http://localhost:1313/tags/live-coding/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/live-coding/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Logique</title>
 				<link>http://localhost:1313/tags/logique/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -616,7 +644,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Low Poly</title>
+				<title>Low-Poly</title>
 				<link>http://localhost:1313/tags/low-poly/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/low-poly/</guid>
@@ -854,6 +882,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Plugin</title>
+				<link>http://localhost:1313/tags/plugin/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/plugin/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Post-Process</title>
 				<link>http://localhost:1313/tags/post-process/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -994,6 +1029,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Slender-Like</title>
+				<link>http://localhost:1313/tags/slender-like/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/slender-like/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>SoundCue</title>
 				<link>http://localhost:1313/tags/soundcue/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -1082,6 +1124,27 @@
 				<link>http://localhost:1313/tags/tutoriel/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/tutoriel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Twitch</title>
+				<link>http://localhost:1313/tags/twitch/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/twitch/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Twitch API</title>
+				<link>http://localhost:1313/tags/twitch-api/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/twitch-api/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Twitch Integrator</title>
+				<link>http://localhost:1313/tags/twitch-integrator/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/twitch-integrator/</guid>
 				<description></description>
 			</item>
 			<item>

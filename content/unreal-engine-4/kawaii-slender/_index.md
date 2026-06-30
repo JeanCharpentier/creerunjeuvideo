@@ -1,47 +1,29 @@
 ---
-title: "Sommaire de la série"
-weight: 0
+title: "Série: Création d'un jeu d'horreur 'Kawaii Slender'"
+date: 2026-06-17
+weight: 4
+categories: ["Archive"]
+tags: ['Horreur', 'Kawaii', 'Slender-like', 'Level Design', 'Tutoriel', 'Gamedev']
+bookCollapseSection: true
 ---
 
-Voici une proposition pour votre introduction :
+Cette archive contient une série de tutoriels pédagogiques explorant la conception d'un jeu d'horreur à l'ambiance contrastée, alliant mécaniques de type "Slender" et esthétique "Kawaii". Une approche unique pour apprendre à détourner les codes du genre horrifique.
 
-« Bienvenue dans cette série consacrée à la maîtrise du moteur Unreal Engine 4, conçue pour vous accompagner pas à pas dans vos projets de création numérique. À travers ces différents chapitres, nous explorerons les fondamentaux du moteur, de la gestion des environnements aux mécaniques de gameplay essentielles. Que vous soyez débutant ou utilisateur en quête de perfectionnement, cet index vous servira de guide structuré pour naviguer efficacement dans l'écosystème d'UE4. »
 
-# Liste des épisodes
+### Notions clés abordées
 
-- [Épisode 0](./introduction-creation-jeu-unreal-engine-4/)
-- [Épisode 1](./creer-un-slender-like-unreal-engine-4-configuration-projet/)
-- [Épisode 2](./ajouter-mouvement-tete-camera-shake-unreal-engine-4/)
-- [Épisode 3](./creation-terrain-low-poly-blender-paintnet/)
-- [Épisode 4](./texturing-et-integration-terrain-unreal-engine-4/)
-- [Épisode 5](./creation-arbre-low-poly-blender-unreal-engine-4/)
-- [Épisode 6](./gestion-lightmaps-blender-unreal-engine-4/)
-- [Épisode 7](./maitriser-viewport-placement-objets-unreal-engine-4/)
-- [Épisode 8](./utiliser-le-foliage-editor-unreal-engine-4/)
-- [Épisode 9](./gerer-collisions-foliage-tool-unreal-engine-4/)
-- [Épisode 10](./tutoriel-unreal-engine-detection-objets-line-trace/)
-- [Épisode 11](./systeme-ramassage-objets-unreal-engine-4/)
-- [Épisode 12](./unreal-engine-4-creer-hud-compteur-cookies/)
-- [Épisode 13](./creation-ia-base-unreal-engine-4/)
-- [Épisode 14](./creation-ia-avancee-patrouille-aleatoire-unreal-engine-4/)
-- [Épisode 15](./integrer-personnage-makehuman-unreal-engine-4/)
-- [Épisode 16](./implementer-sprint-unreal-engine-4/)
-- [Épisode 17](./gerer-systeme-endurance-stamina-unreal-engine-4/)
-- [Épisode 18](./creer-barre-endurance-unreal-engine-4/)
-- [Épisode 19](./preparation-assets-menu-unreal-engine/)
-- [Épisode 20](./creation-interface-menu-unreal-engine-4/)
-- [Épisode 21](./creation-menu-principal-unreal-engine-4/)
-- [Épisode 22](./creation-menu-pause-unreal-engine-4/)
-- [Épisode 23](./creation-ecran-victoire-unreal-engine-4/)
-- [Épisode 24](./creer-ecran-game-over-slender-unreal-engine/)
-- [Épisode 25](./creer-systeme-particules-feu-unreal-engine-4/)
-- [Épisode 26](./creation-viseur-crosshair-unreal-engine-4/)
-- [Épisode 27](./remplacer-personnage-par-defaut-unreal-engine-4/)
-- [Épisode 28](./utilisation-blocking-volumes-unreal-engine-4/)
-- [Épisode 29](./integration-sonore-sound-cues-unreal-engine-4/)
-- [Épisode 30](./creation-ambiance-eclairage-post-process-unreal-engine-4/)
-- [Épisode 31](./exportation-et-finalisation-unreal-engine-4/)
-- [Épisode 32](./creer-un-jumpscare-dans-unreal-engine-4/)
-- [Épisode 34](./creer-systeme-bascule-fps-tps-unreal-engine/)
-- [Épisode 35](./creer-cinematique-introduction-sequencer-ue4/)
-- [Épisode 36](./conclusion-serie-kawaii-slender-unreal-engine-4/)
+* **Gestion du stress et de la tension :** Programmation de mécaniques de poursuite implacables et de systèmes de détection basés sur la ligne de vue.
+* **Système de collecte d'objets :** Mise en place d'une quête environnementale générant des événements aléatoires à mesure que le joueur progresse.
+* **Esthétique et Ambiance :** Travail sur le contraste visuel (palette de couleurs pastel vs éléments perturbateurs) et sound design immersif.
+* **Navigation IA :** Utilisation des systèmes de navigation pour permettre à l'antagoniste de patrouiller de manière intelligente dans des zones complexes.
+* **Post-processing :** Création d'effets visuels pour renforcer l'aspect "cauchemardesque" ou "mignon" selon la proximité de la menace.
+
+
+
+### Ce qui reste d'actualité aujourd'hui
+
+Le genre "Slender" est une leçon magistrale sur le game design minimaliste : comment créer une terreur intense avec très peu de mécaniques. Ce qui reste fondamental, c'est l'art de la tension procédurale et la compréhension de la psychologie du joueur. Que vous développiez un jeu d'horreur, un jeu d'infiltration ou un jeu d'aventure, les leçons apprises ici sur la gestion du rythme, la visibilité et l'anticipation sont universelles. Cette archive vous donne les outils pour maîtriser l'art du "jeu du chat et de la souris", une compétence narrative et technique essentielle pour tout concepteur de jeux vidéo cherchant à captiver son audience.
+
+{{< footer >}}
+
+SEO_SLUG: creation-jeu-horreur-kawaii-slender-archive
