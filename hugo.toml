@@ -2,14 +2,12 @@ baseURL = 'https://www.creerunjeuvideo.fr/'
 theme = "hugo-book"
 defaultContentLanguage = "fr"
 
-# 1. On active explicitement la gestion des langues
 [languages]
   [languages.fr]
     label = "Français"
     title = "Créer un jeu vidéo"
     weight = 1
 
-# 2. Sécurité pour les taxonomies (tes catégories qui plantent)
 [taxonomies]
   category = "categories"
   tag = "tags"

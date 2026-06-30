@@ -49,6 +49,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Ambiance</title>
+				<link>http://localhost:1313/tags/ambiance/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/ambiance/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Android</title>
 				<link>http://localhost:1313/tags/android/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -67,6 +74,13 @@
 				<link>http://localhost:1313/tags/archivage/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/archivage/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Asset</title>
+				<link>http://localhost:1313/tags/asset/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/asset/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -133,6 +147,20 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Camera</title>
+				<link>http://localhost:1313/tags/camera/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/camera/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Camera Shake</title>
+				<link>http://localhost:1313/tags/camera-shake/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/camera-shake/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Cascade</title>
 				<link>http://localhost:1313/tags/cascade/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -147,10 +175,24 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Character Movement</title>
+				<link>http://localhost:1313/tags/character-movement/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/character-movement/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Checkpoint</title>
 				<link>http://localhost:1313/tags/checkpoint/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/checkpoint/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cinématique</title>
+				<link>http://localhost:1313/tags/cin%C3%A9matique/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/cin%C3%A9matique/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -200,6 +242,13 @@
 				<link>http://localhost:1313/tags/content-browser/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/content-browser/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Crosshair</title>
+				<link>http://localhost:1313/tags/crosshair/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/crosshair/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -301,6 +350,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>FPS</title>
+				<link>http://localhost:1313/tags/fps/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/fps/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Game Design</title>
 				<link>http://localhost:1313/tags/game-design/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -329,7 +385,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Gamedev</title>
+				<title>GameDev</title>
 				<link>http://localhost:1313/tags/gamedev/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/gamedev/</guid>
@@ -406,6 +462,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>IA</title>
+				<link>http://localhost:1313/tags/ia/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/ia/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Importation</title>
 				<link>http://localhost:1313/tags/importation/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -434,6 +497,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Interaction</title>
+				<link>http://localhost:1313/tags/interaction/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/interaction/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Interface</title>
 				<link>http://localhost:1313/tags/interface/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -452,6 +522,20 @@
 				<link>http://localhost:1313/tags/java/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/java/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jumpscare</title>
+				<link>http://localhost:1313/tags/jumpscare/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/jumpscare/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>KawaiiSlender</title>
+				<link>http://localhost:1313/tags/kawaiislender/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/kawaiislender/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -483,7 +567,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Level Design</title>
+				<title>Level-Design</title>
 				<link>http://localhost:1313/tags/level-design/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/level-design/</guid>
@@ -504,10 +588,24 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Lightmap</title>
+				<link>http://localhost:1313/tags/lightmap/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/lightmap/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Lightmass</title>
 				<link>http://localhost:1313/tags/lightmass/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/lightmass/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>LineTrace</title>
+				<link>http://localhost:1313/tags/linetrace/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/linetrace/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -518,7 +616,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Low Poly</title>
+				<title>Low-Poly</title>
 				<link>http://localhost:1313/tags/low-poly/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/low-poly/</guid>
@@ -536,6 +634,13 @@
 				<link>http://localhost:1313/tags/lumi%C3%A8res/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/lumi%C3%A8res/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>MakeHuman</title>
+				<link>http://localhost:1313/tags/makehuman/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/makehuman/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -637,10 +742,24 @@
 				<description></description>
 			</item>
 			<item>
+				<title>NavMesh</title>
+				<link>http://localhost:1313/tags/navmesh/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/navmesh/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Nettoyage</title>
 				<link>http://localhost:1313/tags/nettoyage/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/nettoyage/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Niagara</title>
+				<link>http://localhost:1313/tags/niagara/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/niagara/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -686,10 +805,31 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Particules</title>
+				<link>http://localhost:1313/tags/particules/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/particules/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>PawnSensing</title>
+				<link>http://localhost:1313/tags/pawnsensing/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/pawnsensing/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Performance</title>
 				<link>http://localhost:1313/tags/performance/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/performance/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Personnage</title>
+				<link>http://localhost:1313/tags/personnage/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/personnage/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -749,6 +889,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Retargeting</title>
+				<link>http://localhost:1313/tags/retargeting/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/retargeting/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Rotation</title>
 				<link>http://localhost:1313/tags/rotation/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -781,6 +928,13 @@
 				<link>http://localhost:1313/tags/sdk/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/sdk/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sequencer</title>
+				<link>http://localhost:1313/tags/sequencer/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/sequencer/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -826,6 +980,20 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Slender</title>
+				<link>http://localhost:1313/tags/slender/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/slender/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SoundCue</title>
+				<link>http://localhost:1313/tags/soundcue/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/soundcue/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Spawner</title>
 				<link>http://localhost:1313/tags/spawner/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -837,6 +1005,13 @@
 				<link>http://localhost:1313/tags/spline/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/spline/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Stamina</title>
+				<link>http://localhost:1313/tags/stamina/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/stamina/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1103,13 +1278,6 @@
 				<link>http://localhost:1313/tags/patch/</link>
 				<pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/patch/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Personnage</title>
-				<link>http://localhost:1313/tags/personnage/</link>
-				<pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/personnage/</guid>
 				<description></description>
 			</item>
 			<item>
