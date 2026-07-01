@@ -1,6 +1,6 @@
 ---
 title: "3. Résolution finale : Dompter la face jaune du Rubik''s Cube"
-weight: 3
+weight: 4
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['RubiksCube', 'Tutoriel', 'Logique', 'Algorithmes']

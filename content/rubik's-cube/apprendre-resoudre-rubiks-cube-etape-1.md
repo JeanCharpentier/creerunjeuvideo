@@ -1,6 +1,6 @@
 ---
 title: "1. Apprendre à résoudre le Rubik''s Cube : La face blanche et la première couronne"
-weight: 1
+weight: 2
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Rubiks Cube', 'Débutant', 'Logique', 'GameDev']

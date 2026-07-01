@@ -8,8 +8,6 @@ bookCollapseSection: true
 
 Cette archive contient une série de tutoriels pédagogiques dédiés à la méthode de résolution couche par couche du Rubik's Cube classique 3x3x3. Une approche structurée pour transformer un casse-tête intimidant en une séquence d'étapes maîtrisables.
 
-{{< youtube-rgpd "" >}}
-
 ### Notions clés abordées
 
 * **Anatomie du cube :** Comprendre le rôle des centres fixes, des arêtes et des coins pour ne plus jamais se perdre.

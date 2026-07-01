@@ -1,6 +1,6 @@
 ---
 title: "2. Résoudre la deuxième couronne du Rubik''s Cube"
-weight: 2
+weight: 3
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Rubiks Cube', 'GameDev', 'Algorithmes', 'Logique']

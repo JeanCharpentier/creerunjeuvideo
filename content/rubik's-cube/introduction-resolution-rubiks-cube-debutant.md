@@ -1,6 +1,6 @@
 ---
 title: "0. Introduction à la résolution du Rubik''s Cube : Les bases"
-weight: 0
+weight: 1
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Rubiks Cube', 'Débutant', 'Logique', 'Méthodologie']
