@@ -5,10 +5,16 @@
     <loc>http://localhost:1313/unreal-engine-4/quick-tips/afficher-compteur-fps-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/rubiks-cube/apprendre-resoudre-rubiks-cube-etape-1/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/unreal-engine-4/fps-solo/creation-fps-unreal-engine-4-debutant/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/creer-publier-jeu-android-unreal-engine-4/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pocket-code/creer-un-jeu-sous-android/creer-ses-premiers-jeux-video-sur-android-avec-pocket-code/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/kawaii-slender/creer-un-slender-like-unreal-engine-4-configuration-projet/</loc>
@@ -24,6 +30,9 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/minecraft/modding-minecraft/introduction-modding-minecraft-mcreator/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/raycasting-gamemaker/creer-un-boomer-shooter/introduction-raycasting-game-maker/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-3/blender-vers-udk/introduction-bases-blender-gamedev-unreal-engine-3/</loc>
@@ -47,6 +56,9 @@
     <loc>http://localhost:1313/unreal-engine-5/systeme-construction/1-introduction-ghost-object-blueprint/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/intersect-engine/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -68,7 +80,13 @@
     <loc>http://localhost:1313/unreal-engine-4/kawaii-slender/ajouter-mouvement-tete-camera-shake-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/raycasting-gamemaker/creer-un-boomer-shooter/creation-textures-retro-raycasting-gamemaker/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/unreal-engine-3/creer-une-map-udk/tutoriel-unreal-engine-3-level-design-ep2/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pocket-code/creer-un-jeu-sous-android/creer-ses-premiers-assets-graphiques-avec-pocket-code/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/installation-visual-studio-unreal-engine-4/</loc>
@@ -87,6 +105,9 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/fps-solo/passer-vue-tps-fps-unreal-engine-4/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rubiks-cube/resoudre-deuxieme-couronne-rubiks-cube/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/minecraft/modding-minecraft/installation-mcreator-tutoriel-debutant/</loc>
@@ -108,6 +129,9 @@
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-5/systeme-construction/2-raytracing-raycasting-blocs-poser/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intersect-engine/creer-un-mmorpg/heberger-serveur-intersect-engine-linux-ubuntu/</loc>
@@ -137,16 +161,25 @@
     <loc>http://localhost:1313/unreal-engine-3/blender-vers-udk/creation-mapping-textures-arme-unreal-engine-3/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/pocket-code/creer-un-jeu-sous-android/creer-interactions-mouvements-pocket-code/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/minecraft/modding-minecraft/creer-minerai-mcreator-minecraft/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/demarrer-premier-projet-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/raycasting-gamemaker/creer-un-boomer-shooter/importation-textures-mapping-raycasting-gamemaker/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/unreal-engine-4/twitch-integrator/integrer-points-chaine-twitch-unreal-engine/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/quick-tips/optimiser-lisibilite-blueprints-reroute-nodes/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rubiks-cube/resolution-finale-rubiks-cube-face-jaune/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/</loc>
@@ -189,6 +222,9 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/decouverte-interface-unreal-engine-4/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/raycasting-gamemaker/creer-un-boomer-shooter/personnalisation-armes-raycasting-game-maker/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/twitch-integrator/rendre-jeu-interactif-twitch-integrator-unreal-engine/</loc>
@@ -239,6 +275,9 @@
     <loc>http://localhost:1313/unreal-engine-3/blender-vers-udk/importer-arme-blender-udk-tutoriel/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/raycasting-gamemaker/creer-un-boomer-shooter/integration-animation-ennemis-raycasting-gamemaker/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/optimisation-mobile-unreal-engine-guide/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -284,6 +323,9 @@
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/introduction-blender-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/raycasting-gamemaker/creer-un-boomer-shooter/personnalisation-assets-raycasting-gamemaker/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/remplacer-personnage-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -312,6 +354,9 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/creation-tronc-arbre-blender-low-poly/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/raycasting-gamemaker/creer-un-boomer-shooter/finalisation-mapping-exportation-raycasting-gamemaker/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/fps-solo/implementation-wall-jump-unreal-engine-4/</loc>
@@ -854,8 +899,38 @@
     <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/conclusion-apprentissage-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/rubiks-cube/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/apprentissage/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/archive/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/casse-t%C3%AAte/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/d%C3%A9butant/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rubiks-cube/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tutoriel/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pocket-code/creer-un-jeu-sous-android/pocket-code-tuto-4-obstacles-vie/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-3/maitriser-editeur-terrain-unreal-engine-3-udk/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
@@ -884,6 +959,12 @@
     <loc>http://localhost:1313/unreal-engine-4/kawaii-slender/introduction-creation-jeu-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/rubiks-cube/introduction-resolution-rubiks-cube-debutant/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/2.5d/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/2d/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -902,6 +983,9 @@
     <loc>http://localhost:1313/tags/aim-offset/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/algorithmes/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ambiance/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -911,10 +995,10 @@
     <loc>http://localhost:1313/tags/animation/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/archivage/</loc>
+    <loc>http://localhost:1313/divers/apprendre-a-programmer-sur-nintendo-switch-avec-fuze4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/archive/</loc>
+    <loc>http://localhost:1313/tags/archivage/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/asset/</loc>
@@ -923,10 +1007,19 @@
     <loc>http://localhost:1313/tags/asset-management/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/assetforge/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/divers/assetforge-creation-3d-low-poly-simple/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/assets/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/audio/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/battleroyale/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blender/</loc>
@@ -944,6 +1037,9 @@
     <loc>http://localhost:1313/tags/blueprints/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/boomer-shooter/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/bsp/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -957,9 +1053,6 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cascade/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/character-design/</loc>
@@ -995,6 +1088,9 @@
     <loc>http://localhost:1313/tags/content-browser/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/coregames/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/unreal-engine-3/creer-barrieres-invisibles-unreal-engine-3/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1008,6 +1104,9 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-3/creer-menu-flash-unreal-engine-3-udk/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/divers/creer-battle-royale-core-games-1-heure/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-cycle-jour-nuit-unreal-engine-4/</loc>
@@ -1040,7 +1139,13 @@
     <loc>http://localhost:1313/tags/debugging/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/d%C3%A9butant/</loc>
+    <loc>http://localhost:1313/divers/decouverte-game-builder-garage-atelier-jeu-video-switch/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/divers/decouverte-game-guru-creation-jeu-video-sans-code/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/divers/decouverte-kodu-game-lab-initiation-game-design/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/d%C3%A9ploiement/</loc>
@@ -1058,10 +1163,16 @@
     <loc>http://localhost:1313/categories/d%C3%A9veloppement-android/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/raycasting-gamemaker/creer-un-boomer-shooter/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/d%C3%A9veloppement-de-jeu/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/d%C3%A9veloppement-de-jeux/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pocket-code/creer-un-jeu-sous-android/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/d%C3%A9veloppement-mobile/</loc>
@@ -1076,7 +1187,13 @@
     <loc>http://localhost:1313/tags/directional-light/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/divers/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/editor/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/education/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/effets-visuels/</loc>
@@ -1106,6 +1223,12 @@
     <loc>http://localhost:1313/tags/fps/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/fuze4/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-builder-garage/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/game-design/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1115,10 +1238,16 @@
     <loc>http://localhost:1313/tags/game-development/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/game-guru/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/game-instance/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/game-logic/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gamedesign/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/gamedev/</loc>
@@ -1172,6 +1301,9 @@
     <loc>http://localhost:1313/tags/indie-dev/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/indie-game/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/infinity-blade/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1212,6 +1344,9 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/kismet/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kodu/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/landscape/</loc>
@@ -1274,6 +1409,9 @@
     <loc>http://localhost:1313/tags/makehuman/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/mapping/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/marketplace/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1287,6 +1425,9 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/menu/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/m%C3%A9thodologie/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/minecraft/</loc>
@@ -1334,6 +1475,12 @@
     <loc>http://localhost:1313/tags/multiplayer/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/my-world/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/divers/my-world-creation-jeu-video-debutant/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/navmesh/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1343,10 +1490,19 @@
     <loc>http://localhost:1313/tags/niagara/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/nintendo/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nintendo-switch/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/no-code/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/nodes/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/opensource/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/optimisation/</loc>
@@ -1382,10 +1538,19 @@
     <loc>http://localhost:1313/tags/pi%C3%A8ges/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/pixel-art/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/platforming/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/plugin/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pocket-code/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pocket-paint/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/post-process/</loc>
@@ -1400,7 +1565,13 @@
     <loc>http://localhost:1313/tags/productivit%C3%A9/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/programmation/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/progression/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/prototypage/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/publication/</loc>
@@ -1415,16 +1586,43 @@
     <loc>http://localhost:1313/tags/quicktip/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/raycasting/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/raycasting-game-maker/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/raycasting-gamemaker/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/raycasting-gamemaker/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/retargeting/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/retro-shooter/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/r%C3%A9tro-d%C3%A9veloppement/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/retro-gaming/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/retrogaming/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rigging/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rotation/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rubiks-cube/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rubikscube/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sauvegarde/</loc>
@@ -1490,6 +1688,9 @@
     <loc>http://localhost:1313/tags/spline/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/sprites/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/stamina/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1502,9 +1703,6 @@
     <loc>http://localhost:1313/tags/syst%C3%A8me-de-ramassage/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/t%C3%A9l%C3%A9portation/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1514,7 +1712,13 @@
     <loc>http://localhost:1313/tags/terrain/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/textures/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/texturing/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/the-game-creators/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tips/</loc>
@@ -1535,9 +1739,6 @@
     <loc>http://localhost:1313/tags/tutorial/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tutoriel/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/unreal-engine-3/tutoriel-unreal-engine-3-chargement-niveaux-kismet/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1551,6 +1752,12 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/game-maker-studio/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pocket-code/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/raycasting-gamemaker/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/tutoriels-unreal-engine/</loc>
@@ -1626,6 +1833,9 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/viewport/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/visual-scripting/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/visual-studio/</loc>
@@ -1745,12 +1955,6 @@
     <loc>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/unreal-engine-5/systeme-construction/</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/administration/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -1820,9 +2024,6 @@
     <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mapping/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/materiaux/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -1845,12 +2046,6 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pickups/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/pixel-art/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/programmation/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/projet/</loc>
