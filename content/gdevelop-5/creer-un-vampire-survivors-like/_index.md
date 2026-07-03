@@ -1,6 +1,7 @@
 ---
-title: "Création d'un jeu type 'Survivor' avec GDevelop 5"
+title: "Série: Création d'un jeu type 'Survivor' avec GDevelop 5"
 date: 2026-07-03
+weight: 3
 categories: ["Archive"]
 tags: ['GDevelop', 'Survivor-like', 'No-code', 'Tutoriel', 'Gamedev']
 bookCollapseSection: true
