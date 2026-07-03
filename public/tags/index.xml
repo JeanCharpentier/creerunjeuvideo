@@ -10,9 +10,72 @@
 		
 		
 		
-			<lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>2D</title>
+				<link>http://localhost:1313/tags/2d/</link>
+				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/2d/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>3D</title>
+				<link>http://localhost:1313/tags/3d/</link>
+				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/3d/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Archivage</title>
+				<link>http://localhost:1313/tags/archivage/</link>
+				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/archivage/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Game Development</title>
+				<link>http://localhost:1313/tags/game-development/</link>
+				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/game-development/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gamedev</title>
+				<link>http://localhost:1313/tags/gamedev/</link>
+				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/gamedev/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>GDevelop</title>
+				<link>http://localhost:1313/tags/gdevelop/</link>
+				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/gdevelop/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>No-Code</title>
+				<link>http://localhost:1313/tags/no-code/</link>
+				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/no-code/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Plateformer</title>
+				<link>http://localhost:1313/tags/plateformer/</link>
+				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/plateformer/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tutoriel</title>
+				<link>http://localhost:1313/tags/tutoriel/</link>
+				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/tutoriel/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Apprentissage</title>
 				<link>http://localhost:1313/tags/apprentissage/</link>
@@ -42,31 +105,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Tutoriel</title>
-				<link>http://localhost:1313/tags/tutoriel/</link>
-				<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/tutoriel/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>2.5D</title>
 				<link>http://localhost:1313/tags/2.5d/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/2.5d/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>2D</title>
-				<link>http://localhost:1313/tags/2d/</link>
-				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/2d/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>3D</title>
-				<link>http://localhost:1313/tags/3d/</link>
-				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/3d/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -123,13 +165,6 @@
 				<link>http://localhost:1313/tags/animation/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/animation/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Archivage</title>
-				<link>http://localhost:1313/tags/archivage/</link>
-				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/archivage/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -497,13 +532,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Game Development</title>
-				<link>http://localhost:1313/tags/game-development/</link>
-				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/game-development/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Game Guru</title>
 				<link>http://localhost:1313/tags/game-guru/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -529,13 +557,6 @@
 				<link>http://localhost:1313/tags/gamedesign/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/gamedesign/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Gamedev</title>
-				<link>http://localhost:1313/tags/gamedev/</link>
-				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/gamedev/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -812,7 +833,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Low Poly</title>
+				<title>Low-Poly</title>
 				<link>http://localhost:1313/tags/low-poly/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/low-poly/</guid>
@@ -998,13 +1019,6 @@
 				<link>http://localhost:1313/tags/nintendo-switch/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/nintendo-switch/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>No-Code</title>
-				<link>http://localhost:1313/tags/no-code/</link>
-				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/no-code/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1911,6 +1925,27 @@
 				<description></description>
 			</item>
 			<item>
+				<title>External Events</title>
+				<link>http://localhost:1313/tags/external-events/</link>
+				<pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/external-events/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>GDevelop 5</title>
+				<link>http://localhost:1313/tags/gdevelop-5/</link>
+				<pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/gdevelop-5/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jeu De Plateforme</title>
+				<link>http://localhost:1313/tags/jeu-de-plateforme/</link>
+				<pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/jeu-de-plateforme/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Administration</title>
 				<link>http://localhost:1313/tags/administration/</link>
 				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
@@ -1922,6 +1957,13 @@
 				<link>http://localhost:1313/tags/gamedev-debutant/</link>
 				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/gamedev-debutant/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>GDevelop5</title>
+				<link>http://localhost:1313/tags/gdevelop5/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/gdevelop5/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1967,10 +2009,38 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Survival-Like</title>
+				<link>http://localhost:1313/tags/survival-like/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/survival-like/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Survivors-Like</title>
+				<link>http://localhost:1313/tags/survivors-like/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/survivors-like/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Tessellation</title>
 				<link>http://localhost:1313/tags/tessellation/</link>
 				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/tessellation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Astuces</title>
+				<link>http://localhost:1313/tags/astuces/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/astuces/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Caméra</title>
+				<link>http://localhost:1313/tags/cam%C3%A9ra/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/cam%C3%A9ra/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -2002,6 +2072,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Développement De Jeu</title>
+				<link>http://localhost:1313/tags/d%C3%A9veloppement-de-jeu/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/d%C3%A9veloppement-de-jeu/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Developpement De Jeux</title>
 				<link>http://localhost:1313/tags/developpement-de-jeux/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -2027,6 +2104,13 @@
 				<link>http://localhost:1313/tags/game-maker-studio/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/game-maker-studio/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Game Over</title>
+				<link>http://localhost:1313/tags/game-over/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/game-over/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -2128,6 +2212,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Platformer</title>
+				<link>http://localhost:1313/tags/platformer/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/platformer/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Projet</title>
 				<link>http://localhost:1313/tags/projet/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -2139,6 +2230,13 @@
 				<link>http://localhost:1313/tags/rechargement/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/rechargement/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Roguelike</title>
+				<link>http://localhost:1313/tags/roguelike/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/roguelike/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -2170,6 +2268,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Souris</title>
+				<link>http://localhost:1313/tags/souris/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/souris/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Spells</title>
 				<link>http://localhost:1313/tags/spells/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -2184,10 +2289,31 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Survival</title>
+				<link>http://localhost:1313/tags/survival/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/survival/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>TiledBackground</title>
+				<link>http://localhost:1313/tags/tiledbackground/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/tiledbackground/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Tir</title>
 				<link>http://localhost:1313/tags/tir/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/tir/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Trigonométrie</title>
+				<link>http://localhost:1313/tags/trigonom%C3%A9trie/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/trigonom%C3%A9trie/</guid>
 				<description></description>
 			</item>
 			<item>

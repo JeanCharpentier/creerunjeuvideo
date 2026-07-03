@@ -36,7 +36,7 @@ def generate_hugo_article_gemini(transcript, episode_num, engine, category):
         f"Tu es un expert GameDev. Rédige un article pour '{engine}'.\n"
         "1. Commence par Front Matter YAML (---).\n"
         f"2. Titre : '{episode_num}. [Titre]' (encadre le titre avec des guillemets doubles).\n"
-        "3. Date (2026-06-17), categories: ['{category}'], tags.\n"
+        "3. Date du jour au format aaaa-mm-dd, categories: ['{category}'], tags.\n"
         "4. Après le Front Matter, une intro + {{< youtube-rgpd \"\" >}}.\n"
         "5. Résumé en listes, section '### Ce qui reste d'actualité aujourd'hui', {{< footer >}}.\n"
         "6. TOUT À LA FIN sur une ligne seule : SEO_SLUG: le-slug-de-l-article"

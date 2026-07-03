@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/unreal-engine-4/quick-tips/afficher-compteur-fps-unreal-engine-4/</loc>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rubiks-cube/introduction-resolution-rubiks-cube-debutant/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rubiks-cube/apprendre-resoudre-rubiks-cube-etape-1/</loc>
+    <loc>http://localhost:1313/unreal-engine-4/quick-tips/afficher-compteur-fps-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/fps-solo/creation-fps-unreal-engine-4-debutant/</loc>
@@ -59,11 +62,20 @@
     <loc>http://localhost:1313/unreal-engine-5/systeme-construction/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme/creer-premier-jeu-plateforme-gdevelop-5/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/intersect-engine/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intersect-engine/creer-un-mmorpg/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/creer-jeu-survival-gdevelop-5-episode-1/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme-3d/creer-premier-jeu-plateforme-3d-gdevelop-5/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/game-maker-studio/shoot-them-up/decouvrir-gamemaker-studio-creer-votre-premier-shoot-em-up/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
@@ -76,6 +88,12 @@
   </url><url>
     <loc>http://localhost:1313/construct-2/tuto-top-down-shooter/creer-jeu-html5-construct-2-introduction-premiers-pas/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme-3d/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rubiks-cube/apprendre-resoudre-rubiks-cube-etape-1/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/kawaii-slender/ajouter-mouvement-tete-camera-shake-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
@@ -107,9 +125,6 @@
     <loc>http://localhost:1313/unreal-engine-4/fps-solo/passer-vue-tps-fps-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rubiks-cube/resoudre-deuxieme-couronne-rubiks-cube/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/minecraft/modding-minecraft/installation-mcreator-tutoriel-debutant/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -134,6 +149,15 @@
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme/gdevelop-5-tuto-2-pieges-animations/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/creer-ennemis-tir-gdevelop-survivors-like/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme-3d/creer-objets-interactifs-animes-3d-gdevelop/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/intersect-engine/creer-un-mmorpg/heberger-serveur-intersect-engine-linux-ubuntu/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -145,6 +169,9 @@
   </url><url>
     <loc>http://localhost:1313/construct-2/tuto-top-down-shooter/tutoriel-construct-2-visee-tirs-balles/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rubiks-cube/resoudre-deuxieme-couronne-rubiks-cube/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/configuration-android-codeworks-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
@@ -179,9 +206,6 @@
     <loc>http://localhost:1313/unreal-engine-4/quick-tips/optimiser-lisibilite-blueprints-reroute-nodes/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rubiks-cube/resolution-finale-rubiks-cube-face-jaune/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-un-jeu-android/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -194,17 +218,29 @@
     <loc>http://localhost:1313/unreal-engine-5/systeme-construction/3-overlaps-erreurs-construction/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme/creer-menu-score-variables-gdevelop-5/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/game-maker-studio/shoot-them-up/demarrer-projet-game-maker-studio-gestion-ressources/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/construct-2/tuto-top-down-shooter/creer-monstres-ia-simple-construct-2/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/creer-roguelike-vampire-survivors-gdevelop-degats-flash/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/intersect-engine/creer-un-mmorpg/decouverte-editeur-cartes-base-donnees-intersect-engine/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme-3d/gerer-score-interface-gdevelop-5/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-materiaux-dynamiques-instances-unreal-engine/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rubiks-cube/resolution-finale-rubiks-cube-face-jaune/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-3/creer-une-map-udk/application-materiaux-textures-unreal-engine-3/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
@@ -248,6 +284,9 @@
     <loc>http://localhost:1313/unreal-engine-5/systeme-construction/4-selection-objets-molette-destruction/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme/creer-niveaux-gestion-gameplay-gdevelop-5/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/intersect-engine/creer-un-mmorpg/maitriser-mapping-intersect-engine-calques-auto-tiles/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -255,6 +294,12 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiaux-emissifs-unreal-engine/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme-3d/creer-integrer-effets-sonores-gdevelop-5/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/gerer-vie-joueur-invulnerabilite-gdevelop-5/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables-instance/</loc>
@@ -302,6 +347,12 @@
     <loc>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-environnements-vivants-intersect-engine/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme-3d/creer-plateformes-3d-ennemis-mobiles-gdevelop-5/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/creer-systeme-experience-montee-niveau-gdevelop-5/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/game-maker-studio/shoot-them-up/debuter-game-maker-integrer-deplacer-vaisseau/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -341,10 +392,16 @@
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/6-ui-umg-widget-affichage-hud-ue5/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme-3d/creer-conditions-defaite-groupes-objets-gdevelop-3d/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-falaises-cascades-intersect-engine/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-eau-dynamique-unreal-engine/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/creer-systeme-montee-niveau-gdevelop-partie-1/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu-construct-2/</loc>
@@ -380,7 +437,13 @@
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/7-ramassage-objet-score-points-compteur/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/creer-systeme-level-up-survival-like-gdevelop/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/intersect-engine/creer-un-mmorpg/creer-lier-cartes-intersect-engine/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme-3d/creer-ecran-game-over-gdevelop-3d/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/maitriser-le-tiling-des-textures-unreal-engine/</loc>
@@ -419,6 +482,12 @@
     <loc>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemis-spawn-dynamique-gamemaker/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme-3d/gerer-camera-3d-souris-gdevelop-5/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/gestion-ennemis-difficulte-dynamique-gdevelop/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/unreal-engine-3/creer-une-map-udk/compilation-packaging-deploiement-udk-tuto-9/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -440,6 +509,9 @@
     <loc>http://localhost:1313/unreal-engine-5/jeu-horreur-kawaii/9-ai-perception-detection-vision-ecoute-suivre/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/creation-systeme-armes-rotatives-gdevelop-5/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/intersect-engine/creer-un-mmorpg/optimiser-ressources-graphiques-decouper-sprites-intersect-engine/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -447,6 +519,9 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-glace-tessellation-unreal-engine/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-jeu-de-plateforme-3d/creer-menu-victoire-gdevelop-3d/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-materiaux-complexes-rouille-ue4/</loc>
@@ -471,6 +546,9 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-ses-mat%C3%A9riaux/creer-materiau-verre-translucide-unreal-engine/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/creer-un-monde-infini-et-ajouter-des-decors-gdevelop-5/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/intersect-engine/creer-un-mmorpg/guide-import-assets-systeme-monnaie-intersect-engine/</loc>
@@ -502,6 +580,9 @@
   </url><url>
     <loc>http://localhost:1313/game-maker-studio/shoot-them-up/creer-ennemi-tir-laser-gamemaker-studio/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/gdevelop-5-tuto-11-spawn-shake-interface/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/creation-terrain-landscape-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
@@ -899,31 +980,61 @@
     <loc>http://localhost:1313/unreal-engine-4/creer-jeu-plateformes/conclusion-apprentissage-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/2d/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/3d/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/archivage/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/archive/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-development/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gamedev/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gdevelop/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/no-code/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plateformer/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tutoriel/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gdevelop-5/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/rubiks-cube/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/apprentissage/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/archive/</loc>
+    <loc>http://localhost:1313/divers/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/casse-t%C3%AAte/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/d%C3%A9butant/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rubiks-cube/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tutoriel/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -959,16 +1070,7 @@
     <loc>http://localhost:1313/unreal-engine-4/kawaii-slender/introduction-creation-jeu-unreal-engine-4/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rubiks-cube/introduction-resolution-rubiks-cube-debutant/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/2.5d/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/2d/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/3d/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/3d-platformer/</loc>
@@ -996,9 +1098,6 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/divers/apprendre-a-programmer-sur-nintendo-switch-avec-fuze4/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/archivage/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/asset/</loc>
@@ -1187,9 +1286,6 @@
     <loc>http://localhost:1313/tags/directional-light/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/divers/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/editor/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1235,9 +1331,6 @@
     <loc>http://localhost:1313/categories/game-development/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/game-development/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/game-guru/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1248,9 +1341,6 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/gamedesign/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gamedev/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/gamedev/</loc>
@@ -1478,9 +1568,6 @@
     <loc>http://localhost:1313/tags/my-world/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/divers/my-world-creation-jeu-video-debutant/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/navmesh/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1494,9 +1581,6 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/nintendo-switch/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/no-code/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/nodes/</loc>
@@ -1617,6 +1701,9 @@
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rotation/</loc>
+    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/divers/my-world-creation-jeu-video-debutant/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rubiks-cube/</loc>
@@ -1955,10 +2042,25 @@
     <loc>http://localhost:1313/unreal-engine-5/enhanced-input-mapping/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/external-events/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gdevelop-5/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jeu-de-plateforme/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tutoriels-gdevelop/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/administration/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/gamedev-debutant/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gdevelop5/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/intersect-engine/</loc>
@@ -1976,11 +2078,26 @@
     <loc>http://localhost:1313/tags/procedural/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gdevelop-5/creer-un-vampire-survivors-like/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/sqlite/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/survival-like/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/survivors-like/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tessellation/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/astuces/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cam%C3%A9ra/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/comportements/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
@@ -1994,6 +2111,9 @@
     <loc>http://localhost:1313/tags/developpement-de-jeu/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/d%C3%A9veloppement-de-jeu/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/developpement-de-jeux/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -2004,6 +2124,12 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/game-maker-studio/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-over/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/gdevelop-5/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/gml/</loc>
@@ -2048,10 +2174,16 @@
     <loc>http://localhost:1313/tags/pickups/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/platformer/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/projet/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rechargement/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/roguelike/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rpg/</loc>
@@ -2066,13 +2198,25 @@
     <loc>http://localhost:1313/tags/shoot-em-up/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/souris/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/spells/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sprite/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/survival/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tiledbackground/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/tir/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/trigonom%C3%A9trie/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ubuntu/</loc>

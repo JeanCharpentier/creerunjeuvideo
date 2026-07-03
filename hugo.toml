@@ -1,4 +1,4 @@
-baseURL = 'https://www.creerunjeuvideo.fr/'
+baseURL = 'https://creerunjeuvideo.fr/'
 theme = "hugo-book"
 defaultContentLanguage = "fr"
 
