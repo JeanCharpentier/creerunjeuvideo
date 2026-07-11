@@ -1,5 +1,4 @@
 public/
-*.py
 .venv/
 __pycache__/
 *.txt
