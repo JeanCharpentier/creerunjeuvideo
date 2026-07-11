@@ -4,6 +4,7 @@ weight: 21
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Widget', 'Blueprint', 'HUD', 'GameDev']
+images: ["https://img.youtube.com/vi/NNNohmNoano/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous quittons la console de débogage pour offrir à nos joueurs une interface visuelle propre. Nous allons apprendre à créer un **Widget Blueprint** pour afficher le score en temps réel à l'écran, une étape essentielle pour transformer votre prototype en un véritable jeu.

@@ -4,6 +4,7 @@ weight: 7
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop', '3D', 'Game Over', 'Variables', 'Développement de jeu']
+images: ["https://img.youtube.com/vi/VHE9VnW3ccw/maxresdefault.jpg"]
 ---
 
 Dans cet avant-dernier épisode de notre série dédiée à la découverte de la 3D sur GDevelop 5, nous allons finaliser le système de défaite de notre jeu. L'objectif est de créer un écran de "Game Over" propre, de mettre le jeu en pause lors de l'affichage, et de corriger le bug persistant du score qui ne se réinitialisait pas correctement lors du redémarrage.

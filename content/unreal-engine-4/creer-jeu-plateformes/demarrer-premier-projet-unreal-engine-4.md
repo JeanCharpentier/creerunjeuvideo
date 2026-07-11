@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Débutant', 'Templates', 'Blueprints']
+images: ["https://img.youtube.com/vi/2VUfosGrob8/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce troisième chapitre de notre série dédiée à la maîtrise d'Unreal Engine 4. Après avoir installé l'environnement, il est temps de passer à l'action en créant votre tout premier projet. Que vous souhaitiez concevoir un jeu de plateforme, un FPS ou une simulation, tout commence par le choix du bon template.

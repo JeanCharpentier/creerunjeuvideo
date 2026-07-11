@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/creer-ennemi-tir-laser-gamemaker-stu
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'Game Development', 'GML']
+images: ["https://img.youtube.com/vi/KMUlQOwbJkw/maxresdefault.jpg"]
 ---
 
 Apprenez à dynamiser vos jeux en créant des ennemis aux trajectoires complexes grâce aux fonctions mathématiques intégrées de GameMaker.

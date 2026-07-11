@@ -4,6 +4,7 @@ weight: 10
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'FPS', 'Blueprints', 'Gameplay']
+images: ["https://img.youtube.com/vi/6LAiahvECdU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode de notre série dédiée à la création d'un FPS sur Unreal Engine 4, nous allons ajouter une mécanique essentielle pour dynamiser vos déplacements : le **Dash**. Ce mouvement rapide permet d'esquiver les tirs ou de parcourir des distances en un clin d'œil, tout en intégrant un système de "cooldown" pour éviter les abus.

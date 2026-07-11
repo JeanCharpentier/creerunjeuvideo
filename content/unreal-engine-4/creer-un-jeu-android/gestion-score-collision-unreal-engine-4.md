@@ -4,6 +4,7 @@ weight: 18
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'Game Logic', 'Collision', 'Gameplay']
+images: ["https://img.youtube.com/vi/yZbrNqECy9U/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons structurer la logique de score de notre jeu. Jusqu'ici, nous savions détecter une collision pour le "Game Over", mais il est temps d'ajouter une mécanique de points gratifiante sans pour autant permettre au joueur de "tricher" en accumulant des points à l'infini lors d'un seul passage.

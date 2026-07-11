@@ -4,6 +4,7 @@ weight: 24
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'Audio', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/AHinfzIpISY/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons finaliser l'interaction de ramassage de nos pièces en ajoutant un retour audio immédiat. Au lieu d'un simple changement de score visuel, le joueur bénéficiera d'un feedback sonore spatialisé, renforçant ainsi le "game feel" de notre projet. Nous verrons comment utiliser la position de l'acteur lui-même pour déclencher ce son.

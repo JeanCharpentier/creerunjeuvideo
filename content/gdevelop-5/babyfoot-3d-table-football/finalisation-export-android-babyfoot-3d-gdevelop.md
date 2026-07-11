@@ -4,6 +4,7 @@ weight: 7
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', '3D', 'Mobile', 'Android', 'Export']
+images: ["https://img.youtube.com/vi/zEpoTBMHCcY/maxresdefault.jpg"]
 ---
 
 Dans cet ultime épisode de notre série dédiée à la création d'un jeu de Babyfoot 3D, nous allons apporter les dernières touches de polish à notre gameplay et surtout, nous allons franchir l'étape cruciale : l'exportation de votre projet vers un format exécutable pour Android.

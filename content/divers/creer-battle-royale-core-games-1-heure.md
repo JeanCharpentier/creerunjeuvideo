@@ -3,6 +3,7 @@ title: "Créer un Battle Royale en moins d''une heure : Défi sur Core Games"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['CoreGames', 'BattleRoyale', 'Tutoriel', 'Prototypage', 'GameDesign']
+images: ["https://img.youtube.com/vi/g0e6vviRmpU/maxresdefault.jpg"]
 ---
 
 Est-il réellement possible de concevoir un Battle Royale fonctionnel en moins de 60 minutes ? C'est le défi que j'ai relevé en direct sur Core Games. Entre la gestion de la hiérarchie des objets, le texturage rapide et les pièges du terrain en voxel, voici un retour d'expérience sur ce prototype improvisé.

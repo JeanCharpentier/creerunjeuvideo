@@ -4,6 +4,7 @@ weight: 15
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Level Design', 'Blocking Volume', 'Collision', 'UE4']
+images: ["https://img.youtube.com/vi/34awKfTj5vM/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale du level design : la gestion des limites de votre carte. Il arrive souvent que les joueurs, par curiosité ou par erreur, tentent de sortir des zones de jeu prévues, ce qui peut entraîner des bugs de collision ou des chutes dans le vide. Pour éviter cela, Unreal Engine 4 propose un outil simple et efficace : le **Blocking Volume**.

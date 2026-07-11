@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['Minecraft']
 tags: ['MCreator', 'Modding', 'Tutoriel', 'GameDev']
+images: ["https://img.youtube.com/vi/kgKVu9L6tak/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce quatrième volet de notre série dédiée à la création de mods Minecraft. Après avoir généré votre premier bloc de minerai, il est temps de transformer cette matière brute en un matériau utilisable : le lingot. Dans ce tutoriel, nous allons apprendre à importer une texture d'item et à configurer sa recette de cuisson dans MCreator.

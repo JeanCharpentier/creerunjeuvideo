@@ -4,6 +4,7 @@ weight: 15
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'GameDev', 'Spawner', 'Tutoriel']
+images: ["https://img.youtube.com/vi/XS97TG91xvQ/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons automatiser l'apparition de nos obstacles. Plutôt que de placer manuellement chaque tronc dans le niveau, nous allons créer un "Spawner" (générateur) dédié. Ce système nous permettra de contrôler précisément le rythme et la position des objets, garantissant ainsi une expérience de jeu équitable pour tous les joueurs, essentielle pour un système de classement (leaderboard).

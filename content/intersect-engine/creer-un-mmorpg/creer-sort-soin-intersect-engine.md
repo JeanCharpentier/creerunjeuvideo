@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-sort-projectile-intersect-eng
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'Tutoriel', 'RPG', 'Spells']
+images: ["https://img.youtube.com/vi/Hr_koShCWxY/maxresdefault.jpg"]
 ---
 
 Apprendre à gérer les compétences magiques est une étape cruciale pour donner de la profondeur à votre RPG. Dans ce guide, nous explorons comment configurer un sort de soin fonctionnel au sein d'Intersect Engine.

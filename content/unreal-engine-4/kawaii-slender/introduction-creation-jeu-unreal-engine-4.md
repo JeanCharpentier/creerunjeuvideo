@@ -4,6 +4,7 @@ weight: 0
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'Blender', 'Tutoriel', 'Débutant', 'Game Design']
+images: ["https://img.youtube.com/vi/fCCWc2H_7xk/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette série de tutoriels dédiée à la création de jeux vidéo. L'objectif est de vous accompagner pas à pas dans la réalisation d'un projet complet, en utilisant l'Unreal Engine 4 comme moteur principal. Nous allons concevoir un jeu de type "Slender" (collecte d'objets avec une menace poursuivante), mais avec une direction artistique originale : un style "low-poly" coloré et kawaii, à l'opposé des ambiances sombres habituelles.

@@ -5,6 +5,7 @@ prev_url: "/game-maker-studio/shoot-them-up/integrer-sons-musique-game-maker-stu
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'Developpement de jeu', 'Exportation']
+images: ["https://img.youtube.com/vi/dlV4_8pcFfE/maxresdefault.jpg"]
 ---
 
 Apprendre à créer un jeu est une étape gratifiante, mais savoir comment le partager avec le monde entier est l'aboutissement ultime de tout développeur. Dans ce guide, nous explorons les étapes essentielles pour configurer et exporter votre projet GameMaker Studio en un fichier exécutable prêt à être lancé.

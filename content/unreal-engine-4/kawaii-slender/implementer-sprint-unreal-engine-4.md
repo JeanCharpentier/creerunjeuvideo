@@ -4,6 +4,7 @@ weight: 16
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'Character Movement', 'Gameplay', 'Tutoriel']
+images: ["https://img.youtube.com/vi/4HHJm5P_Af0/maxresdefault.jpg"]
 ---
 
 Dans ce seizième épisode de notre série dédiée au développement du jeu *Kawaai Slender*, nous allons aborder une mécanique fondamentale pour tout jeu à la première personne : le système de sprint. Apprendre à modifier dynamiquement la vitesse de déplacement de votre personnage est essentiel pour dynamiser votre gameplay.

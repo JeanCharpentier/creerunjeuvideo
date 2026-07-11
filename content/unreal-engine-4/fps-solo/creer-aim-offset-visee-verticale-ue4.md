@@ -3,6 +3,7 @@ titre: "14. Créer un Aim Offset pour la visée verticale"
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Animation', 'Aim Offset', 'GameDev']
+images: ["https://img.youtube.com/vi/IztmaEUPPsA/maxresdefault.jpg"]
 ---
 
 Dans cet épisode de notre série dédiée à la création d'un FPS sur Unreal Engine 4, nous allons nous attaquer à une étape cruciale pour le réalisme de votre jeu : permettre à l'arme de suivre le regard du joueur sur l'axe vertical. Grâce à l'utilisation des **Aim Offsets**, nous allons créer une transition fluide entre les différentes poses de visée.

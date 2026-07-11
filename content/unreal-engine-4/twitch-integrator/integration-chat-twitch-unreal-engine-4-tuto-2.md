@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'Twitch API', 'Blueprints', 'UMG']
+images: ["https://img.youtube.com/vi/rv3-yRX0S6Y/maxresdefault.jpg"]
 ---
 
 Dans ce deuxième épisode de notre série dédiée à l'intégration de Twitch dans Unreal Engine 4, nous allons passer à l'étape supérieure : ne plus simplement afficher un message brut, mais décortiquer les données envoyées par vos viewers. Vous apprendrez à identifier qui écrit, quel est son statut (Sub, Modérateur, VIP) et comment transmettre ces informations proprement vers une interface utilisateur (HUD) via une *Game Instance*.

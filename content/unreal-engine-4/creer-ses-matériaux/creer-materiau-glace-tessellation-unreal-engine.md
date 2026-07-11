@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-materiau-verre-translucid
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Material Editor', 'Tessellation', 'Game Dev']
+images: ["https://img.youtube.com/vi/tnTxZ8C4zHY/maxresdefault.jpg"]
 ---
 
 Apprenez à concevoir un matériau de glace dynamique et visuellement riche en utilisant les outils avancés de l'éditeur de matériaux d'Unreal Engine 4, incluant la tessellation pour une déformation géométrique réelle.

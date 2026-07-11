@@ -4,6 +4,7 @@ weight: 2
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', 'Jeu 3D', 'Babby Foot', 'Développement de jeu']
+images: ["https://img.youtube.com/vi/1XYaTK3cvBw/maxresdefault.jpg"]
 ---
 
 Dans ce deuxième épisode de notre série dédiée à la création d'un baby-foot 3D sous GDevelop 5, nous passons aux choses sérieuses : la mise en jeu et l'interaction entre les joueurs et la balle. Sans coup d'envoi, pas de match, et sans tir automatique, pas de plaisir !

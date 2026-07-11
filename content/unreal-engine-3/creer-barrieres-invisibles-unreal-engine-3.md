@@ -3,6 +3,7 @@ title: "Créer des barrières invisibles (Blocking Volumes) dans Unreal Engine 3
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 3', 'Level Design', 'Blocking Volume', 'GameDev']
+images: ["https://img.youtube.com/vi/uAe55evR-1k/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel technique, nous revenons sur une manipulation essentielle du level design sous **Unreal Engine 3 (UDK)** : la mise en place de barrières invisibles. Que ce soit pour empêcher le joueur de sortir des limites de la carte ou pour bloquer l'accès à des zones non terminées, le *Blocking Volume* est l'outil standard pour gérer les collisions sans altérer l'esthétique de votre environnement.

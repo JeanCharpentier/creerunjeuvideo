@@ -4,6 +4,7 @@ weight: 19
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['HUD', 'Widget Blueprint', 'UI', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/jvwX6Jhlzyw/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour l'expérience utilisateur : l'affichage d'informations en temps réel. Que ce soit pour un score, une barre de vie ou un compteur de munitions, le système de **HUD (Heads-Up Display)** est indispensable. Nous allons voir comment créer une interface utilisateur simple à l'aide des **Widget Blueprints** dans Unreal Engine 4 et comment l'injecter dans votre viewport dès le lancement de la partie.

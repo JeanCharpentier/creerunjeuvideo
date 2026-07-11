@@ -4,6 +4,7 @@ weight: 37
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Exportation', 'Matériaux', 'Debugging', 'Tutoriel']
+images: ["https://img.youtube.com/vi/EY4Akz6uKfE/maxresdefault.jpg"]
 ---
 
 Lors de l'exportation de vos projets sous Unreal Engine 4, il arrive fréquemment de rencontrer un bug frustrant : certains objets, comme les arbres, perdent leurs textures et s'affichent avec le matériau par défaut (le fameux damier gris). Ce problème, bien que connu depuis la version 4.8, peut être contourné facilement grâce à une manipulation simple des matériaux.

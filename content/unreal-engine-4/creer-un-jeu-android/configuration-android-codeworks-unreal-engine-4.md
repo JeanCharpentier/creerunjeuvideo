@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Android', 'SDK', 'CodeWorks', 'Développement Mobile']
+images: ["https://img.youtube.com/vi/51T5BGRho6M/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour tout développeur souhaitant porter ses projets sur mobile : la configuration de l'environnement Android. Pour qu'Unreal Engine puisse compiler vos jeux vers des appareils Android, il ne suffit pas d'avoir le moteur ; il faut installer le kit de développement logiciel (SDK) et les outils associés.

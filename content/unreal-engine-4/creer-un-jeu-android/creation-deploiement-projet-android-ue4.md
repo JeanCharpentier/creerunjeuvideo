@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Android', 'Mobile', 'Déploiement', 'Tutoriel']
+images: ["https://img.youtube.com/vi/6kp9TRyOZpk/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous passons à la pratique. Une fois votre environnement de développement et le SDK Android correctement configurés, il est temps de créer votre premier projet Unreal Engine 4 et de le déployer sur votre appareil mobile.

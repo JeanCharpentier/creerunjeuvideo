@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['Tutoriels GameDev']
 tags: ['Unreal Engine 3', 'Blender', 'Modélisation', 'Rigging', 'UDK']
+images: ["https://img.youtube.com/vi/acoBgupzn2U/maxresdefault.jpg"]
 ---
 
 Dans ce quatrième volet de notre série dédiée à l'intégration d'assets dans l'Unreal Engine 3 (UDK), nous allons aborder une étape cruciale : le **rigging** de votre arme. L'ajout d'une armature n'est pas seulement utile pour l'animation, c'est un prérequis indispensable pour que le moteur puisse manipuler votre modèle, notamment pour gérer des points d'attache spécifiques comme le *Muzzle Flash*.

@@ -4,6 +4,7 @@ weight: 34
 date: 2026-06-17
 categories: ['Développement Android']
 tags: ['Unreal Engine 4', 'Android', 'Packaging', 'Google Play', 'Mobile']
+images: ["https://img.youtube.com/vi/fOtUoY_BYXQ/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour tout développeur mobile : la préparation de votre projet Unreal Engine 4 pour une mise en ligne sur le Google Play Store. Avant de configurer les services Google Play (leaderboards, succès), il est impératif de s'assurer que votre build fonctionne parfaitement sur un appareil réel.

@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-materiau-glace-tessellati
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Material Editor', 'Game Design', 'Landscape', 'Tutoriel']
+images: ["https://img.youtube.com/vi/E8_fxBmCACY/maxresdefault.jpg"]
 ---
 
 Apprenez à automatiser le texturage de vos environnements en créant un matériau de terrain intelligent capable de s'adapter dynamiquement aux pentes de vos paysages dans Unreal Engine 4.

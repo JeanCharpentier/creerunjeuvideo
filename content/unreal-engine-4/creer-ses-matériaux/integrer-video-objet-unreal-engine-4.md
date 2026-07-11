@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/maitriser-materiaux-physiques-u
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Tutoriel', 'Game Development', 'Media Framework']
+images: ["https://img.youtube.com/vi/D0o7P2F4Kn8/maxresdefault.jpg"]
 ---
 
 Apprendre à diffuser du contenu vidéo directement sur des objets 3D dans Unreal Engine 4 ouvre des possibilités créatives infinies, de l'affichage d'écrans interactifs à la création de menus principaux dynamiques.

@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Minecraft', 'MCreator', 'Modding', 'Tutoriel']
+images: ["https://img.youtube.com/vi/h0N2K_mwTsQ/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce troisième volet de notre série dédiée au modding Minecraft. Aujourd'hui, nous passons à la pratique avec **MCreator**, l'outil incontournable pour créer du contenu sans avoir besoin de maîtriser le code Java complexe. Nous allons apprendre à intégrer un nouveau minerai, la "Yelonite", de sa texture jusqu'à sa génération automatique dans vos mondes.

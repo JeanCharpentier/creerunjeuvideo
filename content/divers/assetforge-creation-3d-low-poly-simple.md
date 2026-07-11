@@ -3,6 +3,7 @@ title: "AssetForge : Créer des assets 3D low-poly en toute simplicité"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['AssetForge', '3D', 'Low-poly', 'Unreal Engine', 'Tutoriel']
+images: ["https://img.youtube.com/vi/SNQvzPedLb8/maxresdefault.jpg"]
 ---
 
 Découvrez comment **AssetForge**, l'outil développé par Kenney, révolutionne la création d'assets 3D pour les développeurs indépendants. Que vous soyez débutant ou habitué des moteurs comme Unreal Engine, ce logiciel permet de prototyper et de construire des environnements complets avec une rapidité déconcertante grâce à une approche modulaire.

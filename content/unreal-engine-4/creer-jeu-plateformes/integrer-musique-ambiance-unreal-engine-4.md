@@ -4,6 +4,7 @@ weight: 25
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Audio', 'Blueprints', 'Game Design']
+images: ["https://img.youtube.com/vi/89jsR_gaJfs/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons donner vie à votre niveau en y intégrant une musique d'ambiance. Il ne s'agit pas seulement de lancer un son, mais de gérer sa boucle, son volume et surtout son interaction avec les événements de fin de partie (victoire ou défaite) pour éviter les superpositions sonores désagréables.

@@ -4,6 +4,7 @@ weight: 4
 date: 2024-05-22
 categories: ['Modding']
 tags: ['Hytale', 'Java', 'Modding', 'Tutoriel', 'IntelliJ']
+images: ["https://img.youtube.com/vi/f3GFytiQ7bk/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce quatrième volet de notre série dédiée au modding sur Hytale. Après avoir exploré les bases des "Mod Packs", il est temps de passer à l'étape supérieure : le développement de plugins en Java. Dans cet article, nous allons configurer votre environnement de travail complet pour transformer vos idées en fonctionnalités concrètes.

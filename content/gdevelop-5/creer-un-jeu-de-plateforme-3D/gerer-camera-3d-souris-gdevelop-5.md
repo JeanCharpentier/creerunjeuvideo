@@ -4,6 +4,7 @@ weight: 8
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', '3D', 'Caméra', 'Souris', 'GameDev']
+images: ["https://img.youtube.com/vi/79XRsPVCQ1U/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce dernier volet de notre série dédiée à la création 3D sur GDevelop 5. Après avoir posé les bases, il est temps de passer à une étape cruciale pour l'immersion : la gestion fluide de la caméra à la souris. Nous allons voir comment verrouiller le curseur, créer des mouvements naturels et gérer les limites de rotation pour éviter les comportements erratiques.

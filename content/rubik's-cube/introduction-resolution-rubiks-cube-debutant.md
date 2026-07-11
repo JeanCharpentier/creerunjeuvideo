@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Rubiks Cube', 'Débutant', 'Logique', 'Méthodologie']
+images: ["https://img.youtube.com/vi/qP41SCw6uyg/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette série dédiée à la maîtrise du Rubik's Cube. Si vous avez toujours considéré ce casse-tête comme un défi insurmontable, vous êtes au bon endroit. Dans cet épisode introductif, nous posons les fondations théoriques nécessaires pour aborder la résolution avec sérénité, en utilisant la méthode dite "du débutant".

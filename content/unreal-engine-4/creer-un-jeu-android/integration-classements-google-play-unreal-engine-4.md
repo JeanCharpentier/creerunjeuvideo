@@ -4,6 +4,7 @@ weight: 39
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Android', 'Google Play Services', 'Leaderboard', 'Mobile', 'Blueprints']
+images: ["https://img.youtube.com/vi/gaL-CpfAp_Q/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons franchir une étape cruciale pour la rétention de vos joueurs : l'intégration des classements (Leaderboards) via les services Google Play. Apprendre à configurer ces outils permet non seulement de créer une compétition saine entre vos joueurs, mais aussi d'ajouter une rejouabilité infinie à vos projets.

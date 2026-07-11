@@ -4,6 +4,7 @@ weight: 11
 date: 2023-10-27
 categories: ['GDevelop 5']
 tags: ['tutoriel', 'gamedev', 'trigonométrie', 'interface', 'astuces']
+images: ["https://img.youtube.com/vi/vu1wzCdvf3c/maxresdefault.jpg"]
 ---
 
 Dans ce nouvel épisode de notre série "Survivor-like" sur GDevelop 5, nous nous attaquons à trois points techniques cruciaux pour finaliser le "game feel" et la robustesse de votre projet. Nous allons corriger un bug mathématique persistant, ajouter du dynamisme avec un effet de caméra, et rendre notre interface parfaitement responsive.

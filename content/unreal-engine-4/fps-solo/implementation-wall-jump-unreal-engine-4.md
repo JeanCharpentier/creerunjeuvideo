@@ -4,6 +4,7 @@ weight: 7
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'FPS', 'Blueprint', 'Gameplay']
+images: ["https://img.youtube.com/vi/a8yne_WenSA/maxresdefault.jpg"]
 ---
 
 Dans cet épisode de notre série dédiée à la création d'un FPS sur Unreal Engine 4, nous allons aborder une mécanique essentielle pour donner du dynamisme à vos déplacements : le **Wall Jump**. Ce mouvement permet au joueur de rebondir sur les parois pour atteindre des zones en hauteur ou prendre l'avantage lors d'un combat rapide.

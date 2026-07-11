@@ -4,6 +4,7 @@ weight: 3
 date: 2024-05-22
 categories: ['Modding']
 tags: ['Hytale', 'Tutoriel', 'Modding', 'Asset Editor', 'Crafting']
+images: ["https://img.youtube.com/vi/oMDpOJPyTDE/maxresdefault.jpg"]
 ---
 
 Dans ce troisième et dernier volet de notre série découverte, nous passons à l'étape cruciale : transformer vos minerais en armes fonctionnelles. Nous verrons comment configurer les recettes de fonte, définir les établis requis et même ajouter un petit bonus décoratif pour personnaliser votre atelier.

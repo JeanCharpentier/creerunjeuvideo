@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/maitriser-systeme-quetes-intersect-
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMO', 'Tutoriel']
+images: ["https://img.youtube.com/vi/z45ZPNIw-F0/maxresdefault.jpg"]
 ---
 
 Le système de craft est un pilier fondamental pour l'immersion et l'économie de tout MMO. Avec Intersect Engine, les développeurs disposent d'un outil puissant pour créer des ateliers spécialisés et structurer la progression de leurs joueurs.

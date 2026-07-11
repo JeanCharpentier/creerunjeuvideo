@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'GameDev', 'Workflow', 'Tutoriel']
+images: ["https://img.youtube.com/vi/hynt7T2nzKI/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce second volet de notre série dédiée à Unreal Engine 4. Après avoir posé les bases de l'interface, nous allons nous concentrer sur l'optimisation de votre flux de travail quotidien. Que vous soyez artiste ou programmeur, comprendre comment structurer vos projets dès le départ est crucial pour éviter les goulots d'étranglement lors de la phase de production.

@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Tutoriel', 'GameDev', 'Blueprints', 'Unreal Engine 4']
+images: ["https://img.youtube.com/vi/KJGYAhgphKg/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette série dédiée à la création de votre premier FPS solo avec Unreal Engine 4. Dans ce premier épisode, nous posons les bases de votre projet en configurant l'environnement de travail, en important les assets nécessaires depuis le Marketplace et en effectuant les premiers réglages essentiels pour un confort de jeu optimal.

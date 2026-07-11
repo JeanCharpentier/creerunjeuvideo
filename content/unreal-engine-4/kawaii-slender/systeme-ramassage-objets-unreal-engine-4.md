@@ -4,6 +4,7 @@ weight: 11
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'Interaction', 'Gameplay', 'Tutoriel']
+images: ["https://img.youtube.com/vi/zCFxSKBxUts/maxresdefault.jpg"]
 ---
 
 Dans ce nouvel épisode de notre série sur Unreal Engine 4, nous allons passer à l'étape suivante de notre système d'interaction. Après avoir appris à détecter et mettre en surbrillance (Highlight) nos objets, il est temps de leur donner une utilité : le ramassage. Nous allons voir comment déclencher la destruction d'un acteur via une touche clavier tout en conservant une structure de code propre et organisée.

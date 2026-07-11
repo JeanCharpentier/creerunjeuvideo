@@ -4,6 +4,7 @@ weight: 0
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Twitch', 'Plugin', 'GameDev', 'Interaction', 'Blueprints']
+images: ["https://img.youtube.com/vi/dTNMj1VBvJw/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette série dédiée à l'interaction entre votre communauté et vos projets Unreal Engine 4. L'objectif est simple : transformer votre jeu en une expérience participative où les spectateurs de votre stream Twitch peuvent influencer directement le gameplay en temps réel.

@@ -4,6 +4,7 @@ weight: 4
 date: 2024-05-23
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', 'GameDev', 'Débutant', 'Niveaux', 'External Events']
+images: ["https://img.youtube.com/vi/lE0Z5ih3_ik/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce quatrième épisode de notre série dédiée à la création d'un jeu de plateforme 2D sur GDevelop 5 ! Aujourd'hui, nous allons franchir une étape cruciale pour la structure de votre projet : comment passer d'un niveau à un autre et, surtout, comment organiser votre code pour ne pas avoir à réécrire les mêmes règles de gameplay à chaque nouvelle scène.

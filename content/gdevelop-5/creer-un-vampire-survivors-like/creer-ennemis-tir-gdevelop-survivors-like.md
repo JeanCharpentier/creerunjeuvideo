@@ -4,6 +4,7 @@ weight: 2
 date: 2024-05-22
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop', 'GameDev', 'Survivors-like', 'Tutoriel']
+images: ["https://img.youtube.com/vi/XTURiRilc0k/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce deuxième volet de notre série dédiée à la création d'un jeu de type "Survivors-like" avec GDevelop 5. Après avoir mis en place les déplacements de base de notre personnage, il est temps de donner un peu de vie (et de danger) à notre scène en ajoutant des ennemis qui nous traquent et un système de tir automatique pour se défendre.

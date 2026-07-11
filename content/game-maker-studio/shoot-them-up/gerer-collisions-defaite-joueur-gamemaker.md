@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/creer-menus-interactifs-gamemaker-st
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'Developpement de jeux', 'Collision']
+images: ["https://img.youtube.com/vi/Wigukk6hdqY/maxresdefault.jpg"]
 ---
 
 Apprenez à implémenter un système de défaite efficace en gérant les collisions entre votre vaisseau et les ennemis ou leurs projectiles dans GameMaker.

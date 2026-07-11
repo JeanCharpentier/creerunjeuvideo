@@ -4,6 +4,7 @@ weight: 6
 date: 2026-06-17
 categories: ['Raycasting GameMaker']
 tags: ['GameDev', 'Raycasting', 'GameMaker', 'Assets', 'FPS']
+images: ["https://img.youtube.com/vi/EWQ4u8Mwhuc/maxresdefault.jpg"]
 ---
 
 Dans cet épisode hors-série de notre série sur la création d'un FPS avec Raycasting GameMaker, nous mettons de côté le code pur pour nous concentrer sur l'identité visuelle de votre projet. L'objectif est de vous donner les clés pour intégrer vos propres armes, menus et éléments d'interface (HUD) afin de rendre votre jeu unique.

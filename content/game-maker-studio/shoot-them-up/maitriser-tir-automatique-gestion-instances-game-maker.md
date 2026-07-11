@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/creer-ennemis-spawn-dynamique-gamema
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Game Maker', 'Tutoriel', 'Programmation', 'Gamedev']
+images: ["https://img.youtube.com/vi/F9s0fEzwpNk/maxresdefault.jpg"]
 ---
 
 Apprendre à créer un système de tir automatique est une étape fondamentale pour tout développeur débutant sur Game Maker Studio, car cela permet de comprendre la gestion du temps et des objets.

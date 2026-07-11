@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Minecraft']
 tags: ['MCreator', 'Modding', 'Tutoriel', 'Java', 'GameDev']
+images: ["https://img.youtube.com/vi/uWLsZKAbQNc/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce guide dédié à l'installation de **MCreator**, l'outil incontournable pour créer vos propres mods Minecraft sans avoir besoin d'être un expert en programmation. Dans cet épisode, nous allons configurer la version 1.3.4.

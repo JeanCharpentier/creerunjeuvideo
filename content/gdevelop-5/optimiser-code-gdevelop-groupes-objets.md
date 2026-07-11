@@ -3,6 +3,7 @@ title: "Optimisez votre code GDevelop 5 avec les Groupes d''objets"
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['GDevelop', 'Astuces', 'Productivité', 'Débutant']
+images: ["https://img.youtube.com/vi/TovB05dPjMo/maxresdefault.jpg"]
 ---
 
 Vous développez un jeu de plateforme et vous vous retrouvez avec des dizaines d'événements répétitifs pour gérer vos pièges ? Si vous avez 72 types de pics, de flammes ou de plantes toxiques, créer une condition de collision pour chaque objet devient rapidement un cauchemar de maintenance.

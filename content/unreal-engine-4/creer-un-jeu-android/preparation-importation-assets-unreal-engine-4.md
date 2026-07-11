@@ -4,6 +4,7 @@ weight: 11
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine 4']
 tags: ['Unreal Engine 4', 'GameDev', 'Importation', 'Assets', 'Workflow']
+images: ["https://img.youtube.com/vi/PvgPAqmsls4/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous franchissons une étape cruciale de votre pipeline de production : l'organisation et l'intégration de vos assets dans Unreal Engine 4. Après avoir modélisé et texturé vos objets dans Blender, il est temps de structurer votre projet pour garantir une gestion propre et efficace de vos fichiers.

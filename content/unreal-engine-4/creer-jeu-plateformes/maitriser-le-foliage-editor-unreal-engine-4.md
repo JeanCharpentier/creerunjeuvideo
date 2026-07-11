@@ -4,6 +4,7 @@ weight: 13
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Foliage', 'Level Design', 'Optimisation', 'Tutoriel']
+images: ["https://img.youtube.com/vi/cJfM2Ty2YDU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour donner vie à vos environnements : l'utilisation du **Foliage Editor** (Éditeur de feuillage). Plutôt que de placer vos arbres et éléments de végétation un par un manuellement — une tâche fastidieuse et chronophage — nous allons apprendre à utiliser les outils de peinture procédurale d'Unreal Engine 4 pour peupler rapidement vos niveaux.

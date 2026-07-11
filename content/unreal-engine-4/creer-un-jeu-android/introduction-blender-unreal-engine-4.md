@@ -4,6 +4,7 @@ weight: 6
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'Blender', 'Modélisation 3D', 'Workflow']
+images: ["https://img.youtube.com/vi/JR0i_hCAMIA/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous posons les bases de la création d'assets 3D destinés à Unreal Engine 4 en utilisant Blender. Avant de plonger dans la modélisation pure, il est crucial de maîtriser l'interface et les outils de navigation de base pour gagner en efficacité.

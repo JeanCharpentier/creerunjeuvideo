@@ -4,6 +4,7 @@ weight: 43
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Lumières', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/sGnHP5k2RbU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous terminons notre chapitre bonus consacré aux lumières en apprenant à créer un effet de "lumière scintillante". Grâce aux Blueprints, nous allons automatiser le changement d'intensité et de couleur d'une source lumineuse pour donner vie à nos environnements.

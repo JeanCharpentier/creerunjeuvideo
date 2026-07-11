@@ -4,6 +4,7 @@ weight: 8
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', 'GameDev', 'Survival', 'Tutoriel']
+images: ["https://img.youtube.com/vi/KYVF-NKtV_w/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce huitième volet de notre série dédiée à la création d'un jeu de type "Survival" sur GDevelop 5. Aujourd'hui, nous attaquons le cœur du système : la génération procédurale des ennemis, la montée en difficulté et l'utilisation de variables pour rendre votre jeu évolutif.

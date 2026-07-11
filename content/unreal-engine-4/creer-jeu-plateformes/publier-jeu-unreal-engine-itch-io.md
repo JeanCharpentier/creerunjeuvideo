@@ -4,6 +4,7 @@ weight: 39
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Itch.io', 'GameDev', 'Export', 'Publication', 'Tutoriel']
+images: ["https://img.youtube.com/vi/Pau-7h6ldik/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous franchissons l'étape ultime du développement : la mise en ligne de votre projet. Après avoir finalisé votre build, il est temps de présenter votre travail au monde entier via la plateforme **Itch.io**. De la capture d'écran promotionnelle à la configuration de la page de votre projet, voici comment structurer votre publication pour attirer vos premiers joueurs.

@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Level Design', 'Tutoriel', 'BSP']
+images: ["https://img.youtube.com/vi/Fd_RjYxAEYY/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce deuxième volet de notre série consacrée à la création de niveaux sur **Unreal Engine 3**. Si vous avez suivi le premier épisode, vous avez déjà pris en main les bases de la manipulation des *Brushes* (brosses) et l'importance cruciale de la grille (*Grid*) pour structurer votre environnement.

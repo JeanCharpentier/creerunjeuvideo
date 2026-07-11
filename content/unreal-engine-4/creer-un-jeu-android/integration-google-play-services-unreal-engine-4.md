@@ -4,6 +4,7 @@ weight: 36
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Android', 'Google Play Services', 'Mobile', 'Tutoriel', 'Déploiement']
+images: ["https://img.youtube.com/vi/Rlt7q3QlzwU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour tout développeur mobile sur Unreal Engine 4 : la liaison entre votre projet et les services de jeu Google Play (Google Play Games Services). Cette configuration est indispensable pour activer des fonctionnalités comme les succès, les classements ou la sauvegarde dans le cloud.

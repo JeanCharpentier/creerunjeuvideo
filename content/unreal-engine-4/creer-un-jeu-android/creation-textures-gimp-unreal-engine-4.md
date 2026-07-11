@@ -4,6 +4,7 @@ weight: 10
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'GIMP', 'Texturing', 'UV Mapping', 'Workflow']
+images: ["https://img.youtube.com/vi/OHVbD3MLZRg/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale du pipeline de création 3D : le passage de votre dépliage UV à une texture concrète. Une fois votre modèle exporté depuis Blender, il est temps de donner vie à votre asset en utilisant un logiciel d'édition d'image. Ici, nous utilisons GIMP pour peindre nos textures en nous appuyant sur notre layout UV comme guide de référence.

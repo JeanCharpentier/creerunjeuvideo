@@ -4,6 +4,7 @@ weight: 5
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', 'Physique 3D', 'GameDev', 'Baby-foot']
+images: ["https://img.youtube.com/vi/Iv1vdjxD42A/maxresdefault.jpg"]
 ---
 
 Dans cet épisode de notre série sur la création d'un baby-foot avec GDevelop 5, nous allons nous concentrer sur le "game feel". Un bon jeu ne repose pas seulement sur des mécaniques fonctionnelles, mais sur des retours visuels gratifiants. Aujourd'hui, nous allons affiner les collisions et ajouter une animation de rotation dynamique à nos joueurs lorsqu'ils frappent la balle.

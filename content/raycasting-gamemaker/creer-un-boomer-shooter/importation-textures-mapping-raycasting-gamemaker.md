@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Raycasting GameMaker']
 tags: ['Raycasting', 'GameMaker', 'Mapping', 'Textures', 'Tutoriel']
+images: ["https://img.youtube.com/vi/pulbkN8Vu8c/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce troisième épisode de notre série dédiée au moteur Raycasting GameMaker. Après avoir préparé vos assets graphiques, il est temps de passer à l'étape cruciale : l'intégration de vos textures dans le moteur et la construction de vos premiers niveaux.

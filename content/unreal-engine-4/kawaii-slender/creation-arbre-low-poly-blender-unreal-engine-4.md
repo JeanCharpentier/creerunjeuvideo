@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Blender', 'Modélisation', 'GameDev', 'Low-poly']
+images: ["https://img.youtube.com/vi/KMymcS1f79Y/maxresdefault.jpg"]
 ---
 
 Dans ce cinquième épisode de notre série dédiée au développement de jeux avec Unreal Engine 4, nous quittons temporairement le moteur pour retourner dans Blender. L'objectif est de créer un élément de décor essentiel : un arbre. Nous verrons comment modéliser un tronc et un feuillage, gérer les collisions (indispensables pour que le joueur ne traverse pas les objets) et importer le tout proprement dans votre projet.

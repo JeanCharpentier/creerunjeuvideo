@@ -3,6 +3,7 @@ title: "Tutoriel Unreal Engine 3 : Gérer le chargement de niveaux via Kismet"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Kismet', 'Level Design', 'Scripting']
+images: ["https://img.youtube.com/vi/Hek6PE2SHuM/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous revenons sur une problématique classique du développement sous **Unreal Engine 3** : comment passer d'une carte à une autre de manière fluide. Grâce à l'outil de scripting visuel **Kismet**, il est possible de déclencher le chargement d'un nouveau niveau via une zone de collision simple (Trigger).

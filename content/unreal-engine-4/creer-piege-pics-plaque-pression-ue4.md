@@ -3,6 +3,7 @@ title: "Créer un piège à pics avec plaque de pression dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 4', 'Blueprints', 'GameDev', 'Pièges', 'Level Design']
+images: ["https://img.youtube.com/vi/pfi3vOTJy90/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous allons concevoir un système de piège dynamique pour vos niveaux : une plaque de pression qui, lorsqu'elle est activée par le joueur, fait surgir des pics du sol. Ce mécanisme est idéal pour ajouter du challenge et de la tension à votre gameplay.

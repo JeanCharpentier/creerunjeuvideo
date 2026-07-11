@@ -4,6 +4,7 @@ weight: 4
 date: 2024-05-22
 categories: ['Tutoriels']
 tags: ['GDevelop', 'GameDev', 'Babyfoot', 'IA', 'Mouvement']
+images: ["https://img.youtube.com/vi/QZrJDOstYNY/maxresdefault.jpg"]
 ---
 
 Dans cet épisode de notre série "Babyfoot 2026", nous allons donner vie à notre terrain. Un baby-foot statique, c'est bien, mais un baby-foot dynamique, c'est mieux ! Nous allons apprendre à automatiser le mouvement de nos joueurs (PNG) et à programmer une intelligence artificielle basique pour notre gardien afin qu'il puisse intercepter la balle.

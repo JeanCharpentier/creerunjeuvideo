@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 4', 'GameDev', 'Blueprint', 'FPS', 'Débutant']
+images: ["https://img.youtube.com/vi/cZSkaLaZsRc/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette série dédiée à la création d'un jeu de type "Slender-like". Pour ce premier épisode, nous allons poser les bases de notre projet. Plutôt que d'utiliser le template FPS classique (qui ne propose que des bras et une arme), nous allons détourner le template **Third Person** pour obtenir une vue à la première personne tout en conservant le corps complet du personnage.

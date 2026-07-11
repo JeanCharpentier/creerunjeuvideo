@@ -3,6 +3,7 @@ titre: "Créer un système de feux d'artifice dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 4', 'VFX', 'Cascade', 'Blueprints', 'GameDev']
+images: ["https://img.youtube.com/vi/dhrmUG2MQ-o/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous explorons la création d'un système de feux d'artifice complet sous Unreal Engine 4. En utilisant l'éditeur de particules **Cascade**, nous allons concevoir des effets visuels dynamiques, gérer des matériaux translucides et automatiser le lancement via des Blueprints.

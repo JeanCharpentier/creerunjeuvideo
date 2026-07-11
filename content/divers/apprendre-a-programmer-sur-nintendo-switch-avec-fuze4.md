@@ -3,6 +3,7 @@ title: "Apprendre à programmer sur Nintendo Switch avec FUZE4"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Nintendo Switch', 'FUZE4', 'Apprentissage', 'Programmation', 'Débutant']
+images: ["https://img.youtube.com/vi/n0Xd0tYu1TE/maxresdefault.jpg"]
 ---
 
 Découvrir la programmation directement sur sa console, c'est le pari réussi de **FUZE4 Nintendo Switch**. Loin des moteurs complexes comme Unreal ou Unity, ce logiciel propose une approche pédagogique basée sur le langage BASIC, idéale pour comprendre les fondamentaux du code tout en s'amusant à créer ses propres jeux.

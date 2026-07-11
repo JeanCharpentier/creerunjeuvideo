@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ["Tutoriels"]
 tags: ["Minecraft", "MCreator", "Modding", "Développement"]
+images: ["https://img.youtube.com/vi/mSH_ty_rrac/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce cinquième volet de notre série dédiée à la création de mods Minecraft via le logiciel **MCreator**. Après avoir appris à intégrer des minerais et des lingots, il est temps de passer à l'action en forgeant votre propre équipement. Dans ce tutoriel, nous allons créer une épée en "Yelonite" de toutes pièces.

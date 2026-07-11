@@ -4,6 +4,7 @@ weight: 9
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Blueprint', 'GameDev', 'Téléportation']
+images: ["https://img.youtube.com/vi/Glgdmv0lbpA/maxresdefault.jpg"]
 ---
 
 Dans cet épisode de notre série dédiée à la création d'un FPS solo, nous allons aborder un mécanisme essentiel pour le level design : le système de téléportation. Que ce soit pour faciliter les déplacements sur de grandes cartes ou pour créer des puzzles environnementaux, les téléporteurs sont un outil indispensable.

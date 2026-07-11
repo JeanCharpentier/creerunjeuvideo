@@ -3,6 +3,7 @@ title: "Maîtriser les Leaderboards dans GDevelop 5 : Guide complet"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Leaderboard', 'GD.games', 'GameDev']
+images: ["https://img.youtube.com/vi/ZJg9goTl4bs/maxresdefault.jpg"]
 ---
 
 Les classements (leaderboards) sont un excellent moyen d'augmenter la rétention de vos joueurs en ajoutant une dimension compétitive à vos créations. Grâce à l'intégration native de **GD.games**, GDevelop 5 permet de mettre en place un système de score en ligne robuste sans avoir à gérer de base de données complexe.

@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/guide-import-assets-systeme-monnaie
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'Pixel Art', 'Tutoriel', 'MMO']
+images: ["https://img.youtube.com/vi/LwxQD31k3I4/maxresdefault.jpg"]
 ---
 
 Dans le développement de votre MMORPG avec Intersect Engine, la gestion des ressources graphiques est une étape cruciale. Si les assets par défaut sont un bon point de départ, vous serez rapidement limité si vous ne savez pas intégrer vos propres objets.

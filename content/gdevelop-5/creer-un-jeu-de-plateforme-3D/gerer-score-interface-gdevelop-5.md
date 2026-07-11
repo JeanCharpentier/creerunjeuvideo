@@ -4,6 +4,7 @@ weight: 3
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop', '3D', 'Développement de jeu', 'Interface', 'Variables']
+images: ["https://img.youtube.com/vi/FAWah1ve3rA/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce troisième volet de notre série dédiée à la création d'un jeu 3D avec GDevelop 5. Après avoir mis en place les déplacements et la collecte d'objets, il est temps de donner un but à votre joueur en implémentant un système de score. Nous aborderons la gestion des variables, la création d'une interface utilisateur (UI) et l'utilisation des calques pour afficher vos informations par-dessus votre monde 3D.

@@ -4,6 +4,7 @@ weight: 8
 date: 2026-06-17
 categories: ['Blender pour Unreal Engine']
 tags: ['Blender', 'UV Mapping', 'Texturing', 'Workflow']
+images: ["https://img.youtube.com/vi/hV9k2IR6wc0/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale du pipeline de création 3D : le dépliage UV. Pour texturer un modèle, il est indispensable de "déplier" sa surface 3D sur un plan 2D. Nous allons nous concentrer sur la méthode la plus rapide et accessible pour les débutants : le **Smart UV Project**.

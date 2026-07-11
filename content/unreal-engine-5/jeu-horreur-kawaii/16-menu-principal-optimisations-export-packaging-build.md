@@ -6,6 +6,7 @@ weight: 16
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/15-props-decor-lumiere-clignotte-lanterne-village"
 next_url: ""
+images: ["https://img.youtube.com/vi/TUdpY264w_U/maxresdefault.jpg"]
 ---
 
 {{< youtube-rgpd "TUdpY264w_U" >}}

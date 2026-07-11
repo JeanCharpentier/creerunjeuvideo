@@ -6,6 +6,7 @@ next_url: "/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Construct 2', 'Game Development', 'Variables', 'Instance Variables', 'Damage System', 'Tutoriel', 'HTML5 Game']
+images: ["https://img.youtube.com/vi/TV3utJo2og0/maxresdefault.jpg"]
 ---
 ---
 Dans ce quatrième épisode de notre série sur Construct 2, nous plongeons au cœur de la gestion des dégâts et de l'introduction des variables d'instance pour rendre nos interactions de jeu plus dynamiques et réalistes.

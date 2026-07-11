@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-materiaux-emissifs-unreal
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Game Development', 'Materiaux', 'Tutoriel']
+images: ["https://img.youtube.com/vi/-wVDyIIREDY/maxresdefault.jpg"]
 ---
 
 Découvrez comment optimiser votre workflow de texturing dans Unreal Engine 4 en utilisant la puissance des instances de matériaux pour créer des variantes infinies à partir d'une base unique.

@@ -4,6 +4,7 @@ weight: 35
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Android', 'Google Play', 'Déploiement', 'Mobile', 'Tutoriel']
+images: ["https://img.youtube.com/vi/0m-J-KU5HdE/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous franchissons une étape cruciale de votre projet : le déploiement de votre build Alpha sur la Google Play Console. Préparer son jeu pour la distribution mobile demande de la rigueur, notamment dans la gestion des fichiers APK/OBB et la conformité aux exigences de Google.

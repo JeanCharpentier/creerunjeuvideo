@@ -4,6 +4,7 @@ weight: 9
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Matériaux', 'GameDev', 'Texturing', 'Débutant']
+images: ["https://img.youtube.com/vi/DuPka6B_HNc/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous quittons l'aspect "gris par défaut" de nos objets pour leur donner vie. La création de matériaux est une étape fondamentale pour transformer des formes géométriques simples en éléments crédibles pour votre jeu. Nous allons apprendre à manipuler l'éditeur de matériaux d'Unreal Engine 4 pour définir la couleur, la rugosité et les propriétés métalliques de vos surfaces.

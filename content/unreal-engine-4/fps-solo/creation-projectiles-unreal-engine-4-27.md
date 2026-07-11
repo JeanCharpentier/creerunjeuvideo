@@ -4,6 +4,7 @@ weight: 13
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Blueprint', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/NRpVW7ePYPg/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous franchissons une étape technique importante en mettant à jour notre projet vers la version 4.27.2 d'Unreal Engine 4. Une fois cette transition effectuée en toute sécurité, nous passons au cœur du sujet : l'implémentation du système de tir pour notre arme, incluant la création de projectiles dynamiques et la gestion des inputs.

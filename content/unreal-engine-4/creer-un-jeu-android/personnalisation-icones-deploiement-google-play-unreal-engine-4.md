@@ -4,6 +4,7 @@ weight: 37
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Android', 'Google Play', 'Mobile', 'Packaging', 'Tutoriel']
+images: ["https://img.youtube.com/vi/gJd4bnrbn9k/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour tout développeur mobile sous Unreal Engine 4 : la préparation de votre build pour le Google Play Store. Il est impératif de remplacer les icônes par défaut fournies par le moteur, sous peine de voir votre application rejetée par les systèmes automatisés de Google pour violation de propriété intellectuelle (les icônes par défaut étant liées à *Unreal Tournament 3*).

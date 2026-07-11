@@ -3,6 +3,7 @@ title: "Découverte de Kodu Game Lab : L''initiation idéale au Game Design"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Kodu', 'Débutant', 'Programmation', 'Education', 'Game Design']
+images: ["https://img.youtube.com/vi/CklvdM8lSQw/maxresdefault.jpg"]
 ---
 
 Le développement de jeux vidéo peut paraître intimidant pour les plus jeunes ou les débutants complets. Pourtant, il existe des outils conçus spécifiquement pour démystifier la logique de programmation sans passer par des lignes de code complexes. **Kodu Game Lab**, développé par Microsoft Research, est l'un de ces logiciels emblématiques qui permet de créer des mondes interactifs en toute simplicité.

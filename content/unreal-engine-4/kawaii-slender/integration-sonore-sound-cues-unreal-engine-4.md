@@ -4,6 +4,7 @@ weight: 29
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'Audio', 'Blueprint', 'SoundCue', 'KawaiiSlender']
+images: ["https://img.youtube.com/vi/lVwGLSWO6A8/maxresdefault.jpg"]
 ---
 
 Dans cet avant-dernier tutoriel de la série "Kawaii Slender", nous abordons une étape cruciale pour l'immersion : l'ambiance sonore. Un jeu sans son est une expérience incomplète ; c'est le design audio qui donne vie à votre environnement et renforce la tension face à votre antagoniste.

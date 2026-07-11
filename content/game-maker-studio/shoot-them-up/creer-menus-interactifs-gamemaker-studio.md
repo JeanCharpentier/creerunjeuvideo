@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/gerer-afficher-score-global-gamemake
 date: 2024-05-22
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'UI', 'Game Design']
+images: ["https://img.youtube.com/vi/YzaHUjgKxlE/maxresdefault.jpg"]
 ---
 
 Apprendre à concevoir des menus fonctionnels est une étape cruciale pour transformer votre prototype en un véritable jeu vidéo. Dans ce guide, nous explorons comment créer des boutons personnalisés et gérer la navigation entre les différentes salles (rooms) de votre projet.

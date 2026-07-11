@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/guide-exporter-jeu-gamemaker-studio/
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Game Maker', 'Tutoriel', 'Audio', 'Developpement de jeux']
+images: ["https://img.youtube.com/vi/QaBsdnFBQYI/maxresdefault.jpg"]
 ---
 
 Apprendre à gérer l'ambiance sonore est une étape cruciale pour donner vie à votre projet : découvrez comment implémenter les effets de tir, les explosions et la musique de fond dans Game Maker Studio.

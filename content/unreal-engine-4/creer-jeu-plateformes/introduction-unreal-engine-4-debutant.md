@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Unreal Engine']
 tags: ['Unreal Engine 4', 'Débutant', 'Game Design', 'Tutoriel']
+images: ["https://img.youtube.com/vi/yUJQu6SiIMU/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette série dédiée à l'apprentissage d'Unreal Engine 4. Si vous avez toujours rêvé de créer votre propre jeu vidéo mais que vous ne savez pas par où commencer, ce cours est conçu spécifiquement pour vous. Nous allons explorer ensemble le moteur de A à Z, de l'installation jusqu'à la publication de votre premier projet sur itch.io.

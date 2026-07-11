@@ -3,6 +3,7 @@ title: "Maîtrisez le workflow Pixel Art : De LibreSprite à GDevelop"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Pixel Art', 'Workflow', 'Tiled', 'LibreSprite']
+images: ["https://img.youtube.com/vi/inI3T6IN9tk/maxresdefault.jpg"]
 ---
 
 Créer ses propres environnements en pixel art est une étape gratifiante pour tout développeur indépendant. Cependant, passer du dessin à un niveau jouable dans GDevelop peut sembler complexe. Dans cet article, nous allons explorer un workflow efficace utilisant des outils spécialisés pour transformer vos idées en une "Tilemap" parfaitement intégrée.

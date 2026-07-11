@@ -4,6 +4,7 @@ weight: 20
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'HUD', 'Widget Blueprint', 'GameDev']
+images: ["https://img.youtube.com/vi/ti85sY0rvXs/maxresdefault.jpg"]
 ---
 
 Dans ce vingtième épisode, nous abordons une étape cruciale pour tout projet de jeu vidéo : la mise en place de l'interface utilisateur (HUD). Après avoir préparé vos assets graphiques, il est temps de les intégrer dans Unreal Engine 4 pour construire un menu fonctionnel, interactif et esthétique.

@@ -4,6 +4,7 @@ weight: 6
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blender', 'Lightmap', 'UV Mapping', 'Lighting', 'Tutoriel']
+images: ["https://img.youtube.com/vi/vi7d5aZh-7Y/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour la qualité visuelle de vos projets sous Unreal Engine 4 : la gestion des **Lightmaps**. Si vous avez importé vos modèles depuis Blender sans configuration spécifique, vous avez probablement remarqué des ombres étranges ou des artefacts lors du calcul de la lumière (le "Build").

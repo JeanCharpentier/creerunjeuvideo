@@ -4,6 +4,7 @@ weight: 40
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Lumière', 'Lighting', 'Directional Light', 'Skylight', 'GameDev']
+images: ["https://img.youtube.com/vi/t1_LeQ8xAmA/maxresdefault.jpg"]
 ---
 
 Dans ce chapitre bonus, nous explorons les fondements de l'éclairage sous Unreal Engine 4. Si votre niveau utilise par défaut une *Skylight* et une *Directional Light*, il est essentiel de comprendre comment manipuler ces sources pour donner une ambiance unique à votre projet, qu'il s'agisse d'un environnement diurne éclatant ou d'une scène nocturne mystérieuse.

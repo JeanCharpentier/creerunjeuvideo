@@ -4,6 +4,7 @@ weight: 27
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine 4']
 tags: ['Unreal Engine 4', 'GameDev', 'Animation', 'Retargeting', 'Personnage']
+images: ["https://img.youtube.com/vi/Is-zJf2VfL0/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons aborder une étape cruciale pour personnaliser votre projet : remplacer le mannequin par défaut (le "Dummy") par votre propre modèle 3D. Que vous ayez créé votre personnage sur un logiciel de modélisation ou via un outil comme Fuse, le processus de remplacement et de "retargeting" des animations reste une compétence fondamentale pour tout développeur Unreal Engine.

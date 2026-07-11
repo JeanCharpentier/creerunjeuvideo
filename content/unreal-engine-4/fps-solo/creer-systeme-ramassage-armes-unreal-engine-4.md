@@ -4,6 +4,7 @@ weight: 12
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine']
 tags: ['Unreal Engine 4', 'Blueprints', 'GameDev', 'FPS', 'Système de ramassage']
+images: ["https://img.youtube.com/vi/8sBfROhEkqE/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une mécanique essentielle pour tout FPS : le système de ramassage d'armes (ou "Pickup"). Nous allons apprendre à créer un acteur modulaire capable de faire apparaître une arme, de l'attacher au personnage via un Socket, et de gérer un temps de réapparition (respawn) configurable.

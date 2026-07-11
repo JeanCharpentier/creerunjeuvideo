@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/migrer-materiaux-unreal-engine-
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Material Editor', 'Shaders', 'Game Dev']
+images: ["https://img.youtube.com/vi/8KfQTBPPcK8/maxresdefault.jpg"]
 ---
 
 Découvrez comment utiliser les masques et le nœud Linear Interpolate pour créer des transitions dynamiques et des mélanges de textures complexes dans vos matériaux Unreal Engine 4.

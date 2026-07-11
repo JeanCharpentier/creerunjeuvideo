@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-sort-soin-intersect-engine/"
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'Tutoriel', 'MMORPG', 'Level Design']
+images: ["https://img.youtube.com/vi/-bQqu1j0Zhg/maxresdefault.jpg"]
 ---
 
 Donner vie à votre monde est essentiel pour l'immersion, surtout lors de la mise en place d'un cycle jour/nuit. Dans ce tutoriel, nous allons apprendre à intégrer des torches animées et des sources de lumière dynamiques pour illuminer vos villages.

@@ -4,6 +4,7 @@ weight: 34
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Optimisation', 'Workflow', 'Asset Management', 'Nettoyage']
+images: ["https://img.youtube.com/vi/l9biTYTu0-M/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale souvent négligée par les développeurs débutants : le nettoyage et l'optimisation du poids de votre projet. Lorsque vous utilisez des packs d'assets volumineux (comme *Infinity Blade*), votre projet peut rapidement atteindre plusieurs gigaoctets alors que vous n'utilisez qu'une fraction de ces ressources.

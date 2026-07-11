@@ -6,6 +6,7 @@ weight: 7
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/6-ui-umg-widget-affichage-hud-ue5"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/8-ia-behavior-tree-blackboard-ennemi"
+images: ["https://img.youtube.com/vi/VYW1HT98yQA/maxresdefault.jpg"]
 ---
 
 {{< youtube-rgpd "VYW1HT98yQA" >}}

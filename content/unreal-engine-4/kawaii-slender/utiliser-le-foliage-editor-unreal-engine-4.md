@@ -4,6 +4,7 @@ weight: 8
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Tutoriel', 'Foliage', 'Level Design', 'Optimisation']
+images: ["https://img.youtube.com/vi/xzFFtah_n5w/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous allons découvrir comment optimiser drastiquement votre workflow de level design en utilisant l'outil **Foliage Editor** intégré à Unreal Engine 4. Si vous avez l'habitude de placer vos arbres, rochers ou herbes un par un à la main, cet outil va littéralement changer votre façon de travailler.

@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Unreal Engine 4', 'GameDev', 'Quick Tip', 'Static Mesh', 'Lighting']
+images: ["https://img.youtube.com/vi/GSAvzAm2Yu4/maxresdefault.jpg"]
 ---
 
 Dans ce nouvel épisode de nos Quick Tips sur Unreal Engine 4, nous allons aborder une astuce simple mais extrêmement efficace pour gagner en productivité : comment prévisualiser le comportement des ombres sur vos objets (Static Meshes ou Skeletal Meshes) directement dans leur fenêtre d'édition, sans avoir à les placer dans une scène complexe.

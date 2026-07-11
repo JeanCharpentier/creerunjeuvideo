@@ -4,6 +4,7 @@ weight: 45
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'Blueprints', 'UI', 'LevelDesign', 'Optimisation']
+images: ["https://img.youtube.com/vi/Dwvj7pZCShw/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous faisons une pause dans la complexité technique pour préparer la structure de notre second niveau. L'objectif est de valider que nos systèmes de gameplay (checkpoints, zones de mort, collecte de pièces) sont modulaires et réutilisables. Nous en profitons également pour refactoriser l'affichage de notre interface utilisateur (UI) afin de la rendre globale et automatique.

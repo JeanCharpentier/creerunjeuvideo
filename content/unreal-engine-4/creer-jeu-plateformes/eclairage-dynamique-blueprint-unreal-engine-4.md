@@ -4,6 +4,7 @@ weight: 42
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Lighting', 'Game Design', 'Level Design']
+images: ["https://img.youtube.com/vi/4mqZ-_zqDvQ/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons améliorer l'aspect visuel de nos pièces en intégrant un système d'éclairage dynamique. L'objectif est double : rendre nos objets plus attrayants visuellement et guider naturellement le joueur à travers le niveau en créant un chemin lumineux clair.

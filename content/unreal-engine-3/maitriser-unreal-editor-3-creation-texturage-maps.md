@@ -3,6 +3,7 @@ title: "Maîtriser l''Unreal Editor 3 : Création et texturage de vos premières
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Level Design', 'Tutoriel', 'UDK']
+images: ["https://img.youtube.com/vi/21ypJRY_gkw/maxresdefault.jpg"]
 ---
 
 L'Unreal Engine 3 (UE3) a marqué une génération entière de développeurs. Que ce soit via l'Unreal Development Kit (UDK) ou l'éditeur intégré à *Unreal Tournament 3*, cet outil reste une référence pour comprendre les bases fondamentales du level design. Dans ce tutoriel, nous allons passer de la simple "boîte blanche" à un environnement texturé et fonctionnel.

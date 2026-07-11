@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/guide-migration-intersect-engine-be
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Intersect Engine', 'MMORPG', 'Tutoriel', 'SQLite', 'Administration']
+images: ["https://img.youtube.com/vi/l2UfLUE79iQ/maxresdefault.jpg"]
 ---
 
 Dans ce guide, nous allons explorer comment élever les privilèges de vos joueurs au sein de votre projet MMORPG développé avec Intersect Engine, en passant par une manipulation directe de la base de données.

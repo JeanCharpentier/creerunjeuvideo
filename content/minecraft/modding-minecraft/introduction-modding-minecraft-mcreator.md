@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Minecraft', 'Modding', 'MCreator', 'Développement']
+images: ["https://img.youtube.com/vi/HEKLcCe6tyo/maxresdefault.jpg"]
 ---
 
 Le modding Minecraft est une porte d'entrée fascinante vers le développement de jeux vidéo. Cependant, l'apprentissage du Java peut être un frein majeur pour les débutants. Dans cet article, nous explorons l'utilisation de **MCreator**, un outil puissant qui permet de créer des contenus personnalisés pour Minecraft sans écrire une seule ligne de code.

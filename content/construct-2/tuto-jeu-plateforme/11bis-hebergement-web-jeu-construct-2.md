@@ -6,6 +6,7 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Hébergement", "Web", "FTP"]
 prev_url: "/construct-2/tuto-jeu-plateforme/11-finalisation-deploiement-web"
 next_url: "/construct-2/tuto-jeu-plateforme/12-systeme-pieges-ligne-vue"
+images: ["https://img.youtube.com/vi/nFCxfNK79kg/maxresdefault.jpg"]
 ---
 
 Cette page constitue une archive pédagogique du douzième épisode de ma série consacrée à la création d'un jeu de plateforme. Dans ce tutoriel, j'aborde les méthodes pour publier votre jeu sur le web lorsque les options de partage simples ne sont plus disponibles.

@@ -6,6 +6,7 @@ categories: ["Bug Fix"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Animation", "Bug Fix"]
 prev_url: "/construct-2/tuto-jeu-plateforme/6-gestion-collisions-hud"
 next_url: "/construct-2/tuto-jeu-plateforme/7-gestion-vie-score"
+images: ["https://img.youtube.com/vi/-JRy0hVrxgg/maxresdefault.jpg"]
 ---
 
 > **Note :** Cet article traite d'un correctif rapide (hors-série) concernant un bug d'animation où le personnage conservait l'animation "marche" après l'atterrissage si la touche de direction était relâchée juste avant le contact avec le sol.

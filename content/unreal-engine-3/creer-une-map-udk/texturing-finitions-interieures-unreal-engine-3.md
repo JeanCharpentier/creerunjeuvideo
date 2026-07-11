@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Tutoriel', 'Level Design', 'FPS']
+images: ["https://img.youtube.com/vi/MNo1WBSjMpg/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce cinquième épisode de notre série dédiée à la création d'un FPS avec l'Unreal Engine 3 (UE3). Après avoir posé les bases de notre structure, il est temps de passer à une étape cruciale pour l'immersion : le texturing complet de notre environnement intérieur.

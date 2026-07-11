@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Twitch', 'Blueprint', 'GameDev', 'Tutoriel', 'Interactivité']
+images: ["https://img.youtube.com/vi/t-oeC4T0xt4/maxresdefault.jpg"]
 ---
 
 Dans ce troisième volet de notre série dédiée aux "Twitch Plays", nous allons franchir une étape cruciale pour la monétisation et l'engagement de votre stream : **l'intégration des points de chaîne Twitch dans Unreal Engine**. Cette fonctionnalité permet à vos spectateurs de déclencher des événements spécifiques en jeu en échange de leurs points accumulés.

@@ -4,6 +4,7 @@ weight: 7
 date: 2026-06-17
 categories: ['Raycasting GameMaker']
 tags: ['Raycasting', 'GameMaker', 'Tutoriel', 'GameDev', 'RetroGaming']
+images: ["https://img.youtube.com/vi/wvj2fKnx_2U/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce septième et ultime épisode de notre série découverte sur **Raycasting GameMaker**. Après avoir exploré la personnalisation des textures, des ennemis et des armes, il est temps de passer à l'étape cruciale : la création de vos niveaux complets et l'exportation finale de votre projet.

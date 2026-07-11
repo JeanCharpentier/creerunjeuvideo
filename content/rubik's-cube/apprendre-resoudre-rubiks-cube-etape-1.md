@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Rubiks Cube', 'Débutant', 'Logique', 'GameDev']
+images: ["https://img.youtube.com/vi/j8M3YTFYgtw/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce premier volet de notre série dédiée à la résolution du Rubik's Cube. Si vous avez toujours pensé que ce casse-tête était réservé aux génies, détrompez-vous ! Ici, pas de formules mathématiques complexes à mémoriser par cœur. Nous allons privilégier la compréhension des mouvements et l'observation. Dans cette première étape, nous allons nous concentrer sur la création de la "croix blanche" et le placement correct des quatre coins de la face supérieure.

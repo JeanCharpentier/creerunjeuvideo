@@ -4,6 +4,7 @@ weight: 6
 date: 2023-10-27
 categories: ['GDevelop 5']
 tags: ['tutoriel', 'gamedev', 'interface', 'logique-jeu']
+images: ["https://img.youtube.com/vi/b1HJihpcfcQ/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous finalisons la boucle de gameplay de notre jeu de baby-foot. Après avoir géré les déplacements et les scores, il est temps de définir les conditions de victoire pour conclure la partie et permettre au joueur de retourner au menu principal.

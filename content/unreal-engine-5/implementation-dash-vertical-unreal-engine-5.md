@@ -3,6 +3,7 @@ title: "Implémenter un Dash Vertical et des effets Niagara dans Unreal Engine 5
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 5', 'Blueprints', 'Niagara', 'GameDev']
+images: ["https://img.youtube.com/vi/f59H_Hs3WMM/maxresdefault.jpg"]
 ---
 
 Le "Game Feel" est ce qui sépare un prototype fonctionnel d'une expérience de jeu mémorable. Dans ce tutoriel, nous allons voir comment ajouter un **Dash vertical** (vers le bas) à votre personnage, couplé à un système de particules **Niagara** dynamique pour renforcer l'impact visuel de l'action.

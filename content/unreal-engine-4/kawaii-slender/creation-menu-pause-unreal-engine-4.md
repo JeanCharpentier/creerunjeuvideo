@@ -4,6 +4,7 @@ weight: 22
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Tutoriel', 'UI', 'Widget', 'Blueprint', 'GameDev']
+images: ["https://img.youtube.com/vi/-PCEYxS58k8/maxresdefault.jpg"]
 ---
 
 Dans ce vingt-deuxième épisode de notre série dédiée à la création d'un jeu de type "Kawaii Slender", nous nous attaquons à une fonctionnalité indispensable pour tout projet : le menu de pause. Ce menu permettra aux joueurs de reprendre leur partie, de réapparaître aléatoirement sur la carte en cas de blocage, ou de quitter le jeu.

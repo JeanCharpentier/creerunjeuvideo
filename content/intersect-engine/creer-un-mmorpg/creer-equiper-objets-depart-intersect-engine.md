@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-mobs-monstres-intersect-engin
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Dev', 'MMORPG', 'Tutoriel']
+images: ["https://img.youtube.com/vi/Jc0aYoWYKTQ/maxresdefault.jpg"]
 ---
 
 Dans ce guide, nous allons configurer l'équipement de départ pour vos classes de personnages dans Intersect Engine, afin de donner à vos joueurs un coup de pouce bien mérité dès leur arrivée en jeu.

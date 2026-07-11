@@ -4,6 +4,7 @@ weight: 35
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Sequencer', 'Cinématique', 'Level Design', 'Blueprint']
+images: ["https://img.youtube.com/vi/5Ps4s3EZZDQ/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons la création d'une séquence d'introduction pour votre jeu. L'objectif est de réaliser un mouvement de caméra fluide qui se termine par une transition en fondu au noir, tout en redonnant le contrôle au joueur une fois la séquence terminée.

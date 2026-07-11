@@ -6,6 +6,7 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Niveaux", "Variables Globales"]
 prev_url: "/construct-2/tuto-jeu-plateforme/3-animations-gestion-etats-personnage"
 next_url: "/construct-2/tuto-jeu-plateforme/debug-collisions-plateformes"
+images: ["https://img.youtube.com/vi/fL_1EOZ0WAw/maxresdefault.jpg"]
 ---
 
 > **Note :** Cet article est une archive du quatrième tutoriel de la série sur la création d'un jeu de plateforme avec Construct 2.

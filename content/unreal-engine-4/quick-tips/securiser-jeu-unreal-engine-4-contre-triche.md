@@ -4,6 +4,7 @@ weight: 6
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Développement', 'Sécurité', 'Packaging', 'Triche']
+images: ["https://img.youtube.com/vi/TbvLRKmDjT8/maxresdefault.jpg"]
 ---
 
 Dans le développement de jeux vidéo, il est fréquent de se concentrer sur le gameplay et les mécaniques, en oubliant parfois les aspects techniques liés à la distribution. Saviez-vous qu'en publiant votre jeu Unreal Engine 4 sans configuration spécifique, vous laissez la porte ouverte aux joueurs pour utiliser la console de commande ? Dans cet article, nous voyons comment empêcher les utilisateurs de tricher en utilisant des commandes comme `fly` ou `ghost`.

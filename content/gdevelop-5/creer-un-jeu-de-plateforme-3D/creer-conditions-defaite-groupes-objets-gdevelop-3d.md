@@ -4,6 +4,7 @@ weight: 6
 date: 2024-05-22
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', '3D', 'GameDev', 'Débutant']
+images: ["https://img.youtube.com/vi/fsi1yYoxSYo/maxresdefault.jpg"]
 ---
 
 Dans ce nouvel épisode de notre série dédiée à la création d'un jeu de plateforme 3D sur GDevelop 5, nous allons nous attaquer à un élément crucial de tout jeu : la gestion de la défaite. Comment éviter que le joueur ne tombe à l'infini dans le vide ? Comment faire en sorte qu'il recommence le niveau s'il touche un ennemi ? C'est ce que nous allons voir, tout en découvrant une notion fondamentale pour optimiser votre code : les **groupes d'objets**.

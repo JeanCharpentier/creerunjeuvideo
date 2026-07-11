@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-boutique-marchand-intersect-e
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'MMORPG', 'Game Development', 'Tutoriel']
+images: ["https://img.youtube.com/vi/I3fjIxLcB3I/maxresdefault.jpg"]
 ---
 
 Donner vie à votre MMORPG nécessite bien plus que de simples décors : il faut des créatures pour peupler vos zones et offrir des défis à vos joueurs. Dans ce guide, nous explorons comment configurer vos premiers "Mobs" (monstres) avec Intersect Engine.

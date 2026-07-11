@@ -4,6 +4,7 @@ weight: 25
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Tutoriel', 'Particules', 'Niagara', 'Cascade', 'GameDev']
+images: ["https://img.youtube.com/vi/ZK9ZNjDOZwU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons les bases du système de particules dans Unreal Engine 4. Bien que les outils aient évolué avec l'arrivée de Niagara, comprendre la logique derrière le système classique (Cascade) reste une excellente porte d'entrée pour maîtriser les effets visuels dans vos projets. Nous allons créer un effet de feu stylisé, idéal pour un rendu "low-poly".

@@ -4,6 +4,7 @@ weight: 31
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Widget Blueprint', 'Game Design', 'Tutoriel']
+images: ["https://img.youtube.com/vi/veUnQ82xKkE/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons finaliser l'expérience utilisateur en cas d'échec dans votre jeu. Plutôt que de laisser le joueur face à un écran figé, nous allons implémenter un menu de "Game Over" fonctionnel. L'approche choisie ici est l'optimisation : au lieu de repartir de zéro, nous allons dupliquer notre interface de victoire pour y intégrer un message d'alerte tout en conservant les options de navigation essentielles (rejouer ou quitter).

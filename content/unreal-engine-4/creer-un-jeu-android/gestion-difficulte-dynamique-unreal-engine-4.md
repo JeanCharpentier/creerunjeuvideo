@@ -4,6 +4,7 @@ weight: 19
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine 4']
 tags: ['GameDev', 'Blueprints', 'Gameplay', 'Progression']
+images: ["https://img.youtube.com/vi/9y-iQ9VgWxs/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons aborder un aspect crucial de l'expérience utilisateur : la courbe de progression. Pour éviter que votre jeu ne devienne monotone, nous allons implémenter un système de difficulté dynamique qui s'ajuste automatiquement à chaque fin de boucle d'apparition d'ennemis (ou d'objets).

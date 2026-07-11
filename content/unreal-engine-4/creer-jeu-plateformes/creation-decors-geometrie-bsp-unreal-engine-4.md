@@ -4,6 +4,7 @@ weight: 8
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'Level Design', 'BSP', 'Static Mesh', 'Tutoriel']
+images: ["https://img.youtube.com/vi/jc6G-Or2psU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape fondamentale du level design : la création de formes géométriques directement au sein d'Unreal Engine 4. Bien que la majorité des assets complexes soient importés depuis des logiciels de modélisation 3D (Blender, Maya, 3ds Max), la maîtrise des outils intégrés est indispensable pour le prototypage rapide, les décors lointains ou l'architecture simple.

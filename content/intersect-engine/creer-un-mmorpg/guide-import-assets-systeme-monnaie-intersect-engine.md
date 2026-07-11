@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-equiper-objets-depart-interse
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel', 'Asset Management']
+images: ["https://img.youtube.com/vi/N3r_706d6ts/maxresdefault.jpg"]
 ---
 
 Dans ce nouvel épisode de notre série dédiée à la création d'un MMORPG avec Intersect Engine, nous abordons une étape cruciale : l'intégration de vos assets graphiques et la mise en place structurée de votre économie en jeu.

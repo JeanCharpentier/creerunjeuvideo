@@ -4,6 +4,7 @@ weight: 30
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Widget Blueprint', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/FbGUbXvjG50/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons finaliser l'expérience utilisateur en ajoutant un écran de victoire. Lorsqu'un joueur atteint la zone de fin de niveau, il est crucial de lui offrir un retour visuel clair avec des options pour continuer à jouer ou quitter l'application. Nous allons voir comment créer ce Widget, le lier à notre zone de victoire et gérer les interactions à la souris.

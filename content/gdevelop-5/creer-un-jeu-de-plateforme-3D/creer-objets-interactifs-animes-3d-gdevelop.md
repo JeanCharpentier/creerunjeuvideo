@@ -4,6 +4,7 @@ weight: 2
 date: 2023-10-27
 categories: ['GDevelop 5']
 tags: ['3D', 'Tutoriel', 'Débutant', 'GameDev']
+images: ["https://img.youtube.com/vi/n2k2yuj_l-g/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce deuxième volet de notre série dédiée à la création d'un jeu de plateforme 3D sur GDevelop 5. Après avoir mis en place les bases de notre environnement, il est temps de donner vie à notre niveau en ajoutant des éléments interactifs : les pièces à ramasser.

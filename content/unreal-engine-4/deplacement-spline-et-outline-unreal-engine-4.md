@@ -3,6 +3,7 @@ titre: "Créer un système de déplacement automatique (Spline) et un effet Outl
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Blueprint', 'Spline', 'Post-Process', 'Tutoriel']
+images: ["https://img.youtube.com/vi/vveYH3nePnE/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous revenons sur les fondamentaux de la manipulation des **Splines** pour créer des déplacements prédictibles, ainsi que sur l'implémentation d'un effet visuel de type **Outline** (contour) via les matériaux de post-traitement. Ces techniques sont essentielles pour donner du caractère à vos scènes sans avoir recours à des systèmes d'IA complexes.

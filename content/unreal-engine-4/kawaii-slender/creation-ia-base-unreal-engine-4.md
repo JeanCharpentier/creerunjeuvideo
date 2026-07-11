@@ -4,6 +4,7 @@ weight: 13
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['IA', 'Blueprint', 'NavMesh', 'PawnSensing', 'Tutoriel']
+images: ["https://img.youtube.com/vi/-8nyKjiCzy0/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous posons les bases de l'intelligence artificielle pour notre projet "Kawaii Slender". L'objectif est simple : permettre à notre entité de détecter le joueur lorsqu'il entre dans son champ de vision et de le poursuivre activement. Pour ce faire, nous allons utiliser le système de navigation intégré d'Unreal Engine 4 et le composant `PawnSensing`.

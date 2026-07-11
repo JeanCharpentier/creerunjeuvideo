@@ -4,6 +4,7 @@ weight: 26
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Graphisme', 'Menu', 'Paint.net', 'Assets']
+images: ["https://img.youtube.com/vi/9Dc2AX0vXTY/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous faisons une petite pause dans le développement pur sous Unreal Engine 4 pour nous concentrer sur l'aspect visuel de votre jeu. Un menu principal réussi commence par des assets graphiques cohérents et bien pensés. Nous allons voir comment concevoir un fond de menu et préparer les bases de nos futurs boutons en utilisant un outil simple et efficace : Paint.net.

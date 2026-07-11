@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 4', 'Android', 'Google Play', 'AdMob', 'GameDev']
+images: ["https://img.youtube.com/vi/dM8Jk07eJnM/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette série de tutoriels dédiée au développement mobile sous Unreal Engine 4. Initialement conçue comme une formation premium, cette série est désormais disponible gratuitement pour toute la communauté. Vous y apprendrez à configurer votre environnement de développement, intégrer les services Google Play (succès, classements) et monétiser votre projet via Google AdMob.

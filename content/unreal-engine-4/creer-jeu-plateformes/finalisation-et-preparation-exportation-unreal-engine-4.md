@@ -4,6 +4,7 @@ weight: 33
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Développement', 'Export', 'Configuration', 'Packaging']
+images: ["https://img.youtube.com/vi/NVV3-KUZXMU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons l'étape cruciale de la finalisation de votre projet sous Unreal Engine 4. Avant de distribuer votre jeu, il est indispensable de configurer correctement le point d'entrée de l'application et de personnaliser les éléments visuels qui apparaissent lors du lancement. Une bonne préparation garantit une expérience utilisateur professionnelle dès les premières secondes.

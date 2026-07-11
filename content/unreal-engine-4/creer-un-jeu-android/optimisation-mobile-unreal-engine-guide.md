@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ['Développement Mobile']
 tags: ['Unreal Engine', 'Optimisation', 'Mobile', 'Performance', 'GameDev']
+images: ["https://img.youtube.com/vi/VTPi_djAOfM/maxresdefault.jpg"]
 ---
 
 Développer pour mobile et tablette impose des contraintes matérielles bien plus strictes que sur PC. Pour garantir une expérience fluide sur iOS et Android, chaque ressource compte. Dans cet épisode, nous explorons les piliers de l'optimisation sous Unreal Engine : de la gestion des maillages 3D à la structure de vos textures.

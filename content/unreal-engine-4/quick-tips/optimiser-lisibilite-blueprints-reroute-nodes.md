@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'GameDev', 'Optimisation', 'Workflow']
+images: ["https://img.youtube.com/vi/AZwRPIUuS3A/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une astuce simple mais indispensable pour tout développeur travaillant sur Unreal Engine 4 : l'utilisation des **Reroute Nodes**. Si vous avez déjà eu l'impression que vos Blueprints ressemblaient à un plat de spaghettis inextricable, cette technique est faite pour vous. Elle permet de nettoyer vos graphes, d'organiser vos flux de données et de rendre votre logique beaucoup plus lisible.

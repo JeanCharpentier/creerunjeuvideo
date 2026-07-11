@@ -3,6 +3,7 @@ title: "Mise en place du contrôle de version (SVN) sur Unreal Engine 4"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 4', 'SVN', 'TortoiseSVN', 'Version Control', 'GameDev']
+images: ["https://img.youtube.com/vi/E4tMAdkYQBY/maxresdefault.jpg"]
 ---
 
 Travailler en équipe sur un projet Unreal Engine 4 nécessite une gestion rigoureuse des fichiers pour éviter les conflits et les pertes de données. Dans ce tutoriel, nous allons voir comment configurer un système de contrôle de version (Versioning) avec **Subversion (SVN)** et **TortoiseSVN**, afin de synchroniser votre projet entre plusieurs collaborateurs.

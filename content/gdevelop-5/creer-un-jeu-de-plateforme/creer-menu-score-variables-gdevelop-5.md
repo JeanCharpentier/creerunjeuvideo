@@ -4,6 +4,7 @@ weight: 3
 date: 2024-05-23
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop', 'GameDev', 'Débutant', 'Variables', 'Menu']
+images: ["https://img.youtube.com/vi/VV_ltHBAOLM/maxresdefault.jpg"]
 ---
 
 Dans ce nouveau volet de notre série de découverte, nous allons finaliser notre jeu de plateforme en ajoutant deux éléments essentiels : un système de score persistant et un écran de menu fonctionnel. Vous apprendrez à manipuler les variables globales et à faire communiquer vos différentes scènes entre elles.

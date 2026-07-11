@@ -5,6 +5,7 @@ prev_url: "/intersect-engine/creer-un-mmorpg/maitriser-systeme-crafting-intersec
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Intersect Engine', 'MMORPG', 'Game Dev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/weYjYsQ9EWc/maxresdefault.jpg"]
 ---
 
 Créer un MMORPG demande de la structure, et le système de quêtes est le cœur battant de l'engagement de vos joueurs. Dans ce guide, nous explorons comment configurer vos premières missions avec l'éditeur intégré d'Intersect Engine pour donner vie à votre univers.

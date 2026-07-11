@@ -4,6 +4,7 @@ weight: 5
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', 'Survival', 'GameDev', 'Variables', 'UI']
+images: ["https://img.youtube.com/vi/DtqWmMlafnM/maxresdefault.jpg"]
 ---
 
 Dans ce cinquième épisode de notre série dédiée à la création d'un jeu de type *Survivor* sur GDevelop 5, nous allons nous concentrer sur la progression du joueur. Vous apprendrez à mettre en place un système d'expérience, à créer une barre de progression dynamique et à automatiser l'attraction des objets vers le personnage.

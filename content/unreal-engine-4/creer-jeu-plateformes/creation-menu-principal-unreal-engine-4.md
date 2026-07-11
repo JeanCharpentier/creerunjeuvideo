@@ -4,6 +4,7 @@ weight: 28
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'UMG', 'Blueprint', 'Menu', 'GameDev']
+images: ["https://img.youtube.com/vi/-d5nDYQ7UGY/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour tout projet de jeu vidéo : la création du menu principal. Nous allons voir comment configurer une scène dédiée, concevoir une interface utilisateur (UI) avec le système UMG (Unreal Motion Graphics) et rendre les boutons interactifs pour naviguer dans votre jeu.

@@ -4,6 +4,7 @@ weight: 9
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', '3D', 'GameDev', 'UI', 'Débutant']
+images: ["https://img.youtube.com/vi/SLxC_FtjkYU/maxresdefault.jpg"]
 ---
 
 Dans ce neuvième et ultime épisode de notre série dédiée à la création d'un jeu de plateforme 3D sur GDevelop 5, nous allons boucler la boucle. Après avoir mis en place les mécaniques de mouvement et la condition de défaite, il est temps d'offrir à vos joueurs la satisfaction de terminer le niveau.

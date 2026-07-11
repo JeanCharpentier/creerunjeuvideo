@@ -4,6 +4,7 @@ weight: 4
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', 'GameDev', 'Audio', 'Tutoriel', '3D']
+images: ["https://img.youtube.com/vi/DgM7DPANOzw/maxresdefault.jpg"]
 ---
 
 Dans ce quatrième épisode de notre série dédiée à la création d'un jeu de plateforme 3D sur GDevelop 5, nous délaissons le visuel pour nous concentrer sur l'immersion sonore. Un jeu sans son est une expérience incomplète : aujourd'hui, nous allons apprendre à générer nos propres effets sonores gratuitement et à les intégrer intelligemment dans notre projet.

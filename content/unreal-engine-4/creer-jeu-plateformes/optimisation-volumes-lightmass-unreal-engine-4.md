@@ -4,6 +4,7 @@ weight: 35
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Lightmass', 'PostProcessVolume', 'Optimisation', 'Lighting', 'GameDev']
+images: ["https://img.youtube.com/vi/4qrZM7tvg3g/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons les étapes cruciales de finalisation d'un niveau avant l'exportation. Une fois le nettoyage de votre scène effectué, il est indispensable de configurer les volumes de gestion de rendu pour garantir une qualité visuelle cohérente et optimisée. Nous verrons comment manipuler le *Post-Process Volume* et le *Lightmass Importance Volume* pour préparer le calcul final des lumières.

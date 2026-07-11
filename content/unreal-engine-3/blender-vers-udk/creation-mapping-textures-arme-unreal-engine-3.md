@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Unreal Engine 3']
 tags: ['Blender', 'UV Mapping', 'Texturing', 'GameDev']
+images: ["https://img.youtube.com/vi/2bYUoMPHdyU/maxresdefault.jpg"]
 ---
 
 Dans ce troisième volet de notre série dédiée à la création d'assets pour Unreal Engine 3, nous abordons une étape cruciale du pipeline de production : le **UV Mapping** et la texturation. Une fois votre modèle 3D assemblé, il est temps de lui donner vie en lui appliquant une "peau" numérique.

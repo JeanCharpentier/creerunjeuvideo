@@ -4,6 +4,7 @@ weight: 16
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'GameDev', 'Spawner', 'Logique']
+images: ["https://img.youtube.com/vi/Zhb1ntycKnw/maxresdefault.jpg"]
 ---
 
 Dans ce seizième épisode, nous allons aborder une problématique essentielle pour tout jeu de type "Runner" ou jeu d'arcade : comment faire en sorte que notre système de spawn ne s'arrête jamais ? Nous allons transformer notre séquence limitée en une boucle infinie grâce à la logique conditionnelle dans les Blueprints.

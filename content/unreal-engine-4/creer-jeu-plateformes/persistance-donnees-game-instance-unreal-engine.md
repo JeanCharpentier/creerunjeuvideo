@@ -4,6 +4,7 @@ weight: 46
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Game Instance', 'Développement', 'Tutoriel']
+images: ["https://img.youtube.com/vi/c9dJzeapnjM/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une problématique classique du développement de jeux vidéo : comment conserver des informations (comme le score du joueur) lorsqu'on change de niveau. Par défaut, Unreal Engine réinitialise les variables de votre personnage à chaque chargement de map. Pour pallier cela, nous allons utiliser la **Game Instance**.

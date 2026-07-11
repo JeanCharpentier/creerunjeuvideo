@@ -4,6 +4,7 @@ weight: 36
 date: 2026-06-17
 categories: ['Développement Unreal Engine']
 tags: ['Unreal Engine 4', 'Packaging', 'Exportation', 'GameDev']
+images: ["https://img.youtube.com/vi/DTh70kbKaF0/maxresdefault.jpg"]
 ---
 
 Félicitations ! Vous avez parcouru le chemin nécessaire pour transformer votre projet de développement en une application autonome. L'étape ultime de la création d'un jeu est le "Packaging", c'est-à-dire la compilation de vos assets et de votre logique en un exécutable distribuable. Dans cet article, nous allons voir comment préparer votre projet pour Windows.

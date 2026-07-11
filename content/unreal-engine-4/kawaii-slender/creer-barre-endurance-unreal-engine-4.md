@@ -4,6 +4,7 @@ weight: 18
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UMG', 'UI', 'Blueprints', 'GameDev']
+images: ["https://img.youtube.com/vi/arRHDbk6GzA/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous allons finaliser notre système d'endurance en ajoutant une interface visuelle (HUD). L'objectif est d'afficher une barre de progression qui se vide lorsque le joueur court et se remplit automatiquement lorsqu'il marche, offrant ainsi un retour visuel immédiat au joueur.

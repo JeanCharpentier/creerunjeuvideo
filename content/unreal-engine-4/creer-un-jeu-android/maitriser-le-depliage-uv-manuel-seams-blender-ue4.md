@@ -4,6 +4,7 @@ weight: 9
 date: 2026-06-17
 categories: ['Modélisation 3D']
 tags: ['Blender', 'Unreal Engine 4', 'UV Mapping', 'Workflow']
+images: ["https://img.youtube.com/vi/U26CHmktDtQ/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous passons à une étape cruciale pour tout artiste 3D souhaitant professionnaliser son workflow : le dépliage UV manuel via les "Seams" (coutures). Contrairement au *Smart UV Project* qui automatise le processus, cette méthode offre un contrôle total sur la manière dont votre texture sera appliquée, garantissant ainsi un résultat propre et optimisé pour vos assets dans Unreal Engine 4.

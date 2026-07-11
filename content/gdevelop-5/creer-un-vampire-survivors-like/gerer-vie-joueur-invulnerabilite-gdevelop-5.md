@@ -4,6 +4,7 @@ weight: 4
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop 5', 'GameDev', 'Débutant', 'Survival']
+images: ["https://img.youtube.com/vi/pTorx3bI3t8/maxresdefault.jpg"]
 ---
 
 Dans ce quatrième épisode de notre série dédiée à la création d'un jeu de type "Survival", nous allons nous attaquer à un pilier fondamental : la gestion de la santé du joueur. Il ne suffit pas d'avoir une barre de vie, il faut aussi que le joueur ressente les impacts et qu'il ne meure pas instantanément au moindre contact.

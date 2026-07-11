@@ -6,6 +6,7 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Audio", "Sound Design"]
 prev_url: "/construct-2/tuto-jeu-plateforme/9-systeme-codes-niveaux"
 next_url: "/construct-2/tuto-jeu-plateforme/11-finalisation-deploiement-web"
+images: ["https://img.youtube.com/vi/ckEkRpp3NLM/maxresdefault.jpg"]
 ---
 
 Cette page est une archive pédagogique du dixième épisode de ma série consacrée à la création d'un jeu de plateforme avec Construct 2.

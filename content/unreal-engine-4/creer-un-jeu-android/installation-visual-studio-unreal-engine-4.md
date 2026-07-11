@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Développement']
 tags: ['Unreal Engine 4', 'Visual Studio', 'C++', 'Setup']
+images: ["https://img.youtube.com/vi/Pf1xQ7BSDCs/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce deuxième volet de notre série dédiée à la configuration de votre environnement de travail pour Unreal Engine 4. Avant de plonger dans le développement de vos jeux, il est impératif de préparer votre machine pour compiler le code source et gérer les exportations vers diverses plateformes.

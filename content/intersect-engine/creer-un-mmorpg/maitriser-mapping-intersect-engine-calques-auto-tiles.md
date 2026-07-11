@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-environnements-vivants-inters
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'Mapping', 'Tutoriel']
+images: ["https://img.youtube.com/vi/Ab-T7abvnao/maxresdefault.jpg"]
 ---
 
 Apprendre à structurer ses cartes est l'étape fondamentale pour tout développeur utilisant Intersect Engine. Dans ce guide, nous explorons les bases du mapping, de la gestion des calques à l'utilisation intelligente des auto-tiles.

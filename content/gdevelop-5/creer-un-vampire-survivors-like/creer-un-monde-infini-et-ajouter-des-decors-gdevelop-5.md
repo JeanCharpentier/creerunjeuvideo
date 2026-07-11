@@ -4,6 +4,7 @@ weight: 10
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Survival', 'GameDev', 'TiledBackground']
+images: ["https://img.youtube.com/vi/9SAQK1m3HjE/maxresdefault.jpg"]
 ---
 
 Dans cet avant-dernier épisode de notre série sur la création d'un jeu de type *Survival*, nous allons nous attaquer à deux problématiques majeures pour donner vie à votre monde : la création d'un sol infini et l'ajout de décors procéduraux. L'objectif est de rendre votre environnement moins répétitif tout en optimisant les performances pour que votre map semble ne jamais s'arrêter.

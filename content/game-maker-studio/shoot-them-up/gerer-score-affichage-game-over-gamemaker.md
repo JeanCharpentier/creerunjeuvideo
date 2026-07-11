@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/animer-effets-visuels-game-maker-exp
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'Gamedev', 'Programmation']
+images: ["https://img.youtube.com/vi/JP9EpNKrGW8/maxresdefault.jpg"]
 ---
 
 Apprenez à dynamiser votre système de score en récompensant le joueur pour chaque ennemi détruit et à afficher le résultat final sur votre écran de Game Over.

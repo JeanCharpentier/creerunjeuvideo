@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/gerer-collisions-destruction-ennemis
 date: 2024-05-22
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'GameDev', 'Gamedev-debutant']
+images: ["https://img.youtube.com/vi/QvGxIZWXvA0/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous allons enrichir votre jeu en ajoutant un troisième type d'ennemi capable de tirer des projectiles laser, tout en automatisant son apparition via un système de "spawner" dynamique.

@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/maitriser-tir-automatique-gestion-in
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Game Maker', 'Tutoriel', 'Developpement de jeux', 'GML', 'Programmation']
+images: ["https://img.youtube.com/vi/kJCl2lUzhyk/maxresdefault.jpg"]
 ---
 
 Apprenez à restreindre les déplacements de votre vaisseau à l'intérieur de votre zone de jeu pour éviter qu'il ne disparaisse hors de l'écran grâce à la fonction clamp.

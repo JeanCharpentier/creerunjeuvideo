@@ -3,6 +3,7 @@ titre: "Maîtriser l'éditeur de terrain dans Unreal Engine 3 (UDK)"
 date: 2026-06-17
 categories: ['Game Development']
 tags: ['Unreal Engine 3', 'UDK', 'Level Design', 'Terrain', 'Tutoriel']
+images: ["https://img.youtube.com/vi/xvH1LEA9xd8/maxresdefault.jpg"]
 ---
 
 L'Unreal Development Kit (UDK), basé sur l'Unreal Engine 3, reste une référence historique pour comprendre les fondements du level design moderne. Dans ce tutoriel, nous revenons sur les bases de la création de terrains : du modelage des reliefs à l'application de matériaux complexes et de feuillage.

@@ -4,6 +4,7 @@ weight: 22
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Widget', 'Menu', 'Blueprint', 'GameDev']
+images: ["https://img.youtube.com/vi/xB54I9Oi-6w/maxresdefault.jpg"]
 ---
 
 Dans ce nouvel épisode de notre série sur Unreal Engine 4, nous allons mettre en place la porte d'entrée de votre jeu : le menu principal. L'objectif est de créer une interface utilisateur (UI) fonctionnelle permettant de lancer la partie et de préparer l'accès futur à un système de classement (leaderboard).

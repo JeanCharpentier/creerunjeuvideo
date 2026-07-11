@@ -4,6 +4,7 @@ weight: 47
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Widget', 'Blueprints', 'Sauvegarde', 'GameDev']
+images: ["https://img.youtube.com/vi/TxtT7ZKBxqY/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous posons les bases techniques nécessaires à la mise en place d'un système de sauvegarde persistante. Avant de manipuler les données, il est indispensable de créer une interface utilisateur (UI) permettant au joueur d'interagir avec le système de sauvegarde. Nous allons voir comment créer un menu simple et gérer son affichage via le Blueprint de votre personnage.

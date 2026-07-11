@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Blueprint', 'Camera', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/VFF4YOzY4s8/maxresdefault.jpg"]
 ---
 
 Dans ce nouvel épisode de notre série dédiée au développement FPS sur Unreal Engine 4, nous allons aborder une étape fondamentale : la transition de votre personnage de la vue à la troisième personne (TPS) vers une vue à la première personne (FPS). Que vous soyez un nouvel arrivant ou que vous souhaitiez mettre à jour vos connaissances, ce guide vous permettra de configurer votre caméra pour une immersion totale.

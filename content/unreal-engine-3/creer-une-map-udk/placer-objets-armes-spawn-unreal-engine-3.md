@@ -4,6 +4,7 @@ weight: 7
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'UDK', 'FPS', 'Level Design']
+images: ["https://img.youtube.com/vi/QC-NRMFqkVI/maxresdefault.jpg"]
 ---
 
 Dans ce septième épisode de notre série dédiée au développement d'un FPS avec l'Unreal Development Kit (UDK), nous passons à une étape cruciale : le "peuplage" de votre carte. Un niveau vide est une chose, mais un niveau jouable en nécessite une autre : des armes, des munitions, de la santé et des points de réapparition stratégiques.

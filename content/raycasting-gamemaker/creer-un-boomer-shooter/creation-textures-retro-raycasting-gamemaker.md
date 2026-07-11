@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Raycasting GameMaker']
 tags: ['GameMaker', 'Raycasting', 'Pixel Art', 'Texturing', 'FPS']
+images: ["https://img.youtube.com/vi/mOPD0_ErDdc/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce deuxième épisode de notre série dédiée à la création d'un FPS de type "Doom-like" avec le moteur de Raycasting GameMaker. Aujourd'hui, nous délaissons temporairement le code pour nous concentrer sur l'aspect visuel : la création de vos propres textures.

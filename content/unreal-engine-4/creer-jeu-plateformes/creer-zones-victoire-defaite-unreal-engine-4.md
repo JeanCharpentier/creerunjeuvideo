@@ -4,6 +4,7 @@ weight: 16
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'GameDev', 'Collision', 'Trigger']
+images: ["https://img.youtube.com/vi/ARpulNg1X0w/maxresdefault.jpg"]
 ---
 
 Dans ce chapitre, nous abordons une étape cruciale pour la structure de votre jeu : la gestion des objectifs et des conditions d'échec. Apprendre à créer des zones invisibles qui déclenchent des événements spécifiques est une compétence fondamentale pour tout développeur Unreal Engine.

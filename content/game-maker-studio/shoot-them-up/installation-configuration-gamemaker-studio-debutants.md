@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/demarrer-projet-game-maker-studio-ge
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'Developpement de jeux', 'Debutant']
+images: ["https://img.youtube.com/vi/HF9M-UqEqgw/maxresdefault.jpg"]
 ---
 
 Dans ce guide, nous allons franchir la première étape essentielle de votre aventure dans le développement de jeux vidéo : l'installation et la préparation de votre environnement de travail avec GameMaker Studio.

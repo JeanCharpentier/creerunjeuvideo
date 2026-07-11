@@ -4,6 +4,7 @@ weight: 10
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'LineTrace', 'Interaction', 'GameDev']
+images: ["https://img.youtube.com/vi/4lvUReuQHuY/maxresdefault.jpg"]
 ---
 
 Dans ce 10ème tutoriel dédié à Unreal Engine 4, nous allons aborder une mécanique fondamentale pour tout jeu d'aventure ou de plateforme : **l'interaction avec les objets**. L'objectif est simple : permettre au joueur de "viser" des cookies dans le niveau et de les faire réagir (ici, en allumant une lumière) lorsqu'ils sont dans le champ de vision.

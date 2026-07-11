@@ -6,6 +6,7 @@ weight: 1
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Epic Games Store, Fab, Game Design, Tutoriel]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/2-integration-camera-premiere-personne-fps"
+images: ["https://img.youtube.com/vi/FylK-jqhq4c/maxresdefault.jpg"]
 ---
 
 {{< youtube-rgpd "FylK-jqhq4c" >}}

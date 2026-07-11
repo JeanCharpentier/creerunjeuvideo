@@ -3,6 +3,7 @@ title: "Créer un système de piège à trappe automatique dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Blueprint', 'Game Design', 'Tutoriel']
+images: ["https://img.youtube.com/vi/uQFsCvbY9sU/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous explorons la création d'un système de piège "trappe" modulaire sous Unreal Engine 4. L'objectif est de mettre en place une mécanique de plateforme qui s'effondre sous le poids du joueur lorsqu'il s'en approche, tout en conservant une structure flexible pour vos futurs niveaux.

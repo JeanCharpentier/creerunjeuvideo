@@ -6,6 +6,7 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "HUD", "Collisions"]
 prev_url: "/construct-2/tuto-jeu-plateforme/5-creation-ennemi-dynamique"
 next_url: "/construct-2/tuto-jeu-plateforme/correctif-animation-atterrissage"
+images: ["https://img.youtube.com/vi/rpz05UibsW4/maxresdefault.jpg"]
 ---
 
 > **Note :** Cet article est une archive pédagogique du sixième épisode de ma série sur la création d'un jeu de plateforme avec Construct 2.

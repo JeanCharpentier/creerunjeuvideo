@@ -4,6 +4,7 @@ weight: 14
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Blueprints', 'IA', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/-H34L60gGmM/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous allons donner un peu plus de vie à notre intelligence artificielle. Jusqu'à présent, notre "Slender" se contentait de nous foncer dessus dès qu'il nous voyait. Nous allons maintenant lui apprendre à patrouiller de manière aléatoire sur la carte lorsqu'il ne détecte pas le joueur, rendant son comportement beaucoup plus imprévisible et réaliste.

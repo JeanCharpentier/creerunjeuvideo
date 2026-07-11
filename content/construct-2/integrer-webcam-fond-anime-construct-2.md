@@ -3,6 +3,7 @@ title: "Intégrer votre webcam comme fond animé dans Construct 2"
 date: 2026-06-17
 categories: ["Archive"]
 tags: ["Construct 2", "Webcam", "GameDev", "Effets Visuels"]
+images: ["https://img.youtube.com/vi/GFPIY-yf7hU/maxresdefault.jpg"]
 ---
 
 Vous souhaitez donner une touche unique et interactive à votre jeu de plateforme ? Pourquoi ne pas utiliser votre propre webcam pour générer un fond animé en temps réel ? Dans ce tutoriel, nous allons voir comment utiliser l'objet **User Media** de Construct 2 pour capturer votre flux vidéo et y appliquer des effets graphiques dynamiques.

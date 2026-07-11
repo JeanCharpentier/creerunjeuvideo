@@ -3,6 +3,7 @@ title: "Découverte de Game Guru : Créer des jeux vidéo sans coder ?"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Game Guru', 'Tutoriel', 'Game Design', 'Indie Dev', 'FPS']
+images: ["https://img.youtube.com/vi/0XbCxqB-wWw/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous revenons sur une session de découverte en live consacrée à **Game Guru**, le successeur spirituel de *FPS Creator*. L'objectif de cette vidéo était de tester la prise en main du logiciel, ses fonctionnalités de création de terrain, l'intégration d'entités et la possibilité d'exporter un projet autonome (standalone) en un temps record.

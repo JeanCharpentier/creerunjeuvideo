@@ -3,6 +3,7 @@ title: "Maîtriser la génération procédurale dans Unreal Engine 4 : Le guide 
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'Procedural Generation', 'Blueprints', 'Optimization']
+images: ["https://img.youtube.com/vi/Gra9U6KSZxg/maxresdefault.jpg"]
 ---
 
 La génération procédurale est un pilier fondamental pour créer des mondes vastes et dynamiques. Cependant, le véritable défi ne réside pas dans l'aléatoire pur, mais dans sa **maîtrise**. Comment garantir qu'un joueur puisse retrouver les mêmes éléments s'il revient sur ses pas ? Comment générer des milliers d'objets sans faire s'effondrer les performances de votre jeu ?

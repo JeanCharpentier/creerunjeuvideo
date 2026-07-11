@@ -4,6 +4,7 @@ weight: 9
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'UDK', 'Tutoriel', 'Packaging', 'Serveur Dédié']
+images: ["https://img.youtube.com/vi/MVAkZSJ7Vj4/maxresdefault.jpg"]
 ---
 
 Dans ce neuvième et ultime épisode de notre série dédiée à l'Unreal Development Kit (UDK), nous abordons l'étape cruciale qui transforme votre projet en un produit fini : la compilation, le packaging et le déploiement. Après avoir finalisé votre environnement de jeu, il est temps de rendre votre création distribuable et jouable par d'autres.

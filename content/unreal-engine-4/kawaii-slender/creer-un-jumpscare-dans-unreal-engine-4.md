@@ -4,6 +4,7 @@ weight: 32
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'UI', 'Jumpscare', 'Game Design']
+images: ["https://img.youtube.com/vi/tqplGwDaF20/maxresdefault.jpg"]
 ---
 
 Dans cet épisode spécial, nous allons aborder une mécanique classique mais toujours redoutable dans le jeu vidéo : le **Jumpscare**. Que ce soit pour un jeu d'horreur ou simplement pour faire une blague à vos joueurs, l'implémentation repose sur une combinaison simple d'interface utilisateur (UI) et de déclencheurs spatiaux (Collision Box).

@@ -4,6 +4,7 @@ weight: 2
 date: 2023-10-27
 categories: ['Modding']
 tags: ['Hytale', 'Tutoriel', 'Modding', 'GameDev']
+images: ["https://img.youtube.com/vi/Wc_XISe1edE/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce deuxième volet de notre série dédiée au modding sur Hytale ! Après avoir modélisé et importé notre première épée, il est temps de passer aux choses sérieuses : intégrer cet objet dans l'économie réelle du jeu. Aujourd'hui, nous allons apprendre à créer un minerai, le transformer en lingot, et configurer toute la chaîne de production pour que votre création soit accessible via le gameplay.

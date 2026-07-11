@@ -3,6 +3,7 @@ title: "Créer des décors architecturaux avec les BSP dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Tutoriel', 'BSP', 'Level Design', 'Static Mesh']
+images: ["https://img.youtube.com/vi/aTIuSn8T_9g/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous explorons une technique fondamentale pour les débutants en Level Design sur Unreal Engine 4 : l'utilisation des **BSP (Binary Space Partitioning)**. Ces outils intégrés permettent de prototyper rapidement des environnements, des maisons ou des structures complexes directement dans l'éditeur, sans avoir recours à un logiciel de modélisation externe comme Blender au préalable.

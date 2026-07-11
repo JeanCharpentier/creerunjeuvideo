@@ -4,6 +4,7 @@ weight: 41
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Lumière', 'Lighting', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/tLiIPC17bN0/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous explorons les outils fondamentaux de l'éclairage dans Unreal Engine 4. Après avoir appréhendé la *Directional Light* (simulant le soleil), il est temps de passer aux sources de lumière localisées : la *Point Light* et la *Spot Light*. Comprendre comment ces sources interagissent avec votre environnement est crucial pour donner du volume, de la profondeur et une ambiance unique à vos scènes.

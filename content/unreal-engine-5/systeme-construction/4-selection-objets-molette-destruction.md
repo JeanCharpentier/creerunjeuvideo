@@ -7,6 +7,7 @@ tags: [Unreal Engine 5, Build, Blueprint, Input System, Audio, Game Design]
 
 prev_url: "/unreal-engine-5/systeme-construction/3-overlaps-erreurs-construction"
 next_url: ""
+images: ["https://img.youtube.com/vi/mUvL7on9Gds/maxresdefault.jpg"]
 ---
 
 Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.

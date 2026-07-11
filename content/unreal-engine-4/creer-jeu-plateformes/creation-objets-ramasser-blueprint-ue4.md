@@ -4,6 +4,7 @@ weight: 20
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Actor', 'Matériaux', 'Collision', 'Rotation']
+images: ["https://img.youtube.com/vi/dfPQ3dpQ_-8/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous passons à une étape cruciale du développement de votre jeu : la création d'objets interactifs. Nous allons apprendre à concevoir une pièce (ou "collectible") en utilisant les Blueprints, à lui donner un aspect visuel attrayant via l'éditeur de matériaux, et à la rendre dynamique en la faisant tourner sur elle-même. Enfin, nous aborderons la gestion des collisions pour que le joueur puisse traverser l'objet sans être bloqué.

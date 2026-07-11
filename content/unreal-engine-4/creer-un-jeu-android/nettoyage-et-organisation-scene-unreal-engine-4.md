@@ -4,6 +4,7 @@ weight: 24
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Level Design', 'Optimisation', 'Workflow', 'Lighting']
+images: ["https://img.youtube.com/vi/1IL53_nV9oc/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous passons à une étape cruciale pour tout développeur : le nettoyage et l'organisation de votre environnement de travail. Avant de passer à la création de terrains complexes ou à l'ajout d'effets visuels avancés, il est essentiel de repartir sur une base propre pour éviter la confusion et optimiser les performances de votre projet.

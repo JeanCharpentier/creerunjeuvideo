@@ -4,6 +4,7 @@ weight: 20
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Optimisation', 'Performance', 'GameDev']
+images: ["https://img.youtube.com/vi/lfoHehq7aEA/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour la survie de votre projet : l'optimisation de la mémoire. Lorsqu'on génère des objets en continu (comme des ennemis ou des obstacles), il est impératif de nettoyer ceux qui ne sont plus visibles par le joueur. Si vous ne le faites pas, ces acteurs continueront de consommer des ressources processeur et mémoire, menant inévitablement à une chute de framerate, particulièrement sur mobile.

@@ -4,6 +4,7 @@ weight: 7
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Blender', 'Modélisation', 'Low Poly', 'Tutoriel']
+images: ["https://img.youtube.com/vi/vKQ96bAisPk/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale de la création d'assets pour vos jeux vidéo : la modélisation d'un objet simple, ici un tronc d'arbre, en utilisant les outils de base de Blender. L'objectif est de comprendre le workflow "Low Poly" pour optimiser les performances de votre moteur de jeu.

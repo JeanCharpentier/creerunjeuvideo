@@ -3,6 +3,7 @@ title: "Créer et intégrer un menu Flash dans Unreal Engine 3 (UDK)"
 date: 2026-06-17
 categories: ["GameDev"]
 tags: ["Unreal Engine 3", "UDK", "Flash", "UI", "Tutoriel"]
+images: ["https://img.youtube.com/vi/XhYARTXctIg/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous revenons sur une technique classique mais fondamentale de l'ère **Unreal Engine 3 (UDK)** : l'intégration d'interfaces utilisateur (UI) via Adobe Flash. Bien que les workflows modernes aient évolué vers UMG (Unreal Motion Graphics), comprendre comment l'UDK communiquait avec le moteur Scaleform est essentiel pour maintenir ou étudier des projets legacy.

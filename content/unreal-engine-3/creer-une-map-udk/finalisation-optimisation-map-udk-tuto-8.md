@@ -4,6 +4,7 @@ weight: 8
 date: 2026-06-17
 categories: ['Unreal Engine 3']
 tags: ['UDK', 'Level Design', 'Optimization', 'Lighting', 'Tutorial']
+images: ["https://img.youtube.com/vi/ntCkR3_n6xw/maxresdefault.jpg"]
 ---
 
 Dans ce huitième volet de notre série dédiée à l'UDK (Unreal Development Kit), nous quittons la phase de création brute pour nous concentrer sur la finition. Une map réussie ne se limite pas à son architecture ; elle doit être robuste, exempte de bugs de collision et visuellement cohérente. Nous allons aborder la gestion des limites de jeu et le rendu final des lumières.

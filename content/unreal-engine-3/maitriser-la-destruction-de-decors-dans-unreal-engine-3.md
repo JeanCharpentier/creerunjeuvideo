@@ -3,6 +3,7 @@ titre: "Maîtriser la destruction de décors dans Unreal Engine 3 (UDK)"
 date: 2026-06-17
 categories: ["Game Development"]
 tags: ["Unreal Engine 3", "UDK", "Level Design", "Destruction", "Tutoriel"]
+images: ["https://img.youtube.com/vi/wFFFcep-15Y/maxresdefault.jpg"]
 ---
 
 La destruction de décors est un élément clé pour renforcer l'immersion dans un jeu vidéo. Que ce soit pour créer des passages dynamiques ou simplement pour ajouter du réalisme lors des combats, Unreal Engine 3 (via l'UDK) propose des outils intégrés puissants pour gérer la fracture d'objets statiques.

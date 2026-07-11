@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Twitch', 'Plugin', 'Blueprints', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/sNsU4wOdbBk/maxresdefault.jpg"]
 ---
 
 L'interactivité est devenue un pilier du streaming moderne. Permettre à votre communauté d'influencer directement le gameplay de votre jeu via le chat Twitch est un excellent moyen d'augmenter l'engagement. Dans ce premier volet, nous allons configurer l'environnement nécessaire pour connecter votre projet Unreal Engine 4 à l'API de Twitch.

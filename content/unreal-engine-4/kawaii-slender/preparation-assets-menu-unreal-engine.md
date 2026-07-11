@@ -4,6 +4,7 @@ weight: 19
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Menu', 'Graphisme', 'Tutoriel', 'Asset']
+images: ["https://img.youtube.com/vi/LkOTYxSQlgU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous faisons une petite pause technique sur Unreal Engine 4 pour nous concentrer sur la partie artistique. Avant de plonger dans le système de Widget Blueprint, il est essentiel de préparer vos assets graphiques. Un menu propre commence par une bonne préparation de vos images de fond et de vos boutons.

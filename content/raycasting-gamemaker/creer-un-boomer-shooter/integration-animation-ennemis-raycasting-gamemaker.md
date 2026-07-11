@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ['Raycasting GameMaker']
 tags: ['GameMaker', 'Raycasting', 'Tutoriel', 'GameDev', 'Sprites']
+images: ["https://img.youtube.com/vi/rXK4CByW8mE/maxresdefault.jpg"]
 ---
 
 Dans ce cinquième épisode de notre série dédiée au Raycasting sur GameMaker, nous passons à l'étape cruciale de l'immersion : l'intégration de vos propres ennemis. Après avoir travaillé sur les armes et les textures de murs, il est temps de donner vie à vos couloirs sombres en remplaçant les modèles par défaut par vos propres créations.

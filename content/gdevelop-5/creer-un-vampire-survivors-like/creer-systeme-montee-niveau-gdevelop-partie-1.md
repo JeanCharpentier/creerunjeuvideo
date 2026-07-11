@@ -4,6 +4,7 @@ weight: 6
 date: 2024-05-22
 categories: ['Tutoriels']
 tags: ['GDevelop 5', 'Survival-like', 'Game Design', 'Variables']
+images: ["https://img.youtube.com/vi/AL5Qg1EyutU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode de notre série dédiée à la création d'un *Survival-like* avec GDevelop 5, nous attaquons une étape cruciale : le système de montée de niveau. Comme le sujet est dense, nous allons le diviser en deux parties. Aujourd'hui, nous nous concentrons sur l'affichage dynamique des choix d'améliorations.

@@ -4,6 +4,7 @@ weight: 13
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'GameDev', 'Collision', 'Actor', 'Débutant']
+images: ["https://img.youtube.com/vi/FmaOeFnLNRU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous passons à la phase concrète du développement : la création des mécaniques de jeu. Après avoir importé nos assets, il est temps de donner vie à notre premier obstacle : le tronc. Nous allons apprendre à structurer un Blueprint, configurer un modèle 3D et définir des zones de collision précises pour gérer le "Game Over" et le score.

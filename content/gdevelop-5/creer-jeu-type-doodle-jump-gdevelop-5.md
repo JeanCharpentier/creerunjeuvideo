@@ -3,6 +3,7 @@ title: "Créer un mini-jeu de type ''Doodle Jump'' avec GDevelop 5"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Jeu Vidéo', 'Plateforme', 'Développement']
+images: ["https://img.youtube.com/vi/4NYoKyn1R6g/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous allons explorer les bases pour créer un jeu de type "Doodle Jump" (saut infini vertical) en utilisant GDevelop 5. Ce projet est idéal pour comprendre la gestion des caméras, les collisions dynamiques et la génération procédurale d'objets.

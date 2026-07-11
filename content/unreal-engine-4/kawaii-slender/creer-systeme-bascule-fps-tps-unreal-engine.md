@@ -4,6 +4,7 @@ weight: 34
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Camera', 'Gameplay', 'Tutoriel']
+images: ["https://img.youtube.com/vi/P43Pz7odhXs/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une fonctionnalité très demandée : comment permettre au joueur de basculer dynamiquement entre une vue à la première personne (FPS) et une vue à la troisième personne (TPS) en appuyant sur une simple touche.

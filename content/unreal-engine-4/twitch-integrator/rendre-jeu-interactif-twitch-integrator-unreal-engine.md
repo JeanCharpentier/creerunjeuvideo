@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Twitch Integrator', 'Blueprints', 'Interaction', 'GameDev']
+images: ["https://img.youtube.com/vi/C8N6grvhXIA/maxresdefault.jpg"]
 ---
 
 Dans ce dernier volet de notre série consacrée au plugin **Twitch Integrator**, nous allons concrétiser l'interactivité de votre jeu. L'objectif est simple : permettre à vos viewers de faire apparaître ou disparaître des éléments du décor (ici, une zone de lave mortelle) directement via des commandes dans le chat Twitch.

@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Développement Mobile']
 tags: ['Pocket Code', 'Android', 'GameDev', 'Tutoriel', 'OpenSource']
+images: ["https://img.youtube.com/vi/X3_X05KovnQ/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette série dédiée à la création de jeux vidéo directement depuis votre appareil mobile. Aujourd'hui, nous explorons **Pocket Code**, une application puissante et gratuite disponible sur le Google Play Store, qui transforme votre tablette ou smartphone en véritable studio de développement. Accompagné de **Pocket Paint** pour la partie graphique, cet outil permet de concevoir des jeux de A à Z, en apprenant les bases de la logique de programmation.

@@ -3,6 +3,7 @@ title: "Créer un cycle jour/nuit dynamique dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Développement Unreal Engine']
 tags: ['Unreal Engine 4', 'Blueprints', 'Cycle Jour-Nuit', 'Level Design']
+images: ["https://img.youtube.com/vi/AzyoRemYMUM/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous allons voir comment mettre en place un système de cycle jour/nuit simple et efficace dans Unreal Engine 4. Ce guide répond à une problématique courante : comment automatiser la rotation du soleil pour simuler le passage du temps dans votre environnement.

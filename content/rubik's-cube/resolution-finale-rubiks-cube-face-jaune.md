@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['RubiksCube', 'Tutoriel', 'Logique', 'Algorithmes']
+images: ["https://img.youtube.com/vi/X6aENA-u5Q0/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette ultime étape de notre série dédiée à la résolution du Rubik's Cube. Après avoir maîtrisé la face blanche et la couronne intermédiaire, il est temps de s'attaquer au sommet : la face jaune. Cette phase est souvent perçue comme la plus complexe car elle demande de la précision pour ne pas défaire le travail accompli sur les couches inférieures.

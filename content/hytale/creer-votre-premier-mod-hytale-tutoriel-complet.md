@@ -4,6 +4,7 @@ weight: 1
 date: 2024-05-22
 categories: ['Modding']
 tags: ['Hytale', 'Tutoriel', 'Blockbench', 'Modding', 'GameDev']
+images: ["https://img.youtube.com/vi/-kU_Lz3ehLg/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce guide complet dédié à l'apprentissage du modding sur Hytale. Si vous avez toujours rêvé d'ajouter vos propres créations, comme une épée personnalisée, directement dans le jeu, vous êtes au bon endroit. Grâce aux outils intégrés et à la puissance de Blockbench, le processus est bien plus accessible qu'il n'y paraît.

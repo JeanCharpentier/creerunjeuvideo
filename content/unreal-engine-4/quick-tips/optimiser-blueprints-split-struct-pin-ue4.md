@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'Optimisation', 'Quick Tip', 'Workflow']
+images: ["https://img.youtube.com/vi/TvBU8W3-W-4/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce deuxième épisode de nos "Quick Tips" sur Unreal Engine 4. Aujourd'hui, nous allons nous concentrer sur une astuce de workflow essentielle pour garder vos graphes de Blueprints propres, lisibles et surtout moins encombrés. Nous allons voir comment manipuler les vecteurs et les structures sans multiplier inutilement les nœuds.

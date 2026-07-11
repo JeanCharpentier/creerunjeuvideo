@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Développement Mobile']
 tags: ['Pocket Code', 'Tutoriel', 'GameDev', 'Android', 'Débutant']
+images: ["https://img.youtube.com/vi/l4tm1SJmSLQ/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce troisième volet de notre série dédiée à **Pocket Code** sur Android. Après avoir mis en place nos objets lors du premier épisode, il est temps de leur donner vie. Dans ce tutoriel, nous allons plonger dans la logique de programmation visuelle pour gérer la gravité, les sauts et les variables globales.

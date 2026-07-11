@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Blueprint', 'Gameplay', 'Tutoriel']
+images: ["https://img.youtube.com/vi/MfM02swJz8U/maxresdefault.jpg"]
 ---
 
 Dans ce quatrième épisode de notre série dédiée à la création d'un FPS sous Unreal Engine 4, nous allons implémenter une mécanique essentielle : le **Sprint**. Contrairement à des approches basiques, nous allons ici intégrer une gestion dynamique de l'endurance (stamina) avec une interface utilisateur (HUD) intelligente qui ne s'affiche que lorsque le joueur est en effort.

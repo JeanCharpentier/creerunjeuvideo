@@ -4,6 +4,7 @@ weight: 6
 date: 2026-06-17
 categories: ['Tutoriels GameDev']
 tags: ['Unreal Engine 3', 'UDK', 'Level Design', 'Lighting']
+images: ["https://img.youtube.com/vi/OMUzEsQY5AM/maxresdefault.jpg"]
 ---
 
 Dans ce sixième épisode de notre série dédiée à la création d'un FPS multijoueur sous UDK (Unreal Development Kit), nous allons donner vie à notre environnement. Une carte vide ne prend réellement forme qu'une fois que l'ambiance lumineuse et le ciel sont correctement configurés. Nous allons voir comment intégrer un *Skydome* et paramétrer un éclairage dynamique pour structurer nos volumes.

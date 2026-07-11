@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/maitriser-mapping-intersect-engine-
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'MMORPG', 'Game Development', 'Tutoriel']
+images: ["https://img.youtube.com/vi/Frp2oDR1I7I/maxresdefault.jpg"]
 ---
 
 Dans ce troisième volet de notre série dédiée à la création d'un MMORPG avec Intersect Engine, nous plongeons au cœur de l'outil de développement pour explorer l'interface de création de cartes et la gestion de la base de données.

@@ -3,6 +3,7 @@ title: "Maîtriser les Morph Targets (Shape Keys) dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blender', 'Animation', 'Morph Targets', 'Shape Keys', 'Tutoriel']
+images: ["https://img.youtube.com/vi/4qXonFMoogQ/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous explorons comment créer des déformations complexes sur vos modèles 3D en utilisant les **Shape Keys** de Blender, pour ensuite les animer dans **Unreal Engine 4** via les **Morph Targets**. Cette technique est idéale pour les expressions faciales, les transformations d'objets ou les animations organiques.

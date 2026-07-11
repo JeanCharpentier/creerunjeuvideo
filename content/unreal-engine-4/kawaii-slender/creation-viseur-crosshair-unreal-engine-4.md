@@ -4,6 +4,7 @@ weight: 26
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['HUD', 'UI', 'GameDev', 'Tutoriel', 'Crosshair']
+images: ["https://img.youtube.com/vi/z_j4rfJs9Vs/maxresdefault.jpg"]
 ---
 
 Dans cet épisode de notre série "Kawaii Slender", nous allons améliorer l'aspect visuel et fonctionnel de notre jeu en ajoutant un élément indispensable pour tout jeu de tir ou d'interaction à la première personne : le viseur (ou *crosshair*). Fini le gros carré rouge de debug, place à un point de précision propre et discret.

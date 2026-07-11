@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/decouverte-editeur-cartes-base-donn
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Linux', 'Ubuntu', 'Serveur', 'MMORPG']
+images: ["https://img.youtube.com/vi/2WHJOldoQow/maxresdefault.jpg"]
 ---
 
 Déployer son MMORPG sur un serveur dédié ou un VPS Linux est une étape cruciale pour garantir une disponibilité 24h/24 et une meilleure stabilité. Voici comment configurer votre environnement sous Ubuntu pour faire tourner le moteur Intersect Engine.

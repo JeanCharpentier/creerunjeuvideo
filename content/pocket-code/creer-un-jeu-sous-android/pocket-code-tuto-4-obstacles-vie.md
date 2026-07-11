@@ -3,6 +3,7 @@ titre: "4. Gestion des obstacles et système de vie"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Pocket Code', 'GameDev', 'Mobile', 'Programmation']
+images: ["https://img.youtube.com/vi/VQLdOn4PKII/maxresdefault.jpg"]
 ---
 
 Dans ce quatrième volet de notre série sur Pocket Code, nous passons aux choses sérieuses : la création d'obstacles dynamiques et la gestion de la difficulté. Nous allons apprendre à faire défiler nos boîtes, à les faire réapparaître aléatoirement et à implémenter un système de collision pour gérer les points de vie de notre oiseau.

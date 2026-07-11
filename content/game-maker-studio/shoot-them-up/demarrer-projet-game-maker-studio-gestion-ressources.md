@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/creation-objets-scrolling-parallaxe-
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Game Maker Studio', 'Tutoriel', 'Developpement de jeux', 'Debutant']
+images: ["https://img.youtube.com/vi/b3xJZ1A7FSM/maxresdefault.jpg"]
 ---
 
 Dans ce guide, nous explorons les étapes fondamentales pour bien débuter sur Game Maker Studio : de la configuration de votre premier projet à l'importation structurée de vos assets graphiques et sonores.

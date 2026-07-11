@@ -4,6 +4,7 @@ weight: 30
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Android', 'Google Play', 'AdMob', 'Firebase', 'Mobile']
+images: ["https://img.youtube.com/vi/dhgLXpUdZ4k/maxresdefault.jpg"]
 ---
 
 Publier un jeu sur le Google Play Store est une étape charnière pour tout développeur Unreal Engine 4. Avant même de toucher aux paramètres de packaging dans l'éditeur, il est indispensable de mettre en place votre infrastructure de services Google. Dans cet épisode, nous passons en revue les trois piliers indispensables pour gérer, analyser et monétiser vos applications Android.

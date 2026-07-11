@@ -4,6 +4,7 @@ weight: 48
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'SaveGame', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/1bCEcHDZgtQ/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour tout jeu : la persistance des données. Contrairement à la `GameInstance` qui est réinitialisée à chaque fermeture du jeu, l'objet `SaveGame` permet d'écrire des informations directement sur le disque dur de l'utilisateur.

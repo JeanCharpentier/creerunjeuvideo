@@ -4,6 +4,7 @@ weight: 10
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Matériaux', 'Texturing', 'Nodes', 'Shaders']
+images: ["https://img.youtube.com/vi/nuxC3lq_Evs/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons passer à la vitesse supérieure en créant des matériaux plus réalistes. Plutôt que d'utiliser des couleurs unies, nous allons apprendre à générer nos propres textures de masquage pour simuler l'usure et la rouille sur nos objets 3D.

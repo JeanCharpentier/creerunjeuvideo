@@ -3,6 +3,7 @@ title: "Gérer le multijoueur local (4 joueurs) avec des manettes dans GDevelop 
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['GDevelop 5', 'Multijoueur', 'Gamepad', 'Tutoriel', 'GameDev']
+images: ["https://img.youtube.com/vi/h9GRHb22ybA/maxresdefault.jpg"]
 ---
 
 Le multijoueur local est un excellent moyen de rendre vos jeux plus conviviaux. Dans ce tutoriel, nous allons voir comment configurer un système permettant de contrôler jusqu'à 4 joueurs simultanément avec des manettes dans GDevelop 5, en utilisant une approche propre et optimisée basée sur un "Player Controller".

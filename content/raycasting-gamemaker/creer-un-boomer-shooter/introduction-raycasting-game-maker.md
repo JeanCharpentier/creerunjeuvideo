@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Game Development']
 tags: ['Raycasting', 'Retro-gaming', 'GameMaker', 'Tutoriel']
+images: ["https://img.youtube.com/vi/ujCVDE6IKQs/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette exploration technique dédiée aux racines du FPS. Si la saison précédente se concentrait sur les moteurs modernes comme l'Unreal Engine, il est temps de faire un bond dans le passé pour comprendre les fondations du rendu 3D : le **Raycasting**.

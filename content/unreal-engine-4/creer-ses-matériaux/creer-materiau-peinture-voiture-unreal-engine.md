@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/integrer-video-objet-unreal-eng
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Material Editor', 'Shaders', 'Game Dev']
+images: ["https://img.youtube.com/vi/7pNhlSl_BD4/maxresdefault.jpg"]
 ---
 
 Apprenez à concevoir un shader de peinture automobile sophistiqué, intégrant des effets d'irisation et une couche de vernis réaliste, directement dans l'éditeur de matériaux d'Unreal Engine 4.

@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/maitriser-materiaux-dynamiques-
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Game Development', 'Materiaux', 'Tutoriel']
+images: ["https://img.youtube.com/vi/QxSCXKtpvY4/maxresdefault.jpg"]
 ---
 
 Apprendre à manipuler l'éditeur de matériaux d'Unreal Engine 4 est une étape fondamentale pour tout développeur souhaitant donner vie à ses environnements 3D. Dans ce guide, nous explorons les bases de la création de matériaux, de la gestion des couleurs aux propriétés physiques de surface.

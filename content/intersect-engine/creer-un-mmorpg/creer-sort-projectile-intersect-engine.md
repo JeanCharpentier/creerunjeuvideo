@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-quete-fedex-intersect-engine/
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel', 'Spells']
+images: ["https://img.youtube.com/vi/mfaoj-BN7D8/maxresdefault.jpg"]
 ---
 
 Apprendre à intégrer des sorts de type projectile est une étape cruciale pour donner vie aux combats de votre MMORPG. Dans ce guide, nous allons voir comment concevoir une boule de feu dynamique, de l'animation jusqu'à son implémentation en jeu.

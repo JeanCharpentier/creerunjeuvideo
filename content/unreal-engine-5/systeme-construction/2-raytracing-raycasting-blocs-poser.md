@@ -6,6 +6,7 @@ weight: 2
 tags: [Unreal Engine 5, Build, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/systeme-construction/1-introduction-ghost-object-blueprint"
 next_url: "/unreal-engine-5/systeme-construction/3-overlaps-erreurs-construction"
+images: ["https://img.youtube.com/vi/ZnRD83zyQvs/maxresdefault.jpg"]
 ---
 
 Ce tutoriel est issu de mes archives et est partagé pour son intérêt conceptuel.

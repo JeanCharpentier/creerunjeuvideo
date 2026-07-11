@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/gerer-collisions-defaite-joueur-game
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'Developpement de jeux', 'Collision', 'Gamedev']
+images: ["https://img.youtube.com/vi/THSQh_SlnmY/maxresdefault.jpg"]
 ---
 
 Apprenez à implémenter un système de collision efficace pour détruire vos ennemis lors de l'impact de vos projectiles dans GameMaker Studio.

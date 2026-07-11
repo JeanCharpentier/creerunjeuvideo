@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/optimiser-vagues-ennemis-game-maker-
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'Game Development', 'GML']
+images: ["https://img.youtube.com/vi/HwTww1W-ZDM/maxresdefault.jpg"]
 ---
 
 Apprenez à donner vie à votre jeu en intégrant des ennemis mobiles et un système de génération automatique (spawner) pour dynamiser vos niveaux.

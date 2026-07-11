@@ -4,6 +4,7 @@ weight: 5
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', '3D', 'Platformer', 'GameDev']
+images: ["https://img.youtube.com/vi/wcAFo-BwWB8/maxresdefault.jpg"]
 ---
 
 Dans ce cinquième épisode de notre série dédiée à la création d'un jeu de plateforme en 3D avec GDevelop 5, nous allons aborder deux points essentiels pour enrichir votre niveau : la création de grandes plateformes sans déformation visuelle et l'intégration d'un ennemi dynamique.

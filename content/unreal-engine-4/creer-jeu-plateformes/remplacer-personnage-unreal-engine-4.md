@@ -4,6 +4,7 @@ weight: 6
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'GameDev', 'Tutoriel', 'Skeletal Mesh', 'Animation']
+images: ["https://img.youtube.com/vi/hoyZCg9gZZo/maxresdefault.jpg"]
 ---
 
 Dans ce sixième chapitre de notre série dédiée à la création d'un jeu de plateforme, nous allons passer à l'étape cruciale de la personnalisation visuelle : remplacer le mannequin "crash test" par défaut par votre propre personnage.

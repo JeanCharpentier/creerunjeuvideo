@@ -4,6 +4,7 @@ weight: 6
 date: 2026-06-17
 categories: ['Modding']
 tags: ['Minecraft', 'MCreator', 'Forge', 'Tutoriel']
+images: ["https://img.youtube.com/vi/ruemu4NHZxk/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons l'étape cruciale de la création de contenu : le passage du projet à la réalité. Une fois vos blocs et items créés dans MCreator, il est temps de les compiler pour pouvoir les tester en jeu ou les partager avec vos amis. Nous verrons comment préparer votre environnement avec Forge et exporter votre travail proprement.

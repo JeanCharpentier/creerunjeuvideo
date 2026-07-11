@@ -4,6 +4,7 @@ weight: 0
 date: 2026-06-17
 categories: ['GameDev', 'Unreal Engine 3']
 tags: ['UDK', 'Blender', 'Modélisation', 'Tutoriel']
+images: ["https://img.youtube.com/vi/bOT3cdvahUQ/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette série dédiée à l'Unreal Development Kit (UDK), la version emblématique de l'Unreal Engine 3 qui a marqué toute une génération de développeurs indépendants. Dans ce premier épisode, nous posons les bases de notre workflow : transformer un concept brut en une arme fonctionnelle intégrée directement dans le moteur.

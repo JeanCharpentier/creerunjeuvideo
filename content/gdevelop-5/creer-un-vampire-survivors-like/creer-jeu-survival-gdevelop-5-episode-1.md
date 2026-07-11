@@ -4,6 +4,7 @@ weight: 1
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop 5', 'Survival', 'Débutant', 'GameDev']
+images: ["https://img.youtube.com/vi/g_nucz_EsCQ/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette nouvelle série dédiée à la création d'un jeu de type "Survival" (à la *Vampire Survivors* ou *Deep Rock Galactic: Survivor*) avec GDevelop 5 ! Dans ce premier épisode, nous posons les bases techniques : mise en place du projet, gestion du personnage et création d'une caméra fluide.

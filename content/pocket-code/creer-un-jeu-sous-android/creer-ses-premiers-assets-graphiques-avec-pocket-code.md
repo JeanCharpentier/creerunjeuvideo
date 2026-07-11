@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Pocket Code', 'GameDev', 'Débutant', 'Mobile', 'Pocket Paint']
+images: ["https://img.youtube.com/vi/4zFXsbGofjc/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce second volet de notre série dédiée à la création de jeux vidéo sur tablette. Aujourd'hui, nous allons mettre les mains dans le cambouis (ou plutôt dans les pixels) pour concevoir les éléments visuels de notre premier projet. Pas besoin d'être un artiste professionnel : nous allons utiliser l'outil intégré **Pocket Paint** pour donner vie à notre univers.

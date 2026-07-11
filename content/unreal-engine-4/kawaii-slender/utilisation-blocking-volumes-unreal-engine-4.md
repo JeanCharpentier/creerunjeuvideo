@@ -4,6 +4,7 @@ weight: 28
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'Collision', 'Level Design', 'Unreal Engine 4']
+images: ["https://img.youtube.com/vi/CSm3ckzWNVM/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale du level design : la gestion des collisions invisibles. Pour éviter que votre joueur ne reste coincé dans des géométries complexes ou ne sorte accidentellement des limites de votre map, l'utilisation des **Blocking Volumes** est une technique indispensable.

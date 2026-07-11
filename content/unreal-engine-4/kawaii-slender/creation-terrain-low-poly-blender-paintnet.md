@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blender', 'Terrain', 'Level Design', 'Tutoriel', 'Low-Poly']
+images: ["https://img.youtube.com/vi/cuf28wQRYyc/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce troisième volet de notre série dédiée à la création de votre projet sur Unreal Engine 4. Aujourd'hui, nous faisons une petite entorse à nos habitudes : nous délaissons temporairement l'éditeur d'Unreal pour nous concentrer sur la modélisation externe.

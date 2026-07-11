@@ -3,6 +3,7 @@ title: "Créer un effet de Bullet Time (Slow Motion) dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Développement']
 tags: ['Unreal Engine 4', 'Blueprint', 'Gameplay', 'Tutoriel']
+images: ["https://img.youtube.com/vi/-3oHJbaHazY/maxresdefault.jpg"]
 ---
 
 Le "Bullet Time", popularisé par des titres cultes comme *Max Payne* ou la saga *Matrix*, est un outil puissant pour dynamiser vos séquences d'action. En ralentissant le temps, vous offrez au joueur une sensation de contrôle accrue et une mise en scène cinématographique immédiate. Dans ce tutoriel, nous allons voir comment implémenter cet effet simplement dans Unreal Engine 4 en utilisant les Blueprints et la commande console `slomo`.

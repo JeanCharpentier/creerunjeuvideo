@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Configuration', 'Interface', 'Input', 'Débutant']
+images: ["https://img.youtube.com/vi/7leHNEr5um8/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce cinquième volet de notre série sur Unreal Engine 4. Travailler sur un moteur de jeu demande une aisance totale avec ses outils. Par défaut, Unreal Engine est configuré pour les claviers QWERTY, ce qui peut être un frein majeur pour les développeurs utilisant un clavier AZERTY. Dans cet article, nous allons configurer l'éditeur et les paramètres de votre projet pour une expérience de navigation fluide.

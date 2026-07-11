@@ -4,6 +4,7 @@ weight: 3
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Roguelike', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/yZKXngC74og/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce troisième volet de notre série dédiée à la création d'un jeu de type "Vampire Survivors" avec GDevelop 5. Après avoir mis en place les déplacements et les tirs, il est temps de donner un peu de répondant à nos ennemis. Dans cet épisode, nous allons apprendre à gérer les points de vie (HP), les dégâts des projectiles et surtout, à ajouter un feedback visuel indispensable : l'effet de "flash" blanc lors des impacts.

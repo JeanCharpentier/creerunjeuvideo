@@ -4,6 +4,7 @@ weight: 50
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'GameDev', 'Tutoriel', 'Débutant', 'Conclusion']
+images: ["https://img.youtube.com/vi/yDooOrmbdIA/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cet ultime épisode de notre série dédiée à la découverte d'Unreal Engine 4. Après avoir parcouru ensemble le chemin complet, de l'installation du moteur jusqu'à la publication de votre premier projet sur itch.io, il est temps de faire le point sur le parcours accompli.

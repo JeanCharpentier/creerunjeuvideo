@@ -6,6 +6,7 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Déploiement", "Web"]
 prev_url: "/construct-2/tuto-jeu-plateforme/10-integration-son-effets-audio"
 next_url: "/construct-2/tuto-jeu-plateforme/11bis-hebergement-web-jeu-construct-2"
+images: ["https://img.youtube.com/vi/T3QApY8vk-I/maxresdefault.jpg"]
 ---
 
 Cette page constitue une archive pédagogique du onzième et dernier épisode de ma série consacrée à la création d'un jeu de plateforme avec Construct 2.

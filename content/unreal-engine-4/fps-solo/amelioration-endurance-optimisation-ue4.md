@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Blueprint', 'Optimisation', 'HUD', 'Tutoriel']
+images: ["https://img.youtube.com/vi/Ir1HW7VUPEw/maxresdefault.jpg"]
 ---
 
 Dans ce cinquième épisode de notre série dédiée à la création d'un FPS sur Unreal Engine 4, nous nous concentrons sur le peaufinage de notre système d'endurance. Grâce aux retours précieux de la communauté, nous allons corriger des comportements illogiques, optimiser nos performances et ajouter un retour visuel plus professionnel.

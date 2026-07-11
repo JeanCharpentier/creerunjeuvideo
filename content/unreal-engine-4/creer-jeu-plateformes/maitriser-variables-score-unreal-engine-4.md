@@ -4,6 +4,7 @@ weight: 18
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine']
 tags: ['Unreal Engine 4', 'Blueprints', 'Variables', 'GameDev']
+images: ["https://img.youtube.com/vi/Oq3zs0DTRDY/maxresdefault.jpg"]
 ---
 
 Dans ce chapitre, nous abordons un pilier fondamental du développement de jeux vidéo : la gestion des données. Qu'il s'agisse de points de vie, d'inventaire ou de score, tout repose sur l'utilisation des variables. Nous allons voir comment créer, configurer et rendre accessible une variable de type "Integer" au sein de votre personnage dans Unreal Engine 4.

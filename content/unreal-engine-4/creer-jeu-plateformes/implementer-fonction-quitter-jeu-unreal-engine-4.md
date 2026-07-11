@@ -4,6 +4,7 @@ weight: 32
 date: 2026-06-17
 categories: ['Développement Unreal Engine']
 tags: ['Unreal Engine 4', 'Blueprints', 'Level Blueprint', 'Console Command']
+images: ["https://img.youtube.com/vi/d5FKwLmvvIQ/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une fonctionnalité essentielle pour tout projet : la gestion de la sortie du jeu. Que ce soit pour revenir au menu principal, quitter l'application ou fermer une session après une victoire ou une défaite, il est crucial de savoir comment fermer proprement votre build. Nous allons utiliser le *Level Blueprint* pour déclencher une commande système simple mais efficace.

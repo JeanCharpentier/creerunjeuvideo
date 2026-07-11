@@ -6,6 +6,7 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Score", "Variables"]
 prev_url: "/construct-2/tuto-jeu-plateforme/correctif-animation-atterrissage"
 next_url: "/construct-2/tuto-jeu-plateforme/8-systeme-score-web-storage"
+images: ["https://img.youtube.com/vi/UGUg7gjT6JQ/maxresdefault.jpg"]
 ---
 
 > **Note :** Cet article est une archive pédagogique du septième épisode de ma série sur la création d'un jeu de plateforme avec Construct 2.

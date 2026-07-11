@@ -4,6 +4,7 @@ weight: 17
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'GameDev', 'Stamina', 'Tutoriel']
+images: ["https://img.youtube.com/vi/M1fcGV2maUI/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous abordons une mécanique essentielle pour tout jeu d'action ou d'aventure : la gestion de l'endurance (stamina). L'objectif est de permettre à votre personnage de sprinter, tout en limitant cette capacité par une jauge qui se vide à l'effort et se régénère au repos.

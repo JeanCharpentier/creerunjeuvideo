@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/installation-configuration-gamemaker
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'Developpement de jeu', 'Shoot-em-up']
+images: ["https://img.youtube.com/vi/W1DCNax0zWg/maxresdefault.jpg"]
 ---
 
 Découvrez comment prendre en main GameMaker Studio à travers une série de tutoriels complets dédiés à la création d'un shoot 'em up à scrolling horizontal.

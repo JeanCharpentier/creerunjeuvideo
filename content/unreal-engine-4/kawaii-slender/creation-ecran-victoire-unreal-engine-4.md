@@ -4,6 +4,7 @@ weight: 23
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'HUD', 'UI', 'Game Design']
+images: ["https://img.youtube.com/vi/s8QJ4oo3CJI/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous allons finaliser la logique de fin de partie de votre jeu. Après avoir configuré les menus de pause, il est temps de créer un système dynamique pour afficher l'écran de victoire lorsque le joueur atteint son objectif (collecter tous les cookies). Nous aborderons également la mise en pause du jeu et l'activation du curseur de la souris pour permettre au joueur de naviguer dans le menu de fin.

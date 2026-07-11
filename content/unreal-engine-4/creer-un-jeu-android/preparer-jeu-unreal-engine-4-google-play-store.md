@@ -4,6 +4,7 @@ weight: 31
 date: 2026-06-17
 categories: ['Développement Mobile']
 tags: ['Unreal Engine 4', 'Android', 'Google Play', 'Mobile Game', 'Tutoriel']
+images: ["https://img.youtube.com/vi/9iQ8IvQnH0Q/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous franchissons une étape cruciale : la préparation de votre projet Unreal Engine 4 pour une publication sur le Google Play Store. Une fois votre jeu jouable, il est temps de configurer les paramètres de déploiement, d'intégrer les services Google Play (leaderboards, succès) et d'optimiser votre APK pour la distribution.

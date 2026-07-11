@@ -4,6 +4,7 @@ weight: 30
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Lighting', 'Post-Process', 'Game Design', 'Ambiance']
+images: ["https://img.youtube.com/vi/zgIIyTFOatM/maxresdefault.jpg"]
 ---
 
 Dans cet avant-dernier épisode de notre série dédiée au développement d'un jeu de type "Slender", nous allons transformer l'aspect visuel de notre niveau. Passer d'une scène éclairée par le soleil à une ambiance nocturne immersive demande de maîtriser deux outils fondamentaux : le **Lightmass Importance Volume** pour le calcul des lumières et le **Post-Process Volume** pour la colorimétrie et les effets de rendu.

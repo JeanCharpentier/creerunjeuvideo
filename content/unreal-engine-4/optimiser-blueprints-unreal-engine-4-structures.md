@@ -3,6 +3,7 @@ title: "Optimisez vos Blueprints avec les Structures dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Développement']
 tags: ['Unreal Engine 4', 'Blueprints', 'Optimisation', 'GameDev']
+images: ["https://img.youtube.com/vi/pe0YylIZPq0/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous explorons l'utilisation des **Structures** dans Unreal Engine 4. Si vous avez déjà eu l'impression de vous perdre dans une multitude de variables pour gérer des objets similaires (comme dans un jeu de type *clicker*), cet outil est fait pour vous. Les structures permettent de regrouper plusieurs variables sous une seule entité, simplifiant ainsi la gestion de vos données et rendant vos Blueprints beaucoup plus lisibles et maintenables.

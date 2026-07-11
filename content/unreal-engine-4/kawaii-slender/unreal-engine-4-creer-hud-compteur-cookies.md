@@ -4,6 +4,7 @@ weight: 12
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'HUD', 'Widget', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/mLqePveJ5C8/maxresdefault.jpg"]
 ---
 
 Dans cet épisode de notre série sur *Kawaii Slender*, nous abordons une étape cruciale pour tout jeu : l'interface utilisateur (HUD - Heads-Up Display). Apprendre à afficher des informations dynamiques, comme le nombre de cookies ramassés, est la base pour créer des systèmes de score ou des conditions de victoire.

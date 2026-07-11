@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/debuter-game-maker-integrer-deplacer
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'GameDev', 'LevelDesign']
+images: ["https://img.youtube.com/vi/J8ScXyORCVI/maxresdefault.jpg"]
 ---
 
 Dans ce guide, nous allons transformer vos ressources graphiques en éléments interactifs et donner vie à votre premier niveau grâce à la technique du scrolling parallaxe.

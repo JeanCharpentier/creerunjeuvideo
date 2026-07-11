@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Blueprints', 'Camera Shake', 'GameDev']
+images: ["https://img.youtube.com/vi/zZbtywQzpiE/maxresdefault.jpg"]
 ---
 
 Dans ce deuxième tutoriel dédié à Unreal Engine 4, nous allons donner un peu plus de vie à notre personnage. Après avoir configuré le corps et le mode de vue à la troisième personne, nous allons implémenter un effet de "Camera Shake" (vibration de caméra) pour simuler le mouvement naturel de la tête lors de la marche.

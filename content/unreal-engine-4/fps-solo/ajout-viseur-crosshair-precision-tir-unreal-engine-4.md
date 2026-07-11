@@ -4,6 +4,7 @@ weight: 15
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'HUD', 'Blueprints', 'GameDev']
+images: ["https://img.youtube.com/vi/BnkE2jYFUog/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons améliorer deux aspects cruciaux de notre FPS : l'interface utilisateur et la précision balistique. Jusqu'à présent, nos tirs dépendaient de la rotation du canon de l'arme, ce qui créait un décalage frustrant. Nous allons corriger cela pour que les projectiles suivent la direction réelle de la caméra, tout en ajoutant un viseur (crosshair) pour guider le joueur.

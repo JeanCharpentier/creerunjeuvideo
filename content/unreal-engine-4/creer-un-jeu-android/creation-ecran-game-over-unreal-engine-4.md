@@ -4,6 +4,7 @@ weight: 23
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'UE4', 'Blueprints', 'UI', 'Widget']
+images: ["https://img.youtube.com/vi/zC8pPbEwh2s/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons finaliser l'expérience utilisateur en créant un écran de "Game Over" fonctionnel. Lorsqu'un joueur perd, il est crucial de lui offrir un retour visuel clair, d'afficher son score final et de lui proposer une option pour retourner au menu principal ou attendre une redirection automatique.

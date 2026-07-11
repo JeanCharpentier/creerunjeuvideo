@@ -6,6 +6,7 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Level Design", "Line of Sight"]
 prev_url: "/construct-2/tuto-jeu-plateforme/"
 next_url: ""
+images: ["https://img.youtube.com/vi/JDLaJZoSmJ8/maxresdefault.jpg"]
 ---
 
 Cette page est une archive pédagogique du douzième épisode de ma série sur la création d'un jeu de plateforme avec Construct 2, traitant de la mise en place d'éléments dynamiques.

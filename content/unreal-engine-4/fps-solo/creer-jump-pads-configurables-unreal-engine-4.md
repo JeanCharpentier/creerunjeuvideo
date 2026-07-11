@@ -4,6 +4,7 @@ weight: 8
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Blueprints', 'Gameplay', 'Tutoriel']
+images: ["https://img.youtube.com/vi/Iqh6_nGz1Nc/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous allons apprendre à concevoir un système de **Jump Pad (plateforme de saut)** dynamique et configurable pour Unreal Engine 4. L'objectif est de créer un acteur réutilisable dont vous pourrez ajuster la puissance horizontale, la puissance verticale et l'angle de projection directement depuis l'éditeur de niveau, sans avoir à modifier le code à chaque fois.

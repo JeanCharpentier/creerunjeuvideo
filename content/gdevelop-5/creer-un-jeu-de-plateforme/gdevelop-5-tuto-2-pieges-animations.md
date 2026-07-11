@@ -4,6 +4,7 @@ weight: 2
 date: 2024-05-23
 categories: ['Tutoriels']
 tags: ['GDevelop', 'GameDev', 'Débutant', 'Tutoriel']
+images: ["https://img.youtube.com/vi/Tp1WyyOKN98/maxresdefault.jpg"]
 ---
 
 Dans ce deuxième épisode de notre guide dédié à **GDevelop 5**, nous passons à la vitesse supérieure. Après avoir créé les bases de votre niveau, il est temps de rendre votre jeu plus vivant et plus dangereux. Nous allons apprendre à intégrer des pièges mortels, à gérer les collisions de manière précise et, surtout, à donner vie à votre personnage grâce aux animations.

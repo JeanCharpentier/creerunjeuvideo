@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Tutoriels GameDev']
 tags: ['Unreal Engine 3', 'Blender', 'Modélisation', '3D', 'Game Design']
+images: ["https://img.youtube.com/vi/oyysYuBDsSU/maxresdefault.jpg"]
 ---
 
 Dans ce deuxième volet de notre série dédiée au développement sur **Unreal Engine 3 (UDK)**, nous abordons une étape cruciale : la création de vos propres assets 3D. L'objectif est de modéliser une arme inspirée du lance-roquettes de *Rocket Arena*, en apprenant à configurer correctement Blender pour garantir une compatibilité parfaite avec l'Unreal Development Kit.

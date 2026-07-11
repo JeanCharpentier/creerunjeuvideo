@@ -4,6 +4,7 @@ weight: 27
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Interface', 'Graphisme', 'Workflow', 'Tutoriel']
+images: ["https://img.youtube.com/vi/UEqFQIK3EjE/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous quittons temporairement l'éditeur Unreal Engine pour nous concentrer sur la préparation de vos assets graphiques. Une interface utilisateur (UI) propre repose sur une base solide : des boutons uniformes, bien alignés et exportés dans le bon format. Nous allons voir comment créer vos boutons de menu (Jouer, Quitter, Plein écran, Rejouer) avec une méthode de "marges" pour garantir une cohérence visuelle parfaite avant de les importer dans votre projet.

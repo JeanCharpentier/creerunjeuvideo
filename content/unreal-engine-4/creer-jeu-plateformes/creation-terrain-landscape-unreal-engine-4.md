@@ -4,6 +4,7 @@ weight: 12
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Landscape', 'Level Design', 'Sculpting', 'Tutoriel']
+images: ["https://img.youtube.com/vi/Lhuy1UoudXI/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous passons à une étape cruciale pour donner vie à votre environnement : le remplacement du sol basique par un véritable terrain sculpté. L'outil **Landscape** d'Unreal Engine 4 est un système puissant qui permet de créer des reliefs complexes, des montagnes et des vallons, tout en gérant nativement les textures de sol.

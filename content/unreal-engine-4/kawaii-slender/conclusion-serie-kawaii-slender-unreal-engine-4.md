@@ -4,6 +4,7 @@ weight: 36
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'Tutoriel', 'Slender', 'Multiplayer', 'Landscape']
+images: ["https://img.youtube.com/vi/HS30KbjaHV4/maxresdefault.jpg"]
 ---
 
 La série "Kawaii Slender" touche à sa fin après plus de 30 épisodes riches en apprentissages. Cette aventure a permis de poser les bases fondamentales du développement de jeux sous Unreal Engine 4, de la logique des Blueprints à la gestion d'un projet complet. Il est désormais temps de passer le relais à votre créativité pour personnaliser et enrichir vos propres versions du jeu.

@@ -4,6 +4,7 @@ weight: 21
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'Gameplay', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/ThVlNivcwf0/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous passons à l'étape cruciale de l'interaction : transformer notre objet statique en un élément de gameplay fonctionnel. Nous allons apprendre à détecter la collision entre le joueur et la pièce, mettre à jour une variable de score et supprimer l'objet de la scène.

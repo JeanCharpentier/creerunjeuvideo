@@ -4,6 +4,7 @@ weight: 38
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'itch.io', 'Publication', 'Indie Dev']
+images: ["https://img.youtube.com/vi/8BeuQmpqWKU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour tout développeur indépendant : la mise en ligne de votre projet. Une fois votre jeu développé sous Unreal Engine 4, il est temps de le partager avec le monde. La plateforme incontournable pour cela est **itch.io**.

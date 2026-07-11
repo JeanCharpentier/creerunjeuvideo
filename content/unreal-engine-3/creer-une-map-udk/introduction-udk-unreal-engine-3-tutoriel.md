@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'UDK', 'Tutoriel', 'Level Design']
+images: ["https://img.youtube.com/vi/fQYLSl3yjLs/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette rétrospective technique dédiée à l'**Unreal Development Kit (UDK)**, la porte d'entrée historique vers l'Unreal Engine 3. Si vous avez toujours voulu comprendre comment les classiques comme *Gears of War* ou *Mirror's Edge* ont été bâtis, cet article vous plonge dans les fondamentaux du moteur qui a révolutionné l'industrie du jeu vidéo au début des années 2010.

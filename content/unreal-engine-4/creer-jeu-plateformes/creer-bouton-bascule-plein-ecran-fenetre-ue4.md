@@ -4,6 +4,7 @@ weight: 29
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'UI', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/kbHNt4dFauY/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons apprendre à gérer l'affichage de notre jeu en permettant aux joueurs de basculer dynamiquement entre le mode "Plein écran" et le mode "Fenêtré". Pour ce faire, nous utiliserons les Blueprints pour manipuler les variables d'état et les commandes de console intégrées à Unreal Engine 4.

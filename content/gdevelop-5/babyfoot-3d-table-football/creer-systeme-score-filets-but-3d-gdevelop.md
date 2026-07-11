@@ -4,6 +4,7 @@ weight: 3
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', '3D', 'Jeu Mobile', 'GameDev']
+images: ["https://img.youtube.com/vi/5f5_dowmP30/maxresdefault.jpg"]
 ---
 
 Dans ce troisième épisode de notre série dédiée à la création d'un baby-foot mobile avec GDevelop 5, nous allons passer aux choses sérieuses : la gestion du score et l'intégration visuelle des filets de but.

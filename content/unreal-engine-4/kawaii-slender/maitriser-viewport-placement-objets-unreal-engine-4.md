@@ -4,6 +4,7 @@ weight: 7
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['tutoriel', 'level-design', 'viewport', 'assets']
+images: ["https://img.youtube.com/vi/00BtzZ34LRo/maxresdefault.jpg"]
 ---
 
 Dans ce septième épisode de notre série dédiée à Unreal Engine 4, nous quittons les outils de terrain (Landscape) pour nous concentrer sur l'art du **Level Design** : comment peupler votre monde avec vos assets 3D, les manipuler avec précision et optimiser votre espace de travail dans le Viewport.

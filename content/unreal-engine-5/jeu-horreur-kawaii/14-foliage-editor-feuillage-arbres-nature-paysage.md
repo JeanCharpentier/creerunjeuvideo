@@ -6,6 +6,7 @@ weight: 14
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/13-terrain-editore-editeur-landscape-mode"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/15-props-decor-lumiere-clignotte-lanterne-village"
+images: ["https://img.youtube.com/vi/-I9-Q0RDq-0/maxresdefault.jpg"]
 ---
 
 {{< youtube-rgpd "-I9-Q0RDq-0" >}}

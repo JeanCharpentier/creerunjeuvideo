@@ -4,6 +4,7 @@ weight: 9
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Foliage', 'Collision', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/JhKVxSunK2s/maxresdefault.jpg"]
 ---
 
 Dans ce neuvième épisode de notre série dédiée à Unreal Engine 4, nous nous attaquons à un problème classique : la traversée des objets. Lorsque vous utilisez le *Foliage Tool* pour peupler votre environnement, les arbres et rochers ajoutés sont souvent dépourvus de collisions par défaut. Résultat ? Votre personnage passe à travers comme un fantôme. Voici comment corriger cela en quelques clics.

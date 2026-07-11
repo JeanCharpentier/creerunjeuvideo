@@ -3,6 +3,7 @@ title: "RPG World : Créer ses propres univers de jeu vidéo sans coder"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['My World', 'The Game Creators', 'Indie Game', 'Game Design', 'Débutant']
+images: ["https://img.youtube.com/vi/3N0aluz7P1Q/maxresdefault.jpg"]
 ---
 
 Découvrir le développement de jeux vidéo peut sembler intimidant face à la complexité d'un moteur comme Unreal Engine ou Unity. C'est ici qu'intervient **RPG World**, un logiciel édité par *The Game Creators* (les papas de GameGuru et App Game Kit), conçu pour rendre la création de mondes et d'aventures accessible à tous, des plus jeunes aux curieux du game design.

@@ -4,6 +4,7 @@ weight: 44
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'GameDev', 'Checkpoint', 'Gameplay']
+images: ["https://img.youtube.com/vi/vxiQ9odjUJo/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons apprendre à implémenter un système de checkpoint efficace. L'objectif est simple : éviter que le joueur ne doive recommencer tout le niveau après une chute ou une erreur, en le téléportant à sa dernière position validée.

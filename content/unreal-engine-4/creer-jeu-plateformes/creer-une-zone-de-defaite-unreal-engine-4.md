@@ -4,6 +4,7 @@ weight: 17
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'GameDev', 'Collision', 'Level Design']
+images: ["https://img.youtube.com/vi/2cmqA1zMP7A/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous allons apprendre à créer une "Kill Zone" (zone de défaite). L'objectif est simple : si le joueur tombe dans le vide ou touche une zone interdite, le niveau doit se réinitialiser instantanément pour lui permettre de recommencer son parcours.

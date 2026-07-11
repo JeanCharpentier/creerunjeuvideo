@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Tutoriel', 'Windows 10', 'Quicktip', 'Debug']
+images: ["https://img.youtube.com/vi/mEqSzrmOVuA/maxresdefault.jpg"]
 ---
 
 Si vous utilisez des versions d'Unreal Engine 4 antérieures à la 4.14 (comme la 4.13 ou la 4.12) sur une version récente de Windows 10 (notamment après la "Creators Update"), vous avez peut-être rencontré des comportements erratiques : menus qui ne s'affichent pas, clics droits inopérants dans les Blueprints ou latence extrême lors de l'affichage des nœuds. Ce problème est lié à une incompatibilité entre l'ancienne interface de l'éditeur et la gestion des fenêtres de Windows.

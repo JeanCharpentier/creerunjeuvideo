@@ -4,6 +4,7 @@ weight: 14
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'GameDev', 'Tutoriel', 'Gameplay']
+images: ["https://img.youtube.com/vi/k4l0ZzyRPpY/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous passons à la phase de programmation de notre "BP_Tronc". L'objectif est de donner vie à cet obstacle en le faisant tourner sur lui-même tout en le faisant avancer vers le joueur. Nous aborderons également l'optimisation des références et la configuration précise des collisions pour garantir une expérience de jeu fluide.

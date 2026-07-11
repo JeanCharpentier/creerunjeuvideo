@@ -4,6 +4,7 @@ weight: 1
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', '3D', 'Tutoriel', 'GameDev']
+images: ["https://img.youtube.com/vi/eQAwY2zmyEo/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette nouvelle série de tutoriels dédiée à la création d'un jeu de **Babyfoot en 3D** avec GDevelop 5. Dans ce premier épisode, nous posons les fondations du projet en configurant la scène, les caméras et le système de contrôle des joueurs.

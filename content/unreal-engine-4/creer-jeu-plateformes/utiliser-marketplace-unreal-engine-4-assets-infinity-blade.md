@@ -4,6 +4,7 @@ weight: 11
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Marketplace', 'Assets', 'Level Design', 'Infinity Blade', 'Tutoriel']
+images: ["https://img.youtube.com/vi/s6vKMLB2E40/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour tout développeur solo ou débutant : comment habiller ses niveaux sans avoir à modéliser chaque élément soi-même. Si la création de contenu original (via Blender ou Maya) est une compétence précieuse, l'utilisation du **Marketplace Unreal Engine** est un gain de temps considérable pour prototyper et construire des environnements riches rapidement.

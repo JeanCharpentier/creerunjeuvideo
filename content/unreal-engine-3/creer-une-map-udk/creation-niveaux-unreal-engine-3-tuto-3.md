@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Level Design', 'Tutoriel', 'CSG']
+images: ["https://img.youtube.com/vi/QAXiEZGE4bQ/maxresdefault.jpg"]
 ---
 
 Dans ce troisième épisode de notre série dédiée à la création de jeux avec **Unreal Engine 3**, nous passons à la vitesse supérieure. Après avoir posé les bases de notre carte dans les épisodes précédents, il est temps de structurer l'intérieur de notre niveau : création des couloirs, intégration d'une salle principale, gestion des dénivelés avec des escaliers et mise en place d'un éclairage fonctionnel pour tester notre environnement.

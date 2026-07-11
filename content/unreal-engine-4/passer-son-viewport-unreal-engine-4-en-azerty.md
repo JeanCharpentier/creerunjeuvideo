@@ -3,6 +3,7 @@ title: "Passer son viewport Unreal Engine 4 en AZERTY"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 4', 'Configuration', 'Viewport', 'Productivité']
+images: ["https://img.youtube.com/vi/r1hlb5BHTIU/maxresdefault.jpg"]
 ---
 
 Travailler sur un moteur de jeu demande une aisance totale avec ses outils. Si vous utilisez un clavier AZERTY, la configuration par défaut d'Unreal Engine 4 (basée sur le QWERTY) peut rapidement devenir un frein à votre productivité. Dans ce tutoriel, nous allons voir comment remapper les touches de navigation du viewport pour retrouver vos réflexes habituels.

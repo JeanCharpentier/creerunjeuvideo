@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'UE4', 'HUD', 'Widget', 'Blueprint']
+images: ["https://img.youtube.com/vi/jhiP_tJ5xLE/maxresdefault.jpg"]
 ---
 
 Dans ce troisième volet de notre série dédiée à la création d'un FPS sur Unreal Engine 4, nous allons aborder une étape cruciale pour l'immersion du joueur : l'affichage des informations à l'écran. Nous allons mettre en place un système de barres de progression (vie, armure, endurance) en utilisant les Widgets Blueprints.

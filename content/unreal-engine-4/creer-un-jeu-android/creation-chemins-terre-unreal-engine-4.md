@@ -4,6 +4,7 @@ weight: 28
 date: 2026-06-17
 categories: ['Level Design']
 tags: ['Unreal Engine 4', 'Landscape', 'Terrain', 'Level Design', 'Workflow']
+images: ["https://img.youtube.com/vi/Y8qc9xBc_B0/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour renforcer le réalisme de votre environnement : le "storytelling" par le décor. Plutôt que de laisser un terrain vierge, nous allons utiliser des éléments de gameplay (ici, des troncs d'arbres) pour justifier la création de chemins de terre. En utilisant ces objets comme guides visuels, nous allons peindre des textures de sol pour simuler le passage répété de véhicules ou de rondins, apportant ainsi une cohérence narrative à votre niveau.

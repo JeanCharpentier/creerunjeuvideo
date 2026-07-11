@@ -6,6 +6,7 @@ categories: ["Archive", "Bug Fix"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "WebStorage", "Patch"]
 prev_url: "/construct-2/tuto-jeu-plateforme/8-systeme-score-web-storage"
 next_url: "/construct-2/tuto-jeu-plateforme/9-systeme-codes-niveaux"
+images: ["https://img.youtube.com/vi/CZJy3SqyupE/maxresdefault.jpg"]
 ---
 
 > **Note :** Cet article est une archive corrective visant à mettre à jour la méthode de persistance des données (WebStorage), suite à des changements dans les versions de Construct 2.

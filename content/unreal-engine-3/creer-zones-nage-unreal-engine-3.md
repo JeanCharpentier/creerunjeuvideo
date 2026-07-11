@@ -3,6 +3,7 @@ title: "Créer des zones de nage et des effets de profondeur dans Unreal Engine 
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Level Design', 'Tutoriel', 'Water Volume']
+images: ["https://img.youtube.com/vi/7rAZQXiKKCw/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous revenons sur les fondamentaux du level design sous **Unreal Engine 3 (UDK)**. Créer une surface liquide interactive ne se limite pas à poser une texture animée ; il s'agit de combiner des volumes physiques et des effets de post-traitement pour simuler l'immersion.

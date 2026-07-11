@@ -3,6 +3,7 @@ title: "Créer un menu contrôlé à la manette sur Construct 2"
 date: 2026-06-17
 categories: ['Archive']
 tags: ['Construct 2', 'Tutoriel', 'GameDev', 'UI', 'Gamepad']
+images: ["https://img.youtube.com/vi/BZlc06r9yfA/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous allons voir comment concevoir un menu interactif et esthétique pour vos jeux sur **Construct 2**, en remplaçant la traditionnelle navigation à la souris par une gestion complète à la manette (Gamepad). L'objectif est de créer une interface fluide où les boutons réagissent visuellement à la sélection.

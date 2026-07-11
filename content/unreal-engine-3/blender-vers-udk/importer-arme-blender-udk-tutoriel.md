@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ['Unreal Engine 3']
 tags: ['UDK', 'Blender', 'GameDev', 'Tutoriel', 'UnrealScript']
+images: ["https://img.youtube.com/vi/WgkhKdyq9cc/maxresdefault.jpg"]
 ---
 
 Dans cette dernière partie de notre série, nous allons franchir l'étape cruciale : intégrer votre modèle 3D créé sous Blender dans l'Unreal Development Kit (UDK). Nous verrons comment importer le mesh, configurer les sockets pour les effets visuels, créer les classes nécessaires en UnrealScript et enfin tester votre arme en jeu.

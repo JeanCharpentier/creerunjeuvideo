@@ -3,6 +3,7 @@ titre: "31. Exportation et finalisation de votre projet"
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Tutoriel', 'Packaging', 'Export', 'GameDev', 'KawaiiSlender']
+images: ["https://img.youtube.com/vi/yUgFmw2uVd4/maxresdefault.jpg"]
 ---
 
 Dans ce dernier volet de la série *Kawaii Slender*, nous abordons l'étape cruciale de la finalisation : l'exportation de votre jeu. Après avoir construit vos mécaniques, il est temps de transformer votre projet Unreal Engine 4 en un exécutable autonome, prêt à être partagé avec le monde entier.

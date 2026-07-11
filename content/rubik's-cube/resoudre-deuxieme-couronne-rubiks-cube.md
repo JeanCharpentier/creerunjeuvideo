@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Rubiks Cube', 'GameDev', 'Algorithmes', 'Logique']
+images: ["https://img.youtube.com/vi/IGynSTnlX-c/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette deuxième étape cruciale de notre série dédiée à la résolution du Rubik's Cube 3x3. Après avoir maîtrisé la première face et sa couronne, il est temps de passer à l'étape suivante : compléter la deuxième couronne (les arêtes latérales). Cette phase demande de la précision et une bonne compréhension des mouvements de rotation pour ne pas défaire le travail déjà accompli sur la face inférieure.

@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Unreal Engine 3']
 tags: ['Blender', 'Modélisation', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/LAwb7bXcF0E/maxresdefault.jpg"]
 ---
 
 Bienvenue dans cette série dédiée à la création et à l'importation d'assets 3D pour Unreal Engine 3. Avant de plonger dans la modélisation complexe d'une arme, il est indispensable de maîtriser les fondamentaux de Blender. Cet article synthétise les bases nécessaires pour naviguer et manipuler vos objets efficacement.

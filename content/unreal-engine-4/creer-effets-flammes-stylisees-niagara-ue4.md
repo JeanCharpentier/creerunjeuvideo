@@ -3,6 +3,7 @@ title: "Créer des effets de flammes stylisées avec Niagara dans Unreal Engine 
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Niagara', 'VFX', 'Tutoriel', 'GameDev']
+images: ["https://img.youtube.com/vi/X825L8Dsg8k/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous explorons la création d'effets visuels (VFX) légers et stylisés pour vos projets Unreal Engine 4. Avec l'évolution constante du système **Niagara**, il est parfois difficile de s'y retrouver parmi les tutoriels obsolètes. Ici, nous nous concentrons sur une approche simple et performante pour générer des flammes "low-poly" adaptées à un style artistique épuré.

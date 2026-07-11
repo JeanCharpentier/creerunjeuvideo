@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-lumieres-dynamiques-animees-i
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
+images: ["https://img.youtube.com/vi/MbZ9VSXxe4U/maxresdefault.jpg"]
 ---
 
 Découvrez comment dynamiser l'immersion de votre MMORPG en configurant un cycle jour/nuit automatisé grâce au Time Editor d'Intersect Engine.

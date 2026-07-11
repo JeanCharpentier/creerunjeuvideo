@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'UDK', 'Tutoriel', 'Level Design', 'Matériaux']
+images: ["https://img.youtube.com/vi/8ab6kWGeC6Y/maxresdefault.jpg"]
 ---
 
 Dans ce quatrième volet de notre série dédiée à l'UDK (Unreal Development Kit), nous passons à une étape cruciale pour donner vie à votre environnement : l'habillage visuel. Fini le gris austère des volumes de base (BSP), il est temps d'apprendre à manipuler les matériaux pour transformer votre carte en un espace cohérent et attrayant.

@@ -4,6 +4,7 @@ weight: 15
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Tutoriel', 'MakeHuman', 'Animation', 'Retargeting', 'GameDev']
+images: ["https://img.youtube.com/vi/h1wmjbMYCD4/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale pour tout développeur solo : l'importation d'un personnage personnalisé dans Unreal Engine 4. Après de nombreuses heures de recherche et de tests, j'ai réussi à intégrer un modèle généré via **MakeHuman** (version 1.1.0) et à le faire fonctionner avec le système d'animation par défaut d'Unreal Engine.

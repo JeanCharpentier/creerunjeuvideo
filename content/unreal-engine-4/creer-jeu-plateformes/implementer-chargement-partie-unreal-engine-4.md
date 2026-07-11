@@ -4,6 +4,7 @@ weight: 49
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'SaveGame', 'GameInstance', 'Tutoriel']
+images: ["https://img.youtube.com/vi/3uzieUiEco0/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous finalisons notre système de sauvegarde en nous concentrant sur la logique de chargement. Après avoir appris à enregistrer les données, il est crucial de savoir comment les récupérer, les injecter dans la `GameInstance` pour assurer la persistance entre les niveaux, et enfin déclencher le chargement du bon niveau.

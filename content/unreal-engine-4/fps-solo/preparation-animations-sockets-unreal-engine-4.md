@@ -4,6 +4,7 @@ weight: 11
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Animation', 'Socket', 'GameDev']
+images: ["https://img.youtube.com/vi/NFijPoJ9S3k/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous préparons les fondations nécessaires à l'intégration des armes dans notre FPS. Avant de pouvoir ramasser et équiper des objets, il est crucial de configurer correctement le squelette de notre personnage et d'ajouter des points d'ancrage précis.

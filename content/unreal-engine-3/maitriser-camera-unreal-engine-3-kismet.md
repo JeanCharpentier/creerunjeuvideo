@@ -3,6 +3,7 @@ title: "Maîtriser la caméra dans Unreal Engine 3 : Passer du FPS à la vue à 
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Kismet', 'Camera', 'Level Design']
+images: ["https://img.youtube.com/vi/32yl1pbx-6I/maxresdefault.jpg"]
 ---
 
 Dans cet article, nous revenons sur une problématique classique pour les développeurs utilisant l'Unreal Engine 3 (UE3) : comment modifier la perspective par défaut du joueur. Si le moteur est nativement configuré pour le FPS (First Person Shooter), il est tout à fait possible de basculer vers une vue à la troisième personne ou une vue de dessus grâce à l'outil **Kismet**.

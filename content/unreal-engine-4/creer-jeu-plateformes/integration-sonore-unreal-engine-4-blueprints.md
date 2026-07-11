@@ -4,6 +4,7 @@ weight: 23
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Audio', 'Game Design', 'Tutoriel']
+images: ["https://img.youtube.com/vi/_ojvw-Tja90/maxresdefault.jpg"]
 ---
 
 L'immersion dans un jeu vidéo passe inévitablement par l'audio. Dans cet épisode, nous allons apprendre à importer des ressources sonores dans Unreal Engine 4 et à les déclencher dynamiquement via les Blueprints pour ponctuer les moments clés de votre gameplay, comme la victoire ou la défaite.

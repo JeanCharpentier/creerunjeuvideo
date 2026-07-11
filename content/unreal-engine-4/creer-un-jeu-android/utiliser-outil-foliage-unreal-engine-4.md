@@ -4,6 +4,7 @@ weight: 27
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Foliage', 'Level Design', 'Optimisation', 'Tutoriel']
+images: ["https://img.youtube.com/vi/VQl_z_M6088/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale du level design : l'habillage de votre terrain. Si placer des objets manuellement fonctionne pour quelques éléments, cela devient vite ingérable sur de grandes surfaces. Nous allons découvrir comment utiliser l'outil **Foliage** (feuillage) pour automatiser et optimiser la création de vos forêts et zones végétalisées.

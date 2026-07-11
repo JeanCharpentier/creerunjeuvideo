@@ -4,6 +4,7 @@ weight: 22
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'HUD', 'UI', 'Widget', 'GameDev']
+images: ["https://img.youtube.com/vi/9-YZJwPYrrU/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous finalisons l'interface utilisateur de notre jeu en rendant le score dynamique. Jusqu'ici, bien que la logique de collecte des pièces fonctionne en arrière-plan, le joueur ne reçoit aucun retour visuel. Nous allons apprendre à utiliser les "Bindings" dans les Widget Blueprints pour lier la valeur de notre variable `Score` à un élément textuel de notre interface.

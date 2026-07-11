@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-banque-fonctionnelle-intersec
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
+images: ["https://img.youtube.com/vi/I5S2GWSrcGI/maxresdefault.jpg"]
 ---
 
 Dans ce tutoriel, nous allons apprendre à dynamiser l'économie de votre MMORPG en créant un système de marchands fonctionnel avec Intersect Engine.

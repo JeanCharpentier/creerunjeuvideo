@@ -4,6 +4,7 @@ weight: 7
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Workflow', 'Optimisation', 'Level Design']
+images: ["https://img.youtube.com/vi/ZgfPNlYCWPs/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale du développement : le nettoyage de votre environnement de travail. Avant de commencer à construire votre niveau final, il est essentiel de supprimer les éléments de test, les prototypes et les objets inutiles qui encombrent votre *World Outliner* et alourdissent inutilement votre scène.

@@ -3,6 +3,7 @@ title: "Tutoriel : Créer un jeu multijoueur en ligne avec GDevelop 5"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Multijoueur', 'GameDev', 'Tuto']
+images: ["https://img.youtube.com/vi/9jqHIFx8h78/maxresdefault.jpg"]
 ---
 
 Le multijoueur en ligne a longtemps été le "chaînon manquant" de GDevelop, souvent perçu comme complexe à mettre en place. Avec la récente mise à jour, GDevelop 5 propose désormais une solution native, simplifiée et extrêmement efficace pour connecter vos joueurs. Dans cet article, nous allons voir comment transformer un jeu de plateforme solo en une expérience multijoueur où chaque participant contrôle son propre personnage en temps réel.

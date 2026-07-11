@@ -4,6 +4,7 @@ weight: 24
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'UI', 'Slender', 'GameDev']
+images: ["https://img.youtube.com/vi/lwjaOFhjXP0/maxresdefault.jpg"]
 ---
 
 Dans ce nouvel épisode de notre série dédiée à la création d'un jeu de type "Slender", nous allons nous concentrer sur la fin de partie. L'objectif est simple : lorsqu'il vous attrape, le jeu doit s'arrêter, afficher un écran de Game Over et vous permettre de reprendre le contrôle via une interface utilisateur.

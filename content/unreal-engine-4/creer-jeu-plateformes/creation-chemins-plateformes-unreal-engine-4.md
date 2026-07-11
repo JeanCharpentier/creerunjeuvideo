@@ -4,6 +4,7 @@ weight: 14
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Level Design', 'Infinity Blade', 'Platforming', 'Workflow']
+images: ["https://img.youtube.com/vi/wuoWYSpMB1Q/maxresdefault.jpg"]
 ---
 
 Dans cet épisode, nous abordons une étape cruciale du level design : la création d'un chemin de plateformes cohérent pour guider le joueur à travers votre environnement. En utilisant les assets du pack *Infinity Blade: Ice Lands*, nous allons transformer des piliers statiques en un parcours de plateforme dynamique et jouable.

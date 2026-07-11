@@ -4,6 +4,7 @@ weight: 6
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Blueprint', 'Character Movement', 'Tutoriel']
+images: ["https://img.youtube.com/vi/vQ17Ngz905s/maxresdefault.jpg"]
 ---
 
 Dans cet épisode de notre série dédiée à la création d'un FPS solo sur Unreal Engine 4, nous allons implémenter une mécanique essentielle pour la mobilité de votre personnage : le **double saut**.

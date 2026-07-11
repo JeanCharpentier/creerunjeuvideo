@@ -3,6 +3,7 @@ title: "Découverte de Game Builder Garage : L''Atelier du Jeu Vidéo sur Switch
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Nintendo', 'Game Builder Garage', 'Apprentissage', 'Visual Scripting']
+images: ["https://img.youtube.com/vi/MR3OD9EEZJQ/maxresdefault.jpg"]
 ---
 
 Dans cette vidéo, nous plongeons au cœur de *Game Builder Garage* (L'Atelier du Jeu Vidéo), le logiciel de création de Nintendo sur Switch. Loin de la complexité d'un moteur comme Unreal Engine 5, cet outil propose une approche pédagogique basée sur des "Nodons", des petits personnages qui représentent des briques logiques. C'est une excellente porte d'entrée pour les plus jeunes ou les débutants souhaitant comprendre les mécanismes fondamentaux de la programmation événementielle.

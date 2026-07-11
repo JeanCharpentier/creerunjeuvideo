@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blender', 'GameDev', 'Tutoriel', 'Terrain', 'Texturing']
+images: ["https://img.youtube.com/vi/7RFEyBAdJc0/maxresdefault.jpg"]
 ---
 
 Dans ce quatrième épisode de notre série dédiée à la création de jeu avec Unreal Engine 4, nous passons à une étape cruciale : donner vie à notre environnement. Après avoir modélisé la forme de base, nous allons apprendre à appliquer des textures (couleurs) via des matériaux et surtout, réussir l'importation propre de notre terrain depuis Blender vers l'Unreal Engine.

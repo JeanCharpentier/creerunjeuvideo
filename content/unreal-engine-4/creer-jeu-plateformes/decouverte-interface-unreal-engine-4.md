@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Interface', 'Editor', 'Débutant', 'Viewport', 'Content Browser']
+images: ["https://img.youtube.com/vi/LVbl8Xxknnw/maxresdefault.jpg"]
 ---
 
 Bienvenue dans ce quatrième volet de notre formation dédiée à Unreal Engine 4. Avant de plonger dans le développement pur, il est indispensable de savoir naviguer dans l'interface. L'éditeur peut paraître intimidant au premier abord — sachez que ce que vous voyez à l'écran ne représente qu'une infime partie de la puissance du moteur — mais une fois les zones clés identifiées, tout devient beaucoup plus intuitif.
