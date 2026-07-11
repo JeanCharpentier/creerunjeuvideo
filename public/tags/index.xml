@@ -10,9 +10,72 @@
 		
 		
 		
-			<lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gamedev</title>
+				<link>http://localhost:1313/tags/gamedev/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/gamedev/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>GDevelop</title>
+				<link>http://localhost:1313/tags/gdevelop/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/gdevelop/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hytale</title>
+				<link>http://localhost:1313/tags/hytale/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/hytale/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hytale Model Maker</title>
+				<link>http://localhost:1313/tags/hytale-model-maker/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/hytale-model-maker/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Modding</title>
+				<link>http://localhost:1313/tags/modding/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/modding/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>No-Code</title>
+				<link>http://localhost:1313/tags/no-code/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/no-code/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Scripting</title>
+				<link>http://localhost:1313/tags/scripting/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/scripting/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Survivor-Like</title>
+				<link>http://localhost:1313/tags/survivor-like/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/survivor-like/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tutoriel</title>
+				<link>http://localhost:1313/tags/tutoriel/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/tutoriel/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>2D</title>
 				<link>http://localhost:1313/tags/2d/</link>
@@ -42,38 +105,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Gamedev</title>
-				<link>http://localhost:1313/tags/gamedev/</link>
-				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/gamedev/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>GDevelop</title>
-				<link>http://localhost:1313/tags/gdevelop/</link>
-				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/gdevelop/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>No-Code</title>
-				<link>http://localhost:1313/tags/no-code/</link>
-				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/no-code/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Plateformer</title>
 				<link>http://localhost:1313/tags/plateformer/</link>
 				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/plateformer/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Tutoriel</title>
-				<link>http://localhost:1313/tags/tutoriel/</link>
-				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/tutoriel/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -193,6 +228,13 @@
 				<link>http://localhost:1313/tags/assets/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/assets/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Astuces</title>
+				<link>http://localhost:1313/tags/astuces/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/astuces/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -588,6 +630,20 @@
 				<description></description>
 			</item>
 			<item>
+				<title>GD.games</title>
+				<link>http://localhost:1313/tags/gd.games/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/gd.games/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>GDevelop 5</title>
+				<link>http://localhost:1313/tags/gdevelop-5/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/gdevelop-5/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>GIMP</title>
 				<link>http://localhost:1313/tags/gimp/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -714,6 +770,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Jeu Vidéo</title>
+				<link>http://localhost:1313/tags/jeu-vid%C3%A9o/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/jeu-vid%C3%A9o/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Jumpscare</title>
 				<link>http://localhost:1313/tags/jumpscare/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -777,7 +840,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Level Design</title>
+				<title>Level-Design</title>
 				<link>http://localhost:1313/tags/level-design/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/level-design/</guid>
@@ -788,6 +851,13 @@
 				<link>http://localhost:1313/tags/leveldesign/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/leveldesign/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>LibreSprite</title>
+				<link>http://localhost:1313/tags/libresprite/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/libresprite/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -945,13 +1015,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Modding</title>
-				<link>http://localhost:1313/tags/modding/</link>
-				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/modding/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Modélisation</title>
 				<link>http://localhost:1313/tags/mod%C3%A9lisation/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -970,6 +1033,13 @@
 				<link>http://localhost:1313/tags/morph-targets/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/morph-targets/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Multijoueur</title>
+				<link>http://localhost:1313/tags/multijoueur/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/multijoueur/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1103,6 +1173,13 @@
 				<link>http://localhost:1313/tags/pixel-art/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/pixel-art/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Plateforme</title>
+				<link>http://localhost:1313/tags/plateforme/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/plateforme/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1309,13 +1386,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Scripting</title>
-				<link>http://localhost:1313/tags/scripting/</link>
-				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/scripting/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Sculpting</title>
 				<link>http://localhost:1313/tags/sculpting/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -1512,6 +1582,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Tiled</title>
+				<link>http://localhost:1313/tags/tiled/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/tiled/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Tips</title>
 				<link>http://localhost:1313/tags/tips/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -1544,6 +1621,13 @@
 				<link>http://localhost:1313/tags/trigger/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/trigger/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tuto</title>
+				<link>http://localhost:1313/tags/tuto/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/tuto/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1820,13 +1904,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Plateforme</title>
-				<link>http://localhost:1313/tags/plateforme/</link>
-				<pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/plateforme/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Retro</title>
 				<link>http://localhost:1313/tags/retro/</link>
 				<pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
@@ -1932,13 +2009,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>GDevelop 5</title>
-				<link>http://localhost:1313/tags/gdevelop-5/</link>
-				<pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/gdevelop-5/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Jeu De Plateforme</title>
 				<link>http://localhost:1313/tags/jeu-de-plateforme/</link>
 				<pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
@@ -1953,6 +2023,34 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Asset Editor</title>
+				<link>http://localhost:1313/tags/asset-editor/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/asset-editor/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Babyfoot</title>
+				<link>http://localhost:1313/tags/babyfoot/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/babyfoot/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Blockbench</title>
+				<link>http://localhost:1313/tags/blockbench/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/blockbench/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Crafting</title>
+				<link>http://localhost:1313/tags/crafting/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/crafting/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Gamedev-Debutant</title>
 				<link>http://localhost:1313/tags/gamedev-debutant/</link>
 				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
@@ -1964,6 +2062,13 @@
 				<link>http://localhost:1313/tags/gdevelop5/</link>
 				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/gdevelop5/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>IntelliJ</title>
+				<link>http://localhost:1313/tags/intellij/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/intellij/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1992,6 +2097,13 @@
 				<link>http://localhost:1313/tags/mmorpg/</link>
 				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/mmorpg/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mouvement</title>
+				<link>http://localhost:1313/tags/mouvement/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/mouvement/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -2030,10 +2142,17 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Astuces</title>
-				<link>http://localhost:1313/tags/astuces/</link>
+				<title>Babby Foot</title>
+				<link>http://localhost:1313/tags/babby-foot/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/astuces/</guid>
+				<guid>http://localhost:1313/tags/babby-foot/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Baby-Foot</title>
+				<link>http://localhost:1313/tags/baby-foot/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/baby-foot/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -2149,10 +2268,31 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Jeu 3D</title>
+				<link>http://localhost:1313/tags/jeu-3d/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/jeu-3d/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jeu Mobile</title>
+				<link>http://localhost:1313/tags/jeu-mobile/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/jeu-mobile/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Linux</title>
 				<link>http://localhost:1313/tags/linux/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/linux/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Logique-Jeu</title>
+				<link>http://localhost:1313/tags/logique-jeu/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/logique-jeu/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -2177,13 +2317,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Mouvement</title>
-				<link>http://localhost:1313/tags/mouvement/</link>
-				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/mouvement/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Munitions</title>
 				<link>http://localhost:1313/tags/munitions/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -2202,6 +2335,13 @@
 				<link>http://localhost:1313/tags/physics/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/physics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Physique 3D</title>
+				<link>http://localhost:1313/tags/physique-3d/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/physique-3d/</guid>
 				<description></description>
 			</item>
 			<item>

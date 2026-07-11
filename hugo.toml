@@ -16,3 +16,4 @@ defaultContentLanguage = "fr"
   BookTheme = "dark"
   BookSection = "*"
   disableKinds = ["taxonomy", "term"]
+  favicon="images/favicon.png"
