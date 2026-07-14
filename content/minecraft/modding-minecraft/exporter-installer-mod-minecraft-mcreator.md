@@ -4,6 +4,7 @@ weight: 6
 date: 2026-06-17
 categories: ['Modding']
 tags: ['Minecraft', 'MCreator', 'Forge', 'Tutoriel']
+images: ["https://img.youtube.com/vi/ruemu4NHZxk/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/ruemu4NHZxk/maxresdefault.jpg"]
 ---
 

@@ -3,6 +3,7 @@ title: "Maîtriser la génération procédurale dans Unreal Engine 4 : Le guide 
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'Procedural Generation', 'Blueprints', 'Optimization']
+images: ["https://img.youtube.com/vi/Gra9U6KSZxg/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Gra9U6KSZxg/maxresdefault.jpg"]
 ---
 

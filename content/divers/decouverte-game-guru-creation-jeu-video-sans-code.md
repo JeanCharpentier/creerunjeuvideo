@@ -3,6 +3,7 @@ title: "Découverte de Game Guru : Créer des jeux vidéo sans coder ?"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Game Guru', 'Tutoriel', 'Game Design', 'Indie Dev', 'FPS']
+images: ["https://img.youtube.com/vi/0XbCxqB-wWw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/0XbCxqB-wWw/maxresdefault.jpg"]
 ---
 

@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/optimiser-ressources-graphiques-dec
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
+images: ["https://img.youtube.com/vi/yopdeVwoURw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/yopdeVwoURw/maxresdefault.jpg"]
 ---
 

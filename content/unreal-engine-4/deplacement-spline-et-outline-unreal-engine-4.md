@@ -3,6 +3,7 @@ titre: "Créer un système de déplacement automatique (Spline) et un effet Outl
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Blueprint', 'Spline', 'Post-Process', 'Tutoriel']
+images: ["https://img.youtube.com/vi/vveYH3nePnE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/vveYH3nePnE/maxresdefault.jpg"]
 ---
 

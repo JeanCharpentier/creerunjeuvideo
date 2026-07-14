@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Unreal Engine 3']
 tags: ['Blender', 'UV Mapping', 'Texturing', 'GameDev']
+images: ["https://img.youtube.com/vi/2bYUoMPHdyU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/2bYUoMPHdyU/maxresdefault.jpg"]
 ---
 

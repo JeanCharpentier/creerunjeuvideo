@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Blueprint', 'Optimisation', 'HUD', 'Tutoriel']
+images: ["https://img.youtube.com/vi/Ir1HW7VUPEw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Ir1HW7VUPEw/maxresdefault.jpg"]
 ---
 

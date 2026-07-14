@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/guide-import-assets-systeme-monnaie
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'Pixel Art', 'Tutoriel', 'MMO']
+images: ["https://img.youtube.com/vi/LwxQD31k3I4/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/LwxQD31k3I4/maxresdefault.jpg"]
 ---
 

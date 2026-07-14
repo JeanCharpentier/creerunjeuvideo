@@ -4,6 +4,7 @@ weight: 3
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Roguelike', 'GameDev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/yZKXngC74og/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/yZKXngC74og/maxresdefault.jpg"]
 ---
 

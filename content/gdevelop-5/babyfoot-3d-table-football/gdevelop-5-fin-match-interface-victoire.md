@@ -4,6 +4,7 @@ weight: 6
 date: 2023-10-27
 categories: ['GDevelop 5']
 tags: ['tutoriel', 'gamedev', 'interface', 'logique-jeu']
+images: ["https://img.youtube.com/vi/b1HJihpcfcQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/b1HJihpcfcQ/maxresdefault.jpg"]
 ---
 

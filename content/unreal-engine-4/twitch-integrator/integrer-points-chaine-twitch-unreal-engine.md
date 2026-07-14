@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Twitch', 'Blueprint', 'GameDev', 'Tutoriel', 'Interactivité']
+images: ["https://img.youtube.com/vi/t-oeC4T0xt4/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/t-oeC4T0xt4/maxresdefault.jpg"]
 ---
 

@@ -3,6 +3,7 @@ title: "Créer des barrières invisibles (Blocking Volumes) dans Unreal Engine 3
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 3', 'Level Design', 'Blocking Volume', 'GameDev']
+images: ["https://img.youtube.com/vi/uAe55evR-1k/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/uAe55evR-1k/maxresdefault.jpg"]
 ---
 

@@ -4,6 +4,7 @@ weight: 34
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Camera', 'Gameplay', 'Tutoriel']
+images: ["https://img.youtube.com/vi/P43Pz7odhXs/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/P43Pz7odhXs/maxresdefault.jpg"]
 ---
 

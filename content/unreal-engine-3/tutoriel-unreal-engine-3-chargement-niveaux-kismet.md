@@ -3,6 +3,7 @@ title: "Tutoriel Unreal Engine 3 : Gérer le chargement de niveaux via Kismet"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Kismet', 'Level Design', 'Scripting']
+images: ["https://img.youtube.com/vi/Hek6PE2SHuM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Hek6PE2SHuM/maxresdefault.jpg"]
 ---
 

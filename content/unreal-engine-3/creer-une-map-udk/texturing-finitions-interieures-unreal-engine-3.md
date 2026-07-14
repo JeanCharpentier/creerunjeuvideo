@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Tutoriel', 'Level Design', 'FPS']
+images: ["https://img.youtube.com/vi/MNo1WBSjMpg/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/MNo1WBSjMpg/maxresdefault.jpg"]
 ---
 

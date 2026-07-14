@@ -4,6 +4,7 @@ weight: 10
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Survival', 'GameDev', 'TiledBackground']
+images: ["https://img.youtube.com/vi/9SAQK1m3HjE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/9SAQK1m3HjE/maxresdefault.jpg"]
 ---
 

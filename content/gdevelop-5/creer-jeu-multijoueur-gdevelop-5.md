@@ -3,6 +3,7 @@ title: "Tutoriel : Créer un jeu multijoueur en ligne avec GDevelop 5"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Multijoueur', 'GameDev', 'Tuto']
+images: ["https://img.youtube.com/vi/9jqHIFx8h78/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/9jqHIFx8h78/maxresdefault.jpg"]
 ---
 

@@ -4,6 +4,7 @@ weight: 7
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', '3D', 'Mobile', 'Android', 'Export']
+images: ["https://img.youtube.com/vi/zEpoTBMHCcY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/zEpoTBMHCcY/maxresdefault.jpg"]
 ---
 

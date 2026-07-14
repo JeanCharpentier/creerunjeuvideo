@@ -3,6 +3,7 @@ title: "Découverte de Game Builder Garage : L''Atelier du Jeu Vidéo sur Switch
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Nintendo', 'Game Builder Garage', 'Apprentissage', 'Visual Scripting']
+images: ["https://img.youtube.com/vi/MR3OD9EEZJQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/MR3OD9EEZJQ/maxresdefault.jpg"]
 ---
 

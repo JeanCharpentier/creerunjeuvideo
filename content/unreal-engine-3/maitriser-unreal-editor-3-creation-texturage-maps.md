@@ -3,6 +3,7 @@ title: "Maîtriser l''Unreal Editor 3 : Création et texturage de vos premières
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Level Design', 'Tutoriel', 'UDK']
+images: ["https://img.youtube.com/vi/21ypJRY_gkw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/21ypJRY_gkw/maxresdefault.jpg"]
 ---
 

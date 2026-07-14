@@ -4,6 +4,7 @@ weight: 1
 date: 2024-05-23
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Débutant', 'Jeu de plateforme', 'GameDev']
+images: ["https://img.youtube.com/vi/Te1wEz_hVvQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Te1wEz_hVvQ/maxresdefault.jpg"]
 ---
 

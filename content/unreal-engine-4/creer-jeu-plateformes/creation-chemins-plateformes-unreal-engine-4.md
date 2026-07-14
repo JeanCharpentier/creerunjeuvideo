@@ -4,6 +4,7 @@ weight: 14
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Level Design', 'Infinity Blade', 'Platforming', 'Workflow']
+images: ["https://img.youtube.com/vi/wuoWYSpMB1Q/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/wuoWYSpMB1Q/maxresdefault.jpg"]
 ---
 

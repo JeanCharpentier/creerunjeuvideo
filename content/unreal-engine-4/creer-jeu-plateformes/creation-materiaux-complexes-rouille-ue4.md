@@ -4,6 +4,7 @@ weight: 10
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Matériaux', 'Texturing', 'Nodes', 'Shaders']
+images: ["https://img.youtube.com/vi/nuxC3lq_Evs/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/nuxC3lq_Evs/maxresdefault.jpg"]
 ---
 

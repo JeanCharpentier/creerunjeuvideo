@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/mise-en-place-cycle-jour-nuit-inter
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'MMO', 'Game Dev', 'Tutoriel']
+images: ["https://img.youtube.com/vi/xVwCR--qQlY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/xVwCR--qQlY/maxresdefault.jpg"]
 ---
 

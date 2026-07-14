@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Minecraft']
 tags: ['MCreator', 'Modding', 'Tutoriel', 'Java', 'GameDev']
+images: ["https://img.youtube.com/vi/uWLsZKAbQNc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/uWLsZKAbQNc/maxresdefault.jpg"]
 ---
 

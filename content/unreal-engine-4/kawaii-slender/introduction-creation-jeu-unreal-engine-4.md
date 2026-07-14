@@ -4,6 +4,7 @@ weight: 0
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'Blender', 'Tutoriel', 'Débutant', 'Game Design']
+images: ["https://img.youtube.com/vi/fCCWc2H_7xk/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/fCCWc2H_7xk/maxresdefault.jpg"]
 ---
 

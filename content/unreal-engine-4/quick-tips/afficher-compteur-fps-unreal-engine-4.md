@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Optimisation', 'Blueprints', 'Quick Tips', 'Performance']
+images: ["https://img.youtube.com/vi/dcQee57BVjw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/dcQee57BVjw/maxresdefault.jpg"]
 ---
 

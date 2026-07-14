@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-quete-fedex-intersect-engine/
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel', 'Spells']
+images: ["https://img.youtube.com/vi/mfaoj-BN7D8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/mfaoj-BN7D8/maxresdefault.jpg"]
 ---
 

@@ -4,6 +4,7 @@ weight: 8
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'Level Design', 'BSP', 'Static Mesh', 'Tutoriel']
+images: ["https://img.youtube.com/vi/jc6G-Or2psU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/jc6G-Or2psU/maxresdefault.jpg"]
 ---
 

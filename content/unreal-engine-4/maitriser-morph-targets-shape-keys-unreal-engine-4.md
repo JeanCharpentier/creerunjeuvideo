@@ -3,6 +3,7 @@ title: "Maîtriser les Morph Targets (Shape Keys) dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blender', 'Animation', 'Morph Targets', 'Shape Keys', 'Tutoriel']
+images: ["https://img.youtube.com/vi/4qXonFMoogQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/4qXonFMoogQ/maxresdefault.jpg"]
 ---
 

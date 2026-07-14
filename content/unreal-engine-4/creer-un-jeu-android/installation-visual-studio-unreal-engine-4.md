@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Développement']
 tags: ['Unreal Engine 4', 'Visual Studio', 'C++', 'Setup']
+images: ["https://img.youtube.com/vi/Pf1xQ7BSDCs/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Pf1xQ7BSDCs/maxresdefault.jpg"]
 ---
 

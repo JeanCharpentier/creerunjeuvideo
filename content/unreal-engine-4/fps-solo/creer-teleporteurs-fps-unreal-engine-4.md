@@ -4,6 +4,7 @@ weight: 9
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Blueprint', 'GameDev', 'Téléportation']
+images: ["https://img.youtube.com/vi/Glgdmv0lbpA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Glgdmv0lbpA/maxresdefault.jpg"]
 ---
 

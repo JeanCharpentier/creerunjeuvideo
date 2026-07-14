@@ -4,6 +4,7 @@ weight: 12
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine']
 tags: ['Unreal Engine 4', 'Blueprints', 'GameDev', 'FPS', 'Système de ramassage']
+images: ["https://img.youtube.com/vi/8sBfROhEkqE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/8sBfROhEkqE/maxresdefault.jpg"]
 ---
 

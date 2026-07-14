@@ -6,6 +6,7 @@ weight: 5
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/4-gestion-variables-batterie-lampe"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/6-ui-umg-widget-affichage-hud-ue5"
+images: ["https://img.youtube.com/vi/Yp4z3tJNZ2s/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Yp4z3tJNZ2s/maxresdefault.jpg"]
 ---
 

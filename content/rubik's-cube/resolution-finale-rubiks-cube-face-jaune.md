@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['RubiksCube', 'Tutoriel', 'Logique', 'Algorithmes']
+images: ["https://img.youtube.com/vi/X6aENA-u5Q0/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/X6aENA-u5Q0/maxresdefault.jpg"]
 ---
 

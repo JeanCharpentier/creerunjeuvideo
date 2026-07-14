@@ -4,6 +4,7 @@ weight: 6
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'Blender', 'Modélisation 3D', 'Workflow']
+images: ["https://img.youtube.com/vi/JR0i_hCAMIA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/JR0i_hCAMIA/maxresdefault.jpg"]
 ---
 

@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Unreal Engine']
 tags: ['Unreal Engine 4', 'Débutant', 'Game Design', 'Tutoriel']
+images: ["https://img.youtube.com/vi/yUJQu6SiIMU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/yUJQu6SiIMU/maxresdefault.jpg"]
 ---
 

@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/creer-ennemis-mouvement-sinusoidal-g
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Game Maker Studio', 'Gamedev', 'Tutoriel', 'Programmation']
+images: ["https://img.youtube.com/vi/AHREtn2lelI/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/AHREtn2lelI/maxresdefault.jpg"]
 ---
 

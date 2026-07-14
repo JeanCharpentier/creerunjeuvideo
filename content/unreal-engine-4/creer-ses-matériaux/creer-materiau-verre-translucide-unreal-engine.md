@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-effet-dissolution-dynamiq
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Material Editor', 'Game Dev', 'Shader']
+images: ["https://img.youtube.com/vi/0xIro9WnwgM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/0xIro9WnwgM/maxresdefault.jpg"]
 ---
 

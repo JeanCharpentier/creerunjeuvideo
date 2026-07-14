@@ -4,6 +4,7 @@ weight: 5
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', 'Physique 3D', 'GameDev', 'Baby-foot']
+images: ["https://img.youtube.com/vi/Iv1vdjxD42A/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Iv1vdjxD42A/maxresdefault.jpg"]
 ---
 

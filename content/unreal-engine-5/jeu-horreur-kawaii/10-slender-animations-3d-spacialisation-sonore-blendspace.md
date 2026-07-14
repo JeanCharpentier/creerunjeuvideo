@@ -6,6 +6,7 @@ weight: 10
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/9-ai-perception-detection-vision-ecoute-suivre"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/11-attaque-ennemie-ragdoll-physique-unreal"
+images: ["https://img.youtube.com/vi/7q4_2XAiKOo/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/7q4_2XAiKOo/maxresdefault.jpg"]
 ---
 

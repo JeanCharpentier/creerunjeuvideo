@@ -4,6 +4,7 @@ weight: 32
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'UI', 'Jumpscare', 'Game Design']
+images: ["https://img.youtube.com/vi/tqplGwDaF20/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/tqplGwDaF20/maxresdefault.jpg"]
 ---
 

@@ -4,6 +4,7 @@ weight: 44
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'GameDev', 'Checkpoint', 'Gameplay']
+images: ["https://img.youtube.com/vi/vxiQ9odjUJo/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/vxiQ9odjUJo/maxresdefault.jpg"]
 ---
 

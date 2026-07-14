@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Débutant', 'Templates', 'Blueprints']
+images: ["https://img.youtube.com/vi/2VUfosGrob8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/2VUfosGrob8/maxresdefault.jpg"]
 ---
 

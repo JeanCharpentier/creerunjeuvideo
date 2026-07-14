@@ -3,6 +3,7 @@ title: "Créer des zones de nage et des effets de profondeur dans Unreal Engine 
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Level Design', 'Tutoriel', 'Water Volume']
+images: ["https://img.youtube.com/vi/7rAZQXiKKCw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/7rAZQXiKKCw/maxresdefault.jpg"]
 ---
 

@@ -4,6 +4,7 @@ weight: 36
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'Tutoriel', 'Slender', 'Multiplayer', 'Landscape']
+images: ["https://img.youtube.com/vi/HS30KbjaHV4/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/HS30KbjaHV4/maxresdefault.jpg"]
 ---
 

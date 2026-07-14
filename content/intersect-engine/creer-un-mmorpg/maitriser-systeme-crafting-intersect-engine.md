@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/maitriser-systeme-quetes-intersect-
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMO', 'Tutoriel']
+images: ["https://img.youtube.com/vi/z45ZPNIw-F0/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/z45ZPNIw-F0/maxresdefault.jpg"]
 ---
 

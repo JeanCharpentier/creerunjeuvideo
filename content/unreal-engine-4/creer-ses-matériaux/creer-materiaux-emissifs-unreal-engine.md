@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/maitriser-les-textures-dans-unr
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Materiaux', 'Shaders', 'Game Dev']
+images: ["https://img.youtube.com/vi/4jYSXcoYZoM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/4jYSXcoYZoM/maxresdefault.jpg"]
 ---
 

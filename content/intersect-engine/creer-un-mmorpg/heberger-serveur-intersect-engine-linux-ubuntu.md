@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/decouverte-editeur-cartes-base-donn
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Linux', 'Ubuntu', 'Serveur', 'MMORPG']
+images: ["https://img.youtube.com/vi/2WHJOldoQow/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/2WHJOldoQow/maxresdefault.jpg"]
 ---
 

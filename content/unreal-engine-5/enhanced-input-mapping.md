@@ -11,6 +11,7 @@ tags:
 
 prev_url: ""
 next_url: "/unreal-engine-5/systeme-construction/cours-1/"
+images: ["https://img.youtube.com/vi/VpMGqutsLSY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/VpMGqutsLSY/maxresdefault.jpg"]
 ---
 

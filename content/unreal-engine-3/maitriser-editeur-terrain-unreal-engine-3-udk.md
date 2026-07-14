@@ -3,6 +3,7 @@ titre: "Maîtriser l'éditeur de terrain dans Unreal Engine 3 (UDK)"
 date: 2026-06-17
 categories: ['Game Development']
 tags: ['Unreal Engine 3', 'UDK', 'Level Design', 'Terrain', 'Tutoriel']
+images: ["https://img.youtube.com/vi/xvH1LEA9xd8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/xvH1LEA9xd8/maxresdefault.jpg"]
 ---
 

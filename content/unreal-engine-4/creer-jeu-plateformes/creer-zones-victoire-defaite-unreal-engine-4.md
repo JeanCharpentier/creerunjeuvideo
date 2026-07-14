@@ -4,6 +4,7 @@ weight: 16
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'GameDev', 'Collision', 'Trigger']
+images: ["https://img.youtube.com/vi/ARpulNg1X0w/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/ARpulNg1X0w/maxresdefault.jpg"]
 ---
 

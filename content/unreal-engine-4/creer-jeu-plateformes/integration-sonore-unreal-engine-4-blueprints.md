@@ -4,6 +4,7 @@ weight: 23
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Audio', 'Game Design', 'Tutoriel']
+images: ["https://img.youtube.com/vi/_ojvw-Tja90/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/_ojvw-Tja90/maxresdefault.jpg"]
 ---
 

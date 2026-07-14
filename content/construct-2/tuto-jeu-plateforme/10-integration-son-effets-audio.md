@@ -6,6 +6,7 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Audio", "Sound Design"]
 prev_url: "/construct-2/tuto-jeu-plateforme/9-systeme-codes-niveaux"
 next_url: "/construct-2/tuto-jeu-plateforme/11-finalisation-deploiement-web"
+images: ["https://img.youtube.com/vi/ckEkRpp3NLM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/ckEkRpp3NLM/maxresdefault.jpg"]
 ---
 

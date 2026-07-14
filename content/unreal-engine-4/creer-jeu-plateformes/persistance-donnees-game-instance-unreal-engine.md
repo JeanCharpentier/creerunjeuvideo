@@ -4,6 +4,7 @@ weight: 46
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Game Instance', 'Développement', 'Tutoriel']
+images: ["https://img.youtube.com/vi/c9dJzeapnjM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/c9dJzeapnjM/maxresdefault.jpg"]
 ---
 

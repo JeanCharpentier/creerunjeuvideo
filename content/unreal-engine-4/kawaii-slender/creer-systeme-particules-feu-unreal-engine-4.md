@@ -4,6 +4,7 @@ weight: 25
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Tutoriel', 'Particules', 'Niagara', 'Cascade', 'GameDev']
+images: ["https://img.youtube.com/vi/ZK9ZNjDOZwU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/ZK9ZNjDOZwU/maxresdefault.jpg"]
 ---
 

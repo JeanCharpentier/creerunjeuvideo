@@ -4,6 +4,7 @@ weight: 42
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Lighting', 'Game Design', 'Level Design']
+images: ["https://img.youtube.com/vi/4mqZ-_zqDvQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/4mqZ-_zqDvQ/maxresdefault.jpg"]
 ---
 

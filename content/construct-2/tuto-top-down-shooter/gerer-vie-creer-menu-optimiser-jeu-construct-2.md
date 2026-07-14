@@ -5,6 +5,7 @@ prev_url: "/construct-2/tuto-top-down-shooter/construct-2-munitions-rechargement
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Construct 2', 'Game Dev', 'Tutoriel', 'HTML5', 'Variables', 'Evenements', 'Optimisation', 'Menu', 'Export']
+images: ["https://img.youtube.com/vi/tlPL1TQw7kU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/tlPL1TQw7kU/maxresdefault.jpg"]
 ---
 Dans ce sixième épisode de notre série dédiée à Construct 2, nous allons approfondir la gestion des packs de vie, structurer notre jeu avec un menu d'accueil et peaufiner les performances et l'organisation de notre projet.

@@ -4,6 +4,7 @@ weight: 3
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop', '3D', 'Développement de jeu', 'Interface', 'Variables']
+images: ["https://img.youtube.com/vi/FAWah1ve3rA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/FAWah1ve3rA/maxresdefault.jpg"]
 ---
 

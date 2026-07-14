@@ -6,6 +6,7 @@ next_url: "/construct-2/tuto-top-down-shooter/construct-2-gerer-degats-variables
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Construct 2', 'Game Development', 'Tutoriel', 'Monstres', 'IA Simple', 'Comportements', 'Evenements', 'Collision', 'HTML5', 'WizWig']
+images: ["https://img.youtube.com/vi/8SKId4m6uu4/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/8SKId4m6uu4/maxresdefault.jpg"]
 ---
 Dans cette troisième partie de notre tutoriel sur Construct 2, nous allons donner vie à notre jeu en introduisant des ennemis et une intelligence artificielle rudimentaire.

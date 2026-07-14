@@ -4,6 +4,7 @@ weight: 7
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Blender', 'Modélisation', 'Low Poly', 'Tutoriel']
+images: ["https://img.youtube.com/vi/vKQ96bAisPk/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/vKQ96bAisPk/maxresdefault.jpg"]
 ---
 

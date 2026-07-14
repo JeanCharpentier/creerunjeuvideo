@@ -4,6 +4,7 @@ weight: 15
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Level Design', 'Blocking Volume', 'Collision', 'UE4']
+images: ["https://img.youtube.com/vi/34awKfTj5vM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/34awKfTj5vM/maxresdefault.jpg"]
 ---
 

@@ -4,6 +4,7 @@ weight: 6
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blender', 'Lightmap', 'UV Mapping', 'Lighting', 'Tutoriel']
+images: ["https://img.youtube.com/vi/vi7d5aZh-7Y/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/vi7d5aZh-7Y/maxresdefault.jpg"]
 ---
 

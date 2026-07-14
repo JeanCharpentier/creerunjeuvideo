@@ -4,6 +4,7 @@ weight: 37
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Exportation', 'Matériaux', 'Debugging', 'Tutoriel']
+images: ["https://img.youtube.com/vi/EY4Akz6uKfE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/EY4Akz6uKfE/maxresdefault.jpg"]
 ---
 

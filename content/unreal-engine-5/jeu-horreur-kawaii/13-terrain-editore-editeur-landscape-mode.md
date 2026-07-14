@@ -6,6 +6,7 @@ weight: 13
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/12-win-loose-gameover-ecran-fin-menu-widget"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/14-foliage-editor-feuillage-arbres-nature-paysage"
+images: ["https://img.youtube.com/vi/V34gCSVsgEk/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/V34gCSVsgEk/maxresdefault.jpg"]
 ---
 

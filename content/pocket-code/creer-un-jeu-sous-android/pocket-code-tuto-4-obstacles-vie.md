@@ -3,6 +3,7 @@ titre: "4. Gestion des obstacles et système de vie"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Pocket Code', 'GameDev', 'Mobile', 'Programmation']
+images: ["https://img.youtube.com/vi/VQLdOn4PKII/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/VQLdOn4PKII/maxresdefault.jpg"]
 ---
 

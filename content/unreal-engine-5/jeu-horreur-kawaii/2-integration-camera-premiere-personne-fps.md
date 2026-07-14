@@ -6,6 +6,7 @@ weight: 2
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/1-unreal-engine-5-installation-configuration-projet"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/3-creer-lampe-torche-blueprint-joueur"
+images: ["https://img.youtube.com/vi/dWYgCUyoWiE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/dWYgCUyoWiE/maxresdefault.jpg"]
 ---
 

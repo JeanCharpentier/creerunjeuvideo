@@ -4,6 +4,7 @@ weight: 47
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Widget', 'Blueprints', 'Sauvegarde', 'GameDev']
+images: ["https://img.youtube.com/vi/TxtT7ZKBxqY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/TxtT7ZKBxqY/maxresdefault.jpg"]
 ---
 

@@ -8,6 +8,7 @@ tags: [Unreal Engine 5, Build, Blueprint, Input System, Audio, Game Design]
 # Navigation de la série (remplir avec les URLs relatives)
 prev_url: "/unreal-engine-5/enhanced-input-mapping/index.html"
 next_url: "/unreal-engine-5/systeme-construction/2-raytracing-raycasting-blocs-poser"
+images: ["https://img.youtube.com/vi/8IkLkMXLXj4/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/8IkLkMXLXj4/maxresdefault.jpg"]
 ---
 

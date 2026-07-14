@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 4', 'Android', 'Google Play', 'AdMob', 'GameDev']
+images: ["https://img.youtube.com/vi/dM8Jk07eJnM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/dM8Jk07eJnM/maxresdefault.jpg"]
 ---
 

@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/gerer-collisions-destruction-ennemis
 date: 2024-05-22
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'GameDev', 'Gamedev-debutant']
+images: ["https://img.youtube.com/vi/QvGxIZWXvA0/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/QvGxIZWXvA0/maxresdefault.jpg"]
 ---
 

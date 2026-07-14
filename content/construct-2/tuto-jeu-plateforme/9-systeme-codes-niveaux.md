@@ -6,6 +6,7 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Navigation", "Dictionary"]
 prev_url: "/construct-2/tuto-jeu-plateforme/patch-mise-a-jour-webstorage"
 next_url: "/construct-2/tuto-jeu-plateforme/10-integration-son-effets-audio"
+images: ["https://img.youtube.com/vi/FabTCjh4Hjg/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/FabTCjh4Hjg/maxresdefault.jpg"]
 ---
 

@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-materiau-peinture-voiture
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Material Editor', 'Procedural', 'Game Design']
+images: ["https://img.youtube.com/vi/2AAYDgKwYQQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/2AAYDgKwYQQ/maxresdefault.jpg"]
 ---
 

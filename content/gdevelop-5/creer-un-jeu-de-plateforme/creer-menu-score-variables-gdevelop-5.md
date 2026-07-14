@@ -4,6 +4,7 @@ weight: 3
 date: 2024-05-23
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop', 'GameDev', 'Débutant', 'Variables', 'Menu']
+images: ["https://img.youtube.com/vi/VV_ltHBAOLM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/VV_ltHBAOLM/maxresdefault.jpg"]
 ---
 

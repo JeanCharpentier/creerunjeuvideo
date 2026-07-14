@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/maitriser-systeme-crafting-intersec
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'MMORPG', 'Tutoriel', 'Game Development']
+images: ["https://img.youtube.com/vi/dHjTyPN0mmI/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/dHjTyPN0mmI/maxresdefault.jpg"]
 ---
 

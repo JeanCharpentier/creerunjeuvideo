@@ -4,6 +4,7 @@ weight: 3
 date: 2026-06-17
 categories: ['Raycasting GameMaker']
 tags: ['Raycasting', 'GameMaker', 'Mapping', 'Textures', 'Tutoriel']
+images: ["https://img.youtube.com/vi/pulbkN8Vu8c/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/pulbkN8Vu8c/maxresdefault.jpg"]
 ---
 

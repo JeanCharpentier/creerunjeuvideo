@@ -4,6 +4,7 @@ weight: 2
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Rubiks Cube', 'Débutant', 'Logique', 'GameDev']
+images: ["https://img.youtube.com/vi/j8M3YTFYgtw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/j8M3YTFYgtw/maxresdefault.jpg"]
 ---
 

@@ -3,6 +3,7 @@ title: "Créer un Battle Royale en moins d''une heure : Défi sur Core Games"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['CoreGames', 'BattleRoyale', 'Tutoriel', 'Prototypage', 'GameDesign']
+images: ["https://img.youtube.com/vi/g0e6vviRmpU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/g0e6vviRmpU/maxresdefault.jpg"]
 ---
 

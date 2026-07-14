@@ -4,6 +4,7 @@ weight: 7
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Workflow', 'Optimisation', 'Level Design']
+images: ["https://img.youtube.com/vi/ZgfPNlYCWPs/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/ZgfPNlYCWPs/maxresdefault.jpg"]
 ---
 

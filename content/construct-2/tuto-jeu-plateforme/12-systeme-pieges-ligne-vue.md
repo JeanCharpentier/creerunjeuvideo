@@ -6,6 +6,7 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Level Design", "Line of Sight"]
 prev_url: "/construct-2/tuto-jeu-plateforme/"
 next_url: ""
+images: ["https://img.youtube.com/vi/JDLaJZoSmJ8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/JDLaJZoSmJ8/maxresdefault.jpg"]
 ---
 

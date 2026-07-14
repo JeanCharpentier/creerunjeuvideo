@@ -4,6 +4,7 @@ weight: 20
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Optimisation', 'Performance', 'GameDev']
+images: ["https://img.youtube.com/vi/lfoHehq7aEA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/lfoHehq7aEA/maxresdefault.jpg"]
 ---
 

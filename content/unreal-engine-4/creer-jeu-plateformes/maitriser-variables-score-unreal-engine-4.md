@@ -4,6 +4,7 @@ weight: 18
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine']
 tags: ['Unreal Engine 4', 'Blueprints', 'Variables', 'GameDev']
+images: ["https://img.youtube.com/vi/Oq3zs0DTRDY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Oq3zs0DTRDY/maxresdefault.jpg"]
 ---
 

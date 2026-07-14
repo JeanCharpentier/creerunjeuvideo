@@ -4,6 +4,7 @@ weight: 7
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'FPS', 'Blueprint', 'Gameplay']
+images: ["https://img.youtube.com/vi/a8yne_WenSA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/a8yne_WenSA/maxresdefault.jpg"]
 ---
 

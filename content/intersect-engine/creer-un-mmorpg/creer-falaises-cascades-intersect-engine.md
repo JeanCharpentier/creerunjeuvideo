@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-lier-cartes-intersect-engine/
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
+images: ["https://img.youtube.com/vi/hehaRJV6yUg/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/hehaRJV6yUg/maxresdefault.jpg"]
 ---
 

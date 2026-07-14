@@ -3,6 +3,7 @@ title: "Créer un cycle jour/nuit dynamique dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Développement Unreal Engine']
 tags: ['Unreal Engine 4', 'Blueprints', 'Cycle Jour-Nuit', 'Level Design']
+images: ["https://img.youtube.com/vi/AzyoRemYMUM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/AzyoRemYMUM/maxresdefault.jpg"]
 ---
 

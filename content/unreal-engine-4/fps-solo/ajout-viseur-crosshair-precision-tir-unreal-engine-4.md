@@ -4,6 +4,7 @@ weight: 15
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'HUD', 'Blueprints', 'GameDev']
+images: ["https://img.youtube.com/vi/BnkE2jYFUog/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/BnkE2jYFUog/maxresdefault.jpg"]
 ---
 

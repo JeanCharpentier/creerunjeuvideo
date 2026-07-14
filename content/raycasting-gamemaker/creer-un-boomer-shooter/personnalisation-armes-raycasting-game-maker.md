@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['Tutoriels GameDev']
 tags: ['Raycasting GameMaker', 'FPS', 'Pixel Art', 'Game Design']
+images: ["https://img.youtube.com/vi/nrMrKhIhfsk/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/nrMrKhIhfsk/maxresdefault.jpg"]
 ---
 

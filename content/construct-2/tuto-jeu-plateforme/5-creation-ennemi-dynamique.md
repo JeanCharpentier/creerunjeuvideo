@@ -6,6 +6,7 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Ennemi", "Level Design"]
 prev_url: "/construct-2/tuto-jeu-plateforme/debug-collisions-plateformes"
 next_url: "/construct-2/tuto-jeu-plateforme/6-gestion-collisions-hud"
+images: ["https://img.youtube.com/vi/iJu76SZhhOI/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/iJu76SZhhOI/maxresdefault.jpg"]
 ---
 

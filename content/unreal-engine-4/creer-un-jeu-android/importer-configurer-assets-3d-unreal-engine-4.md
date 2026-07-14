@@ -4,6 +4,7 @@ weight: 12
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Tutoriel', '3D', 'Assets', 'Matériaux']
+images: ["https://img.youtube.com/vi/R4LCUUsyBlU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/R4LCUUsyBlU/maxresdefault.jpg"]
 ---
 

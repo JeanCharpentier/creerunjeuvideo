@@ -3,6 +3,7 @@ title: "RPG World : Créer ses propres univers de jeu vidéo sans coder"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['My World', 'The Game Creators', 'Indie Game', 'Game Design', 'Débutant']
+images: ["https://img.youtube.com/vi/3N0aluz7P1Q/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/3N0aluz7P1Q/maxresdefault.jpg"]
 ---
 

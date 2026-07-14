@@ -4,6 +4,7 @@ weight: 1
 date: 2026-06-17
 categories: ['Game Development']
 tags: ['Raycasting', 'Retro-gaming', 'GameMaker', 'Tutoriel']
+images: ["https://img.youtube.com/vi/ujCVDE6IKQs/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/ujCVDE6IKQs/maxresdefault.jpg"]
 ---
 

@@ -3,6 +3,7 @@ title: "Passer son viewport Unreal Engine 4 en AZERTY"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 4', 'Configuration', 'Viewport', 'Productivité']
+images: ["https://img.youtube.com/vi/r1hlb5BHTIU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/r1hlb5BHTIU/maxresdefault.jpg"]
 ---
 

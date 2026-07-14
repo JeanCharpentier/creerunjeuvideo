@@ -4,6 +4,7 @@ weight: 1
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', '3D', 'Débutant', 'Plateforme']
+images: ["https://img.youtube.com/vi/J4L0v93iG5g/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/J4L0v93iG5g/maxresdefault.jpg"]
 ---
 

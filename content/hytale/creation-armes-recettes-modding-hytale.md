@@ -4,6 +4,7 @@ weight: 3
 date: 2024-05-22
 categories: ['Modding']
 tags: ['Hytale', 'Tutoriel', 'Modding', 'Asset Editor', 'Crafting']
+images: ["https://img.youtube.com/vi/oMDpOJPyTDE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/oMDpOJPyTDE/maxresdefault.jpg"]
 ---
 

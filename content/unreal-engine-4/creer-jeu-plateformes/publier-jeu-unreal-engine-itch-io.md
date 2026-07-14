@@ -4,6 +4,7 @@ weight: 39
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Itch.io', 'GameDev', 'Export', 'Publication', 'Tutoriel']
+images: ["https://img.youtube.com/vi/Pau-7h6ldik/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Pau-7h6ldik/maxresdefault.jpg"]
 ---
 

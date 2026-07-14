@@ -4,6 +4,7 @@ weight: 4
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Unreal Engine 4', 'GameDev', 'Quick Tip', 'Static Mesh', 'Lighting']
+images: ["https://img.youtube.com/vi/GSAvzAm2Yu4/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/GSAvzAm2Yu4/maxresdefault.jpg"]
 ---
 

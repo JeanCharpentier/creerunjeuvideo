@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-systeme-ramassage-score-u
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Tutoriel', 'Workflow', 'Materiaux']
+images: ["https://img.youtube.com/vi/N9Lnhxu52pY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/N9Lnhxu52pY/maxresdefault.jpg"]
 ---
 

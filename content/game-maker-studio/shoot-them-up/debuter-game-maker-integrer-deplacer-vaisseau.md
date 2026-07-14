@@ -6,6 +6,7 @@ next_url: "/game-maker-studio/shoot-them-up/limiter-deplacements-vaisseau-game-m
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Game Maker', 'GML', 'Tutoriel', 'Developpement de jeu', 'Debutant']
+images: ["https://img.youtube.com/vi/sqdTCqctBGc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/sqdTCqctBGc/maxresdefault.jpg"]
 ---
 

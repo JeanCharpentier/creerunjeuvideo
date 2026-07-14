@@ -4,6 +4,7 @@ weight: 6
 date: 2024-05-22
 categories: ['Tutoriels']
 tags: ['GDevelop 5', 'Survival-like', 'Game Design', 'Variables']
+images: ["https://img.youtube.com/vi/AL5Qg1EyutU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/AL5Qg1EyutU/maxresdefault.jpg"]
 ---
 

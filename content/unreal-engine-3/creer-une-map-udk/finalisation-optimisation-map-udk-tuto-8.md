@@ -4,6 +4,7 @@ weight: 8
 date: 2026-06-17
 categories: ['Unreal Engine 3']
 tags: ['UDK', 'Level Design', 'Optimization', 'Lighting', 'Tutorial']
+images: ["https://img.youtube.com/vi/ntCkR3_n6xw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/ntCkR3_n6xw/maxresdefault.jpg"]
 ---
 

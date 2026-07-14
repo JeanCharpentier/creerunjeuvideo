@@ -6,6 +6,7 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-materiau-terrain-adaptati
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Material Editor', 'Texturing', 'Game Dev']
+images: ["https://img.youtube.com/vi/4_1kVUWbLfo/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/4_1kVUWbLfo/maxresdefault.jpg"]
 ---
 

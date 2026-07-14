@@ -6,6 +6,7 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-banque-fonctionnelle-intersec
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
+images: ["https://img.youtube.com/vi/I5S2GWSrcGI/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/I5S2GWSrcGI/maxresdefault.jpg"]
 ---
 

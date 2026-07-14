@@ -7,6 +7,7 @@ tags: [Unreal Engine 5, Build, Blueprint, Input System, Audio, Game Design]
 
 prev_url: "/unreal-engine-5/systeme-construction/2-raytracing-raycasting-blocs-poser"
 next_url: "/unreal-engine-5/systeme-construction/4-selection-objets-molette-destruction"
+images: ["https://img.youtube.com/vi/thJWz64OKCQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/thJWz64OKCQ/maxresdefault.jpg"]
 ---
 

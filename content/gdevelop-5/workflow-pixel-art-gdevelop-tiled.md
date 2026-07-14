@@ -3,6 +3,7 @@ title: "Maîtrisez le workflow Pixel Art : De LibreSprite à GDevelop"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Pixel Art', 'Workflow', 'Tiled', 'LibreSprite']
+images: ["https://img.youtube.com/vi/inI3T6IN9tk/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/inI3T6IN9tk/maxresdefault.jpg"]
 ---
 

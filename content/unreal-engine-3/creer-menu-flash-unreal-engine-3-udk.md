@@ -3,6 +3,7 @@ title: "Créer et intégrer un menu Flash dans Unreal Engine 3 (UDK)"
 date: 2026-06-17
 categories: ["GameDev"]
 tags: ["Unreal Engine 3", "UDK", "Flash", "UI", "Tutoriel"]
+images: ["https://img.youtube.com/vi/XhYARTXctIg/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/XhYARTXctIg/maxresdefault.jpg"]
 ---
 

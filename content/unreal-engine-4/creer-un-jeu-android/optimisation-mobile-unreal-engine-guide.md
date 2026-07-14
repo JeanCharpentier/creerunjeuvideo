@@ -4,6 +4,7 @@ weight: 5
 date: 2026-06-17
 categories: ['Développement Mobile']
 tags: ['Unreal Engine', 'Optimisation', 'Mobile', 'Performance', 'GameDev']
+images: ["https://img.youtube.com/vi/VTPi_djAOfM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/VTPi_djAOfM/maxresdefault.jpg"]
 ---
 
