@@ -4,7 +4,6 @@ weight: 35
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Android', 'Google Play', 'Déploiement', 'Mobile', 'Tutoriel']
-images: ["https://img.youtube.com/vi/0m-J-KU5HdE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/0m-J-KU5HdE/maxresdefault.jpg"]
 ---
 

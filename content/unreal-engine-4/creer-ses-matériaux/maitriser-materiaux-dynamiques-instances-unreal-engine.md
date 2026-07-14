@@ -6,7 +6,6 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-materiaux-emissifs-unreal
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Game Development', 'Materiaux', 'Tutoriel']
-images: ["https://img.youtube.com/vi/-wVDyIIREDY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/-wVDyIIREDY/maxresdefault.jpg"]
 ---
 

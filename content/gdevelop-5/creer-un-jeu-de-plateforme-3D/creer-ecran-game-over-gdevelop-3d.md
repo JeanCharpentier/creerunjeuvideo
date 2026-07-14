@@ -4,7 +4,6 @@ weight: 7
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop', '3D', 'Game Over', 'Variables', 'Développement de jeu']
-images: ["https://img.youtube.com/vi/VHE9VnW3ccw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/VHE9VnW3ccw/maxresdefault.jpg"]
 ---
 

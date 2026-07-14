@@ -4,7 +4,6 @@ weight: 17
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'GameDev', 'Collision', 'Level Design']
-images: ["https://img.youtube.com/vi/2cmqA1zMP7A/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/2cmqA1zMP7A/maxresdefault.jpg"]
 ---
 

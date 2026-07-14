@@ -4,7 +4,6 @@ weight: 2
 date: 2026-06-17
 categories: ['Raycasting GameMaker']
 tags: ['GameMaker', 'Raycasting', 'Pixel Art', 'Texturing', 'FPS']
-images: ["https://img.youtube.com/vi/mOPD0_ErDdc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/mOPD0_ErDdc/maxresdefault.jpg"]
 ---
 

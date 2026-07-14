@@ -4,7 +4,6 @@ weight: 41
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Lumière', 'Lighting', 'GameDev', 'Tutoriel']
-images: ["https://img.youtube.com/vi/tLiIPC17bN0/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/tLiIPC17bN0/maxresdefault.jpg"]
 ---
 

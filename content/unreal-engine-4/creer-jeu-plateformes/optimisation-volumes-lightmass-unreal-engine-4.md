@@ -4,7 +4,6 @@ weight: 35
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Lightmass', 'PostProcessVolume', 'Optimisation', 'Lighting', 'GameDev']
-images: ["https://img.youtube.com/vi/4qrZM7tvg3g/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/4qrZM7tvg3g/maxresdefault.jpg"]
 ---
 

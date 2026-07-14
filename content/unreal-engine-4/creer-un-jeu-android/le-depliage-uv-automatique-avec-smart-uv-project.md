@@ -4,7 +4,6 @@ weight: 8
 date: 2026-06-17
 categories: ['Blender pour Unreal Engine']
 tags: ['Blender', 'UV Mapping', 'Texturing', 'Workflow']
-images: ["https://img.youtube.com/vi/hV9k2IR6wc0/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/hV9k2IR6wc0/maxresdefault.jpg"]
 ---
 

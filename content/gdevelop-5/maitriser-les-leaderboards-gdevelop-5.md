@@ -3,7 +3,6 @@ title: "Maîtriser les Leaderboards dans GDevelop 5 : Guide complet"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Leaderboard', 'GD.games', 'GameDev']
-images: ["https://img.youtube.com/vi/ZJg9goTl4bs/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/ZJg9goTl4bs/maxresdefault.jpg"]
 ---
 

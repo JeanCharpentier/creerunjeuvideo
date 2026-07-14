@@ -3,7 +3,6 @@ title: "Mise en place du contrôle de version (SVN) sur Unreal Engine 4"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 4', 'SVN', 'TortoiseSVN', 'Version Control', 'GameDev']
-images: ["https://img.youtube.com/vi/E4tMAdkYQBY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/E4tMAdkYQBY/maxresdefault.jpg"]
 ---
 

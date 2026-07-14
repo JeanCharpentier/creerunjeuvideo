@@ -4,7 +4,6 @@ weight: 43
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Lumières', 'GameDev', 'Tutoriel']
-images: ["https://img.youtube.com/vi/sGnHP5k2RbU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/sGnHP5k2RbU/maxresdefault.jpg"]
 ---
 

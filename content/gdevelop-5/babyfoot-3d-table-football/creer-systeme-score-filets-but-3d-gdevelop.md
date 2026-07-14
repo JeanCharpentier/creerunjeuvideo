@@ -4,7 +4,6 @@ weight: 3
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', '3D', 'Jeu Mobile', 'GameDev']
-images: ["https://img.youtube.com/vi/5f5_dowmP30/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/5f5_dowmP30/maxresdefault.jpg"]
 ---
 

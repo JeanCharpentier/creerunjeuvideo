@@ -4,7 +4,6 @@ weight: 2
 date: 2026-06-17
 categories: ['Tutoriels GameDev']
 tags: ['Unreal Engine 3', 'Blender', 'Modélisation', '3D', 'Game Design']
-images: ["https://img.youtube.com/vi/oyysYuBDsSU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/oyysYuBDsSU/maxresdefault.jpg"]
 ---
 

@@ -4,7 +4,6 @@ weight: 0
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Twitch', 'Plugin', 'GameDev', 'Interaction', 'Blueprints']
-images: ["https://img.youtube.com/vi/dTNMj1VBvJw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/dTNMj1VBvJw/maxresdefault.jpg"]
 ---
 

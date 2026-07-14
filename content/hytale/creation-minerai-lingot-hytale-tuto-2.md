@@ -4,7 +4,6 @@ weight: 2
 date: 2023-10-27
 categories: ['Modding']
 tags: ['Hytale', 'Tutoriel', 'Modding', 'GameDev']
-images: ["https://img.youtube.com/vi/Wc_XISe1edE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Wc_XISe1edE/maxresdefault.jpg"]
 ---
 

@@ -6,7 +6,6 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Animation", "Personnage"]
 prev_url: "/construct-2/tuto-jeu-plateforme/2-evenements-navigation-game-over"
 next_url: "/construct-2/tuto-jeu-plateforme/4-gestion-niveaux-variables-pieges"
-images: ["https://img.youtube.com/vi/LheAhT-EUvg/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/LheAhT-EUvg/maxresdefault.jpg"]
 ---
 

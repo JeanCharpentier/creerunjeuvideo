@@ -4,7 +4,6 @@ weight: 9
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Foliage', 'Collision', 'GameDev', 'Tutoriel']
-images: ["https://img.youtube.com/vi/JhKVxSunK2s/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/JhKVxSunK2s/maxresdefault.jpg"]
 ---
 

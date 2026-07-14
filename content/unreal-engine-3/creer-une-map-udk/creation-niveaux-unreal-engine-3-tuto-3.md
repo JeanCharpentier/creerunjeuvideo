@@ -4,7 +4,6 @@ weight: 3
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Level Design', 'Tutoriel', 'CSG']
-images: ["https://img.youtube.com/vi/QAXiEZGE4bQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/QAXiEZGE4bQ/maxresdefault.jpg"]
 ---
 

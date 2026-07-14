@@ -4,7 +4,6 @@ weight: 33
 date: 2026-06-17
 categories: ['Développement Mobile']
 tags: ['Unreal Engine 4', 'Android', 'Firebase', 'Google Play', 'AdMob']
-images: ["https://img.youtube.com/vi/2aqjI9vkooY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/2aqjI9vkooY/maxresdefault.jpg"]
 ---
 

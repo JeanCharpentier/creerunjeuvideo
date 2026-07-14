@@ -4,7 +4,6 @@ weight: 24
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'UI', 'Slender', 'GameDev']
-images: ["https://img.youtube.com/vi/lwjaOFhjXP0/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/lwjaOFhjXP0/maxresdefault.jpg"]
 ---
 

@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-boutique-marchand-intersect-e
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'MMORPG', 'Game Development', 'Tutoriel']
-images: ["https://img.youtube.com/vi/I3fjIxLcB3I/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/I3fjIxLcB3I/maxresdefault.jpg"]
 ---
 

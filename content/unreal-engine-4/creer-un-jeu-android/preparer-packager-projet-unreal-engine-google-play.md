@@ -4,7 +4,6 @@ weight: 34
 date: 2026-06-17
 categories: ['Développement Android']
 tags: ['Unreal Engine 4', 'Android', 'Packaging', 'Google Play', 'Mobile']
-images: ["https://img.youtube.com/vi/fOtUoY_BYXQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/fOtUoY_BYXQ/maxresdefault.jpg"]
 ---
 

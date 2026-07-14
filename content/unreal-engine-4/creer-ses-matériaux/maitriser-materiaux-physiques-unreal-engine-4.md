@@ -6,7 +6,6 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/maitriser-les-masques-et-linear
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Game Development', 'Physics', 'Tutoriel']
-images: ["https://img.youtube.com/vi/cJ9ijl3BhKc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/cJ9ijl3BhKc/maxresdefault.jpg"]
 ---
 

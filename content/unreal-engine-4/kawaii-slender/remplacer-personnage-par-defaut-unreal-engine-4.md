@@ -4,7 +4,6 @@ weight: 27
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine 4']
 tags: ['Unreal Engine 4', 'GameDev', 'Animation', 'Retargeting', 'Personnage']
-images: ["https://img.youtube.com/vi/Is-zJf2VfL0/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Is-zJf2VfL0/maxresdefault.jpg"]
 ---
 

@@ -6,7 +6,6 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Debug", "Collision"]
 prev_url: "/construct-2/tuto-jeu-plateforme/4-gestion-niveaux-variables-pieges"
 next_url: "/construct-2/tuto-jeu-plateforme/5-creation-ennemi-dynamique"
-images: ["https://img.youtube.com/vi/oTqFDMUasfY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/oTqFDMUasfY/maxresdefault.jpg"]
 ---
 

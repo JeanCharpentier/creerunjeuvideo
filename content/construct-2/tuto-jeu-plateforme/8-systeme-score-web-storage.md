@@ -6,7 +6,6 @@ categories: ["Archive"]
 tags: ["Construct 2", "Tutoriel", "Game Dev", "Score", "Web Storage"]
 prev_url: "/construct-2/tuto-jeu-plateforme/7-gestion-vie-score"
 next_url: "/construct-2/tuto-jeu-plateforme/patch-mise-a-jour-webstorage"
-images: ["https://img.youtube.com/vi/BGQoPxLLeF0/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/BGQoPxLLeF0/maxresdefault.jpg"]
 ---
 

@@ -4,7 +4,6 @@ weight: 28
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'Collision', 'Level Design', 'Unreal Engine 4']
-images: ["https://img.youtube.com/vi/CSm3ckzWNVM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/CSm3ckzWNVM/maxresdefault.jpg"]
 ---
 

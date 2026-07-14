@@ -6,7 +6,6 @@ weight: 3
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/2-integration-camera-premiere-personne-fps"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/4-gestion-variables-batterie-lampe"
-images: ["https://img.youtube.com/vi/AarebiZ0SM8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/AarebiZ0SM8/maxresdefault.jpg"]
 ---
 

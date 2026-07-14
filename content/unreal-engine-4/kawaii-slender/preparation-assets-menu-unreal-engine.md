@@ -4,7 +4,6 @@ weight: 19
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Menu', 'Graphisme', 'Tutoriel', 'Asset']
-images: ["https://img.youtube.com/vi/LkOTYxSQlgU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/LkOTYxSQlgU/maxresdefault.jpg"]
 ---
 

@@ -4,7 +4,6 @@ weight: 49
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'SaveGame', 'GameInstance', 'Tutoriel']
-images: ["https://img.youtube.com/vi/3uzieUiEco0/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/3uzieUiEco0/maxresdefault.jpg"]
 ---
 

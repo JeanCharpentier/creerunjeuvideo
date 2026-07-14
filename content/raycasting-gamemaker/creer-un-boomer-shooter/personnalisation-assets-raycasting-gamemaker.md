@@ -4,7 +4,6 @@ weight: 6
 date: 2026-06-17
 categories: ['Raycasting GameMaker']
 tags: ['GameDev', 'Raycasting', 'GameMaker', 'Assets', 'FPS']
-images: ["https://img.youtube.com/vi/EWQ4u8Mwhuc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/EWQ4u8Mwhuc/maxresdefault.jpg"]
 ---
 

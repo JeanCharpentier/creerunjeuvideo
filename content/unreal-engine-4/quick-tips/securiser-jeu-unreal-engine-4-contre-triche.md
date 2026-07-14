@@ -4,7 +4,6 @@ weight: 6
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Développement', 'Sécurité', 'Packaging', 'Triche']
-images: ["https://img.youtube.com/vi/TbvLRKmDjT8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/TbvLRKmDjT8/maxresdefault.jpg"]
 ---
 

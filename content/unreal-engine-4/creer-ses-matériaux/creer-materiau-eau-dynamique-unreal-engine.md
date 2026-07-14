@@ -6,7 +6,6 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/maitriser-le-tiling-des-texture
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Material Editor', 'Game Design', 'Tutoriel']
-images: ["https://img.youtube.com/vi/2wFRp6BMZ2A/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/2wFRp6BMZ2A/maxresdefault.jpg"]
 ---
 

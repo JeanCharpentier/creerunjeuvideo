@@ -3,7 +3,6 @@ title: "Créer des décors architecturaux avec les BSP dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Tutoriel', 'BSP', 'Level Design', 'Static Mesh']
-images: ["https://img.youtube.com/vi/aTIuSn8T_9g/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/aTIuSn8T_9g/maxresdefault.jpg"]
 ---
 

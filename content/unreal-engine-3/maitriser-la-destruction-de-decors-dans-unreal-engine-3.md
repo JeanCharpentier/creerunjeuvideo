@@ -3,7 +3,6 @@ titre: "Maîtriser la destruction de décors dans Unreal Engine 3 (UDK)"
 date: 2026-06-17
 categories: ["Game Development"]
 tags: ["Unreal Engine 3", "UDK", "Level Design", "Destruction", "Tutoriel"]
-images: ["https://img.youtube.com/vi/wFFFcep-15Y/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/wFFFcep-15Y/maxresdefault.jpg"]
 ---
 

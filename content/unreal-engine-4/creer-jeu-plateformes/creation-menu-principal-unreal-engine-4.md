@@ -4,7 +4,6 @@ weight: 28
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'UMG', 'Blueprint', 'Menu', 'GameDev']
-images: ["https://img.youtube.com/vi/-d5nDYQ7UGY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/-d5nDYQ7UGY/maxresdefault.jpg"]
 ---
 

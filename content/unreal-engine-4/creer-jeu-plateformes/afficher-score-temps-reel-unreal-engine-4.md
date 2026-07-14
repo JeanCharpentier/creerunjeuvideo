@@ -4,7 +4,6 @@ weight: 22
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'HUD', 'UI', 'Widget', 'GameDev']
-images: ["https://img.youtube.com/vi/9-YZJwPYrrU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/9-YZJwPYrrU/maxresdefault.jpg"]
 ---
 

@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/gestion-droits-administration-moder
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel', 'Scripting']
-images: ["https://img.youtube.com/vi/jf3-ILiL2tQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/jf3-ILiL2tQ/maxresdefault.jpg"]
 ---
 

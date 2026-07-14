@@ -4,7 +4,6 @@ weight: 4
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', 'GameDev', 'Audio', 'Tutoriel', '3D']
-images: ["https://img.youtube.com/vi/DgM7DPANOzw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/DgM7DPANOzw/maxresdefault.jpg"]
 ---
 

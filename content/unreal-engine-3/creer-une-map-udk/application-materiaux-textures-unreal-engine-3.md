@@ -4,7 +4,6 @@ weight: 4
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'UDK', 'Tutoriel', 'Level Design', 'Matériaux']
-images: ["https://img.youtube.com/vi/8ab6kWGeC6Y/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/8ab6kWGeC6Y/maxresdefault.jpg"]
 ---
 

@@ -4,7 +4,6 @@ weight: 1
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 4', 'GameDev', 'Blueprint', 'FPS', 'Débutant']
-images: ["https://img.youtube.com/vi/cZSkaLaZsRc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/cZSkaLaZsRc/maxresdefault.jpg"]
 ---
 

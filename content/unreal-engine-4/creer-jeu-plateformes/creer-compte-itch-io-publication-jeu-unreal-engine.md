@@ -4,7 +4,6 @@ weight: 38
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'itch.io', 'Publication', 'Indie Dev']
-images: ["https://img.youtube.com/vi/8BeuQmpqWKU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/8BeuQmpqWKU/maxresdefault.jpg"]
 ---
 

@@ -6,7 +6,6 @@ next_url: "/construct-2/tuto-top-down-shooter/creer-monstres-ia-simple-construct
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Construct 2', 'Tutoriel', 'Game Dev', 'Top-Down Shooter', 'Evenements', 'Comportements', 'Visee Souris', 'Tir', 'Developpement de jeu']
-images: ["https://img.youtube.com/vi/9VbNUC23V6k/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/9VbNUC23V6k/maxresdefault.jpg"]
 ---
 Plongez dans la deuxième partie de notre série de tutoriels Construct 2, où nous allons donner à notre personnage la capacité de viser avec la souris et de tirer des projectiles !

@@ -4,7 +4,6 @@ weight: 5
 date: 2026-06-17
 categories: ["Tutoriels"]
 tags: ["Minecraft", "MCreator", "Modding", "Développement"]
-images: ["https://img.youtube.com/vi/mSH_ty_rrac/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/mSH_ty_rrac/maxresdefault.jpg"]
 ---
 

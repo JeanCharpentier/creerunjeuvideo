@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-systeme-recolte-ressources-in
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'MMORPG', 'Tutoriel', 'Game Development']
-images: ["https://img.youtube.com/vi/xfTRmk3rt-8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/xfTRmk3rt-8/maxresdefault.jpg"]
 ---
 

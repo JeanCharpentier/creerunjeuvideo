@@ -6,7 +6,6 @@ weight: 8
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/7-ramassage-objet-score-points-compteur"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/9-ai-perception-detection-vision-ecoute-suivre"
-images: ["https://img.youtube.com/vi/Fu67Z4R3SPM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Fu67Z4R3SPM/maxresdefault.jpg"]
 ---
 

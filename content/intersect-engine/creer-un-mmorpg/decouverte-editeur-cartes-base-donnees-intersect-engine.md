@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/maitriser-mapping-intersect-engine-
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'MMORPG', 'Game Development', 'Tutoriel']
-images: ["https://img.youtube.com/vi/Frp2oDR1I7I/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Frp2oDR1I7I/maxresdefault.jpg"]
 ---
 

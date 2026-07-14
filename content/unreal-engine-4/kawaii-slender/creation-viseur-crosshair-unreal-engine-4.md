@@ -4,7 +4,6 @@ weight: 26
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['HUD', 'UI', 'GameDev', 'Tutoriel', 'Crosshair']
-images: ["https://img.youtube.com/vi/z_j4rfJs9Vs/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/z_j4rfJs9Vs/maxresdefault.jpg"]
 ---
 

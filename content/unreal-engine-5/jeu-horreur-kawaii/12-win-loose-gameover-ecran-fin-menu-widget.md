@@ -6,7 +6,6 @@ weight: 12
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/11-attaque-ennemie-ragdoll-physique-unreal"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/13-terrain-editore-editeur-landscape-mode"
-images: ["https://img.youtube.com/vi/_MQSnhg3LCA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/_MQSnhg3LCA/maxresdefault.jpg"]
 ---
 

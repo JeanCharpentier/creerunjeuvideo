@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-falaises-cascades-intersect-e
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'Tutoriel', 'Level Design', 'MMORPG']
-images: ["https://img.youtube.com/vi/DDEVR34THbo/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/DDEVR34THbo/maxresdefault.jpg"]
 ---
 

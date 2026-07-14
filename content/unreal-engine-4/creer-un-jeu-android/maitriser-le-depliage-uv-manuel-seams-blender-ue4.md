@@ -4,7 +4,6 @@ weight: 9
 date: 2026-06-17
 categories: ['Modélisation 3D']
 tags: ['Blender', 'Unreal Engine 4', 'UV Mapping', 'Workflow']
-images: ["https://img.youtube.com/vi/U26CHmktDtQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/U26CHmktDtQ/maxresdefault.jpg"]
 ---
 

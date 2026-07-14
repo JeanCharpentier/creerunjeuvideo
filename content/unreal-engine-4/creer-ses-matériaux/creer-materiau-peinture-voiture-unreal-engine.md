@@ -6,7 +6,6 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/integrer-video-objet-unreal-eng
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Material Editor', 'Shaders', 'Game Dev']
-images: ["https://img.youtube.com/vi/7pNhlSl_BD4/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/7pNhlSl_BD4/maxresdefault.jpg"]
 ---
 

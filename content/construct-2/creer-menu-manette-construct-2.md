@@ -3,7 +3,6 @@ title: "Créer un menu contrôlé à la manette sur Construct 2"
 date: 2026-06-17
 categories: ['Archive']
 tags: ['Construct 2', 'Tutoriel', 'GameDev', 'UI', 'Gamepad']
-images: ["https://img.youtube.com/vi/BZlc06r9yfA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/BZlc06r9yfA/maxresdefault.jpg"]
 ---
 

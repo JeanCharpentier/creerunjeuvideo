@@ -3,7 +3,6 @@ title: "Implémenter un Dash Vertical et des effets Niagara dans Unreal Engine 5
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 5', 'Blueprints', 'Niagara', 'GameDev']
-images: ["https://img.youtube.com/vi/f59H_Hs3WMM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/f59H_Hs3WMM/maxresdefault.jpg"]
 ---
 

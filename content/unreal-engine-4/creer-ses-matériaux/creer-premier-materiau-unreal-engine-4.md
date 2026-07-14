@@ -6,7 +6,6 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/maitriser-materiaux-dynamiques-
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Game Development', 'Materiaux', 'Tutoriel']
-images: ["https://img.youtube.com/vi/QxSCXKtpvY4/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/QxSCXKtpvY4/maxresdefault.jpg"]
 ---
 

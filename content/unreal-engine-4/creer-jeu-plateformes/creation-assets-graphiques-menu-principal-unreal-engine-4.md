@@ -4,7 +4,6 @@ weight: 26
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Graphisme', 'Menu', 'Paint.net', 'Assets']
-images: ["https://img.youtube.com/vi/9Dc2AX0vXTY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/9Dc2AX0vXTY/maxresdefault.jpg"]
 ---
 

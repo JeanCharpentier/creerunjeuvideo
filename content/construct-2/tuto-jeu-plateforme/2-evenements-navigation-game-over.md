@@ -6,7 +6,6 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Événements", "Navigation"]
 prev_url: "/construct-2/tuto-jeu-plateforme/1-creation-personnage-plateforme-c2"
 next_url: "/construct-2/tuto-jeu-plateforme/3-animations-gestion-etats-personnage"
-images: ["https://img.youtube.com/vi/maWbN37ey5o/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/maWbN37ey5o/maxresdefault.jpg"]
 ---
 

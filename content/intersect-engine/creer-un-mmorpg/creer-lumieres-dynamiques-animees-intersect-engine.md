@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-sort-soin-intersect-engine/"
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'Tutoriel', 'MMORPG', 'Level Design']
-images: ["https://img.youtube.com/vi/-bQqu1j0Zhg/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/-bQqu1j0Zhg/maxresdefault.jpg"]
 ---
 

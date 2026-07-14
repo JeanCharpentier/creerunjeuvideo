@@ -4,7 +4,6 @@ weight: 9
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'UDK', 'Tutoriel', 'Packaging', 'Serveur Dédié']
-images: ["https://img.youtube.com/vi/MVAkZSJ7Vj4/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/MVAkZSJ7Vj4/maxresdefault.jpg"]
 ---
 

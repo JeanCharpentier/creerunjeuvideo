@@ -4,7 +4,6 @@ weight: 16
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'GameDev', 'Spawner', 'Logique']
-images: ["https://img.youtube.com/vi/Zhb1ntycKnw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Zhb1ntycKnw/maxresdefault.jpg"]
 ---
 

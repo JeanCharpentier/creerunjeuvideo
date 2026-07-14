@@ -4,7 +4,6 @@ weight: 5
 date: 2026-06-17
 categories: ['Raycasting GameMaker']
 tags: ['GameMaker', 'Raycasting', 'Tutoriel', 'GameDev', 'Sprites']
-images: ["https://img.youtube.com/vi/rXK4CByW8mE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/rXK4CByW8mE/maxresdefault.jpg"]
 ---
 

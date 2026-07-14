@@ -4,7 +4,6 @@ weight: 19
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine 4']
 tags: ['GameDev', 'Blueprints', 'Gameplay', 'Progression']
-images: ["https://img.youtube.com/vi/9y-iQ9VgWxs/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/9y-iQ9VgWxs/maxresdefault.jpg"]
 ---
 

@@ -4,7 +4,6 @@ weight: 3
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blender', 'Terrain', 'Level Design', 'Tutoriel', 'Low-Poly']
-images: ["https://img.youtube.com/vi/cuf28wQRYyc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/cuf28wQRYyc/maxresdefault.jpg"]
 ---
 

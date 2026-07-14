@@ -6,7 +6,6 @@ next_url: "/game-maker-studio/shoot-them-up/gerer-collisions-defaite-joueur-game
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'Developpement de jeux', 'Collision', 'Gamedev']
-images: ["https://img.youtube.com/vi/THSQh_SlnmY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/THSQh_SlnmY/maxresdefault.jpg"]
 ---
 

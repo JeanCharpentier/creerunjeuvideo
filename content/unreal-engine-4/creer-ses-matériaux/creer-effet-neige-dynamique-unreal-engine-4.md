@@ -6,7 +6,6 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-materiau-pepite-or-proced
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Material Editor', 'Tessellation', 'Game Dev']
-images: ["https://img.youtube.com/vi/xLBFLKRp5IU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/xLBFLKRp5IU/maxresdefault.jpg"]
 ---
 

@@ -6,7 +6,6 @@ next_url: "/construct-2/tuto-top-down-shooter/gerer-vie-creer-menu-optimiser-jeu
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Construct 2', 'Tutoriel', 'Game Dev', 'HTML5', 'HUD', 'Parallax', 'Variables', 'Munitions', 'Rechargement', 'Pickups', 'UI']
-images: ["https://img.youtube.com/vi/5Vs9f7pI2-s/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/5Vs9f7pI2-s/maxresdefault.jpg"]
 ---
 Dans ce cinquième épisode de notre série sur Construct 2, nous allons approfondir la gestion de l'interface utilisateur et des mécaniques de jeu essentielles, en nous concentrant sur les munitions et le rechargement.

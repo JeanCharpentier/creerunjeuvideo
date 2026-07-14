@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/heberger-serveur-intersect-engine-l
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
-images: ["https://img.youtube.com/vi/-EjAgU4t4Kc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/-EjAgU4t4Kc/maxresdefault.jpg"]
 ---
 

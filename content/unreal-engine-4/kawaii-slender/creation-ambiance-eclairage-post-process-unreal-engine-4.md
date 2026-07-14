@@ -4,7 +4,6 @@ weight: 30
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Lighting', 'Post-Process', 'Game Design', 'Ambiance']
-images: ["https://img.youtube.com/vi/zgIIyTFOatM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/zgIIyTFOatM/maxresdefault.jpg"]
 ---
 

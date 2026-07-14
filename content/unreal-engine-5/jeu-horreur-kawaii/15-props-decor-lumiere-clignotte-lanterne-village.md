@@ -6,7 +6,6 @@ weight: 15
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/14-foliage-editor-feuillage-arbres-nature-paysage"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/16-menu-principal-optimisations-export-packaging-build"
-images: ["https://img.youtube.com/vi/eEt9MyDXO30/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/eEt9MyDXO30/maxresdefault.jpg"]
 ---
 

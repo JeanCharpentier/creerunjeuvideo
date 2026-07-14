@@ -4,7 +4,6 @@ weight: 2
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Blueprint', 'Camera', 'GameDev', 'Tutoriel']
-images: ["https://img.youtube.com/vi/VFF4YOzY4s8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/VFF4YOzY4s8/maxresdefault.jpg"]
 ---
 

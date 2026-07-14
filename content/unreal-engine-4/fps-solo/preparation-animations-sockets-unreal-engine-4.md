@@ -4,7 +4,6 @@ weight: 11
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Animation', 'Socket', 'GameDev']
-images: ["https://img.youtube.com/vi/NFijPoJ9S3k/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/NFijPoJ9S3k/maxresdefault.jpg"]
 ---
 

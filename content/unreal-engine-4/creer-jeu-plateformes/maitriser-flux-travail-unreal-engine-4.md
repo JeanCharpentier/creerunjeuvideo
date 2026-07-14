@@ -4,7 +4,6 @@ weight: 2
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'GameDev', 'Workflow', 'Tutoriel']
-images: ["https://img.youtube.com/vi/hynt7T2nzKI/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/hynt7T2nzKI/maxresdefault.jpg"]
 ---
 

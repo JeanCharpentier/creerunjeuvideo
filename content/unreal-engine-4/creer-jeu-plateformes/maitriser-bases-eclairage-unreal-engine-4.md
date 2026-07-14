@@ -4,7 +4,6 @@ weight: 40
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Lumière', 'Lighting', 'Directional Light', 'Skylight', 'GameDev']
-images: ["https://img.youtube.com/vi/t1_LeQ8xAmA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/t1_LeQ8xAmA/maxresdefault.jpg"]
 ---
 

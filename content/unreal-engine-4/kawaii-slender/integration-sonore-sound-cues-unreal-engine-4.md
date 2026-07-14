@@ -4,7 +4,6 @@ weight: 29
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'Audio', 'Blueprint', 'SoundCue', 'KawaiiSlender']
-images: ["https://img.youtube.com/vi/lVwGLSWO6A8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/lVwGLSWO6A8/maxresdefault.jpg"]
 ---
 

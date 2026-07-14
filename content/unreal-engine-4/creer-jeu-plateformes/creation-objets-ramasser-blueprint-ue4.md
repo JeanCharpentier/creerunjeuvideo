@@ -4,7 +4,6 @@ weight: 20
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'Actor', 'Matériaux', 'Collision', 'Rotation']
-images: ["https://img.youtube.com/vi/dfPQ3dpQ_-8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/dfPQ3dpQ_-8/maxresdefault.jpg"]
 ---
 

@@ -4,7 +4,6 @@ weight: 8
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Blueprints', 'Gameplay', 'Tutoriel']
-images: ["https://img.youtube.com/vi/Iqh6_nGz1Nc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Iqh6_nGz1Nc/maxresdefault.jpg"]
 ---
 

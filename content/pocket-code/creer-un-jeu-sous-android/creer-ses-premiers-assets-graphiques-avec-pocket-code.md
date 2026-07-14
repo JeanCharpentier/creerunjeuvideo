@@ -4,7 +4,6 @@ weight: 2
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Pocket Code', 'GameDev', 'Débutant', 'Mobile', 'Pocket Paint']
-images: ["https://img.youtube.com/vi/4zFXsbGofjc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/4zFXsbGofjc/maxresdefault.jpg"]
 ---
 

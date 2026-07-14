@@ -6,7 +6,6 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-materiau-verre-translucid
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Material Editor', 'Tessellation', 'Game Dev']
-images: ["https://img.youtube.com/vi/tnTxZ8C4zHY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/tnTxZ8C4zHY/maxresdefault.jpg"]
 ---
 

@@ -6,7 +6,6 @@ next_url: "/construct-2/tuto-top-down-shooter/tutoriel-construct-2-visee-tirs-ba
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Construct 2', 'HTML5', 'Game Development', 'Tutoriel', 'Debutant', 'Interface', 'Projet', 'Sprite', 'Comportements', 'Mouvement']
-images: ["https://img.youtube.com/vi/z2rZLCJolRE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/z2rZLCJolRE/maxresdefault.jpg"]
 ---
 Plongez dans le monde de la création de jeux HTML5 avec Construct 2 ! Ce premier tutoriel vous guide à travers l'installation, la découverte de l'interface et la mise en place des bases de votre premier jeu, un Top-Down Shooter.

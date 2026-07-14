@@ -4,7 +4,6 @@ weight: 4
 date: 2024-05-22
 categories: ['Modding']
 tags: ['Hytale', 'Java', 'Modding', 'Tutoriel', 'IntelliJ']
-images: ["https://img.youtube.com/vi/f3GFytiQ7bk/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/f3GFytiQ7bk/maxresdefault.jpg"]
 ---
 

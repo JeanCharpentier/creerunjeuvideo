@@ -6,7 +6,6 @@ next_url: "/game-maker-studio/shoot-them-up/gerer-score-affichage-game-over-game
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'Programmation', 'Gamedev']
-images: ["https://img.youtube.com/vi/zTWULvHy9Ck/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/zTWULvHy9Ck/maxresdefault.jpg"]
 ---
 

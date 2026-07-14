@@ -4,7 +4,6 @@ weight: 5
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', 'Survival', 'GameDev', 'Variables', 'UI']
-images: ["https://img.youtube.com/vi/DtqWmMlafnM/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/DtqWmMlafnM/maxresdefault.jpg"]
 ---
 

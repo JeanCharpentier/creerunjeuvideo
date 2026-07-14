@@ -6,7 +6,6 @@ next_url: "/game-maker-studio/shoot-them-up/debuter-game-maker-integrer-deplacer
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'GameDev', 'LevelDesign']
-images: ["https://img.youtube.com/vi/J8ScXyORCVI/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/J8ScXyORCVI/maxresdefault.jpg"]
 ---
 

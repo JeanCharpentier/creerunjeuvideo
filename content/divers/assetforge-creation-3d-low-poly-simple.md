@@ -3,7 +3,6 @@ title: "AssetForge : Créer des assets 3D low-poly en toute simplicité"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['AssetForge', '3D', 'Low-poly', 'Unreal Engine', 'Tutoriel']
-images: ["https://img.youtube.com/vi/SNQvzPedLb8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/SNQvzPedLb8/maxresdefault.jpg"]
 ---
 

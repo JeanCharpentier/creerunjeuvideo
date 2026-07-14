@@ -6,7 +6,6 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-materiau-lave-dynamique-u
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Game Development', 'Materials', 'Blueprints', 'Tutoriel']
-images: ["https://img.youtube.com/vi/y8L14ztyLw8/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/y8L14ztyLw8/maxresdefault.jpg"]
 ---
 

@@ -4,7 +4,6 @@ weight: 9
 date: 2024-05-22
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', 'GameDev', 'Survival-like', 'Tutoriel']
-images: ["https://img.youtube.com/vi/JxOhXjIb7UU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/JxOhXjIb7UU/maxresdefault.jpg"]
 ---
 

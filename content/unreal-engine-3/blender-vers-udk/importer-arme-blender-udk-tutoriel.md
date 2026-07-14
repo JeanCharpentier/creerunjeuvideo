@@ -4,7 +4,6 @@ weight: 5
 date: 2026-06-17
 categories: ['Unreal Engine 3']
 tags: ['UDK', 'Blender', 'GameDev', 'Tutoriel', 'UnrealScript']
-images: ["https://img.youtube.com/vi/WgkhKdyq9cc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/WgkhKdyq9cc/maxresdefault.jpg"]
 ---
 

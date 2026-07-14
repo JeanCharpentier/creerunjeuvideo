@@ -6,7 +6,6 @@ next_url: "/unreal-engine-4/creer-ses-matériaux/creer-materiau-eau-dynamique-un
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Unreal Engine 4', 'Materiaux', 'Texturing', 'Game Dev']
-images: ["https://img.youtube.com/vi/lvTc4i7PA3M/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/lvTc4i7PA3M/maxresdefault.jpg"]
 ---
 

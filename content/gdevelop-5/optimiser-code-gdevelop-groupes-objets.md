@@ -3,7 +3,6 @@ title: "Optimisez votre code GDevelop 5 avec les Groupes d''objets"
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['GDevelop', 'Astuces', 'Productivité', 'Débutant']
-images: ["https://img.youtube.com/vi/TovB05dPjMo/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/TovB05dPjMo/maxresdefault.jpg"]
 ---
 

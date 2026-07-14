@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-equilibrer-classes-personnage
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'Tutoriel', 'Level Design']
-images: ["https://img.youtube.com/vi/_sUQdCm4seY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/_sUQdCm4seY/maxresdefault.jpg"]
 ---
 

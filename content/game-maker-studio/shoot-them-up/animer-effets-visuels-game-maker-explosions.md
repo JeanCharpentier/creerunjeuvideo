@@ -6,7 +6,6 @@ next_url: "/game-maker-studio/shoot-them-up/integrer-sons-musique-game-maker-stu
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Game Maker', 'Tutoriel', 'Animation', 'Game Design', 'Developpement de jeux']
-images: ["https://img.youtube.com/vi/NSc3FpzcLsw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/NSc3FpzcLsw/maxresdefault.jpg"]
 ---
 

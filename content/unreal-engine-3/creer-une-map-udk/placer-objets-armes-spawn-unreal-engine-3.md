@@ -4,7 +4,6 @@ weight: 7
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'UDK', 'FPS', 'Level Design']
-images: ["https://img.youtube.com/vi/QC-NRMFqkVI/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/QC-NRMFqkVI/maxresdefault.jpg"]
 ---
 

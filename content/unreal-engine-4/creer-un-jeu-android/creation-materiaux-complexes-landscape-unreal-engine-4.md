@@ -4,7 +4,6 @@ weight: 26
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Landscape', 'Materials', 'Blueprint', 'GameDev']
-images: ["https://img.youtube.com/vi/BDMOlOq9nno/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/BDMOlOq9nno/maxresdefault.jpg"]
 ---
 

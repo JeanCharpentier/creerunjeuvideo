@@ -6,7 +6,6 @@ next_url: "/game-maker-studio/shoot-them-up/creer-ennemi-tir-laser-gamemaker-stu
 date: 2023-10-27
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'Game Development', 'GML']
-images: ["https://img.youtube.com/vi/KMUlQOwbJkw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/KMUlQOwbJkw/maxresdefault.jpg"]
 ---
 

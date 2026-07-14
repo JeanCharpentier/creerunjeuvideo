@@ -4,7 +4,6 @@ weight: 27
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['UI', 'Interface', 'Graphisme', 'Workflow', 'Tutoriel']
-images: ["https://img.youtube.com/vi/UEqFQIK3EjE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/UEqFQIK3EjE/maxresdefault.jpg"]
 ---
 

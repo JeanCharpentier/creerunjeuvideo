@@ -3,7 +3,6 @@ title: "Découverte de Kodu Game Lab : L''initiation idéale au Game Design"
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Kodu', 'Débutant', 'Programmation', 'Education', 'Game Design']
-images: ["https://img.youtube.com/vi/CklvdM8lSQw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/CklvdM8lSQw/maxresdefault.jpg"]
 ---
 

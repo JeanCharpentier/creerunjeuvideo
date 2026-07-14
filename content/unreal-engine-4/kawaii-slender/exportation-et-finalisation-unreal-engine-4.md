@@ -3,7 +3,6 @@ titre: "31. Exportation et finalisation de votre projet"
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Tutoriel', 'Packaging', 'Export', 'GameDev', 'KawaiiSlender']
-images: ["https://img.youtube.com/vi/yUgFmw2uVd4/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/yUgFmw2uVd4/maxresdefault.jpg"]
 ---
 

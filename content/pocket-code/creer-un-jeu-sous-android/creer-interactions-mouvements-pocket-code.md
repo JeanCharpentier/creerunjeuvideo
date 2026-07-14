@@ -4,7 +4,6 @@ weight: 3
 date: 2026-06-17
 categories: ['Développement Mobile']
 tags: ['Pocket Code', 'Tutoriel', 'GameDev', 'Android', 'Débutant']
-images: ["https://img.youtube.com/vi/l4tm1SJmSLQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/l4tm1SJmSLQ/maxresdefault.jpg"]
 ---
 

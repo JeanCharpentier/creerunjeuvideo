@@ -4,7 +4,6 @@ weight: 2
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Level Design', 'Tutoriel', 'BSP']
-images: ["https://img.youtube.com/vi/Fd_RjYxAEYY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Fd_RjYxAEYY/maxresdefault.jpg"]
 ---
 

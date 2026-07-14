@@ -3,7 +3,6 @@ title: "Maîtriser la caméra dans Unreal Engine 3 : Passer du FPS à la vue à 
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 3', 'Kismet', 'Camera', 'Level Design']
-images: ["https://img.youtube.com/vi/32yl1pbx-6I/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/32yl1pbx-6I/maxresdefault.jpg"]
 ---
 

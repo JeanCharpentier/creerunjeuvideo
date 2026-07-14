@@ -4,7 +4,6 @@ weight: 13
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Foliage', 'Level Design', 'Optimisation', 'Tutoriel']
-images: ["https://img.youtube.com/vi/cJfM2Ty2YDU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/cJfM2Ty2YDU/maxresdefault.jpg"]
 ---
 

@@ -4,7 +4,6 @@ weight: 17
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'GameDev', 'Stamina', 'Tutoriel']
-images: ["https://img.youtube.com/vi/M1fcGV2maUI/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/M1fcGV2maUI/maxresdefault.jpg"]
 ---
 

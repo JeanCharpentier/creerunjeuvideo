@@ -4,7 +4,6 @@ weight: 6
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Blueprint', 'Character Movement', 'Tutoriel']
-images: ["https://img.youtube.com/vi/vQ17Ngz905s/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/vQ17Ngz905s/maxresdefault.jpg"]
 ---
 

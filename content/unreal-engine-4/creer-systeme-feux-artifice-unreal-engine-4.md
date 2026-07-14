@@ -3,7 +3,6 @@ titre: "Créer un système de feux d'artifice dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Unreal Engine 4', 'VFX', 'Cascade', 'Blueprints', 'GameDev']
-images: ["https://img.youtube.com/vi/dhrmUG2MQ-o/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/dhrmUG2MQ-o/maxresdefault.jpg"]
 ---
 

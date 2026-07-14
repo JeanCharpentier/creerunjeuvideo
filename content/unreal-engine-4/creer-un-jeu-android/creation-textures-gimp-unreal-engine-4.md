@@ -4,7 +4,6 @@ weight: 10
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'GIMP', 'Texturing', 'UV Mapping', 'Workflow']
-images: ["https://img.youtube.com/vi/OHVbD3MLZRg/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/OHVbD3MLZRg/maxresdefault.jpg"]
 ---
 

@@ -6,7 +6,6 @@ next_url: "/game-maker-studio/shoot-them-up/gerer-afficher-score-global-gamemake
 date: 2024-05-22
 categories: ['Archive']
 tags: ['GameMaker', 'Tutoriel', 'UI', 'Game Design']
-images: ["https://img.youtube.com/vi/YzaHUjgKxlE/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/YzaHUjgKxlE/maxresdefault.jpg"]
 ---
 

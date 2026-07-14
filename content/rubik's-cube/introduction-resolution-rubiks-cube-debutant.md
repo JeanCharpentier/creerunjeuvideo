@@ -4,7 +4,6 @@ weight: 1
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['Rubiks Cube', 'Débutant', 'Logique', 'Méthodologie']
-images: ["https://img.youtube.com/vi/qP41SCw6uyg/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/qP41SCw6uyg/maxresdefault.jpg"]
 ---
 

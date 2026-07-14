@@ -4,7 +4,6 @@ weight: 25
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Audio', 'Blueprints', 'Game Design']
-images: ["https://img.youtube.com/vi/89jsR_gaJfs/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/89jsR_gaJfs/maxresdefault.jpg"]
 ---
 

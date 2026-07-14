@@ -4,7 +4,6 @@ weight: 2
 date: 2026-06-17
 categories: ['GameDev']
 tags: ['Unreal Engine 4', 'Twitch API', 'Blueprints', 'UMG']
-images: ["https://img.youtube.com/vi/rv3-yRX0S6Y/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/rv3-yRX0S6Y/maxresdefault.jpg"]
 ---
 

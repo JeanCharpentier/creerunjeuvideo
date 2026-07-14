@@ -6,7 +6,6 @@ weight: 6
 tags: [Unreal Engine 5, Kawaii Slender, Blueprint, Input System, Audio, Game Design]
 prev_url: "/unreal-engine-5/jeu-horreur-kawaii/5-variable-sprint-course-stamina"
 next_url: "/unreal-engine-5/jeu-horreur-kawaii/7-ramassage-objet-score-points-compteur"
-images: ["https://img.youtube.com/vi/azXsAPmcO5k/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/azXsAPmcO5k/maxresdefault.jpg"]
 ---
 

@@ -4,7 +4,6 @@ weight: 33
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Développement', 'Export', 'Configuration', 'Packaging']
-images: ["https://img.youtube.com/vi/NVV3-KUZXMU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/NVV3-KUZXMU/maxresdefault.jpg"]
 ---
 

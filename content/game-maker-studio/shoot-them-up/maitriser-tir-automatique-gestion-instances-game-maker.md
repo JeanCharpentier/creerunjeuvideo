@@ -6,7 +6,6 @@ next_url: "/game-maker-studio/shoot-them-up/creer-ennemis-spawn-dynamique-gamema
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Game Maker', 'Tutoriel', 'Programmation', 'Gamedev']
-images: ["https://img.youtube.com/vi/F9s0fEzwpNk/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/F9s0fEzwpNk/maxresdefault.jpg"]
 ---
 

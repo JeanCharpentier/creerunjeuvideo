@@ -4,7 +4,6 @@ weight: 6
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'GameDev', 'Tutoriel', 'Skeletal Mesh', 'Animation']
-images: ["https://img.youtube.com/vi/hoyZCg9gZZo/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/hoyZCg9gZZo/maxresdefault.jpg"]
 ---
 

@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-sort-projectile-intersect-eng
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'Tutoriel', 'RPG', 'Spells']
-images: ["https://img.youtube.com/vi/Hr_koShCWxY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Hr_koShCWxY/maxresdefault.jpg"]
 ---
 

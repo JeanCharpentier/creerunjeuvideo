@@ -4,7 +4,6 @@ weight: 35
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Sequencer', 'Cinématique', 'Level Design', 'Blueprint']
-images: ["https://img.youtube.com/vi/5Ps4s3EZZDQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/5Ps4s3EZZDQ/maxresdefault.jpg"]
 ---
 

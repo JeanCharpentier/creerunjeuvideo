@@ -4,7 +4,6 @@ weight: 9
 date: 2026-06-17
 categories: ['Tutoriels Unreal Engine 4']
 tags: ['Unreal Engine 4', 'Matériaux', 'GameDev', 'Texturing', 'Débutant']
-images: ["https://img.youtube.com/vi/DuPka6B_HNc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/DuPka6B_HNc/maxresdefault.jpg"]
 ---
 

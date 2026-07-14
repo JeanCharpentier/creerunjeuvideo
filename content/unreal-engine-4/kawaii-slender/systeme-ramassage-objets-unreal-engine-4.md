@@ -4,7 +4,6 @@ weight: 11
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprints', 'Interaction', 'Gameplay', 'Tutoriel']
-images: ["https://img.youtube.com/vi/zCFxSKBxUts/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/zCFxSKBxUts/maxresdefault.jpg"]
 ---
 

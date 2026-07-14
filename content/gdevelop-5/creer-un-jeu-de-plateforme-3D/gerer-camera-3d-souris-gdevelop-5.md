@@ -4,7 +4,6 @@ weight: 8
 date: 2023-10-27
 categories: ['Tutoriels']
 tags: ['GDevelop', '3D', 'Caméra', 'Souris', 'GameDev']
-images: ["https://img.youtube.com/vi/79XRsPVCQ1U/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/79XRsPVCQ1U/maxresdefault.jpg"]
 ---
 

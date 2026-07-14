@@ -4,7 +4,6 @@ weight: 10
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Blueprint', 'LineTrace', 'Interaction', 'GameDev']
-images: ["https://img.youtube.com/vi/4lvUReuQHuY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/4lvUReuQHuY/maxresdefault.jpg"]
 ---
 

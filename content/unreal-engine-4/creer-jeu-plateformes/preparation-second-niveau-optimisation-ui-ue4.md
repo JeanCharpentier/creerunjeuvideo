@@ -4,7 +4,6 @@ weight: 45
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['GameDev', 'Blueprints', 'UI', 'LevelDesign', 'Optimisation']
-images: ["https://img.youtube.com/vi/Dwvj7pZCShw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Dwvj7pZCShw/maxresdefault.jpg"]
 ---
 

@@ -4,7 +4,6 @@ weight: 50
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'GameDev', 'Tutoriel', 'Débutant', 'Conclusion']
-images: ["https://img.youtube.com/vi/yDooOrmbdIA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/yDooOrmbdIA/maxresdefault.jpg"]
 ---
 

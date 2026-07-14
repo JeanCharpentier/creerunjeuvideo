@@ -4,7 +4,6 @@ weight: 24
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Level Design', 'Optimisation', 'Workflow', 'Lighting']
-images: ["https://img.youtube.com/vi/1IL53_nV9oc/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/1IL53_nV9oc/maxresdefault.jpg"]
 ---
 

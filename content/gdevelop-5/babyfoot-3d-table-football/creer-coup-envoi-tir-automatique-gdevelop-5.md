@@ -4,7 +4,6 @@ weight: 2
 date: 2023-10-27
 categories: ['Tutoriels GDevelop']
 tags: ['GDevelop 5', 'Jeu 3D', 'Babby Foot', 'Développement de jeu']
-images: ["https://img.youtube.com/vi/1XYaTK3cvBw/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/1XYaTK3cvBw/maxresdefault.jpg"]
 ---
 

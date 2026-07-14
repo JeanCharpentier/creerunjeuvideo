@@ -4,7 +4,6 @@ weight: 1
 date: 2024-05-22
 categories: ['Modding']
 tags: ['Hytale', 'Tutoriel', 'Blockbench', 'Modding', 'GameDev']
-images: ["https://img.youtube.com/vi/-kU_Lz3ehLg/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/-kU_Lz3ehLg/maxresdefault.jpg"]
 ---
 

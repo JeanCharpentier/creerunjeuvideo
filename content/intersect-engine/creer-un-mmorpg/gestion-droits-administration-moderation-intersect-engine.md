@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/guide-migration-intersect-engine-be
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Intersect Engine', 'MMORPG', 'Tutoriel', 'SQLite', 'Administration']
-images: ["https://img.youtube.com/vi/l2UfLUE79iQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/l2UfLUE79iQ/maxresdefault.jpg"]
 ---
 

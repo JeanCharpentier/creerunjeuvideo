@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-lumieres-dynamiques-animees-i
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Development', 'MMORPG', 'Tutoriel']
-images: ["https://img.youtube.com/vi/MbZ9VSXxe4U/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/MbZ9VSXxe4U/maxresdefault.jpg"]
 ---
 

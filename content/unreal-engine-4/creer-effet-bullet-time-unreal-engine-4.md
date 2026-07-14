@@ -3,7 +3,6 @@ title: "Créer un effet de Bullet Time (Slow Motion) dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Développement']
 tags: ['Unreal Engine 4', 'Blueprint', 'Gameplay', 'Tutoriel']
-images: ["https://img.youtube.com/vi/-3oHJbaHazY/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/-3oHJbaHazY/maxresdefault.jpg"]
 ---
 

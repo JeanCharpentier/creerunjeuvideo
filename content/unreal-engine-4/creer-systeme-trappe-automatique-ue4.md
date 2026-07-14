@@ -3,7 +3,6 @@ title: "Créer un système de piège à trappe automatique dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Développement de jeux']
 tags: ['Unreal Engine 4', 'Blueprint', 'Game Design', 'Tutoriel']
-images: ["https://img.youtube.com/vi/uQFsCvbY9sU/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/uQFsCvbY9sU/maxresdefault.jpg"]
 ---
 

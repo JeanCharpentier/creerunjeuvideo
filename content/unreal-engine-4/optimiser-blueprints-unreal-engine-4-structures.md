@@ -3,7 +3,6 @@ title: "Optimisez vos Blueprints avec les Structures dans Unreal Engine 4"
 date: 2026-06-17
 categories: ['Développement']
 tags: ['Unreal Engine 4', 'Blueprints', 'Optimisation', 'GameDev']
-images: ["https://img.youtube.com/vi/pe0YylIZPq0/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/pe0YylIZPq0/maxresdefault.jpg"]
 ---
 

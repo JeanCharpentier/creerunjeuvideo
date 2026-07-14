@@ -4,7 +4,6 @@ weight: 4
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Twitch Integrator', 'Blueprints', 'Interaction', 'GameDev']
-images: ["https://img.youtube.com/vi/C8N6grvhXIA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/C8N6grvhXIA/maxresdefault.jpg"]
 ---
 

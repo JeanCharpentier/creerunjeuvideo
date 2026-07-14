@@ -6,7 +6,6 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Hébergement", "Web", "FTP"]
 prev_url: "/construct-2/tuto-jeu-plateforme/11-finalisation-deploiement-web"
 next_url: "/construct-2/tuto-jeu-plateforme/12-systeme-pieges-ligne-vue"
-images: ["https://img.youtube.com/vi/nFCxfNK79kg/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/nFCxfNK79kg/maxresdefault.jpg"]
 ---
 

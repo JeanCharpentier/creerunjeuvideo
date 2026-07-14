@@ -6,7 +6,6 @@ categories: ["Archive"]
 tags: ["Construct 2", "Game Dev", "Tutoriel", "Plateforme", "Retro"]
 prev_url: "/construct-2/"
 next_url: "/construct-2/tuto-jeu-plateforme/2-evenements-navigation-game-over"
-images: ["https://img.youtube.com/vi/kBJp93PBjMA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/kBJp93PBjMA/maxresdefault.jpg"]
 ---
 

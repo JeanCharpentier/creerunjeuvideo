@@ -6,7 +6,6 @@ next_url: "/intersect-engine/creer-un-mmorpg/creer-mobs-monstres-intersect-engin
 date: 2024-05-22
 categories: ['Archive']
 tags: ['Intersect Engine', 'Game Dev', 'MMORPG', 'Tutoriel']
-images: ["https://img.youtube.com/vi/Jc0aYoWYKTQ/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/Jc0aYoWYKTQ/maxresdefault.jpg"]
 ---
 

@@ -4,7 +4,6 @@ weight: 34
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['Optimisation', 'Workflow', 'Asset Management', 'Nettoyage']
-images: ["https://img.youtube.com/vi/l9biTYTu0-M/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/l9biTYTu0-M/maxresdefault.jpg"]
 ---
 

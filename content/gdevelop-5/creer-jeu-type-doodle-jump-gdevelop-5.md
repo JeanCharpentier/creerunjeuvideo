@@ -3,7 +3,6 @@ title: "Créer un mini-jeu de type ''Doodle Jump'' avec GDevelop 5"
 date: 2026-06-17
 categories: ['Tutoriels']
 tags: ['GDevelop', 'Jeu Vidéo', 'Plateforme', 'Développement']
-images: ["https://img.youtube.com/vi/4NYoKyn1R6g/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/4NYoKyn1R6g/maxresdefault.jpg"]
 ---
 

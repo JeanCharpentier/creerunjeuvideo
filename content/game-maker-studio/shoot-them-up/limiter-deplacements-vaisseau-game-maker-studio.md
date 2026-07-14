@@ -6,7 +6,6 @@ next_url: "/game-maker-studio/shoot-them-up/maitriser-tir-automatique-gestion-in
 date: 2023-10-27
 categories: ['Archive']
 tags: ['Game Maker', 'Tutoriel', 'Developpement de jeux', 'GML', 'Programmation']
-images: ["https://img.youtube.com/vi/kJCl2lUzhyk/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/kJCl2lUzhyk/maxresdefault.jpg"]
 ---
 

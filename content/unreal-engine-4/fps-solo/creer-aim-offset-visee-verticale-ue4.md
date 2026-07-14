@@ -3,7 +3,6 @@ titre: "14. Créer un Aim Offset pour la visée verticale"
 date: 2026-06-17
 categories: ['Unreal Engine 4']
 tags: ['FPS', 'Animation', 'Aim Offset', 'GameDev']
-images: ["https://img.youtube.com/vi/IztmaEUPPsA/maxresdefault.jpg"]]
 images: ["https://img.youtube.com/vi/IztmaEUPPsA/maxresdefault.jpg"]
 ---
 
