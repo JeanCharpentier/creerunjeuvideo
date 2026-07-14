@@ -10,9 +10,51 @@
 		
 		
 		
-			<lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Archivage</title>
+				<link>http://localhost:1313/tags/archivage/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/archivage/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lua</title>
+				<link>http://localhost:1313/tags/lua/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/lua/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>PICO-8</title>
+				<link>http://localhost:1313/tags/pico-8/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/pico-8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Retro-Gaming</title>
+				<link>http://localhost:1313/tags/retro-gaming/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/retro-gaming/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Space Invaders</title>
+				<link>http://localhost:1313/tags/space-invaders/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/space-invaders/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tutoriel</title>
+				<link>http://localhost:1313/tags/tutoriel/</link>
+				<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/tutoriel/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>3D</title>
 				<link>http://localhost:1313/tags/3d/</link>
@@ -28,7 +70,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>GameDev</title>
+				<title>Gamedev</title>
 				<link>http://localhost:1313/tags/gamedev/</link>
 				<pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/gamedev/</guid>
@@ -46,13 +88,6 @@
 				<link>http://localhost:1313/tags/no-code/</link>
 				<pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/no-code/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Tutoriel</title>
-				<link>http://localhost:1313/tags/tutoriel/</link>
-				<pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/tutoriel/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -95,13 +130,6 @@
 				<link>http://localhost:1313/tags/2d/</link>
 				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/2d/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Archivage</title>
-				<link>http://localhost:1313/tags/archivage/</link>
-				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/archivage/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1337,13 +1365,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Retro-Gaming</title>
-				<link>http://localhost:1313/tags/retro-gaming/</link>
-				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/retro-gaming/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>RetroGaming</title>
 				<link>http://localhost:1313/tags/retrogaming/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -1680,7 +1701,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>UI</title>
+				<title>Ui</title>
 				<link>http://localhost:1313/tags/ui/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/ui/</guid>
@@ -2037,6 +2058,13 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Background</title>
+				<link>http://localhost:1313/tags/background/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/background/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Blockbench</title>
 				<link>http://localhost:1313/tags/blockbench/</link>
 				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
@@ -2048,6 +2076,20 @@
 				<link>http://localhost:1313/tags/crafting/</link>
 				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/crafting/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fantasy-Console</title>
+				<link>http://localhost:1313/tags/fantasy-console/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/fantasy-console/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Game Over</title>
+				<link>http://localhost:1313/tags/game-over/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/game-over/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -2107,6 +2149,27 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Musique</title>
+				<link>http://localhost:1313/tags/musique/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/musique/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Organisation</title>
+				<link>http://localhost:1313/tags/organisation/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/organisation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pico8</title>
+				<link>http://localhost:1313/tags/pico8/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/pico8/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Procedural</title>
 				<link>http://localhost:1313/tags/procedural/</link>
 				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
@@ -2114,10 +2177,24 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Sfx</title>
+				<link>http://localhost:1313/tags/sfx/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/sfx/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>SQLite</title>
 				<link>http://localhost:1313/tags/sqlite/</link>
 				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/sqlite/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>State-Machine</title>
+				<link>http://localhost:1313/tags/state-machine/</link>
+				<pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/state-machine/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -2226,10 +2303,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Game Over</title>
-				<link>http://localhost:1313/tags/game-over/</link>
+				<title>Gamestate</title>
+				<link>http://localhost:1313/tags/gamestate/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/game-over/</guid>
+				<guid>http://localhost:1313/tags/gamestate/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -2265,6 +2342,13 @@
 				<link>http://localhost:1313/tags/instance-variables/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/instance-variables/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Itchio</title>
+				<link>http://localhost:1313/tags/itchio/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/itchio/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -2349,6 +2433,13 @@
 				<link>http://localhost:1313/tags/pickups/</link>
 				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/tags/pickups/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pixelart</title>
+				<link>http://localhost:1313/tags/pixelart/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/pixelart/</guid>
 				<description></description>
 			</item>
 			<item>
